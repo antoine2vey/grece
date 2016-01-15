@@ -32,7 +32,8 @@ body{
 }
 
 header nav {
-	background-color: #3498db;
+/*	background-color: #3498db;*/
+	background-color: red;
 	height: 100px;
 	line-height: 95px
 }
