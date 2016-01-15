@@ -12,48 +12,36 @@
 
 <body>
 	<div>
-		<header class="z-depth-1">
-			<div class="navbar-fixed">
-				<nav>
-					<div class="nav-wrapper">
-						<?php if (is_single()) : ?>
-							<a href="<?php echo home_url(); ?>" class="title-blog brand-logo">
-						<img src="<?php echo get_template_directory_uri();?>/img/logo_blank.png" alt="">
-					</a>
-							<ul id="nav-mobile" class="right">
-								<li>
-									<a href="#">L'association</a>
-								</li>
-								<li>
-									<a href="#">Le projet</a>
-								</li>
-								<li>
-									<a href="#">Galerie</a>
-								</li>
-								<li>
-									<a href="#">Faites un don</a>
-								</li>
-							</ul>
-							<?php else : ?>
-								<a href="<?php echo home_url(); ?>" class="title-blog brand-logo">
-						<img src="<?php echo get_template_directory_uri();?>/img/logo_blank.png" alt="test">
-					</a>
-								<ul id="nav-mobile" class="right">
-									<li>
-										<a href="#">L'association</a>
-									</li>
-									<li>
-										<a href="#">Le projet</a>
-									</li>
-									<li>
-										<a href="#">Galerie</a>
-									</li>
-									<li>
-										<a href="#">Faites un don</a>
-									</li>
-								</ul>
-								<?php endif; ?>
+		<header class="navbar">
+			<div class="container">
+					<div id="logo"><a href="<?php echo home_url(); ?>"><img src="<?php echo get_template_directory_uri();?>/img/logo.png"/></a></div>
+
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
 					</div>
-				</nav>
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-left">
+							<li><a href="#asso">L'association</a></li>
+							<li><a href="<?php echo home_url(); ?>/?page_id=23">Le projet</a></li>
+							<li><a href="#galerie">Galerie</a></li>
+							<li><a href="#">Faire un don</a></li>
+						</ul>
+						<ul class="nav navbar-nav navbar-right hidden-xs hidden-sm">
+							<li>
+								<form action="#" method="POST">
+									<?php get_search_form(); ?>
+								</form>
+							</li>
+							<li><a href="#">S'identifier</a></li>
+							<li>
+								<input type="button" value="S'inscrire" />
+							</li>
+						</ul>
+					</div>
 			</div>
 		</header>
