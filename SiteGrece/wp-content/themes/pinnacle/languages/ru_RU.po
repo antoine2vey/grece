@@ -1,0 +1,6472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pinnacle\n"
+"POT-Creation-Date: 2015-02-23 17:05-0700\n"
+"PO-Revision-Date: 2015-02-23 17:09-0700\n"
+"Last-Translator: Serhio <588885@mail.ru>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:7
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr ""
+"Приносим извинения, но страница, которую вы пытаетесь просмотреть, не "
+"существует."
+
+#: ../404.php:9
+msgid "It looks like this was the result of either:"
+msgstr "Похоже, что это явилось результатом одного из:"
+
+#: ../404.php:11
+msgid "a mistyped address"
+msgstr "опечатка в адресе"
+
+#: ../404.php:12
+msgid "an out-of-date link"
+msgstr "просроченная ссылка"
+
+#: ../404.php:13
+msgid "incorrect permalink settings"
+msgstr ""
+
+#: ../404.php:15
+msgid ""
+"You can return back to the site's homepage and see if you can find what you "
+"are looking for or use the search form below."
+msgstr ""
+
+#: ../archive.php:42 ../home.php:17 ../index.php:9 ../search.php:9
+#: ../taxonomy-portfolio-type.php:67
+msgid "Sorry, no results were found."
+msgstr "Приносим извинения, результаты не найдены."
+
+#: ../archive.php:82 ../front-page.php:122 ../home.php:38 ../index.php:24
+#: ../search.php:43 ../taxonomy-portfolio-type.php:154
+#: ../template-blog-grid.php:69 ../template-blog.php:85
+#: ../template-portfolio-grid.php:208
+msgid "&larr; Older posts"
+msgstr "&larr; Более старые посты"
+
+#: ../archive.php:83 ../front-page.php:123 ../home.php:39 ../index.php:25
+#: ../search.php:44 ../taxonomy-portfolio-type.php:155
+#: ../template-blog-grid.php:70 ../template-blog.php:86
+#: ../template-portfolio-grid.php:209
+msgid "Newer posts &rarr;"
+msgstr "Более свежие посты &rarr;"
+
+#: ../lib/authorbox.php:6
+msgid "About Author"
+msgstr "Об авторе"
+
+#: ../lib/authorbox.php:7 ../lib/utils.php:11
+#: ../themeoptions/theme_options.php:360
+msgid "Latest Posts"
+msgstr "Свежие посты"
+
+#: ../lib/authorbox.php:13 ../lib/authorbox.php:16 ../lib/authorbox.php:20
+#: ../lib/authorbox.php:24 ../lib/authorbox.php:28 ../lib/authorbox.php:32
+#: ../lib/authorbox.php:36 ../lib/authorbox.php:40 ../lib/authorbox.php:44
+#: ../lib/authorbox.php:48
+msgid "Follow"
+msgstr "Подписаться"
+
+#: ../lib/authorbox.php:16
+msgid "on Facebook"
+msgstr "на Facebook"
+
+#: ../lib/authorbox.php:20
+msgid "on Twitter"
+msgstr "на Twitter"
+
+#: ../lib/authorbox.php:24
+msgid "on Google Plus"
+msgstr "на Google Plus"
+
+#: ../lib/authorbox.php:28
+msgid "on Flickr"
+msgstr "на Flickr"
+
+#: ../lib/authorbox.php:32
+msgid "on Vimeo"
+msgstr "на Vimeo"
+
+#: ../lib/authorbox.php:36
+msgid "on linkedin"
+msgstr "на linkedin"
+
+#: ../lib/authorbox.php:40
+msgid "on Dribbble"
+msgstr "на Dribbble"
+
+#: ../lib/authorbox.php:44
+msgid "on Pinterest"
+msgstr "на Pinterest"
+
+#: ../lib/authorbox.php:48
+msgid "on Instagram"
+msgstr "на Instagram"
+
+#: ../lib/authorbox.php:65
+msgid "Latest posts from"
+msgstr "Самые свежие посты от"
+
+#: ../lib/class-tgm-plugin-activation.php:161 ../lib/plugin-activate.php:48
+#, fuzzy
+msgid "Install Required Plugins"
+msgstr "Установите требуемые плагины"
+
+#: ../lib/class-tgm-plugin-activation.php:162 ../lib/plugin-activate.php:49
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: ../lib/class-tgm-plugin-activation.php:163 ../lib/plugin-activate.php:50
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Устанавливаем плагин: %s"
+
+#: ../lib/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+#: ../lib/class-tgm-plugin-activation.php:175 ../lib/plugin-activate.php:62
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к устанвке необходимых плагинов"
+
+#: ../lib/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Вернуться в консоль"
+
+#: ../lib/class-tgm-plugin-activation.php:177
+#: ../lib/class-tgm-plugin-activation.php:1939 ../lib/plugin-activate.php:63
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: ../lib/class-tgm-plugin-activation.php:178
+#: ../lib/class-tgm-plugin-activation.php:1630
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин успешно активирован:"
+msgstr[1] "Следующие плагины успешно активированы:"
+msgstr[2] "Следующие плагины успешно активированы:"
+
+#: ../lib/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно установлены и активированы. %1$s"
+
+#: ../lib/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Убрать это уведомление"
+
+#: ../lib/class-tgm-plugin-activation.php:531
+#: ../lib/class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль."
+
+#: ../lib/class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr "Частный репозиторий"
+
+#: ../lib/class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr "Пре-упакованные"
+
+#: ../lib/class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: ../lib/class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr "Требуемый"
+
+#: ../lib/class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr "Рекомендуемый"
+
+#: ../lib/class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: ../lib/class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: ../lib/class-tgm-plugin-activation.php:1287
+#: ../lib/class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr "Установить"
+
+#: ../lib/class-tgm-plugin-activation.php:1309
+#: ../lib/class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr "Активировать"
+
+#: ../lib/class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Не найдено плагинов для установки или активации. <a href=\"%1$s\" title="
+"\"Return to the Dashboard\">Вернуться в консоль</a>"
+
+#: ../lib/class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr "Плагин"
+
+#: ../lib/class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr "Исходник"
+
+#: ../lib/class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr "Тип"
+
+#: ../lib/class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr "Статус"
+
+#: ../lib/class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr "Пакет установки недоступен."
+
+#: ../lib/class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загружаем установочный пакет с <span class=\"code\">%s</span>&#8230;"
+
+#: ../lib/class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковываем пакет&#8230;"
+
+#: ../lib/class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr "Устанавливаем плагин&#8230;"
+
+#: ../lib/class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr "Неудачная установка плагина."
+
+#: ../lib/class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr "Плагин успешно установлен."
+
+#: ../lib/class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr "Неудачная активация плагина."
+
+#: ../lib/class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки и активации. Это может занять продолжительное "
+"время на некоторых системах, пожалуйста, подождите."
+
+#: ../lib/class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и успешно активирован."
+
+#: ../lib/class-tgm-plugin-activation.php:2053
+#: ../lib/class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#: ../lib/class-tgm-plugin-activation.php:2053
+#: ../lib/class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr "Скрыть подробности"
+
+#: ../lib/class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#: ../lib/class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Устанавливаем и активируем плагин %1$s (%2$d/%3$d)"
+
+#: ../lib/class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки. Это может занять продолжительное время на "
+"некоторых системах, пожалуйста, подождите."
+
+#: ../lib/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "При установке %1$s возникла ошибка: <strong>%2$s</strong>."
+
+#: ../lib/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s завершилась неудачно."
+
+#: ../lib/class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+#: ../lib/class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr "Все установки были завершены."
+
+#: ../lib/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Устанавливаем плагин %1$s (%2$d/%3$d)"
+
+#: ../lib/cleanup.php:97 ../lib/custom.php:81
+#: ../templates/content-post-grid-carousel.php:42
+msgid "Read More"
+msgstr "Читать далее"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr "Пожалуйста, повторите попытку"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr "Удалить Embed(?)"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Результаты oEmbed не найдены %s. Посмотреть боле информации на"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_field.php:459
+#, fuzzy
+msgid "Add Group"
+msgstr "Обновить корзину"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_field.php:460
+#, fuzzy
+msgid "Remove Group"
+msgstr "Удалить"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:250
+#, fuzzy
+msgid "Add Row"
+msgstr "Добавить отзыв"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:306
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:706
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:768
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:116
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:180
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:115
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:161
+msgid "Remove"
+msgstr "Удалить"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:601
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:674
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr "Добавить или загрузить файл"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:695
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:760
+#, fuzzy
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:706
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr "Файл:"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:706
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr "Скачать"
+
+#: ../lib/cmb/init.php:258
+msgid "Clear"
+msgstr "Очистить"
+
+#: ../lib/cmb/init.php:259 ../lib/metaboxes.php:226 ../lib/metaboxes.php:243
+#: ../lib/metaboxes.php:254 ../themeoptions/theme_options.php:768
+#: ../themeoptions/theme_options.php:776 ../themeoptions/theme_options.php:784
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../lib/cmb/init.php:260
+#, fuzzy
+msgid "Select Color"
+msgstr "Выбрать варианты"
+
+#: ../lib/cmb/init.php:261
+#, fuzzy
+msgid "Current Color"
+msgstr "Основной цвет"
+
+#: ../lib/cmb/init.php:288
+#, fuzzy
+msgid "Select / Deselect All"
+msgstr "Выберите элемент"
+
+#: ../lib/cmb/init.php:1177
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../lib/comments.php:38 ../templates/comment.php:11
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../lib/comments.php:43
+msgid "| (Edit)"
+msgstr "| (Изменить)"
+
+#: ../lib/comments.php:49 ../templates/comment.php:19
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../lib/custom.php:30
+#, fuzzy
+msgid "Loading..."
+msgstr "Выполняется..."
+
+#: ../lib/custom.php:31
+msgid "of"
+msgstr ""
+
+#: ../lib/custom.php:32
+msgid "The Image could not be loaded."
+msgstr ""
+
+#: ../lib/custom.php:398 ../templates/entry-post-links.php:3
+msgid "Previous Post"
+msgstr "Предыдущий пост"
+
+#: ../lib/custom.php:398 ../templates/entry-post-links.php:6
+msgid "Next Post"
+msgstr "Слеудющий пост"
+
+#: ../lib/custom.php:492
+msgid "Occupation"
+msgstr "Род занятий"
+
+#: ../lib/custom.php:495
+msgid "Please enter your Occupation."
+msgstr "Пожалуйста, укажите род ваших занятий."
+
+#: ../lib/custom.php:502
+msgid "Please enter your Twitter username."
+msgstr "Пожалуйста, введите ваше Twitter имя."
+
+#: ../lib/custom.php:509
+msgid "Please enter your Facebook url. (be sure to include http://)"
+msgstr ""
+"Пожалуйста, введите ваш Facebook адрес. (обязательно включайте http://)"
+
+#: ../lib/custom.php:516
+msgid "Please enter your Google Plus url. (be sure to include http://)"
+msgstr ""
+"Пожалуйста, введите ваш Google Plus адрес. (обязательно включайте http://)"
+
+#: ../lib/custom.php:523
+msgid "Please enter your Flickr url. (be sure to include http://)"
+msgstr "Пожалуйста, введите ваш Flikr адрес. (обязательно включайте http://)"
+
+#: ../lib/custom.php:530
+#, fuzzy
+msgid "Please enter your Vimeo url. (be sure to include http://)"
+msgstr ""
+"Пожалуйста, введите ваш Facebook адрес. (обязательно включайте http://)"
+
+#: ../lib/custom.php:537
+msgid "Please enter your Linkedin url. (be sure to include http://)"
+msgstr ""
+"Пожалуйста, введите ваш Linkedin адрес. (обязательно включайте http://)"
+
+#: ../lib/custom.php:544
+msgid "Please enter your Dribbble url. (be sure to include http://)"
+msgstr "Пожалуйста, введите ваш Dribble адрес. (обязательно включайте http://)"
+
+#: ../lib/custom.php:551
+msgid "Please enter your Pinterest url. (be sure to include http://)"
+msgstr ""
+"Пожалуйста, введите ваш Pinterest адрес. (обязательно включайте http://)"
+
+#: ../lib/custom.php:558
+msgid "Please enter your Instagram url. (be sure to include http://)"
+msgstr ""
+"Пожалуйста, введите ваш Instagram адрес. (обязательно включайте http://)"
+
+#: ../lib/init.php:8
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#: ../lib/init.php:9
+msgid "Topbar Navigation"
+msgstr "Навигация для чердака"
+
+#: ../lib/init.php:10
+msgid "Footer Navigation"
+msgstr "Навигация для подвала"
+
+#: ../lib/metaboxes.php:49 ../lib/metaboxes.php:292 ../lib/metaboxes.php:345
+msgid "All"
+msgstr "Все"
+
+#: ../lib/metaboxes.php:65
+msgid "All Blog Posts"
+msgstr "Все посты блога"
+
+#: ../lib/metaboxes.php:150
+#, fuzzy
+msgid "Standard Post Options"
+msgstr "Опции поста"
+
+#: ../lib/metaboxes.php:158 ../lib/metaboxes.php:199
+msgid "Post Summary"
+msgstr "Разместить краткое содержание"
+
+#: ../lib/metaboxes.php:163
+#, fuzzy
+msgid "Standard Post Default"
+msgstr "Опции поста"
+
+#: ../lib/metaboxes.php:164 ../lib/metaboxes.php:205
+#: ../themeoptions/theme_options.php:1503
+#: ../themeoptions/theme_options.php:1516
+#: ../themeoptions/theme_options.php:1537
+#: ../themeoptions/theme_options.php:1558
+msgid "Text"
+msgstr "Текст"
+
+#: ../lib/metaboxes.php:165 ../lib/metaboxes.php:206
+#: ../themeoptions/theme_options.php:1503
+#: ../themeoptions/theme_options.php:1516
+#: ../themeoptions/theme_options.php:1537
+#: ../themeoptions/theme_options.php:1558
+msgid "Portrait Image"
+msgstr "Портретное изображение"
+
+#: ../lib/metaboxes.php:166 ../lib/metaboxes.php:207
+#: ../themeoptions/theme_options.php:1503
+#: ../themeoptions/theme_options.php:1516
+#: ../themeoptions/theme_options.php:1537
+#: ../themeoptions/theme_options.php:1558
+msgid "Landscape Image"
+msgstr "Пейзажное изображение"
+
+#: ../lib/metaboxes.php:173
+#, fuzzy
+msgid "Image Post Options"
+msgstr "Опции поста"
+
+#: ../lib/metaboxes.php:182
+msgid "Head Content"
+msgstr "Содержимое заголовка страницы"
+
+#: ../lib/metaboxes.php:187 ../lib/metaboxes.php:204
+#, fuzzy
+msgid "Image Post Default"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../lib/metaboxes.php:188 ../themeoptions/theme_options.php:1524
+msgid "Image"
+msgstr "Изображение"
+
+#: ../lib/metaboxes.php:189 ../themeoptions/theme_options.php:360
+#: ../themeoptions/theme_options.php:519
+#: ../themeoptions/theme_options.php:1524
+#: ../themeoptions/theme_options.php:1545
+#: ../themeoptions/theme_options.php:1566
+msgid "None"
+msgstr "Никакие"
+
+#: ../lib/metaboxes.php:193
+#, fuzzy
+msgid "Max Image Width"
+msgstr "Максимальная ширина Изображения/Слайдера"
+
+#: ../lib/metaboxes.php:194
+#, fuzzy
+msgid ""
+"Default is: 848 or 1140 on fullwidth posts (Note: just input number, "
+"example: 650)"
+msgstr ""
+"По умолчанию: 670 или 1170 на <b> Сверху </> или <b> Три ряда </b> форматах  "
+"<b>(Внимание, просто введите значение, например: 650)</b>"
+
+#: ../lib/metaboxes.php:214
+msgid "Post Options"
+msgstr "Опции поста"
+
+#: ../lib/metaboxes.php:221 ../lib/metaboxes.php:385
+msgid "Display Sidebar?"
+msgstr "Показать боковую панель?"
+
+#: ../lib/metaboxes.php:222 ../lib/metaboxes.php:386
+msgid "Choose if layout is fullwidth or sidebar"
+msgstr "Укажите, тип страницы: во всю ширину или с боковой панелью"
+
+#: ../lib/metaboxes.php:227 ../lib/metaboxes.php:245 ../lib/metaboxes.php:391
+#: ../themeoptions/theme_options.php:1326
+msgid "Yes"
+msgstr "Да"
+
+#: ../lib/metaboxes.php:228 ../lib/metaboxes.php:244 ../lib/metaboxes.php:255
+#: ../lib/metaboxes.php:390 ../themeoptions/theme_options.php:1326
+msgid "No"
+msgstr "Нет"
+
+#: ../lib/metaboxes.php:232 ../lib/metaboxes.php:395
+msgid "Choose Sidebar"
+msgstr "Выберите боковую панель"
+
+#: ../lib/metaboxes.php:238
+msgid "Author Info"
+msgstr "Информация об авторе"
+
+#: ../lib/metaboxes.php:239
+msgid "Display an author info box?"
+msgstr "Отображать информацию об авторе?"
+
+#: ../lib/metaboxes.php:249
+msgid "Posts Carousel"
+msgstr "Карусель постов"
+
+#: ../lib/metaboxes.php:250
+msgid "Display a carousel with similar or recent posts?"
+msgstr "Отображать карусель похожих или недавних постов?"
+
+#: ../lib/metaboxes.php:256 ../themeoptions/theme_options.php:1490
+msgid "Yes - Display Recent Posts"
+msgstr "Да - отображать недавние посты"
+
+#: ../lib/metaboxes.php:257 ../themeoptions/theme_options.php:1490
+msgid "Yes - Display Similar Posts"
+msgstr "Да - отображать похожие посты"
+
+#: ../lib/metaboxes.php:262
+msgid "Carousel Title"
+msgstr "Заголовок карусели"
+
+#: ../lib/metaboxes.php:263
+msgid "ex. Similar Posts"
+msgstr "например, Похожие посты"
+
+#: ../lib/metaboxes.php:271
+msgid "Blog List Options"
+msgstr "Опции списка блогов"
+
+#: ../lib/metaboxes.php:280 ../lib/metaboxes.php:333
+msgid "Blog Category"
+msgstr "Категория блога"
+
+#: ../lib/metaboxes.php:281 ../lib/metaboxes.php:334
+msgid "Select all blog posts or a specific category to show"
+msgstr "Выберите все посты или категорию постов для отображения"
+
+#: ../lib/metaboxes.php:287 ../lib/metaboxes.php:340
+msgid "How Many Posts Per Page"
+msgstr "Количество постов на странице"
+
+#: ../lib/metaboxes.php:311
+msgid "Display Post Content as:"
+msgstr "Отобразить содержимое поста как:"
+
+#: ../lib/metaboxes.php:316
+msgid "Summary"
+msgstr "Краткое содержание:"
+
+#: ../lib/metaboxes.php:317 ../themeoptions/theme_options.php:1702
+msgid "Full"
+msgstr "Полностью:"
+
+#: ../lib/metaboxes.php:324
+#, fuzzy
+msgid "Blog Grid Options"
+msgstr "Опции списка блогов"
+
+#: ../lib/metaboxes.php:364
+#, fuzzy
+msgid "Choose Column Layout:"
+msgstr "Столбец подвала 1"
+
+#: ../lib/metaboxes.php:369 ../themeoptions/theme_options.php:1013
+#: ../themeoptions/theme_options.php:1097
+msgid "Four Column"
+msgstr "Четыре колонки"
+
+#: ../lib/metaboxes.php:370 ../themeoptions/theme_options.php:1013
+#: ../themeoptions/theme_options.php:1097
+msgid "Three Column"
+msgstr "Три колонки"
+
+#: ../lib/metaboxes.php:371
+msgid "Two Column"
+msgstr "Две колонки"
+
+#: ../lib/metaboxes.php:377
+msgid "Sidebar Options"
+msgstr "Опции боковой панели"
+
+#: ../lib/plugin-activate.php:51
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#: ../lib/plugin-activate.php:64
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины успешно установлены и активированы. %s"
+
+#: ../lib/scripts.php:32
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+"Приносим извинения, нет товаров, соответствующих вашему выбору. Пожалуйста, "
+"выберите другую комбинацию."
+
+#: ../lib/scripts.php:33
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+"Приносим извинения, этот товар не доступен. Пожалуйцста, выберите другую "
+"комбинацию."
+
+#: ../lib/utils.php:20
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архивы за день: %s"
+
+#: ../lib/utils.php:22
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архивы за месяц: %s"
+
+#: ../lib/utils.php:24
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Годовые архивы: %s"
+
+#: ../lib/utils.php:26
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архивы автора: %s"
+
+#: ../lib/utils.php:31
+#, php-format
+msgid "Search Results for %s"
+msgstr "Результаты поиска по запросу %s"
+
+#: ../lib/utils.php:33
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: ../lib/widgets.php:6 ../lib/widgets.php:58
+msgid "Primary Sidebar"
+msgstr "Основная боковая панель"
+
+#: ../lib/widgets.php:48
+msgid "Topbar Widget"
+msgstr "Виджеты чердака"
+
+#: ../lib/widgets.php:71 ../lib/widgets.php:112 ../lib/widgets.php:143
+msgid "Footer Column 1"
+msgstr "Столбец подвала 1"
+
+#: ../lib/widgets.php:81 ../lib/widgets.php:122 ../lib/widgets.php:153
+msgid "Footer Column 2"
+msgstr "Столбец подвала 2"
+
+#: ../lib/widgets.php:91 ../lib/widgets.php:132
+msgid "Footer Column 3"
+msgstr "Столбец подвала 3"
+
+#: ../lib/widgets.php:101
+msgid "Footer Column 4"
+msgstr "Столбец подвала 4"
+
+#: ../lib/widgets.php:177
+msgid "Use this widget to add a Vcard to your site"
+msgstr "Используйте это виджет для добавления VCard на ваш сайт"
+
+#: ../lib/widgets.php:178
+#, fuzzy
+msgid "Pinnacle: Contact/Vcard"
+msgstr "Virtue: Кнтакт/Vcard"
+
+#: ../lib/widgets.php:278 ../lib/widgets.php:445 ../lib/widgets.php:603
+#: ../lib/widgets.php:745
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: ../lib/widgets.php:282
+msgid "Company Name:"
+msgstr "Название компании:"
+
+#: ../lib/widgets.php:286
+msgid "Name:"
+msgstr "Имя:"
+
+#: ../lib/widgets.php:290
+msgid "Street Address:"
+msgstr "Адрес:"
+
+#: ../lib/widgets.php:294
+msgid "City/Locality:"
+msgstr "Город:"
+
+#: ../lib/widgets.php:298
+msgid "State/Region:"
+msgstr "Область/Регион:"
+
+#: ../lib/widgets.php:302
+msgid "Zipcode/Postal Code:"
+msgstr "Почтовый индекс:"
+
+#: ../lib/widgets.php:306
+#, fuzzy
+msgid "Mobile Telephone:"
+msgstr "Телефон:"
+
+#: ../lib/widgets.php:310
+#, fuzzy
+msgid "Fixed Telephone:"
+msgstr "Телефон:"
+
+#: ../lib/widgets.php:314
+msgid "Email:"
+msgstr "Адрес эл.почты:"
+
+#: ../lib/widgets.php:325
+msgid "Simple way to add Social Icons"
+msgstr "Простой способ добавить иконки соцсетей:"
+
+#: ../lib/widgets.php:326
+#, fuzzy
+msgid "Pinnacle: Social Links"
+msgstr "Virtue: Ссылки соцсетей"
+
+#: ../lib/widgets.php:449
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: ../lib/widgets.php:453
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: ../lib/widgets.php:457
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: ../lib/widgets.php:461
+msgid "GooglePlus:"
+msgstr "GooglePlus:"
+
+#: ../lib/widgets.php:465
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: ../lib/widgets.php:469
+msgid "Vimeo:"
+msgstr "Vimeo:"
+
+#: ../lib/widgets.php:473
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: ../lib/widgets.php:477
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: ../lib/widgets.php:481
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: ../lib/widgets.php:485
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: ../lib/widgets.php:489
+msgid "Tumblr:"
+msgstr "Tumblr"
+
+#: ../lib/widgets.php:493
+msgid "VK:"
+msgstr "ВКонтакте:"
+
+#: ../lib/widgets.php:497
+msgid "RSS:"
+msgstr "RSS:"
+
+#: ../lib/widgets.php:511
+msgid "This shows the most recent posts on your site with a thumbnail"
+msgstr "Показывает наиболее свежие поста на вашем сайте с миниатюрой"
+
+#: ../lib/widgets.php:512
+#, fuzzy
+msgid "Pinnacle: Recent Posts"
+msgstr "Virtue: свежие посты"
+
+#: ../lib/widgets.php:537 ../templates/recentblog-carousel.php:7
+msgid "Recent Posts"
+msgstr "Свежие посты"
+
+#: ../lib/widgets.php:606
+msgid "Number of posts to show:"
+msgstr "Количество отображаемых постов:"
+
+#: ../lib/widgets.php:609
+msgid "Limit to Catagory (Optional):"
+msgstr "Ограничить категорией (опция):"
+
+#: ../lib/widgets.php:623
+msgid ""
+"This shows a grid of featured images from recent posts or portfolio items"
+msgstr ""
+"Это создаст таблицу изображений из свежих постов или элементов портфолио"
+
+#: ../lib/widgets.php:624
+#, fuzzy
+msgid "Pinnacle: Post Grid"
+msgstr "Virtue: таблица изображений"
+
+#: ../lib/widgets.php:748
+msgid "Grid Choice:"
+msgstr "Выбор таблицы:"
+
+#: ../lib/widgets.php:750
+msgid "Blog Posts"
+msgstr "Записи блога"
+
+#: ../lib/widgets.php:751
+msgid "Portfolio"
+msgstr "Порфолио"
+
+#: ../lib/widgets.php:754
+msgid "If Post - Choose Category (Optional):"
+msgstr "Если пост - выберите категорию (опция):"
+
+#: ../lib/widgets.php:757
+msgid "If Portfolio - Choose Type (Optional):"
+msgstr "Если портфолио - выберите тип (опция):"
+
+#: ../lib/widgets.php:760
+msgid "Number of images to show:"
+msgstr "Количество отображаемых изображений:"
+
+#: ../lib/widgets.php:771
+msgid "This allows for an image and a simple about text."
+msgstr "Позволяет разместить изображение и краткое текстовое описание."
+
+#: ../lib/widgets.php:772
+#, fuzzy
+msgid "Pinnacle: Image"
+msgstr "Virtue: таблица изображений"
+
+#: ../lib/widgets.php:826
+#, fuzzy
+msgid "Lightbox"
+msgstr "Право"
+
+#: ../lib/widgets.php:827
+msgid "New Window"
+msgstr ""
+
+#: ../lib/widgets.php:828
+msgid "Same Window"
+msgstr ""
+
+#: ../lib/widgets.php:829
+#, fuzzy
+msgid "No Link"
+msgstr "Ссылка на иконку"
+
+#: ../lib/widgets.php:841
+msgid "Image URL"
+msgstr "Ссыдка на изображение"
+
+#: ../lib/widgets.php:843
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:108
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:159
+msgid "Upload"
+msgstr "Загрузить"
+
+#: ../lib/widgets.php:846
+#, fuzzy
+msgid "Image opens in"
+msgstr "Настройки повторяемости изображения"
+
+#: ../lib/widgets.php:850
+#, fuzzy
+msgid "Image Link (optional)"
+msgstr "Настройки повторяемости изображения"
+
+#: ../lib/widgets.php:854
+msgid "Text/Caption (optional)"
+msgstr ""
+
+#: ../product-searchform.php:2
+#, fuzzy
+msgid "Search for products"
+msgstr "Искать:"
+
+#: ../searchform.php:2
+msgid "Search for:"
+msgstr "Искать:"
+
+#: ../searchform.php:3
+msgid "Search"
+msgstr "Искать"
+
+#: ../taxonomy-portfolio-type.php:103 ../template-portfolio-grid.php:155
+#: ../templates/bottomportfolio-carousel.php:138
+#: ../templates/home/portfolio-carousel.php:191
+#, fuzzy
+msgid "View details"
+msgstr "Скрыть подробности"
+
+#: ../template-blog-grid.php:58 ../template-blog.php:74
+#: ../templates/home/blog-home.php:51 ../templates/home/latest-slider.php:58
+#: ../templates/recentblog-carousel.php:39
+#: ../templates/similarblog-carousel.php:45
+msgid "Sorry, no blog entries found."
+msgstr "Приносим извинения, записи блога не найдены."
+
+#: ../template-portfolio-grid.php:199
+#: ../templates/bottomportfolio-carousel.php:183
+#: ../templates/home/portfolio-carousel.php:236
+msgid "Sorry, no portfolio entries found."
+msgstr "Извините, записей портфолио не найдено."
+
+#: ../templates/account-sidebar.php:18
+#, fuzzy
+msgid "Edit Account"
+msgstr "Моя запись"
+
+#: ../templates/account-sidebar.php:21
+#, fuzzy
+msgid "Logout"
+msgstr "Логотип"
+
+#: ../templates/bottomportfolio-carousel.php:9
+msgid "Recent Projects"
+msgstr "Свежие проекты"
+
+#: ../templates/comment.php:15
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: ../templates/comments.php:9
+#, php-format
+msgid "One Response "
+msgid_plural "%1$s Responses "
+msgstr[0] "Один ответ"
+msgstr[1] "%1$s ответов"
+msgstr[2] "%1$s ответов"
+
+#: ../templates/comments.php:18
+msgid "&larr; Older comments"
+msgstr "&larr; Более старые комментарии"
+
+#: ../templates/comments.php:21
+msgid "Newer comments &rarr;"
+msgstr "Более свежие комментарии &rarr; "
+
+#: ../templates/comments.php:34 ../templates/comments.php:51
+msgid "Comments are closed."
+msgstr "Добавление комментариев закрыто."
+
+#: ../templates/comments.php:63
+msgid "Leave a Reply"
+msgstr "Оставить ответ"
+
+#: ../templates/comments.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить ответ на %s"
+
+#: ../templates/comments.php:66
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Вы должны быть <a href=\"%s\">авторизованы</a>, чтобы оставлять комментарии."
+
+#: ../templates/comments.php:71
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Авторизован как <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: ../templates/comments.php:72
+msgid "Log out of this account"
+msgstr "Выйти из этой учетной записи"
+
+#: ../templates/comments.php:72
+msgid "Log out &raquo;"
+msgstr "Выйти &raquo;"
+
+#: ../templates/comments.php:77
+msgid "Name"
+msgstr "Имя"
+
+#: ../templates/comments.php:77 ../templates/comments.php:81
+msgid " <span>*</span>"
+msgstr " <span>*</span>"
+
+#: ../templates/comments.php:81
+msgid "Email (will not be published)"
+msgstr "Эл.почта (не публикуется)"
+
+#: ../templates/comments.php:85
+msgid "Website"
+msgstr "Сайт"
+
+#: ../templates/comments.php:90
+msgid "Comment"
+msgstr "Коментарий"
+
+#: ../templates/comments.php:92
+msgid "Submit Comment"
+msgstr "Добавить комментарий"
+
+#: ../templates/content-fullpost.php:138
+#: ../templates/content-fullpostfull.php:138
+#: ../templates/content-single.php:144
+#: ../templates/content-singleportfolio.php:169
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../templates/entry-meta-subhead.php:3
+msgid "by"
+msgstr "кем"
+
+#: ../templates/entry-meta-subhead.php:5
+#, fuzzy
+msgid "on"
+msgstr "Добавить иконку"
+
+#: ../templates/entry-meta-subhead.php:6
+msgid "with"
+msgstr ""
+
+#: ../templates/entry-meta.php:5
+msgid "By"
+msgstr "Кем"
+
+#: ../templates/header.php:72
+msgid "No menu assigned"
+msgstr ""
+
+#: ../templates/home/blog-home.php:6
+msgid "Latest from the Blog"
+msgstr "Самое новое из блога"
+
+#: ../templates/similarblog-carousel.php:6
+msgid "Similar Posts"
+msgstr "Подобные посты"
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:50
+#, fuzzy
+msgid "Icon"
+msgstr "Добавить иконку"
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:55
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:53
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:110
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:178
+msgid "Upload Icon"
+msgstr "Загрузить иконку"
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:119
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:184
+#, fuzzy
+msgid "Select an Icon"
+msgstr "Удалить иконку"
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:139
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:203
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:121
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:166
+msgid "URL"
+msgstr "URL"
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:140
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:205
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:122
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:168
+#: ../themeoptions/theme_options.php:820
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:141
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:207
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:123
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:170
+msgid "Description"
+msgstr "Описание"
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:142
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:209
+msgid "Icon Link"
+msgstr "Ссылка на иконку"
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:146
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:214
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:128
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:177
+msgid "Open Link in New Tab/Window"
+msgstr "Открыть ссылку в новой вкладке/окне"
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:156
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:223
+msgid "Delete Icon"
+msgstr "Удалить иконку"
+
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:226
+msgid "Add Icon"
+msgstr "Добавить иконку"
+
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:48
+#: ../themeoptions/theme_options.php:467 ../themeoptions/theme_options.php:620
+#, fuzzy
+msgid "Slide"
+msgstr "Добавить слайд"
+
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:124
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:172
+msgid "Slide Link"
+msgstr "Ссылка на слайд"
+
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:137
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:185
+msgid "Delete Slide"
+msgstr "Удалить слайд"
+
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:188
+#, fuzzy, php-format
+msgid "Add %s"
+msgstr "Добавить изображения"
+
+#: ../themeoptions/theme_options.php:69
+#, fuzzy
+msgid "Site Header"
+msgstr "Баннер для размещения на всем сайте"
+
+#: ../themeoptions/theme_options.php:71
+#, fuzzy
+msgid "Welcome to Pinnacle Theme Options"
+msgstr "Добро пожаловать в настройки темы Virtue Theme"
+
+#: ../themeoptions/theme_options.php:72
+msgid "This theme was developed by"
+msgstr "Эта тема была разработана"
+
+#: ../themeoptions/theme_options.php:73
+msgid "For theme documentation visit"
+msgstr "Для просмотра документации перейдите по ссылке"
+
+#: ../themeoptions/theme_options.php:75
+msgid "For support please visit"
+msgstr "Для получения поддержки перейдите по ссылке"
+
+#: ../themeoptions/theme_options.php:82
+#, fuzzy
+msgid "Header Height"
+msgstr "Максимальная высота слайдера"
+
+#: ../themeoptions/theme_options.php:91
+#, fuzzy
+msgid "Transparent Header"
+msgstr "Прозрачный"
+
+#: ../themeoptions/theme_options.php:96
+#, fuzzy
+msgid "Enable Transparent header?"
+msgstr "Прозрачный"
+
+#: ../themeoptions/theme_options.php:97
+msgid "This will make the page header background fill to the top of the page."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:103
+msgid "Menu Text Color (For Transparent Header)"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:104
+msgid "Choose the font color of the menu font while background is transparent"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:114
+msgid "Border Color (For Transparent Header)"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:115
+msgid "Choose the color of bottom border while background is transparent"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:125
+msgid "Site title font Color (For Transparent Header)"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:126
+msgid "Choose the font color for the logo while background is transparent"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:137
+msgid "Logo (For Transparent Header)"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:138
+msgid "Upload your Logo."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:144
+msgid "@2x Logo (For Transparent Header) "
+msgstr ""
+
+#: ../themeoptions/theme_options.php:145 ../themeoptions/theme_options.php:174
+msgid "Should be twice the pixel size of your normal logo."
+msgstr ""
+"Должен быть в два раза большего размера в пикселах, чем нормальный логотип"
+
+#: ../themeoptions/theme_options.php:152
+msgid "Logo Options"
+msgstr "Настройки Логотипа"
+
+#: ../themeoptions/theme_options.php:157
+msgid "Logo Container Width"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:158
+msgid "16%"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:158
+msgid "25%"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:158
+msgid "33%"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:158
+msgid "41%"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:158
+msgid "50%"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:166
+msgid "Logo"
+msgstr "Логотип"
+
+#: ../themeoptions/theme_options.php:167
+msgid "Upload your Logo. If left blank theme will use site name."
+msgstr ""
+"Загрузите ваш логотип. Если его нет, тема будет использовать название сайта "
+"в качестве логотипа."
+
+#: ../themeoptions/theme_options.php:173
+msgid "Upload Your @2x Logo for Retina Screens"
+msgstr "Загрузите ваш логотип @2x для ретинных дисплеев"
+
+#: ../themeoptions/theme_options.php:179
+msgid "Sitename Logo Font"
+msgstr "Шрифт логотипа названия сайта"
+
+#: ../themeoptions/theme_options.php:192
+msgid "Choose size and style your sitename, if you don't use an image logo."
+msgstr ""
+"Выберите размер и стиль шрифта для текстового логотипа, если вы не "
+"используете графический логотип."
+
+#: ../themeoptions/theme_options.php:204 ../themeoptions/theme_options.php:360
+#: ../themeoptions/theme_options.php:519
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: ../themeoptions/theme_options.php:209
+#, fuzzy
+msgid "Show the page title by default"
+msgstr "Единственный результат"
+
+#: ../themeoptions/theme_options.php:210
+#: ../themeoptions/theme_options.php:1176
+#: ../themeoptions/theme_options.php:1183
+#: ../themeoptions/theme_options.php:1268
+#: ../themeoptions/theme_options.php:1434
+msgid "This can be overridden on each page."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:217
+#, fuzzy
+msgid "Page Header Default Background"
+msgstr "Фон заголовков"
+
+#: ../themeoptions/theme_options.php:222
+#, fuzzy
+msgid "Page Title Color"
+msgstr "Заголовок страницы"
+
+#: ../themeoptions/theme_options.php:223
+#, fuzzy
+msgid "Choose the default pagetitle color for your site."
+msgstr "Выберите цвет выделения по умоляанию для вашего сайта."
+
+#: ../themeoptions/theme_options.php:233
+#, fuzzy
+msgid "Page Subtitle Color"
+msgstr "Заголовок страницы"
+
+#: ../themeoptions/theme_options.php:234
+#, fuzzy
+msgid "Choose the default subtitle color for your site."
+msgstr "Выберите цвет выделения по умоляанию для вашего сайта."
+
+#: ../themeoptions/theme_options.php:244
+#, fuzzy
+msgid "Page Title Align"
+msgstr "Заголовок страницы"
+
+#: ../themeoptions/theme_options.php:245
+msgid "Center"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:245
+msgid "Left"
+msgstr "Лево"
+
+#: ../themeoptions/theme_options.php:245
+msgid "Right"
+msgstr "Право"
+
+#: ../themeoptions/theme_options.php:254
+#, fuzzy
+msgid "Footer Layout"
+msgstr "Макет виджета подвала"
+
+#: ../themeoptions/theme_options.php:259
+msgid "Footer Widget Layout"
+msgstr "Макет виджета подвала"
+
+#: ../themeoptions/theme_options.php:260
+msgid "Select how many columns for footer widgets"
+msgstr "Выберите количество колонок для виджета подвала"
+
+#: ../themeoptions/theme_options.php:273
+msgid "Topbar Settings"
+msgstr "Настройки чердака"
+
+#: ../themeoptions/theme_options.php:278
+msgid "Use Topbar?"
+msgstr "Использовать чердак?"
+
+#: ../themeoptions/theme_options.php:279
+msgid "Choose to show or hide topbar"
+msgstr "Укажите, использовать чердак или нет"
+
+#: ../themeoptions/theme_options.php:285
+#, fuzzy
+msgid "Topbar Height"
+msgstr "Виджеты чердака"
+
+#: ../themeoptions/theme_options.php:294
+#, fuzzy
+msgid "Hide on mobile?"
+msgstr "Скрыть подробности"
+
+#: ../themeoptions/theme_options.php:295
+#, fuzzy
+msgid "Choose to show or hide topbar on mobile"
+msgstr "Укажите, отображать или нет иконки меню чердака"
+
+#: ../themeoptions/theme_options.php:301
+msgid "Use Topbar Icon Menu?"
+msgstr "Использовать иконное меню чердака?"
+
+#: ../themeoptions/theme_options.php:302
+msgid "Choose to show or hide topbar icon Menu"
+msgstr "Укажите, отображать или нет иконки меню чердака"
+
+#: ../themeoptions/theme_options.php:308
+msgid "Topbar Icon Menu"
+msgstr "Меню иконок чердака"
+
+#: ../themeoptions/theme_options.php:309
+msgid "Choose your icons for the topbar icon menu."
+msgstr "Выберите иконки для меню чердака."
+
+#: ../themeoptions/theme_options.php:314
+#, fuzzy
+msgid "Icon menu font size"
+msgstr "Шрифт дополнительного меню"
+
+#: ../themeoptions/theme_options.php:323
+msgid "Show Cart total in topbar?"
+msgstr "Показывать общие данные корзины в меню чердака?"
+
+#: ../themeoptions/theme_options.php:324
+msgid "This only works if using woocommerce"
+msgstr "Эта опция работает только с плагином WooCommerce"
+
+#: ../themeoptions/theme_options.php:330
+msgid "Display Search in Topbar?"
+msgstr "Отображать Поиск в меню чердака?"
+
+#: ../themeoptions/theme_options.php:331
+msgid "Choose to show or hide search in topbar"
+msgstr "Укажите, отображать поле поиска в меню чердака или нет."
+
+#: ../themeoptions/theme_options.php:337
+#, fuzzy
+msgid "Enable widget area in left of Topbar?"
+msgstr "Активировать область виджетов в правой части чердака?"
+
+#: ../themeoptions/theme_options.php:343
+msgid "Topbar Layout Switch"
+msgstr "Переключатель макета чердака"
+
+#: ../themeoptions/theme_options.php:344
+msgid "This moves the left items to the right and right items to the left."
+msgstr "Это поменяет местами правые и левые элементы."
+
+#: ../themeoptions/theme_options.php:352
+#, fuzzy
+msgid "Home Slider"
+msgstr "Слайдер изображений"
+
+#: ../themeoptions/theme_options.php:353
+msgid "Home Page Slider Options"
+msgstr "Настройки слайдера домашней страницы"
+
+#: ../themeoptions/theme_options.php:358
+msgid "Choose a Home Image Slider"
+msgstr "Выберите слайдер домашней страницы"
+
+#: ../themeoptions/theme_options.php:359
+msgid "If you don't want an image slider on your home page choose none."
+msgstr ""
+"Если вы не хотите использовать слайдер на домашней странице укажите \"никакой"
+"\"."
+
+#: ../themeoptions/theme_options.php:360 ../themeoptions/theme_options.php:519
+#, fuzzy
+msgid "Flex Slider"
+msgstr "Мобильный слайдер"
+
+#: ../themeoptions/theme_options.php:360
+#, fuzzy
+msgid "Carousel Slider"
+msgstr "Заголовок карусели"
+
+#: ../themeoptions/theme_options.php:360 ../themeoptions/theme_options.php:519
+#: ../themeoptions/theme_options.php:1558
+#: ../themeoptions/theme_options.php:1566
+msgid "Video"
+msgstr "Видео"
+
+#: ../themeoptions/theme_options.php:367
+#, fuzzy
+msgid "Place behind Header"
+msgstr "Оформить заказ"
+
+#: ../themeoptions/theme_options.php:368
+#, fuzzy
+msgid "This enabled the transparent header on the home page."
+msgstr ""
+"Это определяет будет ли отображаться боковая панель на домашней странице."
+
+#: ../themeoptions/theme_options.php:375 ../themeoptions/theme_options.php:527
+#, fuzzy
+msgid "Home Page Title"
+msgstr "Заголовок страницы"
+
+#: ../themeoptions/theme_options.php:383 ../themeoptions/theme_options.php:535
+#, fuzzy
+msgid "Home Page SubTitle"
+msgstr "Название блога домашней страницы"
+
+#: ../themeoptions/theme_options.php:384 ../themeoptions/theme_options.php:536
+#, fuzzy
+msgid "optional text below home page title"
+msgstr "Подзаголовок, размещаемый под заголовком страницы"
+
+#: ../themeoptions/theme_options.php:392 ../themeoptions/theme_options.php:544
+msgid "Home Page Title Padding Top"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:402 ../themeoptions/theme_options.php:554
+#, fuzzy
+msgid "Home Page Title Padding Bottom"
+msgstr "Низ"
+
+#: ../themeoptions/theme_options.php:417 ../themeoptions/theme_options.php:570
+msgid "Slider Images"
+msgstr "Изображения слайдреа"
+
+#: ../themeoptions/theme_options.php:418 ../themeoptions/theme_options.php:571
+msgid "Use large images for best results."
+msgstr "Используйте крупные изображения для лучших результатов."
+
+#: ../themeoptions/theme_options.php:424 ../themeoptions/theme_options.php:577
+msgid "Slider Max Height"
+msgstr "Максимальная высота слайдера"
+
+#: ../themeoptions/theme_options.php:425 ../themeoptions/theme_options.php:436
+#: ../themeoptions/theme_options.php:578 ../themeoptions/theme_options.php:589
+msgid "Note: does not work if images are smaller than max."
+msgstr ""
+"Внимание: не используется если размер изображений меньше максимального "
+"размера слайдера."
+
+#: ../themeoptions/theme_options.php:435 ../themeoptions/theme_options.php:588
+msgid "Slider Max Width"
+msgstr "Максимальная ширина слайдера."
+
+#: ../themeoptions/theme_options.php:446 ../themeoptions/theme_options.php:599
+msgid "Auto Play?"
+msgstr "Автозапуск?"
+
+#: ../themeoptions/theme_options.php:447 ../themeoptions/theme_options.php:600
+msgid "This determines if a slider automatically scrolls"
+msgstr "Это определеяет, прокручивается ли слайдер автоматически."
+
+#: ../themeoptions/theme_options.php:454 ../themeoptions/theme_options.php:607
+msgid "Slider Pause Time"
+msgstr "Время паузы слайдера."
+
+#: ../themeoptions/theme_options.php:455 ../themeoptions/theme_options.php:608
+msgid "How long to pause on each slide, in milliseconds."
+msgstr "Как долго отображается один слайд, миллисекунды."
+
+#: ../themeoptions/theme_options.php:465 ../themeoptions/theme_options.php:618
+msgid "Transition Type"
+msgstr "Тип перехода."
+
+#: ../themeoptions/theme_options.php:466 ../themeoptions/theme_options.php:619
+msgid "Choose a transition type"
+msgstr "Выберите тип перехода"
+
+#: ../themeoptions/theme_options.php:467 ../themeoptions/theme_options.php:620
+msgid "Fade"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:474 ../themeoptions/theme_options.php:627
+msgid "Slider Transition Time"
+msgstr "Время перехода"
+
+#: ../themeoptions/theme_options.php:475 ../themeoptions/theme_options.php:628
+msgid "How long for slide transitions, in milliseconds."
+msgstr "Как долго происходит смена слайдов, миллисекунды."
+
+#: ../themeoptions/theme_options.php:485 ../themeoptions/theme_options.php:638
+msgid "Show Captions?"
+msgstr "Отображать подписи?"
+
+#: ../themeoptions/theme_options.php:486 ../themeoptions/theme_options.php:639
+msgid "Choose to show or hide captions"
+msgstr "Выберите отображать подписи или нет"
+
+#: ../themeoptions/theme_options.php:493 ../themeoptions/theme_options.php:646
+msgid "Video Embed Code"
+msgstr "Код встраиваемого видео"
+
+#: ../themeoptions/theme_options.php:494 ../themeoptions/theme_options.php:647
+msgid "If your using a video on the home page place video embed code here."
+msgstr ""
+"Если вы используете видео на главной странице разместите код встраиваемого "
+"видео здесь."
+
+#: ../themeoptions/theme_options.php:504
+#, fuzzy
+msgid "Home Mobile Slider"
+msgstr "Мобильный слайдер"
+
+#: ../themeoptions/theme_options.php:505
+#, fuzzy
+msgid "Create a different home slider for your mobile visitors."
+msgstr ""
+"Создайте более легкий слайдер домашней страницы для мобильной версии сайта."
+
+#: ../themeoptions/theme_options.php:510
+msgid "Would you like to use this feature?"
+msgstr "Хотите использовать эту возможность?"
+
+#: ../themeoptions/theme_options.php:511
+msgid ""
+"Choose if you would like to show a different slider on your home page for "
+"your mobile visitors."
+msgstr ""
+"Укажите, если вы хотите отображать специальный слайдер на домашней странице "
+"для ваших мобильных посетителей."
+
+#: ../themeoptions/theme_options.php:517
+msgid "Choose a Slider for Mobile"
+msgstr "Выберите слайдер для мобильной версии сайта"
+
+#: ../themeoptions/theme_options.php:518
+msgid "Choose which slider you would like to show for mobile viewers."
+msgstr ""
+"Укажите какой слайдер вы хотите использовать для мобильной версии сайта."
+
+#: ../themeoptions/theme_options.php:656
+msgid "Home Layout"
+msgstr "Макет домашней страницы"
+
+#: ../themeoptions/theme_options.php:663
+msgid "Display a sidebar on the Home Page?"
+msgstr "Отображать боковую панель на домашней странице?"
+
+#: ../themeoptions/theme_options.php:664
+msgid "This determines if there is a sidebar on the home page."
+msgstr ""
+"Это определяет будет ли отображаться боковая панель на домашней странице."
+
+#: ../themeoptions/theme_options.php:674
+msgid "Choose a Sidebar for your Home Page"
+msgstr "Выберите боковую панель для вашей домашней страницы"
+
+#: ../themeoptions/theme_options.php:682
+#, fuzzy
+msgid "Homepage Layout Manager"
+msgstr "Макет домашней страницы"
+
+#: ../themeoptions/theme_options.php:683
+msgid "Organize how you want the layout to appear on the homepage"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:687
+msgid "Portfolio Carousel"
+msgstr "Карусель портфолио"
+
+#: ../themeoptions/theme_options.php:688 ../themeoptions/theme_options.php:850
+msgid "Icon Menu"
+msgstr "Меню иконок"
+
+#: ../themeoptions/theme_options.php:689
+#, fuzzy
+msgid "Call to Action"
+msgstr "Virtue: Ссылки соцсетей"
+
+#: ../themeoptions/theme_options.php:690
+msgid "Page Content"
+msgstr "Содержимое страницы"
+
+#: ../themeoptions/theme_options.php:694
+msgid "Latest Blog Posts"
+msgstr "Самые свежие записи блога"
+
+#: ../themeoptions/theme_options.php:701
+msgid "Home Blog Settings"
+msgstr "Настройки записей блога для домашней страницы"
+
+#: ../themeoptions/theme_options.php:706
+msgid "Home Blog Title"
+msgstr "Название блога домашней страницы"
+
+#: ../themeoptions/theme_options.php:707
+#, fuzzy
+msgid "e.g. = Latest from the blog"
+msgstr "например: Самое свежее из нашего блога"
+
+#: ../themeoptions/theme_options.php:712
+msgid "Choose How many posts on Homepage"
+msgstr "Укажите сколько записей блога отображать на домашней странице"
+
+#: ../themeoptions/theme_options.php:721
+#, fuzzy
+msgid "Choose how many post columns on Homepage"
+msgstr "Укажите сколько записей блога отображать на домашней странице"
+
+#: ../themeoptions/theme_options.php:731
+msgid "Limit posts to a Category"
+msgstr "Ограничить записи категорией"
+
+#: ../themeoptions/theme_options.php:732
+msgid "Leave blank to select all"
+msgstr "Оставьте пустым для отображения всех записей"
+
+#: ../themeoptions/theme_options.php:738
+msgid "Home Portfolio Carousel Settings"
+msgstr "Настройки карусели портфолио для домашней страницы"
+
+#: ../themeoptions/theme_options.php:743
+msgid "Home Portfolio Carousel title"
+msgstr "Заголовок карусели портфолио домашней страницы"
+
+#: ../themeoptions/theme_options.php:744
+#, fuzzy
+msgid "e.g. = Portfolio Carousel title"
+msgstr "например: Наш портфолио"
+
+#: ../themeoptions/theme_options.php:751
+msgid "Portfolio Carousel Category Type"
+msgstr "Тип категории для карусели портфолио"
+
+#: ../themeoptions/theme_options.php:752
+msgid "Leave blank to select all types"
+msgstr "Оставьте пустым для отображения всех категорий"
+
+#: ../themeoptions/theme_options.php:758
+#, fuzzy
+msgid "Choose how many columns are in carousel"
+msgstr "Укажите, сколько элементов размещается в карусели"
+
+#: ../themeoptions/theme_options.php:767
+#, fuzzy
+msgid "Portfolio Layout Style"
+msgstr "Стиль конфигурации сайта"
+
+#: ../themeoptions/theme_options.php:768
+#: ../themeoptions/theme_options.php:1248
+#, fuzzy
+msgid "Post Boxes"
+msgstr "Опции поста"
+
+#: ../themeoptions/theme_options.php:768
+#: ../themeoptions/theme_options.php:1248
+msgid "Flat with Margin"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:775
+#, fuzzy
+msgid "Portfolio Hover Style"
+msgstr "Виды работ портфолио"
+
+#: ../themeoptions/theme_options.php:776
+#, fuzzy
+msgid "Light"
+msgstr "Право"
+
+#: ../themeoptions/theme_options.php:776
+msgid "Dark"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:776
+#: ../themeoptions/theme_options.php:1634
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: ../themeoptions/theme_options.php:783
+#, fuzzy
+msgid "Portfolio Image Ratio"
+msgstr "Опции страницы Портфолио"
+
+#: ../themeoptions/theme_options.php:784
+msgid "Square 1:1"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:784
+#, fuzzy
+msgid "Portrait 3:4"
+msgstr "Портретное изображение"
+
+#: ../themeoptions/theme_options.php:784
+#, fuzzy
+msgid "Landscape 4:3"
+msgstr "Пейзажное изображение"
+
+#: ../themeoptions/theme_options.php:784
+#, fuzzy
+msgid "Wide Landscape 4:2"
+msgstr "Пейзажное изображение"
+
+#: ../themeoptions/theme_options.php:791
+msgid "Choose how many portfolio items are in carousel"
+msgstr "Укажите, сколько элементов размещается в карусели"
+
+#: ../themeoptions/theme_options.php:800
+msgid "Choose the carousel speed (in seconds)."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:809
+#, fuzzy
+msgid "Portfolio Carousel Scroll"
+msgstr "Карусель портфолио"
+
+#: ../themeoptions/theme_options.php:810
+#, fuzzy
+msgid "Choose how the portfolio items scroll."
+msgstr "Укажите, сколько элементов размещается в карусели"
+
+#: ../themeoptions/theme_options.php:811
+#, fuzzy
+msgid "One Item"
+msgstr "Сортировать элементы по"
+
+#: ../themeoptions/theme_options.php:811
+msgid "All Visible"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:818
+msgid "Portfolio Carousel Order by"
+msgstr "Порядок сортировки элементов карусели"
+
+#: ../themeoptions/theme_options.php:819
+msgid "Choose how the portfolio items should be ordered in the carousel."
+msgstr ""
+"Выберите в каком порядке будут сортироваться элементы карусели портфолио"
+
+#: ../themeoptions/theme_options.php:820
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: ../themeoptions/theme_options.php:820
+msgid "Date"
+msgstr "Дата"
+
+#: ../themeoptions/theme_options.php:820
+msgid "Random"
+msgstr "Случайно"
+
+#: ../themeoptions/theme_options.php:827
+#, fuzzy
+msgid "Display lightbox link in portfolio item?"
+msgstr "Добавить ссылку Lightbox в правом верхнем углу каждого элемента"
+
+#: ../themeoptions/theme_options.php:833
+msgid "Display Portfolio Types under Title"
+msgstr "Отображать тип элемента портфолио под заголовком"
+
+#: ../themeoptions/theme_options.php:839
+#, fuzzy
+msgid "Display Portfolio excerpt under Title"
+msgstr "Отображать тип элемента портфолио под заголовком"
+
+#: ../themeoptions/theme_options.php:845
+msgid "Home Icon Menu"
+msgstr "Меню иконок домашней страницы"
+
+#: ../themeoptions/theme_options.php:851
+msgid "Choose your icons for the icon menu."
+msgstr "Выберите иконки для меню иконок"
+
+#: ../themeoptions/theme_options.php:856
+#, fuzzy
+msgid "Choose how many columns in each row"
+msgstr "Укажите, сколько элементов размещается в карусели"
+
+#: ../themeoptions/theme_options.php:865
+#, fuzzy
+msgid "Icon menu button text (optional)"
+msgstr "Настройки повторяемости изображения"
+
+#: ../themeoptions/theme_options.php:866 ../themeoptions/theme_options.php:920
+#, fuzzy
+msgid "e.g. = Read More"
+msgstr "Читать далее"
+
+#: ../themeoptions/theme_options.php:871
+#, fuzzy
+msgid "Icon Color"
+msgstr "Цвет шрифта"
+
+#: ../themeoptions/theme_options.php:872
+#, fuzzy
+msgid "Choose the color for icon."
+msgstr "Выберите иконки для меню иконок"
+
+#: ../themeoptions/theme_options.php:881
+#, fuzzy
+msgid "Icon Background Color"
+msgstr "Цвет фона"
+
+#: ../themeoptions/theme_options.php:882
+msgid ""
+"Choose the background color for icon. * Note the hover color is set by your "
+"primary color in basic styling."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:890
+#, fuzzy
+msgid "Title and Description Font Color"
+msgstr "Цвет шрифтов подвала"
+
+#: ../themeoptions/theme_options.php:891
+msgid "Choose the color for icon menu title and description Font."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:900
+#, fuzzy
+msgid "Home Call To Action Settings"
+msgstr "Настройки записей блога для домашней страницы"
+
+#: ../themeoptions/theme_options.php:905
+#, fuzzy
+msgid "Call to Action Text"
+msgstr "Virtue: Ссылки соцсетей"
+
+#: ../themeoptions/theme_options.php:910
+msgid "Call to Action Text Color"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:919
+msgid "Call to Action Button Text"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:925
+msgid "Call to Action Button Link"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:930
+#, fuzzy
+msgid "Button Text Color"
+msgstr "Цвет фона"
+
+#: ../themeoptions/theme_options.php:939
+#, fuzzy
+msgid "Button Background Color"
+msgstr "Цвет фона"
+
+#: ../themeoptions/theme_options.php:947
+#, fuzzy
+msgid "Button Hover Text Color"
+msgstr "Цвет фона"
+
+#: ../themeoptions/theme_options.php:956
+#, fuzzy
+msgid "Button Hover Background Color"
+msgstr "Цвет фона"
+
+#: ../themeoptions/theme_options.php:964
+msgid "Call to action top and bottom padding."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:974
+#, fuzzy
+msgid "Call to action background"
+msgstr "Цвет фона основного содержимого"
+
+#: ../themeoptions/theme_options.php:979
+msgid "Page Content Options (if home page is latest post page)"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:984
+msgid "Latest Post Display"
+msgstr "Отображение самых свежих записей"
+
+#: ../themeoptions/theme_options.php:985
+#, fuzzy
+msgid "If Latest Post page is front page. Choose how to show the posts."
+msgstr ""
+"If Latest Post page is font page. Выберите отображать запись полностью или "
+"кратко."
+
+#: ../themeoptions/theme_options.php:986
+#: ../themeoptions/theme_options.php:1579
+#, fuzzy
+msgid "Normal Post Excerpt"
+msgstr "Отображать выдержки описания элемента"
+
+#: ../themeoptions/theme_options.php:986
+#: ../themeoptions/theme_options.php:1579
+#, fuzzy
+msgid "Normal Full Post"
+msgstr "Записи блога"
+
+#: ../themeoptions/theme_options.php:986
+#: ../themeoptions/theme_options.php:1579
+#, fuzzy
+msgid "Grid Post"
+msgstr "Предыдущий пост"
+
+#: ../themeoptions/theme_options.php:993
+#, fuzzy
+msgid "Post Grid Columns"
+msgstr "Колонки"
+
+#: ../themeoptions/theme_options.php:994
+#: ../themeoptions/theme_options.php:1587
+#, fuzzy
+msgid "Two"
+msgstr "Кому"
+
+#: ../themeoptions/theme_options.php:994
+#: ../themeoptions/theme_options.php:1587
+#, fuzzy
+msgid "Three"
+msgstr "Три ряда"
+
+#: ../themeoptions/theme_options.php:994
+#: ../themeoptions/theme_options.php:1587
+msgid "Four"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1005
+msgid "Shop Settings"
+msgstr "Настройки Магазина."
+
+#: ../themeoptions/theme_options.php:1006
+#, fuzzy
+msgid "Shop Archive Page Settings (Woocommerce plugin required)"
+msgstr "Настройки архива Магазина"
+
+#: ../themeoptions/theme_options.php:1011
+#, fuzzy
+msgid "Shop Product Column Layout"
+msgstr "Настройки заголовка Пролукта"
+
+#: ../themeoptions/theme_options.php:1012
+#, fuzzy
+msgid "Choose how many product columns on the shop and category pages"
+msgstr ""
+"Выберите размер и стиль для заголовкой продуктов на страницах Каталога и "
+"архивов"
+
+#: ../themeoptions/theme_options.php:1021
+#, fuzzy
+msgid "Display the sidebar on Shop Page?"
+msgstr "Отображать боковую панель на странице архива Магазина?"
+
+#: ../themeoptions/theme_options.php:1022
+#, fuzzy
+msgid "This determines if there is a sidebar on the shop page."
+msgstr ""
+"Это определяет будет ли отображаться боковая панель на домашней странице."
+
+#: ../themeoptions/theme_options.php:1032
+msgid "Choose a Sidebar for your shop page"
+msgstr "Выберите боковую панель для страницы Магазина."
+
+#: ../themeoptions/theme_options.php:1041
+#, fuzzy
+msgid "Display the sidebar on Product Category Pages?"
+msgstr "Отображать боковую панель на странице архива Магазина?"
+
+#: ../themeoptions/theme_options.php:1042
+#, fuzzy
+msgid "This determines if there is a sidebar on the product category pages."
+msgstr ""
+"Это определяет будет ли отображаться боковая панель на страницах Магазина и "
+"Каталога."
+
+#: ../themeoptions/theme_options.php:1052
+#, fuzzy
+msgid "Choose a Sidebar for your Product Category Pages"
+msgstr "Выберите боковую панель для вашей домашней страницы"
+
+#: ../themeoptions/theme_options.php:1060
+msgid "How many products per page"
+msgstr "Количество продуктов на страницу"
+
+#: ../themeoptions/theme_options.php:1069
+msgid "Show Ratings in Shop and Category Pages"
+msgstr "Отображать рейтинг на страницах Магазина и Каталога."
+
+#: ../themeoptions/theme_options.php:1070
+msgid "This determines if the rating is displayed in the product archive pages"
+msgstr ""
+"Это определяет будет ли отображаться рейтинг на странице архива Продуктов"
+
+#: ../themeoptions/theme_options.php:1076
+msgid "Hide Add to Cart Till Mouse Hover"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1077
+msgid ""
+"This determines if add to cart button will be hidden till the mouse hovers "
+"over the product"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1083
+msgid "Quantity box plus and minus"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1084
+msgid ""
+"Turn this off if you would like to use browser added plus and minus for "
+"number boxes"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1090
+#, fuzzy
+msgid "Shop Category Image Size"
+msgstr "Размер изображений продуктов"
+
+#: ../themeoptions/theme_options.php:1095
+msgid "Shop Category Column Layout"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1096
+#, fuzzy
+msgid ""
+"Choose how many Category Image columns to show on the shop and category pages"
+msgstr ""
+"Это определяет будет ли отображаться боковая панель на страницах Магазина и "
+"Каталога."
+
+#: ../themeoptions/theme_options.php:1104
+msgid "Shop Product Title Settings"
+msgstr "Настройки заголовка Пролукта"
+
+#: ../themeoptions/theme_options.php:1109
+msgid "Shop & archive Product title Font"
+msgstr "Шрифт заголовков страниц Магазина и Продуктов"
+
+#: ../themeoptions/theme_options.php:1120
+msgid "Choose Size and Style for product titles on category and archive pages."
+msgstr ""
+"Выберите размер и стиль для заголовкой продуктов на страницах Каталога и "
+"архивов"
+
+#: ../themeoptions/theme_options.php:1131
+msgid "Set Product Title to Uppercase?"
+msgstr "Перевести заголовок продукта в ВЕРХНИЙ РЕГИСТР?"
+
+#: ../themeoptions/theme_options.php:1132
+msgid "This makes your product titles uppercase on Category pages"
+msgstr ""
+"Это приведет к отображению заголовков продуктов в Каталоге в ВЕРХНЕМ "
+"РЕГИСТРЕ."
+
+#: ../themeoptions/theme_options.php:1138
+msgid "Product title Min Height"
+msgstr "Минимальная высота заголовка продукта"
+
+#: ../themeoptions/theme_options.php:1139
+msgid ""
+"If your titles are long increase this to help align your products height."
+msgstr ""
+"Если названия продуктов длинные, увеличтьте этот параметр для улучшения "
+"выравнивания высоты продуктов."
+
+#: ../themeoptions/theme_options.php:1148
+msgid "Product Image Sizes"
+msgstr "Размер изображений продуктов"
+
+#: ../themeoptions/theme_options.php:1153
+#, fuzzy
+msgid "Enable Product Image Aspect Ratio on Catalog pages"
+msgstr "Включить обрезку изображений продукта на страницах Каталога"
+
+#: ../themeoptions/theme_options.php:1154
+msgid ""
+"If turned off image dimensions are set by woocommerce settings - recommended "
+"width: 270px for Catalog Images"
+msgstr ""
+"Если выключено, размер изображений будет установлен настройками плагина "
+"WooCommerce на основании рекомендованных: 270 пикселов для изображений в "
+"каталоге."
+
+#: ../themeoptions/theme_options.php:1160
+#, fuzzy
+msgid "Enable Product Image Aspect Ratio on product Page"
+msgstr "Включить обрезку изображений на странице продукта"
+
+#: ../themeoptions/theme_options.php:1161
+msgid ""
+"If turned off image dimensions are set by woocommerce settings - recommended "
+"width: 468px for Single Product Image"
+msgstr ""
+"Если выключено, размер изображений будет установлен настройками плагина "
+"WooCommerce на основании рекомендованных: 486 пикселов для единичного "
+"изображения продукта."
+
+#: ../themeoptions/theme_options.php:1169
+#, fuzzy
+msgid "Product Settings"
+msgstr "Настройка страницы продукта"
+
+#: ../themeoptions/theme_options.php:1170
+#, fuzzy
+msgid "Single Product Page Header (Woocommerce plugin required)"
+msgstr "Формат проекта"
+
+#: ../themeoptions/theme_options.php:1175
+#: ../themeoptions/theme_options.php:1267
+#, fuzzy
+msgid "Show the Title in header by default"
+msgstr "Единственный результат"
+
+#: ../themeoptions/theme_options.php:1182
+#: ../themeoptions/theme_options.php:1274
+#, fuzzy
+msgid "Show the Title in post"
+msgstr "Отображать иконку автора в записях?"
+
+#: ../themeoptions/theme_options.php:1189
+#: ../themeoptions/theme_options.php:1280
+#, fuzzy
+msgid "Product Default Title Text"
+msgstr "Настройка страницы продукта"
+
+#: ../themeoptions/theme_options.php:1190
+#, fuzzy
+msgid "Category of product"
+msgstr "Связанные продукты"
+
+#: ../themeoptions/theme_options.php:1190
+#, fuzzy
+msgid "Product Title"
+msgstr "Продукт"
+
+#: ../themeoptions/theme_options.php:1190
+#: ../themeoptions/theme_options.php:1281
+#: ../themeoptions/theme_options.php:1441
+#, fuzzy
+msgid "Custom"
+msgstr "Пользовательский CSS"
+
+#: ../themeoptions/theme_options.php:1197
+#: ../themeoptions/theme_options.php:1288
+#: ../themeoptions/theme_options.php:1455
+#, fuzzy
+msgid "Post Default Title"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1198
+#: ../themeoptions/theme_options.php:1289
+msgid "Example: My Shop"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1204
+#: ../themeoptions/theme_options.php:1295
+#: ../themeoptions/theme_options.php:1462
+#, fuzzy
+msgid "Post Default Subtitle"
+msgstr "По умолчанию"
+
+#: ../themeoptions/theme_options.php:1210
+msgid "Display product tabs?"
+msgstr "Отображать закладки продуктов?"
+
+#: ../themeoptions/theme_options.php:1211
+msgid "This determines if product tabs are displayed"
+msgstr "Это определяет будут ли отображаться закладки для продуктов."
+
+#: ../themeoptions/theme_options.php:1217
+msgid "Display related products?"
+msgstr "Отображать связанные продукты?"
+
+#: ../themeoptions/theme_options.php:1218
+msgid "This determines related products are displayed"
+msgstr "Это определяет будут ли отображаться связанные продукты"
+
+#: ../themeoptions/theme_options.php:1226
+#, fuzzy
+msgid "Portfolio Options"
+msgstr "Опции поста портфолио"
+
+#: ../themeoptions/theme_options.php:1227
+msgid "Portfolio Options (Pinnacle Toolkit plugin required)"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1232
+msgid "Allow Comments on Portfolio Posts"
+msgstr "Разрешить комментарии на записях элементов портфолио."
+
+#: ../themeoptions/theme_options.php:1233
+msgid "Turn on to allow Comments on Portfolio posts"
+msgstr ""
+"Включите, чтобы разрешить комментарии на страницах элементов портфолио."
+
+#: ../themeoptions/theme_options.php:1239
+#, fuzzy
+msgid "Portfolio Grid Options"
+msgstr "Опции поста портфолио"
+
+#: ../themeoptions/theme_options.php:1246
+#, fuzzy
+msgid "Default Portfolio Layout Style"
+msgstr "Заголовок карусели портфолио домашней страницы"
+
+#: ../themeoptions/theme_options.php:1247
+msgid "This sets the defualt layout style for the portfolio post."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1255
+#, fuzzy
+msgid "Default Hover Style"
+msgstr "Сортировка по умолчанию"
+
+#: ../themeoptions/theme_options.php:1256
+msgid "This sets the defualt hover style for the portfolio post."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1257
+#, fuzzy
+msgid "Primary Color Style"
+msgstr "Основной цвет"
+
+#: ../themeoptions/theme_options.php:1257
+#, fuzzy
+msgid "Light Style"
+msgstr "Стиль"
+
+#: ../themeoptions/theme_options.php:1257
+#, fuzzy
+msgid "Dark Style"
+msgstr "Стиль рамки"
+
+#: ../themeoptions/theme_options.php:1262
+#, fuzzy
+msgid "Single Portfolio Page Header"
+msgstr "Заголовок карусели портфолио домашней страницы"
+
+#: ../themeoptions/theme_options.php:1281
+#, fuzzy
+msgid "Category of Portfolio"
+msgstr "Связанные продукты"
+
+#: ../themeoptions/theme_options.php:1281
+#, fuzzy
+msgid "Portfolio Title"
+msgstr "Виды работ портфолио"
+
+#: ../themeoptions/theme_options.php:1301
+#, fuzzy
+msgid "Single Portfolio Navigation Options"
+msgstr "Опции страницы Портфолио"
+
+#: ../themeoptions/theme_options.php:1306
+#, fuzzy
+msgid "Show portfolio nav below post title"
+msgstr "Заголовок карусели портфолио домашней страницы"
+
+#: ../themeoptions/theme_options.php:1314
+#, fuzzy
+msgid "All Projects Default Portfolio Page"
+msgstr "Страница портфолио всех проектов"
+
+#: ../themeoptions/theme_options.php:1315
+#, fuzzy
+msgid "This sets the link in every portfolio post."
+msgstr ""
+"Это установит ссылку на всех страницах каждого элемента портфолио. Внимание: "
+"вам все равно необходимо установить шаблон страницы для портфолио."
+
+#: ../themeoptions/theme_options.php:1320
+#, fuzzy
+msgid "Portfolio Post Bottom Carousel"
+msgstr "Карусель портфолио"
+
+#: ../themeoptions/theme_options.php:1325
+#, fuzzy
+msgid "Display Bottom Portfolio carousel by Default"
+msgstr "Карусель портфолио"
+
+#: ../themeoptions/theme_options.php:1333
+#, fuzzy
+msgid "Bottom Portfolio Carousel Items"
+msgstr "Карусель портфолио"
+
+#: ../themeoptions/theme_options.php:1334
+#, fuzzy
+msgid "All Portfolio Posts"
+msgstr "Опции поста портфолио"
+
+#: ../themeoptions/theme_options.php:1334
+msgid "Only of same Portfolio Type"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1341
+#, fuzzy
+msgid "Choose how many columns to show on recent portfolio carousel."
+msgstr "Укажите, сколько элементов размещается в карусели"
+
+#: ../themeoptions/theme_options.php:1350
+#, fuzzy
+msgid "Portfolio Category Pages"
+msgstr "Изображения для слайдера портфолио"
+
+#: ../themeoptions/theme_options.php:1355
+#, fuzzy
+msgid "Choose how many portfolio columns to show on portfolio catagory pages."
+msgstr "Укажите, сколько элементов размещается в карусели"
+
+#: ../themeoptions/theme_options.php:1366
+#: ../themeoptions/theme_options.php:1367
+#, fuzzy
+msgid "Blog Options"
+msgstr "Настройки Логотипа"
+
+#: ../themeoptions/theme_options.php:1372
+msgid "Show Comments Closed Text?"
+msgstr "Отображать текст \"Комментарии закрыты\"?"
+
+#: ../themeoptions/theme_options.php:1373
+msgid "Choose to show or hide comments closed alert below posts."
+msgstr ""
+"Выберите отображать или нет предупреждение о закрытии возможности оставлять "
+"комментарии внизу страницы записи."
+
+#: ../themeoptions/theme_options.php:1379
+#, fuzzy
+msgid "Show Author image with posts?"
+msgstr "Отображать иконку автора в записях?"
+
+#: ../themeoptions/theme_options.php:1380
+#, fuzzy
+msgid "Choose to show or hide author image beside post title."
+msgstr "Выберите обображать или нет иконку автора под заголовком записи."
+
+#: ../themeoptions/theme_options.php:1386
+#, fuzzy
+msgid "Show author name with posts?"
+msgstr "Отображать иконку автора в записях?"
+
+#: ../themeoptions/theme_options.php:1387
+#, fuzzy
+msgid "Choose to show or hide author name under post title."
+msgstr "Выберите обображать или нет иконку автора под заголовком записи."
+
+#: ../themeoptions/theme_options.php:1393
+#, fuzzy
+msgid "Show categories with posts?"
+msgstr "Отображать иконку автора в записях?"
+
+#: ../themeoptions/theme_options.php:1394
+#, fuzzy
+msgid "Choose to show or hide categories in the post footer."
+msgstr "Выберите обображать или нет иконку автора под заголовком записи."
+
+#: ../themeoptions/theme_options.php:1400
+#, fuzzy
+msgid "Show tags with posts?"
+msgstr "Отображать иконку автора в записях?"
+
+#: ../themeoptions/theme_options.php:1401
+#, fuzzy
+msgid "Choose to show or hide tags in the post footer."
+msgstr "Выберите обображать или нет иконку автора под заголовком записи."
+
+#: ../themeoptions/theme_options.php:1407
+#, fuzzy
+msgid "Show comment count with posts?"
+msgstr "Отображать иконку автора в записях?"
+
+#: ../themeoptions/theme_options.php:1408
+#, fuzzy
+msgid "Choose to show or hide comment count under post title."
+msgstr "Выберите обображать или нет иконку автора под заголовком записи."
+
+#: ../themeoptions/theme_options.php:1414
+#, fuzzy
+msgid "Show date with posts?"
+msgstr "Отображать иконку автора в записях?"
+
+#: ../themeoptions/theme_options.php:1415
+#, fuzzy
+msgid "Choose to show or hide date under post title."
+msgstr "Выберите обображать или нет иконку автора под заголовком записи."
+
+#: ../themeoptions/theme_options.php:1421
+msgid "Show Previous and Next posts links?"
+msgstr "Отображать ссылки на предыдущие и последующие посты?"
+
+#: ../themeoptions/theme_options.php:1422
+#, fuzzy
+msgid ""
+"Choose to show or hide previous and next post links in the footer of a "
+"single post."
+msgstr ""
+"Выберите обображать или нет ссылки на предыдущие и последующие посты в конце "
+"поста."
+
+#: ../themeoptions/theme_options.php:1428
+#, fuzzy
+msgid "Blog Post Page Header"
+msgstr "Все посты блога"
+
+#: ../themeoptions/theme_options.php:1433
+msgid "Show the post title in head by default"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1440
+#, fuzzy
+msgid "Blog Post Default Head Title"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1441
+#, fuzzy
+msgid "Category"
+msgstr "Категория:"
+
+#: ../themeoptions/theme_options.php:1441
+#, fuzzy
+msgid "Post Title"
+msgstr "Заголовок страницы"
+
+#: ../themeoptions/theme_options.php:1448
+msgid "Show the post title below the header"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1456
+#, fuzzy
+msgid "Example: Blog"
+msgstr "Элементов на страницу"
+
+#: ../themeoptions/theme_options.php:1468
+#, fuzzy
+msgid "Blog Post Defaults"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1473
+#, fuzzy
+msgid "Blog Post Sidebar Default"
+msgstr "Настройки краткого содержания записи блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1474
+#: ../themeoptions/theme_options.php:1482
+msgid "Yes, Show"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1474
+#: ../themeoptions/theme_options.php:1482
+#: ../themeoptions/theme_options.php:1490
+msgid "No, Do not Show"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1481
+#, fuzzy
+msgid "Blog Post Author Box Default"
+msgstr "Настройки краткого содержания записи блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1489
+#, fuzzy
+msgid "Blog Post Bottom Carousel Default"
+msgstr "Карусель портфолио"
+
+#: ../themeoptions/theme_options.php:1497
+#, fuzzy
+msgid "Blog Post Defaults Standard"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1502
+#, fuzzy
+msgid "Standard Blog Post Summary Default"
+msgstr "Настройки краткого содержания записи блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1510
+#, fuzzy
+msgid "Blog Post Defaults Image"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1515
+#, fuzzy
+msgid "Image Blog Post Summary Default"
+msgstr "Настройки краткого содержания записи блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1523
+#, fuzzy
+msgid "Single Image Post Head Content"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1531
+#, fuzzy
+msgid "Blog Post Defaults gallery"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1536
+#, fuzzy
+msgid "Gallery Blog Post Summary Default"
+msgstr "Настройки краткого содержания записи блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1537
+#, fuzzy
+msgid "Portrait Slider"
+msgstr "Сладер портретных изображений"
+
+#: ../themeoptions/theme_options.php:1537
+#, fuzzy
+msgid "Landscape Slider"
+msgstr "Слайдер пейзажных изображений"
+
+#: ../themeoptions/theme_options.php:1544
+#, fuzzy
+msgid "Single Gallery Post Head Content"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1545
+#, fuzzy
+msgid "Image Slider (Flex Slider)"
+msgstr "Слайдер изображений"
+
+#: ../themeoptions/theme_options.php:1545
+#, fuzzy
+msgid "Carousel Slider (Caroufedsel Slider)"
+msgstr "Слайдер изображений"
+
+#: ../themeoptions/theme_options.php:1552
+#, fuzzy
+msgid "Blog Post Defaults Video"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1557
+#, fuzzy
+msgid "Video Blog Post Summary Default"
+msgstr "Настройки краткого содержания записи блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1565
+#, fuzzy
+msgid "Single Video Post Head Content"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1573
+#, fuzzy
+msgid "Blog Category/Archive Defaults"
+msgstr "Настройки записей блога по умолчанию"
+
+#: ../themeoptions/theme_options.php:1578
+#, fuzzy
+msgid "Category Display Type"
+msgstr "Отображение самых свежих записей"
+
+#: ../themeoptions/theme_options.php:1586
+#, fuzzy
+msgid "Category Grid Columns"
+msgstr "Колонки"
+
+#: ../themeoptions/theme_options.php:1596
+#, fuzzy
+msgid "Display the sidebar on blog archives?"
+msgstr "Отображать боковую панель на странице архива Магазина?"
+
+#: ../themeoptions/theme_options.php:1597
+#, fuzzy
+msgid "This determines if there is a sidebar on the blog category pages."
+msgstr ""
+"Это определяет будет ли отображаться боковая панель на страницах Магазина и "
+"Каталога."
+
+#: ../themeoptions/theme_options.php:1607
+#, fuzzy
+msgid "Choose a Sidebar for your Category/Archive Pages"
+msgstr "Выберите боковую панель для вашей домашней страницы"
+
+#: ../themeoptions/theme_options.php:1618
+msgid "Basic Styling"
+msgstr "Базовые насройки стиля"
+
+#: ../themeoptions/theme_options.php:1619
+msgid "Basic Stylng"
+msgstr "Базовые настройки стиля"
+
+#: ../themeoptions/theme_options.php:1624
+msgid "Theme Skin Stylesheet"
+msgstr "Страница стилей скина темы"
+
+#: ../themeoptions/theme_options.php:1625
+msgid ""
+"Note* changes made in options panel will override this stylesheet. Example: "
+"Colors set in typography."
+msgstr ""
+"Внимание: изменения, сделанные в настройках темы имеют больший приоритет чем "
+"указанные в странице стилей. Например: цвета установленные в разделе "
+"Типография."
+
+#: ../themeoptions/theme_options.php:1635
+msgid "Choose the default Highlight color for your site."
+msgstr "Выберите цвет выделения по умоляанию для вашего сайта."
+
+#: ../themeoptions/theme_options.php:1643
+#, fuzzy
+msgid "Primary Hover Color"
+msgstr "Основной цвет"
+
+#: ../themeoptions/theme_options.php:1644
+#, fuzzy
+msgid "Recomended to be 20% lighter than primary color"
+msgstr "20% более яркий, чем основной цвет"
+
+#: ../themeoptions/theme_options.php:1653
+msgid "Sitewide Gray Fonts"
+msgstr "Серые шрифты для сайта"
+
+#: ../themeoptions/theme_options.php:1662
+msgid "Footer Font Color"
+msgstr "Цвет шрифтов подвала"
+
+#: ../themeoptions/theme_options.php:1673
+msgid "Advanced Styling"
+msgstr "Расширенные настройки стиля"
+
+#: ../themeoptions/theme_options.php:1674
+msgid "Main Content Background"
+msgstr "Цвет фона основного содержимого"
+
+#: ../themeoptions/theme_options.php:1680
+#, fuzzy
+msgid "Content Background"
+msgstr "Цвет фона основного содержимого"
+
+#: ../themeoptions/theme_options.php:1685
+#: ../themeoptions/theme_options.php:1691
+msgid "Topbar Background"
+msgstr "Фон чердака"
+
+#: ../themeoptions/theme_options.php:1696
+#: ../themeoptions/theme_options.php:1710
+msgid "Header Background"
+msgstr "Фон заголовков"
+
+#: ../themeoptions/theme_options.php:1701
+#, fuzzy
+msgid "Header Background Style"
+msgstr "Фон заголовков"
+
+#: ../themeoptions/theme_options.php:1702
+msgid "Simple"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1716
+#, fuzzy
+msgid "Header Background Color"
+msgstr "Фон заголовков"
+
+#: ../themeoptions/theme_options.php:1725
+msgid "If background is color, select Transparency"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1734
+#: ../themeoptions/theme_options.php:1740
+#, fuzzy
+msgid "Menu Background"
+msgstr "Фон мобильного меню"
+
+#: ../themeoptions/theme_options.php:1745
+#: ../themeoptions/theme_options.php:1751
+msgid "Mobile Menu Background"
+msgstr "Фон мобильного меню"
+
+#: ../themeoptions/theme_options.php:1756
+#, fuzzy
+msgid "Post and Page Content area Background"
+msgstr "Цвет фона основного содержимого"
+
+#: ../themeoptions/theme_options.php:1762
+#, fuzzy
+msgid "Post Background"
+msgstr "Фон подвала"
+
+#: ../themeoptions/theme_options.php:1767
+#: ../themeoptions/theme_options.php:1773
+msgid "Footer Background"
+msgstr "Фон подвала"
+
+#: ../themeoptions/theme_options.php:1778
+#: ../themeoptions/theme_options.php:1784
+msgid "Body Background"
+msgstr "Фон раздела body"
+
+#: ../themeoptions/theme_options.php:1785
+msgid "This shows if site is using the boxed layout option."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1792
+msgid "Typography"
+msgstr "Типография"
+
+#: ../themeoptions/theme_options.php:1793
+msgid "Header Font Options"
+msgstr "Настройки шрифтов заголовков"
+
+#: ../themeoptions/theme_options.php:1798
+msgid "H1 Headings"
+msgstr "Заголовок H1"
+
+#: ../themeoptions/theme_options.php:1810
+msgid "Choose Size and Style for h1 (This Styles Your Page Titles)"
+msgstr ""
+"Выберите размер и стиль для заголовка H1 (это стиль заголовков страниц)"
+
+#: ../themeoptions/theme_options.php:1821
+msgid "H2 Headings"
+msgstr "Заголовок Н2"
+
+#: ../themeoptions/theme_options.php:1836
+msgid "Choose Size and Style for h2"
+msgstr "Выберите размер и стиль для заголовка H2"
+
+#: ../themeoptions/theme_options.php:1847
+msgid "H3 Headings"
+msgstr "Заголовок Н3"
+
+#: ../themeoptions/theme_options.php:1862
+msgid "Choose Size and Style for h3"
+msgstr "Выберите размер и стиль для заголовка H3"
+
+#: ../themeoptions/theme_options.php:1873
+msgid "H4 Headings"
+msgstr "Заголовок Н4"
+
+#: ../themeoptions/theme_options.php:1888
+msgid "Choose Size and Style for h4"
+msgstr "Выберите размер и стиль для заголовка H4"
+
+#: ../themeoptions/theme_options.php:1899
+msgid "H5 Headings"
+msgstr "Заголовок Н5"
+
+#: ../themeoptions/theme_options.php:1912
+msgid "Choose Size and Style for h5"
+msgstr "Выберите размер и стиль для заголовка H5"
+
+#: ../themeoptions/theme_options.php:1923
+#, fuzzy
+msgid "Page Subtitle"
+msgstr "Заголовок страницы"
+
+#: ../themeoptions/theme_options.php:1935
+#, fuzzy
+msgid "Choose Size and Style for Page Subtitle"
+msgstr "Выберите размер и стиль для мобильного меню"
+
+#: ../themeoptions/theme_options.php:1946
+msgid "Body Font Options"
+msgstr "Настройки шрифта раздела body"
+
+#: ../themeoptions/theme_options.php:1951
+msgid "Body Font"
+msgstr "Шрифт раздела body"
+
+#: ../themeoptions/theme_options.php:1966
+msgid "Choose Size and Style for paragraphs"
+msgstr "Выберите размер и стиль для отображения текста параграфов"
+
+#: ../themeoptions/theme_options.php:1979
+msgid "Menu Settings"
+msgstr "Настройки меню"
+
+#: ../themeoptions/theme_options.php:1980
+msgid "Primary Menu Options"
+msgstr "Главное меню"
+
+#: ../themeoptions/theme_options.php:1985
+msgid "Primary Menu Font"
+msgstr "Шрифт главного меню"
+
+#: ../themeoptions/theme_options.php:2000
+msgid "Choose Size and Style for primary menu"
+msgstr "Выберите размер и стиль для главного меню"
+
+#: ../themeoptions/theme_options.php:2010
+msgid "Mobile Menu Options"
+msgstr "Настройки мобильного меню"
+
+#: ../themeoptions/theme_options.php:2015
+msgid "Mobile Menu Font"
+msgstr "Шрифт мобильного меню"
+
+#: ../themeoptions/theme_options.php:2030
+msgid "Choose Size and Style for Mobile Menu"
+msgstr "Выберите размер и стиль для мобильного меню"
+
+#: ../themeoptions/theme_options.php:2041
+#, fuzzy
+msgid "Topbar Menu Options"
+msgstr "Настройки мобильного меню"
+
+#: ../themeoptions/theme_options.php:2046
+#, fuzzy
+msgid "Topbar Menu Font"
+msgstr "Шрифт мобильного меню"
+
+#: ../themeoptions/theme_options.php:2058
+#, fuzzy
+msgid "Choose Size and Style for topbar menu"
+msgstr "Выберите размер и стиль для главного меню"
+
+#: ../themeoptions/theme_options.php:2070
+#: ../themeoptions/theme_options.php:2071
+msgid "Misc Settings"
+msgstr "Прочие настройки"
+
+#: ../themeoptions/theme_options.php:2077
+msgid "Custom Favicon"
+msgstr "Настройка иконки сайта."
+
+#: ../themeoptions/theme_options.php:2078
+msgid ""
+"Upload a 16px x 16px png/gif/ico image that will represent your website "
+"favicon."
+msgstr ""
+"Загрузите изображение размера 16х16 в формате png/gif/ico для использования "
+"в качестве иконки вашего сайта."
+
+#: ../themeoptions/theme_options.php:2083
+msgid "Footer Copyright Text"
+msgstr "Текст сообщения об авторских правах для подвала"
+
+#: ../themeoptions/theme_options.php:2084
+msgid ""
+"Write your own copyright text here. You can use the following shortcodes in "
+"your footer text: [copyright] [site-name] [the-year]"
+msgstr ""
+"Напишите свой текст сообщения об авторских правах. Вы можете использовать "
+"следующие макросы для вашего текста: [copyright] [site-name] [the-year]"
+
+#: ../themeoptions/theme_options.php:2090
+#, fuzzy
+msgid "Search Results Sidebars"
+msgstr "Результаты поиска по запросу %s"
+
+#: ../themeoptions/theme_options.php:2095
+#, fuzzy
+msgid "Search Results - choose Sidebar"
+msgstr "Результаты поиска по запросу %s"
+
+#: ../themeoptions/theme_options.php:2103
+msgid "Create Sidebars"
+msgstr "Создать боковую панель"
+
+#: ../themeoptions/theme_options.php:2108
+msgid "Create Custom Sidebars"
+msgstr "Создать нестандартные боковые панели"
+
+#: ../themeoptions/theme_options.php:2109
+msgid "Type new sidebar name into textbox"
+msgstr "Введите название новой боковой панели в поле"
+
+#: ../themeoptions/theme_options.php:2110
+msgid "Extra Sidebar"
+msgstr "Дополнительные боковые панели"
+
+#: ../themeoptions/theme_options.php:2115
+#, fuzzy
+msgid "WordPress Galleries"
+msgstr "Галереи WordPress"
+
+#: ../themeoptions/theme_options.php:2120
+#, fuzzy
+msgid "Enable Pinnacle Galleries to override WordPress"
+msgstr "Включите галереи Virtue вместо галерей WordPress"
+
+#: ../themeoptions/theme_options.php:2121
+msgid "You must have virtue/pinnacle toolkit installed to use."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:2129
+#: ../themeoptions/theme_options.php:2135
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: ../themeoptions/theme_options.php:2130
+msgid "Custom CSS Box"
+msgstr "Пользовательский стиль CSS"
+
+#: ../themeoptions/theme_options.php:2136
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr "Быстро добавьте код CSS к вашей теме добавляя его в этот блок кода."
+
+#: ../themeoptions/theme_options.php:2156
+#: ../themeoptions/theme_options.php:2157
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: ../themeoptions/theme_options.php:2164
+#, fuzzy
+msgid ""
+"Thank you for using the Pinnacle Theme by <a href=\"http://kadencethemes.com/"
+"\" target=\"_blank\">Kadence Themes</a>."
+msgstr ""
+"Благодарим вас за использование  Virtue Theme by <a href=\"http://"
+"kadencethemes.com/\" target=\"_blank\">Kadence Themes</a>."
+
+#: ../woocommerce/loop/rating.php:20
+#, fuzzy
+msgid "not rated"
+msgstr "Не активирован"
+
+#: ../woocommerce/loop/sale-flash.php:14
+msgid "Sale!"
+msgstr "Распродажа!"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr "Выберите вариант"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:60
+msgid "Clear selection"
+msgstr "Очистить выбор"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:92
+msgid "This product is currently out of stock and unavailable."
+msgstr "Этот товар на данный момент отсутствует и недоступен."
+
+#: ../woocommerce/single-product/product-image.php:51
+#, fuzzy
+msgid "Placeholder"
+msgstr "Оформить заказ"
+
+#~ msgid "Add/Edit Gallery"
+#~ msgstr "Добавить/Редактировать галерею"
+
+#~ msgid "Clear Gallery"
+#~ msgstr "Очистить галерею"
+
+#~ msgid "Page Title and Subtitle"
+#~ msgstr "Заголовок и подзаголовок страницы"
+
+#~ msgid "Subtitle"
+#~ msgstr "Подзаголовок"
+
+#~ msgid "Subtitle will go below page title"
+#~ msgstr "Подзаголовок, размещаемый под заголовком страницы"
+
+#, fuzzy
+#~ msgid "Hide Page Title"
+#~ msgstr "Заголовок страницы"
+
+#, fuzzy
+#~ msgid "Page Title background behind Header"
+#~ msgstr "Заголовок и подзаголовок страницы"
+
+#, fuzzy
+#~ msgid "Post Title and Subtitle"
+#~ msgstr "Заголовок и подзаголовок страницы"
+
+#, fuzzy
+#~ msgid "Post Header Title"
+#~ msgstr "Стиль рамки"
+
+#, fuzzy
+#~ msgid "Subtitle will go below post title"
+#~ msgstr "Подзаголовок, размещаемый под заголовком страницы"
+
+#, fuzzy
+#~ msgid "Gallery Post Options"
+#~ msgstr "Опции поста"
+
+#, fuzzy
+#~ msgid "Post Head Content"
+#~ msgstr "Содержимое заголовка страницы"
+
+#, fuzzy
+#~ msgid "Gallery Post Default"
+#~ msgstr "Настройки записей блога по умолчанию"
+
+#, fuzzy
+#~ msgid "Image Slider - (Flex Slider)"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid "Carousel Slider - (Caroufedsel Slider)"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid "Post Slider Gallery"
+#~ msgstr "Галерея постов"
+
+#, fuzzy
+#~ msgid "Add images for gallery here"
+#~ msgstr "Добавить изображения в галерею"
+
+#, fuzzy
+#~ msgid "Max Slider Height"
+#~ msgstr "Максимальная высота Изображения/Слайдера"
+
+#, fuzzy
+#~ msgid "Default is: 400 (Note: just input number, example: 350)"
+#~ msgstr ""
+#~ "По умолчанию: 400 <b>(Внимание, просто введите значение, например: 350)</"
+#~ "b>"
+
+#, fuzzy
+#~ msgid "Max Slider Width"
+#~ msgstr "Максимальная ширина Изображения/Слайдера"
+
+#, fuzzy
+#~ msgid ""
+#~ "Default is: 848 or 1140 on fullwidth posts (Note: just input number, "
+#~ "example: 650, only applys to Image Slider)"
+#~ msgstr ""
+#~ "По умолчанию: 770 или 1170 для полноэкранных постов <b>(Внимание, просто "
+#~ "введите значение, например: 650, не применяется для слайдера карусели)</b>"
+
+#, fuzzy
+#~ msgid "Portrait Image (feature image)"
+#~ msgstr "Сладер портретных изображений"
+
+#, fuzzy
+#~ msgid "Landscape Image (feature image)"
+#~ msgstr "Слайдер пейзажных изображений"
+
+#~ msgid "Portrait Image Slider"
+#~ msgstr "Сладер портретных изображений"
+
+#~ msgid "Landscape Image Slider"
+#~ msgstr "Слайдер пейзажных изображений"
+
+#, fuzzy
+#~ msgid "Video Post Options"
+#~ msgstr "Опции поста"
+
+#, fuzzy
+#~ msgid "Video Post Default"
+#~ msgstr "Настройки записей блога по умолчанию"
+
+#, fuzzy
+#~ msgid "Video Post embed code"
+#~ msgstr "Код встраиваемого видео"
+
+#, fuzzy
+#~ msgid ""
+#~ "Place Embed Code Here, works with youtube, vimeo. (Use the featured image "
+#~ "for screen shot)"
+#~ msgstr "Разместите ваш встроенный код здесь, работает для youtube, vimeo..."
+
+#, fuzzy
+#~ msgid "Max Video Width"
+#~ msgstr "Максимальная ширина слайдера."
+
+#, fuzzy
+#~ msgid ""
+#~ "Default is: 848 or 1140 on fullwidth posts (Note: just input number, "
+#~ "example: 650, does not apply to carousel slider)"
+#~ msgstr ""
+#~ "По умолчанию: 770 или 1170 для полноэкранных постов <b>(Внимание, просто "
+#~ "введите значение, например: 650, не применяется для слайдера карусели)</b>"
+
+#~ msgid "Portfolio Post Options"
+#~ msgstr "Опции поста портфолио"
+
+#~ msgid "Project Layout"
+#~ msgstr "Формат проекта"
+
+#, fuzzy
+#~ msgid "Beside 40%"
+#~ msgstr "Рядом"
+
+#, fuzzy
+#~ msgid "Beside 33%"
+#~ msgstr "Рядом"
+
+#~ msgid "Above"
+#~ msgstr "Сверху"
+
+#~ msgid "Three Rows"
+#~ msgstr "Три ряда"
+
+#~ msgid "Project Options"
+#~ msgstr "Опции проекта"
+
+#, fuzzy
+#~ msgid "Portfolio Slider/Images"
+#~ msgstr "Изображения для слайдера портфолио"
+
+#, fuzzy
+#~ msgid "Add images for post here"
+#~ msgstr "Добавить изображения в галерею"
+
+#~ msgid "Max Image/Slider Height"
+#~ msgstr "Максимальная высота Изображения/Слайдера"
+
+#, fuzzy
+#~ msgid "Default is: 450 (Note: just input number, example: 350)"
+#~ msgstr ""
+#~ "По умолчанию: 450 <b>(Внимание, просто введите значение, например: 350)</"
+#~ "b>"
+
+#~ msgid "Max Image/Slider Width"
+#~ msgstr "Максимальная ширина Изображения/Слайдера"
+
+#, fuzzy
+#~ msgid ""
+#~ "Default is: 670 or 1140 on above or three row layouts (Note: just input "
+#~ "number, example: 650)"
+#~ msgstr ""
+#~ "По умолчанию: 670 или 1170 на <b> Сверху </> или <b> Три ряда </b> "
+#~ "форматах  <b>(Внимание, просто введите значение, например: 650)</b>"
+
+#~ msgid "Value 01 Title"
+#~ msgstr "Название параметра 01"
+
+#~ msgid "ex. Project Type:"
+#~ msgstr "например: Тип проекта:"
+
+#~ msgid "Value 01 Description"
+#~ msgstr "Описание параметра 01"
+
+#~ msgid "ex. Character Illustration"
+#~ msgstr "например: Описание иллюстрации"
+
+#~ msgid "Value 02 Title"
+#~ msgstr "Название параметра 02"
+
+#~ msgid "ex. Skills Needed:"
+#~ msgstr "например: Требуемые навыки:"
+
+#~ msgid "Value 02 Description"
+#~ msgstr "Описание параметра 02"
+
+#~ msgid "ex. Photoshop, Illustrator"
+#~ msgstr "например: Фотошоп, Иллюстратор"
+
+#~ msgid "Value 03 Title"
+#~ msgstr "Название параметра 03"
+
+#~ msgid "ex. Customer:"
+#~ msgstr "например: Клиент:"
+
+#~ msgid "Value 03 Description"
+#~ msgstr "Описание параметра 03"
+
+#~ msgid "ex. Example Inc"
+#~ msgstr "например: Ромашка Инкорпорейтед"
+
+#~ msgid "Value 04 Title"
+#~ msgstr "Название параметра 04"
+
+#~ msgid "ex. Project Year:"
+#~ msgstr "например: Год проекта:"
+
+#~ msgid "Value 04 Description"
+#~ msgstr "Описание параметра 04"
+
+#~ msgid "ex. 2013"
+#~ msgstr "например: 2013"
+
+#~ msgid "External Website"
+#~ msgstr "Внешний сайт"
+
+#~ msgid "ex. Website:"
+#~ msgstr "например: Сайт:"
+
+#~ msgid "Website Address"
+#~ msgstr "Адрес сайта"
+
+#~ msgid "ex. http://www.example.com"
+#~ msgstr "например: https://www.example.com"
+
+#~ msgid "If Video Project"
+#~ msgstr "Видео-проект"
+
+#~ msgid "Place Embed Code Here, works with youtube, vimeo..."
+#~ msgstr "Разместите ваш встроенный код здесь, работает для youtube, vimeo..."
+
+#, fuzzy
+#~ msgid "Bottom Carousel Options"
+#~ msgstr "Страница опций контактов"
+
+#~ msgid "ex. Similar Projects"
+#~ msgstr "например, Подобные проекты"
+
+#, fuzzy
+#~ msgid "Bottom Portfolio Carousel"
+#~ msgstr "Карусель портфолио"
+
+#, fuzzy
+#~ msgid "Display a carousel with portfolio items below project?"
+#~ msgstr "Отображать карусель с подобными элементами портфолио под проектом?"
+
+#, fuzzy
+#~ msgid "Carousel Items"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "Carousel Order"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "Product Sidebar Options"
+#~ msgstr "Опции боковой панели"
+
+#~ msgid "Portfolio Page Options"
+#~ msgstr "Опции страницы Портфолио"
+
+#~ msgid "Style"
+#~ msgstr "Стиль"
+
+#, fuzzy
+#~ msgid "Hover Style"
+#~ msgstr "Стиль рамки"
+
+#~ msgid "Columns"
+#~ msgstr "Колонки"
+
+#, fuzzy
+#~ msgid "Five Column"
+#~ msgstr "Четыре колонки"
+
+#~ msgid "Portfolio Work Types"
+#~ msgstr "Виды работ портфолио"
+
+#~ msgid "Order Items By"
+#~ msgstr "Сортировать элементы по"
+
+#~ msgid "Items per Page"
+#~ msgstr "Элементов на страницу"
+
+#~ msgid "How many portfolio items per page"
+#~ msgstr "Количество элементов портфолио на одной странице"
+
+#, fuzzy
+#~ msgid "Image Ratio?"
+#~ msgstr "Ссыдка на изображение"
+
+#~ msgid "Display Item Work Types"
+#~ msgstr "Отображать виды работ элемента"
+
+#~ msgid "Display Item Excerpt"
+#~ msgstr "Отображать выдержки описания элемента"
+
+#, fuzzy
+#~ msgid "Add Lightbox link in each item"
+#~ msgstr "Добавить ссылку Lightbox в правом верхнем углу каждого элемента"
+
+#~ msgid "Feature Page Options"
+#~ msgstr "Опции страницы свойств"
+
+#, fuzzy
+#~ msgid "Header Options"
+#~ msgstr "Настройки шрифтов заголовков"
+
+#, fuzzy
+#~ msgid "If image slider make sure images uploaded are at-least 1170px wide."
+#~ msgstr ""
+#~ "Если собираетесь загрузить изображения для слайдера, убедитесь, что их "
+#~ "ширина как минимум 1140 пикселей."
+
+#, fuzzy
+#~ msgid "If Cyclone Slider"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid ""
+#~ "Default is: 1140 on fullwidth posts (Note: just input number, example: "
+#~ "650, does not apply to Carousel slider)"
+#~ msgstr ""
+#~ "По умолчанию: 770 или 1170 для полноэкранных постов <b>(Внимание, просто "
+#~ "введите значение, например: 650, не применяется для слайдера карусели)</b>"
+
+#~ msgid "If Video Post"
+#~ msgstr "Если видео-пост"
+
+#~ msgid "Contact Page Options"
+#~ msgstr "Страница опций контактов"
+
+#~ msgid "Use Contact Form"
+#~ msgstr "Использовать контактную форму"
+
+#~ msgid "Contact Form Title"
+#~ msgstr "Заголовок контактной формы"
+
+#~ msgid "ex. Send us an Email"
+#~ msgstr "например, Отправьте нам сообщение по электронной почте"
+
+#, fuzzy
+#~ msgid "Contact Form Email Recipient"
+#~ msgstr "Адрес электронной почты для контактной формы"
+
+#~ msgid "Use Map"
+#~ msgstr "Использовать карту"
+
+#~ msgid "Address"
+#~ msgstr "Адрес"
+
+#~ msgid "Enter your Location"
+#~ msgstr "Введите ваше местоположение"
+
+#~ msgid "Map Type"
+#~ msgstr "Тип карты"
+
+#~ msgid "ROADMAP"
+#~ msgstr "ДОРОГИ"
+
+#~ msgid "HYBRID"
+#~ msgstr "ГИБРИД"
+
+#~ msgid "TERRAIN"
+#~ msgstr "МЕСТНОСТЬ"
+
+#~ msgid "SATELLITE"
+#~ msgstr "СПУТНИК"
+
+#~ msgid "Map Zoom Level"
+#~ msgstr "Масштаб"
+
+#~ msgid "A good place to start is 15"
+#~ msgstr "Наболее подходящий начальный масштаб 15"
+
+#~ msgid "1 (World View)"
+#~ msgstr "1 (Вид карты мира)"
+
+#~ msgid "21 (Street View)"
+#~ msgstr "21 (Вид улиц)"
+
+#~ msgid "Map Height"
+#~ msgstr "Высота карты"
+
+#~ msgid "Default is 300"
+#~ msgstr "По умолчанию 300"
+
+#, fuzzy
+#~ msgid "This field is required."
+#~ msgstr "Это поле должно содержать корректную дату."
+
+#, fuzzy
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Ведите действующий адрес электронной почты."
+
+#~ msgid "Please enter your name."
+#~ msgstr "Пожалуйста, укажите свое имя."
+
+#~ msgid "Please enter your email address."
+#~ msgstr "Пожалуйста, укажите адрес своей электронной почты."
+
+#~ msgid "You entered an invalid email address."
+#~ msgstr "Вы ввели некорректный адрес электронной почты."
+
+#~ msgid "Please enter a message."
+#~ msgstr "Пожалуйста, введите текст сообщения."
+
+#, fuzzy
+#~ msgid "Contact"
+#~ msgstr " Контакт"
+
+#~ msgid "From"
+#~ msgstr "От"
+
+#~ msgid "Thanks, your email was sent successfully."
+#~ msgstr "Спасибо, ваше сообщение успешно отправлено."
+
+#~ msgid "Sorry, an error occured."
+#~ msgstr "Извините, возникла ошибка."
+
+#, fuzzy
+#~ msgid "Message:"
+#~ msgstr "Сообщение:"
+
+#~ msgid "Send Email"
+#~ msgstr "Отправить сообщение"
+
+#, fuzzy
+#~ msgid "Search results for"
+#~ msgstr "Результаты поиска по запросу %s"
+
+#~ msgid "Error 404"
+#~ msgstr "Ошибка 404"
+
+#, fuzzy
+#~ msgid " - Page"
+#~ msgstr "Страница"
+
+#, fuzzy
+#~ msgid "Sorry, no post entries found."
+#~ msgstr "Приносим извинения, записи блога не найдены."
+
+#~ msgid "External Link"
+#~ msgstr "Внешняя ссылка"
+
+#~ msgid "Your Cart"
+#~ msgstr "Ваша корзина"
+
+#, fuzzy
+#~ msgid "%s (Invalid)"
+#~ msgstr "Недействительный"
+
+#, fuzzy
+#~ msgid "Move up"
+#~ msgstr "Удалить"
+
+#, fuzzy
+#~ msgid "Edit Menu Item"
+#~ msgstr "Virtue: таблица изображений"
+
+#, fuzzy
+#~ msgid "Navigation Label"
+#~ msgstr "Мобильная навигация"
+
+#, fuzzy
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "Открыть ссылку в новой вкладке/окне"
+
+#, fuzzy
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "Настройки повторяемости изображения"
+
+#, fuzzy
+#~ msgid "Enable Large Menu"
+#~ msgstr "Меню иконок домашней страницы"
+
+#, fuzzy
+#~ msgid "Number of Columns"
+#~ msgstr "Количество отображаемых постов:"
+
+#~ msgid "Cancel"
+#~ msgstr "Отменить"
+
+#, fuzzy
+#~ msgid "Example Home"
+#~ msgstr "Элементов на страницу"
+
+#, fuzzy
+#~ msgid "Product Video"
+#~ msgstr "Продукт"
+
+#, fuzzy
+#~ msgid "Custom Tab"
+#~ msgstr "Пользовательский CSS"
+
+#, fuzzy
+#~ msgid "Wide Content"
+#~ msgstr "Содержимое страницы"
+
+#, fuzzy
+#~ msgid "Background"
+#~ msgstr "Фон раздела body"
+
+#, fuzzy
+#~ msgid "Background Image"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Background Image Position"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Left Top"
+#~ msgstr "Лево"
+
+#, fuzzy
+#~ msgid "Left Bottom"
+#~ msgstr "Низ"
+
+#, fuzzy
+#~ msgid "Center Bottom"
+#~ msgstr "Низ"
+
+#, fuzzy
+#~ msgid "Right Top"
+#~ msgstr "Право"
+
+#, fuzzy
+#~ msgid "Right Bottom"
+#~ msgstr "Низ"
+
+#, fuzzy
+#~ msgid "Repeat Background Image"
+#~ msgstr "Фон чердака"
+
+#, fuzzy
+#~ msgid "Background Cover"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Padding Bottom"
+#~ msgstr "Низ"
+
+#, fuzzy
+#~ msgid "Two Columns"
+#~ msgstr "Две колонки"
+
+#, fuzzy
+#~ msgid "Two Columns offset Left"
+#~ msgstr "Две колонки"
+
+#, fuzzy
+#~ msgid "Three Columns"
+#~ msgstr "Три колонки"
+
+#, fuzzy
+#~ msgid "Four Columns"
+#~ msgstr "Четыре колонки"
+
+#~ msgid "Size"
+#~ msgstr "Размер"
+
+#, fuzzy
+#~ msgid "Spacing"
+#~ msgstr "Отступ логотипа сверху"
+
+#, fuzzy
+#~ msgid "Align"
+#~ msgstr "Выравнивание"
+
+#, fuzzy
+#~ msgid "Padding Bottom (just a number)"
+#~ msgstr "Низ"
+
+#~ msgid "Background Color"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Background Color Opacity"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Content Text"
+#~ msgstr "Текст сообщения об авторских правах для подвала"
+
+#, fuzzy
+#~ msgid "Open Link In New Tab?"
+#~ msgstr "Открыть ссылку в новой вкладке/окне"
+
+#, fuzzy
+#~ msgid "Font Color"
+#~ msgstr "Цвет шрифта"
+
+#, fuzzy
+#~ msgid "Font Hover Color"
+#~ msgstr "Цвет шрифта"
+
+#, fuzzy
+#~ msgid "Button Background Hover Color"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Button Size"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Font Family"
+#~ msgstr "Семейство шрифтов"
+
+#, fuzzy
+#~ msgid "H1 Family"
+#~ msgstr "Семейство шрифтов"
+
+#, fuzzy
+#~ msgid "Choose an Icon (optional)"
+#~ msgstr "Выберите вариант"
+
+#, fuzzy
+#~ msgid "Address One"
+#~ msgstr "Адрес"
+
+#, fuzzy
+#~ msgid "Map Zoom"
+#~ msgstr "Масштаб"
+
+#, fuzzy
+#~ msgid "Address Two"
+#~ msgstr "Адрес"
+
+#, fuzzy
+#~ msgid "Address Three"
+#~ msgstr "Адрес"
+
+#, fuzzy
+#~ msgid "Address Four"
+#~ msgstr "Адрес"
+
+#, fuzzy
+#~ msgid "Map Center"
+#~ msgstr "Высота карты"
+
+#, fuzzy
+#~ msgid "Choose an Icon"
+#~ msgstr "Выбрать иконку"
+
+#, fuzzy
+#~ msgid "Icon Size"
+#~ msgstr "Меню иконок"
+
+#, fuzzy
+#~ msgid "Icon Style"
+#~ msgstr "Стиль шрифта"
+
+#, fuzzy
+#~ msgid "Hover Icon Background Color"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Show Button?"
+#~ msgstr "Отображать подписи?"
+
+#, fuzzy
+#~ msgid "Button Text e.g. Read More"
+#~ msgstr "Читать далее"
+
+#, fuzzy
+#~ msgid "Video URL"
+#~ msgstr "Видео"
+
+#, fuzzy
+#~ msgid "Video Width"
+#~ msgstr "Максимальная ширина слайдера."
+
+#, fuzzy
+#~ msgid "Video Height"
+#~ msgstr "Максимальная высота слайдера"
+
+#, fuzzy
+#~ msgid "Video Max Width"
+#~ msgstr "Максимальная ширина слайдера."
+
+#, fuzzy
+#~ msgid "Hide Controls"
+#~ msgstr "Скрыть подробности"
+
+#, fuzzy
+#~ msgid "Auto Play"
+#~ msgstr "Автозапуск?"
+
+#, fuzzy
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo:"
+
+#, fuzzy
+#~ msgid "Order By"
+#~ msgstr "Заказать"
+
+#, fuzzy
+#~ msgid "Number of Posts"
+#~ msgstr "Количество отображаемых постов:"
+
+#, fuzzy
+#~ msgid "Staff Posts"
+#~ msgstr "Подобные посты"
+
+#, fuzzy
+#~ msgid "Link to single post?"
+#~ msgstr "Единственный результат"
+
+#, fuzzy
+#~ msgid "Use Full Content?"
+#~ msgstr "Содержимое страницы"
+
+#, fuzzy
+#~ msgid "Image Ratio"
+#~ msgstr "Ссыдка на изображение"
+
+#, fuzzy
+#~ msgid "Portrait"
+#~ msgstr "Портретное изображение"
+
+#, fuzzy
+#~ msgid "Landscape"
+#~ msgstr "Пейзажное изображение"
+
+#, fuzzy
+#~ msgid "Widelandscape"
+#~ msgstr "Пейзажное изображение"
+
+#, fuzzy
+#~ msgid "Button Title"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Button Font Color"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Modal Title"
+#~ msgstr "Заголовок страницы"
+
+#, fuzzy
+#~ msgid "Modal Content"
+#~ msgstr "Содержимое заголовка страницы"
+
+#, fuzzy
+#~ msgid "Testimonial Form"
+#~ msgstr "Настройки темы"
+
+#, fuzzy
+#~ msgid "Show Location Field?"
+#~ msgstr "Отображать подписи?"
+
+#, fuzzy
+#~ msgid "Default: Name"
+#~ msgstr "По умолчанию"
+
+#, fuzzy
+#~ msgid "Testimonial Field Label"
+#~ msgstr "Настройки темы"
+
+#, fuzzy
+#~ msgid "Default: Testimonial"
+#~ msgstr "Просмотреть варианты"
+
+#, fuzzy
+#~ msgid "Default: Link - optional"
+#~ msgstr "Настройки повторяемости изображения"
+
+#, fuzzy
+#~ msgid "Default: Submit"
+#~ msgstr "По умолчанию"
+
+#, fuzzy
+#~ msgid "Pinnacle Shortcodes"
+#~ msgstr "Добавить еще"
+
+#, fuzzy
+#~ msgid "Choose a shortcode"
+#~ msgstr "Выберите вариант"
+
+#, fuzzy
+#~ msgid "Add Shortcode"
+#~ msgstr "Добавить еще"
+
+#, fuzzy
+#~ msgid "Align Text"
+#~ msgstr "Текст"
+
+#, fuzzy
+#~ msgid "Align Left"
+#~ msgstr "Выравнивание"
+
+#, fuzzy
+#~ msgid "Align Center"
+#~ msgstr "Высота карты"
+
+#, fuzzy
+#~ msgid "Align Right"
+#~ msgstr "Выравнивание"
+
+#, fuzzy
+#~ msgid "Image Carousel - (Caroufedsel Carousel)"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "Shortcode"
+#~ msgstr "Добавить еще"
+
+#, fuzzy
+#~ msgid "Gallery Post Shortcode"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "If using shortcode place here."
+#~ msgstr "Выберите вариант"
+
+#, fuzzy
+#~ msgid "Video Post Shortcode"
+#~ msgstr "Добавить еще"
+
+#, fuzzy
+#~ msgid "Image Carousel"
+#~ msgstr "Карусель постов"
+
+#, fuzzy
+#~ msgid "Shortcode Slider"
+#~ msgstr "Мобильный слайдер"
+
+#, fuzzy
+#~ msgid "Image List"
+#~ msgstr "Ссыдка на изображение"
+
+#, fuzzy
+#~ msgid "Image List Style 2"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid "Slider Shortcode"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "Project Summary"
+#~ msgstr "Разместить краткое содержание"
+
+#~ msgid "Image Slider"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid "Choose Portfolio Parent Page"
+#~ msgstr "Заголовок карусели портфолио домашней страницы"
+
+#, fuzzy
+#~ msgid "Testimonial Options"
+#~ msgstr "Настройки темы"
+
+#, fuzzy
+#~ msgid "ex: CEO of Example Inc"
+#~ msgstr "например: Ромашка Инкорпорейтед"
+
+#, fuzzy
+#~ msgid "ex: http://www.example.com"
+#~ msgstr "например: https://www.example.com"
+
+#, fuzzy
+#~ msgid "Staff Options"
+#~ msgstr "Страница опций контактов"
+
+#, fuzzy
+#~ msgid "Job Title"
+#~ msgstr "Заголовок страницы"
+
+#, fuzzy
+#~ msgid "ex: Customer Service"
+#~ msgstr "%s отзыв"
+
+#, fuzzy
+#~ msgid "Facebook Link"
+#~ msgstr "Facebook:"
+
+#, fuzzy
+#~ msgid "Twitter Link"
+#~ msgstr "Twitter:"
+
+#, fuzzy
+#~ msgid "Instagram Link"
+#~ msgstr "Instagram:"
+
+#, fuzzy
+#~ msgid "Linkedin Link"
+#~ msgstr "Linkedin:"
+
+#, fuzzy
+#~ msgid "Product Video Tab"
+#~ msgstr "Разместить видео-пост"
+
+#, fuzzy
+#~ msgid "Six Column"
+#~ msgstr "Колонки"
+
+#, fuzzy
+#~ msgid "Masonry Layout?"
+#~ msgstr "Стиль шрифта"
+
+#, fuzzy
+#~ msgid "Images height will not be cropped"
+#~ msgstr "Установить высоту изображения"
+
+#, fuzzy
+#~ msgid "Staff Page Options"
+#~ msgstr "Страница опций контактов"
+
+#, fuzzy
+#~ msgid "Excerpt"
+#~ msgstr "Отображать выдержки описания элемента"
+
+#, fuzzy
+#~ msgid "Content"
+#~ msgstr "Содержимое заголовка страницы"
+
+#, fuzzy
+#~ msgid "Testimonial Page Options"
+#~ msgstr "Страница опций контактов"
+
+#, fuzzy
+#~ msgid "How many testimonial items per page"
+#~ msgstr "Количество элементов портфолио на одной странице"
+
+#, fuzzy
+#~ msgid "Limit Testimonial Text"
+#~ msgstr "Просмотреть варианты"
+
+#, fuzzy
+#~ msgid "Word Count Text"
+#~ msgstr "Текст сообщения об авторских правах для подвала"
+
+#, fuzzy
+#~ msgid "Link Text"
+#~ msgstr "Текст"
+
+#, fuzzy
+#~ msgid "eg: Read More"
+#~ msgstr "Читать далее"
+
+#, fuzzy
+#~ msgid "If Shortcode Slider"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "Enter a Location"
+#~ msgstr "Введите ваше местоположение"
+
+#, fuzzy
+#~ msgid "Pinnacle Custom Tab 01"
+#~ msgstr "Пользовательский CSS"
+
+#, fuzzy
+#~ msgid "Tab Title"
+#~ msgstr "Заголовок страницы"
+
+#, fuzzy
+#~ msgid "Tab Content"
+#~ msgstr "Содержимое заголовка страницы"
+
+#, fuzzy
+#~ msgid "Add Tab Content"
+#~ msgstr "Содержимое заголовка страницы"
+
+#, fuzzy
+#~ msgid "Pinnacle Custom Tab 02"
+#~ msgstr "Пользовательский CSS"
+
+#, fuzzy
+#~ msgid "Pinnacle Custom Tab 03"
+#~ msgstr "Пользовательский CSS"
+
+#, fuzzy
+#~ msgid "Install Recommended Plugins"
+#~ msgstr "Установите требуемые плагины"
+
+#, fuzzy
+#~ msgid "Theme Recommended Plugins"
+#~ msgstr "Вернуться к устанвке необходимых плагинов"
+
+#, fuzzy
+#~ msgid "Return to recommended Plugins Installer"
+#~ msgstr "Вернуться к устанвке необходимых плагинов"
+
+#~ msgid "View"
+#~ msgstr "Просмотреть"
+
+#, fuzzy
+#~ msgid "Filter Projects"
+#~ msgstr "Избранные проекты"
+
+#, fuzzy
+#~ msgid "Portfolio Item"
+#~ msgstr "Порфолио"
+
+#, fuzzy
+#~ msgid "Add New"
+#~ msgstr "Добавить отзыв"
+
+#, fuzzy
+#~ msgid "Add New Portfolio Item"
+#~ msgstr "Страница портфолио всех проектов"
+
+#, fuzzy
+#~ msgid "Edit Portfolio Item"
+#~ msgstr "Порфолио"
+
+#, fuzzy
+#~ msgid "New Portfolio Item"
+#~ msgstr "Порфолио"
+
+#, fuzzy
+#~ msgid "All Portfolio"
+#~ msgstr "Порфолио"
+
+#, fuzzy
+#~ msgid "View Portfolio Item"
+#~ msgstr "Порфолио"
+
+#, fuzzy
+#~ msgid "Search Portfolio"
+#~ msgstr "Порфолио"
+
+#, fuzzy
+#~ msgid "No Portfolio Item found"
+#~ msgstr "Карусель похожих элементов портфолио"
+
+#, fuzzy
+#~ msgid "Portfolio Type"
+#~ msgstr "Виды работ портфолио"
+
+#, fuzzy
+#~ msgid "Search Type"
+#~ msgstr "Искать"
+
+#, fuzzy
+#~ msgid "All Type"
+#~ msgstr "Тип"
+
+#, fuzzy
+#~ msgid "Parent Type"
+#~ msgstr "например: Тип проекта:"
+
+#, fuzzy
+#~ msgid "Parent Type:"
+#~ msgstr "например: Тип проекта:"
+
+#, fuzzy
+#~ msgid "Edit Type"
+#~ msgstr "Тип"
+
+#, fuzzy
+#~ msgid "Update Type"
+#~ msgstr "Пересчитать итог"
+
+#, fuzzy
+#~ msgid "View Testimonial"
+#~ msgstr "Просмотреть варианты"
+
+#, fuzzy
+#~ msgid "Search Testimonials"
+#~ msgstr "Результаты поиска по запросу %s"
+
+#, fuzzy
+#~ msgid "Search Groups"
+#~ msgstr "Искать:"
+
+#, fuzzy
+#~ msgid "Update Group"
+#~ msgstr "Обновить корзину"
+
+#, fuzzy
+#~ msgid "New Staff"
+#~ msgstr "Новая иконка"
+
+#, fuzzy
+#~ msgid "Search Staff"
+#~ msgstr "Искать:"
+
+#, fuzzy
+#~ msgid "No Staff found"
+#~ msgstr "Не найдено"
+
+#, fuzzy
+#~ msgid "Pinnacle: Gallery"
+#~ msgstr "Virtue: таблица изображений"
+
+#, fuzzy
+#~ msgid "Standard"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Carousel"
+#~ msgstr "Карусель постов"
+
+#, fuzzy
+#~ msgid "Slider"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid "Custom Grid"
+#~ msgstr "Пользовательский CSS"
+
+#, fuzzy
+#~ msgid "1 Column"
+#~ msgstr "Колонки"
+
+#, fuzzy
+#~ msgid "2 Columns"
+#~ msgstr "Колонки"
+
+#, fuzzy
+#~ msgid "3 Columns"
+#~ msgstr "Колонки"
+
+#, fuzzy
+#~ msgid "4 Columns"
+#~ msgstr "Колонки"
+
+#, fuzzy
+#~ msgid "5 Columns"
+#~ msgstr "Колонки"
+
+#, fuzzy
+#~ msgid "6 Columns"
+#~ msgstr "Колонки"
+
+#, fuzzy
+#~ msgid "Gallery Type"
+#~ msgstr "Тип карты"
+
+#, fuzzy
+#~ msgid "Gallery Columns"
+#~ msgstr "Колонки"
+
+#, fuzzy
+#~ msgid "Display Captions"
+#~ msgstr "Отображать подписи?"
+
+#, fuzzy
+#~ msgid "Slider Height (e.g. = 400)"
+#~ msgstr "Максимальная высота слайдера"
+
+#, fuzzy
+#~ msgid "If Type Custom Grid"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid "Pinnacle: Carousel"
+#~ msgstr "Карусель постов"
+
+#, fuzzy
+#~ msgid "Portfolio Posts"
+#~ msgstr "Опции поста портфолио"
+
+#, fuzzy
+#~ msgid "Featured Products"
+#~ msgstr "Избранные проекты"
+
+#, fuzzy
+#~ msgid "Sale Products"
+#~ msgstr "Связанные продукты"
+
+#, fuzzy
+#~ msgid "Best Products"
+#~ msgstr "Связанные продукты"
+
+#, fuzzy
+#~ msgid "Category of Products"
+#~ msgstr "Связанные продукты"
+
+#, fuzzy
+#~ msgid "Portfolio Fullwidth"
+#~ msgstr "Порфолио"
+
+#, fuzzy
+#~ msgid "Carousel Type"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "Carousel Columns"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "Scroll Setting"
+#~ msgstr "Настройки Магазина."
+
+#, fuzzy
+#~ msgid "Order by"
+#~ msgstr "Заказать"
+
+#, fuzzy
+#~ msgid "Blog Post Category"
+#~ msgstr "Категория блога"
+
+#, fuzzy
+#~ msgid "Portfolio Category"
+#~ msgstr "Изображения для слайдера портфолио"
+
+#, fuzzy
+#~ msgid "Product Category"
+#~ msgstr "Категория блога"
+
+#, fuzzy
+#~ msgid "Pinnacle: Info Box"
+#~ msgstr "Virtue: свежие посты"
+
+#, fuzzy
+#~ msgid "Box Background Color (e.g. = #f2f2f2)"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Icon Size (e.g. = 28)"
+#~ msgstr "Высота карты"
+
+#, fuzzy
+#~ msgid "Link:"
+#~ msgstr "Linkedin:"
+
+#, fuzzy
+#~ msgid "Pinnacle: Google Map"
+#~ msgstr "Virtue: таблица изображений"
+
+#, fuzzy
+#~ msgid "Marker Title:"
+#~ msgstr "Заголовок страницы"
+
+#, fuzzy
+#~ msgid "Marker Address"
+#~ msgstr "Сохранить адрес"
+
+#, fuzzy
+#~ msgid "Map Height (e.g. = 300)"
+#~ msgstr "Высота карты"
+
+#, fuzzy
+#~ msgid "Marker Address Two"
+#~ msgstr "Сохранить адрес"
+
+#, fuzzy
+#~ msgid "Marker Address Three"
+#~ msgstr "Сохранить адрес"
+
+#, fuzzy
+#~ msgid "Marker Address Four"
+#~ msgstr "Сохранить адрес"
+
+#, fuzzy
+#~ msgid "Pinnacle: Call to Action"
+#~ msgstr "Virtue: Ссылки соцсетей"
+
+#, fuzzy
+#~ msgid "Button Link:"
+#~ msgstr "Ссылка на иконку"
+
+#, fuzzy
+#~ msgid "Pinnacle: Image Menu Item"
+#~ msgstr "Virtue: таблица изображений"
+
+#, fuzzy
+#~ msgid "Upload an image"
+#~ msgstr "Загрузить иконку"
+
+#, fuzzy
+#~ msgid "Item Height (e.g. = 220)"
+#~ msgstr "Высота карты"
+
+#, fuzzy
+#~ msgid "on Linkedin"
+#~ msgstr "на linkedin"
+
+#, fuzzy
+#~ msgid "Sorry, no staff entries found."
+#~ msgstr "Приносим извинения, записи блога не найдены."
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#, fuzzy
+#~ msgid "Select File"
+#~ msgstr "Выберите элемент"
+
+#, fuzzy
+#~ msgid "Select Image"
+#~ msgstr "Изображения слайдреа"
+
+#, fuzzy
+#~ msgid "Slider Options"
+#~ msgstr "Опции боковой панели"
+
+#, fuzzy
+#~ msgid "Category Slider"
+#~ msgstr "Категория:"
+
+#, fuzzy
+#~ msgid "Category Image"
+#~ msgstr "Размер изображений продуктов"
+
+#, fuzzy
+#~ msgid "Title Color"
+#~ msgstr "Выбрать варианты"
+
+#, fuzzy
+#~ msgid "Sub Title Color"
+#~ msgstr "Выбрать варианты"
+
+#, fuzzy
+#~ msgid "Background Parallax"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Location - optional"
+#~ msgstr "Настройки повторяемости изображения"
+
+#, fuzzy
+#~ msgid "Link - optional"
+#~ msgstr "Настройки повторяемости изображения"
+
+#, fuzzy
+#~ msgid "Image Upload - optional"
+#~ msgstr "Настройки повторяемости изображения"
+
+#, fuzzy
+#~ msgid "Submit"
+#~ msgstr "Разместить отзыв"
+
+#, fuzzy
+#~ msgid "You must be logged in to submit an testimonial."
+#~ msgstr "Вы долдны войти в учетную запись для оформления покупки."
+
+#, fuzzy
+#~ msgid " Testimonial Post"
+#~ msgstr "Настройки темы"
+
+#~ msgid "From "
+#~ msgstr "От"
+
+#, fuzzy
+#~ msgid "Sorry, no testimonial entries found."
+#~ msgstr "Приносим извинения, записи блога не найдены."
+
+#, fuzzy
+#~ msgid "portfolio"
+#~ msgstr "Порфолио"
+
+#, fuzzy
+#~ msgid "Home Widget Area"
+#~ msgstr "Макет виджета подвала"
+
+#, fuzzy
+#~ msgid "Pinnacle: Testimonial Carousel"
+#~ msgstr "Настройки темы"
+
+#, fuzzy
+#~ msgid "Page Link"
+#~ msgstr "Ссылка на иконку"
+
+#, fuzzy
+#~ msgid "Post Link"
+#~ msgstr "Ссылка на иконку"
+
+#, fuzzy
+#~ msgid "Number of words to show:"
+#~ msgstr "Количество отображаемых постов:"
+
+#, fuzzy
+#~ msgid "Orderby:"
+#~ msgstr "Заказ:"
+
+#, fuzzy
+#~ msgid "Limit to Group (Optional):"
+#~ msgstr "Ограничить категорией (опция):"
+
+#, fuzzy
+#~ msgid "Link Options:"
+#~ msgstr "Настройки Логотипа"
+
+#, fuzzy
+#~ msgid "Testimonial Background Color (e.g. = #ffffff)"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Background Opacity:"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Name: "
+#~ msgstr "Имя:"
+
+#~ msgid "Email: "
+#~ msgstr "Email:"
+
+#, fuzzy
+#~ msgid "Featured News"
+#~ msgstr "Избранные проекты"
+
+#, fuzzy
+#~ msgid "Best Selling Products"
+#~ msgstr "Связанные продукты"
+
+#, fuzzy
+#~ msgid "Products on Sale"
+#~ msgstr "Настройка страницы продукта"
+
+#, fuzzy
+#~ msgid "Choose to enable fixed header for mobile"
+#~ msgstr "Выберите слайдер для мобильной версии сайта"
+
+#, fuzzy
+#~ msgid "Choose to enable a shrinking sticky header"
+#~ msgstr "Выберите слайдер для мобильной версии сайта"
+
+#, fuzzy
+#~ msgid "Page Header background Overlay color"
+#~ msgstr "Фон заголовков"
+
+#, fuzzy
+#~ msgid "Page Header background Overlay Opacity"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Sitewide Footer Call To Action"
+#~ msgstr "Virtue: Ссылки соцсетей"
+
+#, fuzzy
+#~ msgid "Use Sitewide Footer Call to Action"
+#~ msgstr "Virtue: Ссылки соцсетей"
+
+#, fuzzy
+#~ msgid "Revolution Slider"
+#~ msgstr "Удалить слайд"
+
+#, fuzzy
+#~ msgid "Cyclone Slider / Shortcode"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "Kadence Slider"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid "If Kadence Slider"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid "Choose your Kadence Slider Here"
+#~ msgstr "Выберите слайдер домашней страницы"
+
+#, fuzzy
+#~ msgid "Paste shortcode here"
+#~ msgstr "Выберите вариант"
+
+#, fuzzy
+#~ msgid "Image Menu"
+#~ msgstr "Изображение"
+
+#, fuzzy
+#~ msgid "Portfolio Full"
+#~ msgstr "Порфолио"
+
+#, fuzzy
+#~ msgid "On Sale Products"
+#~ msgstr "Связанные продукты"
+
+#, fuzzy
+#~ msgid "Custom Carousel"
+#~ msgstr "Карусель постов"
+
+#, fuzzy
+#~ msgid "Home Image Menu"
+#~ msgstr "Меню иконок домашней страницы"
+
+#, fuzzy
+#~ msgid "Choose the Text Color."
+#~ msgstr "Цвет шрифтов подвала"
+
+#, fuzzy
+#~ msgid "Image Menu Height"
+#~ msgstr "Максимальная высота Изображения/Слайдера"
+
+#, fuzzy
+#~ msgid "Home Featured Product Settings"
+#~ msgstr "Избранные проекты"
+
+#, fuzzy
+#~ msgid "Home Product Carousel Title"
+#~ msgstr "Заголовок карусели портфолио домашней страницы"
+
+#, fuzzy
+#~ msgid "e.g. = Featured Products"
+#~ msgstr "Избранные проекты"
+
+#, fuzzy
+#~ msgid "Choose how many products are in carousel"
+#~ msgstr "Укажите, сколько элементов размещается в карусели"
+
+#, fuzzy
+#~ msgid "Carousel Scroll"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "Choose how the product items scroll."
+#~ msgstr "Укажите, сколько элементов размещается в карусели"
+
+#, fuzzy
+#~ msgid "Home On Sale Product Settings"
+#~ msgstr "Настройки записей блога для домашней страницы"
+
+#, fuzzy
+#~ msgid "Home On Sale Product Carousel Title"
+#~ msgstr "Заголовок карусели портфолио домашней страницы"
+
+#, fuzzy
+#~ msgid "e.g. = On Sale Products"
+#~ msgstr "Связанные продукты"
+
+#, fuzzy
+#~ msgid "Home Best Selling Product Settings"
+#~ msgstr "Настройки записей блога для домашней страницы"
+
+#, fuzzy
+#~ msgid "Home Best Selling Product Carousel Title"
+#~ msgstr "Заголовок карусели портфолио домашней страницы"
+
+#, fuzzy
+#~ msgid "Home Custom Carousel Settings"
+#~ msgstr "Настройки карусели портфолио для домашней страницы"
+
+#, fuzzy
+#~ msgid "Home Custom Carousel Title"
+#~ msgstr "Заголовок карусели портфолио домашней страницы"
+
+#, fuzzy
+#~ msgid "Custom Carousel Items"
+#~ msgstr "Карусель постов"
+
+#, fuzzy
+#~ msgid "Custom Carousel Scroll"
+#~ msgstr "Карусель постов"
+
+#, fuzzy
+#~ msgid "Choose how the custom items scroll."
+#~ msgstr "Укажите, сколько элементов размещается в карусели"
+
+#, fuzzy
+#~ msgid "Home Portfolio Full Settings"
+#~ msgstr "Настройки карусели портфолио для домашней страницы"
+
+#, fuzzy
+#~ msgid "Home Portfolio Full Title"
+#~ msgstr "Заголовок карусели портфолио домашней страницы"
+
+#, fuzzy
+#~ msgid "Portfolio Full Category Type"
+#~ msgstr "Тип категории для карусели портфолио"
+
+#, fuzzy
+#~ msgid "Choose type for the Portfolio Full"
+#~ msgstr "Выберите иконки для меню иконок"
+
+#, fuzzy
+#~ msgid "Choose how many Portfolio Items on Homepage"
+#~ msgstr "Укажите сколько записей блога отображать на домашней странице"
+
+#, fuzzy
+#~ msgid "Portfolio full Order by"
+#~ msgstr "Порядок сортировки элементов карусели"
+
+#, fuzzy
+#~ msgid "Choose how the portfolio items should be ordered."
+#~ msgstr ""
+#~ "Выберите в каком порядке будут сортироваться элементы карусели портфолио"
+
+#, fuzzy
+#~ msgid "Choose how many Portfolio columns"
+#~ msgstr "Укажите, сколько элементов размещается в карусели"
+
+#, fuzzy
+#~ msgid "Use masonry Layout?"
+#~ msgstr "Столбец подвала 1"
+
+#, fuzzy
+#~ msgid "Photo Post"
+#~ msgstr "Опции поста портфолио"
+
+#, fuzzy
+#~ msgid "Shop Product Style"
+#~ msgstr "Настройки заголовка Пролукта"
+
+#, fuzzy
+#~ msgid "Choose the product style"
+#~ msgstr "Укажите, сколько элементов размещается в карусели"
+
+#, fuzzy
+#~ msgid "Show Category Filter on Category Pages"
+#~ msgstr "Отображать рейтинг на страницах Магазина и Каталога."
+
+#, fuzzy
+#~ msgid "This adds an dynamic filter to Category pages"
+#~ msgstr ""
+#~ "Это приведет к отображению заголовков продуктов в Каталоге в ВЕРХНЕМ "
+#~ "РЕГИСТРЕ."
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines if a sold tag is displayed on the top right of the "
+#~ "product image"
+#~ msgstr ""
+#~ "Это определяет будет ли отображаться рейтинг на странице архива Продуктов"
+
+#, fuzzy
+#~ msgid "Product Image Flip"
+#~ msgstr "Размер изображений продуктов"
+
+#, fuzzy
+#~ msgid "Product Image Aspect Ratio"
+#~ msgstr "Настройка страницы продукта"
+
+#, fuzzy
+#~ msgid "Shop Slider/Content"
+#~ msgstr "Мобильный слайдер"
+
+#, fuzzy
+#~ msgid "This enabled the transparent header on the Shop page."
+#~ msgstr ""
+#~ "Это определяет будет ли отображаться боковая панель на домашней странице."
+
+#, fuzzy
+#~ msgid "Choose a Head Content for your shop page"
+#~ msgstr "Выберите боковую панель для страницы Магазина."
+
+#, fuzzy
+#~ msgid "Cyclone/Shortcode Slider"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid ""
+#~ "Note: does not work if images are smaller than max. If using sidebar set "
+#~ "to 770"
+#~ msgstr ""
+#~ "Внимание: не используется если размер изображений меньше максимального "
+#~ "размера слайдера."
+
+#, fuzzy
+#~ msgid "Single Product Settings"
+#~ msgstr "Настройки записей блога для домашней страницы"
+
+#, fuzzy
+#~ msgid "Single Product Layout"
+#~ msgstr "Формат проекта"
+
+#, fuzzy
+#~ msgid "This determines the width of the image area on single product pages."
+#~ msgstr ""
+#~ "Это определяет будет ли отображаться рейтинг на странице архива Продуктов"
+
+#, fuzzy
+#~ msgid "Product Sidebar Default"
+#~ msgstr "Настройки краткого содержания записи блога по умолчанию"
+
+#, fuzzy
+#~ msgid "Choose a Default Sidebar for your Single Product Pages"
+#~ msgstr "Выберите боковую панель для вашей домашней страницы"
+
+#, fuzzy
+#~ msgid "Description Tab"
+#~ msgstr "Описание"
+
+#, fuzzy
+#~ msgid "Additional Information Tab"
+#~ msgstr "Дополнительная информация"
+
+#, fuzzy
+#~ msgid "Reviews Tab"
+#~ msgstr "Отзывы"
+
+#, fuzzy
+#~ msgid "Choose how many columns are in related product carousel"
+#~ msgstr "Укажите, сколько элементов размещается в карусели"
+
+#, fuzzy
+#~ msgid "Portfolio Permalink Base"
+#~ msgstr "Опции страницы Портфолио"
+
+#, fuzzy
+#~ msgid "Single Portfolio Default Title Text"
+#~ msgstr "Заголовок карусели портфолио домашней страницы"
+
+#, fuzzy
+#~ msgid "Portfolio Arrow Navigation"
+#~ msgstr "Основная навигация"
+
+#, fuzzy
+#~ msgid "Show portfolio category with filter"
+#~ msgstr "Отображать иконку автора в записях?"
+
+#, fuzzy
+#~ msgid "Gallery Grid"
+#~ msgstr "Тип карты"
+
+#, fuzzy
+#~ msgid "Image Carousel (Caroufedsel Carousel)"
+#~ msgstr "Заголовок карусели"
+
+#, fuzzy
+#~ msgid "Breadcrumbs Color"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Feature Background"
+#~ msgstr "Фон заголовков"
+
+#, fuzzy
+#~ msgid "Choose to enable a search button in the header menu"
+#~ msgstr "Выберите слайдер для мобильной версии сайта"
+
+#, fuzzy
+#~ msgid "Choose to enable a Cart button in the header menu"
+#~ msgstr "Выберите слайдер для мобильной версии сайта"
+
+#, fuzzy
+#~ msgid "Hover and Active Font Color"
+#~ msgstr "Цвет шрифтов подвала"
+
+#, fuzzy
+#~ msgid "Hover and Active Background Color"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Dropdown Background Color"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Dropdown Menu Font size"
+#~ msgstr "Цвет шрифтов подвала"
+
+#, fuzzy
+#~ msgid "Choose Size and color for the Dropdown menus"
+#~ msgstr "Выберите размер и стиль для дополнительного меню"
+
+#, fuzzy
+#~ msgid "Item Background Hover Color"
+#~ msgstr "Фон подвала"
+
+#, fuzzy
+#~ msgid "Mobile Hover and Active Background Color"
+#~ msgstr "Фон мобильного меню"
+
+#, fuzzy
+#~ msgid "Language Settings"
+#~ msgstr "Основные настройки"
+
+#, fuzzy
+#~ msgid "Quick Language Settings"
+#~ msgstr "Настройка страницы продукта"
+
+#, fuzzy
+#~ msgid "Topbar Cart Total Text"
+#~ msgstr "Итого в корзине"
+
+#, fuzzy
+#~ msgid "Standard: Your Cart"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Standard: Sold"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Product Sale Text"
+#~ msgstr "Настройка страницы продукта"
+
+#, fuzzy
+#~ msgid "Standard: Sale"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Post READ MORE text"
+#~ msgstr "Читать далее"
+
+#, fuzzy
+#~ msgid "Standard: Read More"
+#~ msgstr "Читать далее"
+
+#, fuzzy
+#~ msgid "Standard: by"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Post Data ON text"
+#~ msgstr "Читать далее"
+
+#, fuzzy
+#~ msgid "Standard: on"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Standard: with"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Standard: All"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Standard: Filter Products"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Standard: Filter Projects"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Product Page: Description tab text"
+#~ msgstr "Описание продукта"
+
+#, fuzzy
+#~ msgid "Standard: Description"
+#~ msgstr "Описание продукта"
+
+#, fuzzy
+#~ msgid "Product Page: Description header text"
+#~ msgstr "Описание продукта"
+
+#, fuzzy
+#~ msgid "Standard: Product Description"
+#~ msgstr "Описание продукта"
+
+#, fuzzy
+#~ msgid "Product Page: Additional Information tab text"
+#~ msgstr "Дополнительная информация"
+
+#, fuzzy
+#~ msgid "Standard: Additional Information"
+#~ msgstr "Дополнительная информация"
+
+#, fuzzy
+#~ msgid "Product Page: Additional Information Header text"
+#~ msgstr "Дополнительная информация"
+
+#, fuzzy
+#~ msgid "Product Page: Reviews tab text"
+#~ msgstr "Настройка страницы продукта"
+
+#, fuzzy
+#~ msgid "Standard: Reviews"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Product Page: Related Products text"
+#~ msgstr "Связанные продукты"
+
+#, fuzzy
+#~ msgid "Standard: Related Products"
+#~ msgstr "Связанные продукты"
+
+#, fuzzy
+#~ msgid "Standard: Loading..."
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Standard: of"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Sitewide Breadcrumbs"
+#~ msgstr "Баннер для размещения на всем сайте"
+
+#, fuzzy
+#~ msgid "Show Breadcrumbs on Shop Page?"
+#~ msgstr "Разрешить комментарии на записях элементов портфолио."
+
+#, fuzzy
+#~ msgid ""
+#~ "Choose to show or hide breadcrumbs on your Woocommerce pages and "
+#~ "Categories"
+#~ msgstr "Выберите обображать или нет иконку автора под заголовком записи."
+
+#, fuzzy
+#~ msgid "Choose to show or hide breadcrumbs on your Woocommerce products"
+#~ msgstr "Укажите, отображать или нет иконки меню чердака"
+
+#, fuzzy
+#~ msgid "Choose to show or hide breadcrumbs on your single blog post"
+#~ msgstr ""
+#~ "Выберите отображать или нет предупреждение о закрытии возможности "
+#~ "оставлять комментарии внизу страницы записи."
+
+#, fuzzy
+#~ msgid "Show Breadcrumbs on Portfolio Post?"
+#~ msgstr "Разрешить комментарии на записях элементов портфолио."
+
+#, fuzzy
+#~ msgid "Choose to show or hide breadcrumbs on your single portfolio posts"
+#~ msgstr ""
+#~ "Выберите отображать или нет предупреждение о закрытии возможности "
+#~ "оставлять комментарии внизу страницы записи."
+
+#, fuzzy
+#~ msgid "Show Breadcrumbs on Pages?"
+#~ msgstr "Разрешить комментарии на записях элементов портфолио."
+
+#, fuzzy
+#~ msgid "Choose to show or hide breadcrumbs on your pages and categories"
+#~ msgstr "Выберите обображать или нет иконку автора под заголовком записи."
+
+#, fuzzy
+#~ msgid "Show Breadcrumbs on Archives?"
+#~ msgstr "Разрешить комментарии на записях элементов портфолио."
+
+#, fuzzy
+#~ msgid "Standard: Home"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "All Blog Post Page"
+#~ msgstr "Все посты блога"
+
+#, fuzzy
+#~ msgid "Choose to show or hide the shop page in breadcrumbs on your site"
+#~ msgstr "Выберите обображать или нет иконку автора под заголовком записи."
+
+#, fuzzy
+#~ msgid "Select2 Select"
+#~ msgstr "Выберите элемент"
+
+#, fuzzy
+#~ msgid "Hide Scroll background"
+#~ msgstr "Фон заголовков"
+
+#~ msgid ""
+#~ "Disable this if using a plugin to customize galleries, for example "
+#~ "jetpack tiled gallery."
+#~ msgstr ""
+#~ "Выключите это опцию если вы используете плагин для нестандартных галерей, "
+#~ "например галерею картинок JetPack."
+
+#, fuzzy
+#~ msgid "Filter Products"
+#~ msgstr "Связанные продукты"
+
+#, fuzzy
+#~ msgid "Out of stock"
+#~ msgstr "из 5"
+
+#~ msgid "View your shopping cart"
+#~ msgstr "Посмотреть вашу корзину"
+
+#, fuzzy
+#~ msgid "Border Top Color"
+#~ msgstr "Цвет шрифтов подвала"
+
+#, fuzzy
+#~ msgid "Border Bottom Size"
+#~ msgstr "Стиль рамки"
+
+#, fuzzy
+#~ msgid "Border Bottom Color"
+#~ msgstr "Цвет шрифтов подвала"
+
+#~ msgid "Featured Projects"
+#~ msgstr "Избранные проекты"
+
+#~ msgid "Post Slider Images"
+#~ msgstr "Разместить изображения слайдера"
+
+#~ msgid "Feature Page Slider Images"
+#~ msgstr "Изображения для слайдера страницы описания"
+
+#~ msgid "Remove image"
+#~ msgstr "Удалить изображение"
+
+#~ msgid "Add images"
+#~ msgstr "Добавить изображения"
+
+#~ msgid "Add to gallery"
+#~ msgstr "Добавить в галерею"
+
+#~ msgid "Secondary Navigation"
+#~ msgstr "Дополнительная навигация"
+
+#~ msgid "Mobile Navigation"
+#~ msgstr "Мобильная навигация"
+
+#, fuzzy
+#~ msgid "Icon/Font Color"
+#~ msgstr "Цвет шрифта"
+
+#, fuzzy
+#~ msgid "Hover Icon/Font Color"
+#~ msgstr "Цвет шрифтов подвала"
+
+#, fuzzy
+#~ msgid "Site Default"
+#~ msgstr "По умолчанию"
+
+#, fuzzy
+#~ msgid "Rev Slider"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid "Auto Play Slider?"
+#~ msgstr "Автозапуск?"
+
+#, fuzzy
+#~ msgid "Location"
+#~ msgstr "Род занятий"
+
+#, fuzzy
+#~ msgid "Client Title"
+#~ msgstr "Заголовок страницы"
+
+#, fuzzy
+#~ msgid "Link"
+#~ msgstr "Linkedin:"
+
+#, fuzzy
+#~ msgid "Crop images to equal height"
+#~ msgstr "Установить высоту изображения"
+
+#, fuzzy
+#~ msgid "Default is 1:1 ratio (Note: just input number, example: 350)"
+#~ msgstr ""
+#~ "По умолчанию соотношение 1:1  <b>(Внимание, просто введите значение, "
+#~ "например: 350)</b>"
+
+#, fuzzy
+#~ msgid "Portfolio Category Page Options"
+#~ msgstr "Изображения для слайдера портфолио"
+
+#, fuzzy
+#~ msgid "Default is 16:9 ratio (Note: just input number, example: 350)"
+#~ msgstr ""
+#~ "По умолчанию соотношение 1:1  <b>(Внимание, просто введите значение, "
+#~ "например: 350)</b>"
+
+#, fuzzy
+#~ msgid "One Column"
+#~ msgstr "Три колонки"
+
+#~ msgid "Feature Options"
+#~ msgstr "Опции свойства"
+
+#, fuzzy
+#~ msgid "If Cyclone or Kadence Slider"
+#~ msgstr "Заголовок карусели"
+
+#~ msgid "Use Lightbox for Feature Image"
+#~ msgstr "Использовать Lightbox для изображений особенностей"
+
+#~ msgid ""
+#~ "If feature option is set to image, choose to use lightbox link with image."
+#~ msgstr ""
+#~ "Если опция фичи установлена в изображение, выберите использовать Lightbox "
+#~ "с изображением."
+
+#, fuzzy
+#~ msgid "SEO Options"
+#~ msgstr "Опции"
+
+#, fuzzy
+#~ msgid "Page Description"
+#~ msgstr "Описание"
+
+#, fuzzy
+#~ msgid "Install Suggested Plugins"
+#~ msgstr "Установите требуемые плагины"
+
+#~ msgid "posted in:"
+#~ msgstr "размещено в:"
+
+#~ msgid "Menu"
+#~ msgstr "Меню"
+
+#~ msgid "Copy and Paste this code into the theme options import feature"
+#~ msgstr "Скопируйте и вставьте этот код в поле импорта настроек темы"
+
+#~ msgid "There are no previous options"
+#~ msgstr "Нет ранее сохраненных настроект"
+
+#~ msgid "Main Settings"
+#~ msgstr "Основные настройки"
+
+#~ msgid "Select Boxed or Wide Site Layout Style"
+#~ msgstr "Выберите Широкий или Рамочный макет сайта"
+
+#~ msgid "Logo Layout"
+#~ msgstr "Расположение логотипа"
+
+#~ msgid "Choose how you want your logo to be laid out"
+#~ msgstr "Выберите каким образом должен быть размещен логотип"
+
+#~ msgid "Site Tagline - Below Logo\""
+#~ msgstr "Описание сайта - размещается под логотипом \""
+
+#~ msgid "An optional line of text below your logo"
+#~ msgstr "Необязательная строка текста для размещения под логотипом"
+
+#~ msgid "Site Tagline Font"
+#~ msgstr "Шрифт описания сайта"
+
+#~ msgid "Choose size and style your site tagline"
+#~ msgstr "Выберите размер и стиль шрифта для строки описания сайта"
+
+#~ msgid "Logo Spacing"
+#~ msgstr "Отступы логотипа"
+
+#~ msgid "Top Spacing"
+#~ msgstr "Отступ логотипа сверху"
+
+#~ msgid "Bottom Spacing"
+#~ msgstr "Отступ логотипа снизу"
+
+#~ msgid "Left Spacing"
+#~ msgstr "Отступ логотипа слева"
+
+#~ msgid "Right Spacing"
+#~ msgstr "Отступ логотипа справа"
+
+#~ msgid "Primary Menu Spacing"
+#~ msgstr "Отступы Главного меню"
+
+#~ msgid "Upload a banner for bottom of header."
+#~ msgstr "Загрузите баннер для размещения на чердаке или в подвале."
+
+#, fuzzy
+#~ msgid "Banner Link"
+#~ msgstr "Ссылка на иконку"
+
+#, fuzzy
+#~ msgid "Choose a Header Style"
+#~ msgstr "Выберите слайдер домашней страницы"
+
+#, fuzzy
+#~ msgid "Choose how many menu items per Side"
+#~ msgstr "Укажите, сколько элементов размещается в карусели"
+
+#, fuzzy
+#~ msgid "This determines how many menu items fit on each side of the logo"
+#~ msgstr ""
+#~ "Это определяет будет ли отображаться боковая панель на домашней странице."
+
+#~ msgid ""
+#~ "Note this will hide remove search (you can re-enable it my adding it to "
+#~ "the widget area)"
+#~ msgstr ""
+#~ "Внимание, это скроет (уберет) поле поиска (вы можете его восстановить "
+#~ "добавив в область виджетов)"
+
+#~ msgid "Slider Settings"
+#~ msgstr "Настройки слайдера"
+
+#, fuzzy
+#~ msgid "Thumb Slider"
+#~ msgstr "Слайдер изображений"
+
+#, fuzzy
+#~ msgid "Example 400"
+#~ msgstr "например: Ромашка Инкорпорейтед"
+
+#, fuzzy
+#~ msgid "Icon Menu Box Background Color"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Display Portfolio Filter"
+#~ msgstr "Отображать тип элемента портфолио под заголовком"
+
+#, fuzzy
+#~ msgid "Use Post Grid Format"
+#~ msgstr "Использовать контактную форму"
+
+#, fuzzy
+#~ msgid "Would you like to use have a slider on your shop page?"
+#~ msgstr "Хотите использовать эту возможность?"
+
+#, fuzzy
+#~ msgid "Choose to show or hide posted in categories under post title."
+#~ msgstr "Выберите обображать или нет иконку автора под заголовком записи."
+
+#, fuzzy
+#~ msgid "Display Similar Posts in random order?"
+#~ msgstr "Да - отображать похожие посты"
+
+#~ msgid "This is used for hover effects"
+#~ msgstr "Этот цвет используется для эффекта подсветки при наведении курсора"
+
+#, fuzzy
+#~ msgid "Content Background Color"
+#~ msgstr "Цвет фона"
+
+#~ msgid "Upload background image or texture"
+#~ msgstr "Загрузите фоновое изображение или текстуру"
+
+#~ msgid "Image repeat options"
+#~ msgstr "Настройки повторяемости изображения"
+
+#~ msgid "X image placement options"
+#~ msgstr "Настройка по горизонтали - X"
+
+#, fuzzy
+#~ msgid "center"
+#~ msgstr "Недавние заказы"
+
+#, fuzzy
+#~ msgid "right"
+#~ msgstr "Право"
+
+#~ msgid "Y image placement options"
+#~ msgstr "Настройка по верикали - Y"
+
+#, fuzzy
+#~ msgid "top"
+#~ msgstr "Верх"
+
+#, fuzzy
+#~ msgid "bottom"
+#~ msgstr "Низ"
+
+#, fuzzy
+#~ msgid "Topbar Background Color"
+#~ msgstr "Фон чердака"
+
+#~ msgid "Secondary Menu Background"
+#~ msgstr "Фон дополнительного меню"
+
+#, fuzzy
+#~ msgid "Secondary Menu Background Color"
+#~ msgstr "Фон дополнительного меню"
+
+#, fuzzy
+#~ msgid "Mobile Menu Background Color"
+#~ msgstr "Фон мобильного меню"
+
+#, fuzzy
+#~ msgid "Body Background Color"
+#~ msgstr "Цвет фона"
+
+#~ msgid "Fixed or Scroll"
+#~ msgstr "Фиксированный или прокручиваемый"
+
+#~ msgid "Secondary Menu Options"
+#~ msgstr "Настройки дополнительного меню"
+
+#~ msgid "Secondary Menu Font"
+#~ msgstr "Шрифт дополнительного меню"
+
+#, fuzzy
+#~ msgid "Secondary Hover and Active Font Color"
+#~ msgstr "Шрифт дополнительного меню"
+
+#, fuzzy
+#~ msgid "Secondary Hover and Active Background Color"
+#~ msgstr "Фон дополнительного меню"
+
+#, fuzzy
+#~ msgid "Choose how many menu items fit in the menu."
+#~ msgstr "Укажите, сколько элементов размещается в карусели"
+
+#, fuzzy
+#~ msgid "Mobile Menu only show button"
+#~ msgstr "Шрифт мобильного меню"
+
+#, fuzzy
+#~ msgid "Mobile Menu Title"
+#~ msgstr "Шрифт мобильного меню"
+
+#, fuzzy
+#~ msgid "Standard: Menu"
+#~ msgstr "Стандартные шрифты"
+
+#, fuzzy
+#~ msgid "Standard: posted in:"
+#~ msgstr "размещено в:"
+
+#, fuzzy
+#~ msgid "Grid Link for testimonial navigation"
+#~ msgstr "Приносим извинения, записи блога не найдены."
+
+#~ msgid "Hide Image Border"
+#~ msgstr "Скрыть границы изображений"
+
+#~ msgid "Choose to show or hide image border"
+#~ msgstr "Выберите отображать или нет границы изображений"
+
+#~ msgid "Sets the email for the contact page email form."
+#~ msgstr "Устанавливает адрес электронной почты для контактной формы."
+
+#~ msgid "Enter a valid email address."
+#~ msgstr "Ведите действующий адрес электронной почты."
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Расширенные настройки"
+
+#, fuzzy
+#~ msgid "SEO General Options"
+#~ msgstr "Опции боковой панели"
+
+#, fuzzy
+#~ msgid "Site Title"
+#~ msgstr "Заголовок страницы"
+
+#, fuzzy
+#~ msgid "Site Description"
+#~ msgstr "Описание"
+
+#~ msgid "Theme Update Import"
+#~ msgstr "Импорт обновлений темы"
+
+#, fuzzy
+#~ msgid ""
+#~ "<p class=\"description\">If updating from version 1.7.4 or earlier use "
+#~ "this script to update your theme options.</p>"
+#~ msgstr ""
+#~ "Если вы обновляетесь с версии 1.5.6 или более ранней, используйте этот "
+#~ "скрипт для обновления настроек вашей темы."
+
+#~ msgid "Turn on and save to start script"
+#~ msgstr "Включите и сохраните для запуска скрипта."
+
+#~ msgid "If using a child theme enter child theme folder"
+#~ msgstr "Если используется дочерняя тема укажите путь к каталогу темы."
+
+#~ msgid "Cart Totals"
+#~ msgstr "Итого в корзине"
+
+#~ msgid "Cart Subtotal"
+#~ msgstr "Промежуточный итог в корзине"
+
+#~ msgid "Order Total"
+#~ msgstr "Итого заказа"
+
+#~ msgid " (taxes estimated for %s)"
+#~ msgstr "(налог оценен в %s)"
+
+#~ msgid ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+#~ msgstr ""
+#~ "Внимание: Доставка и налоги оцениваются в %s и будут обновлены во время "
+#~ "оформления заказа на основании ваших данных для выставления счета и "
+#~ "доставки."
+
+#~ msgid "Product"
+#~ msgstr "Продукт"
+
+#~ msgid "Price"
+#~ msgstr "Цена"
+
+#~ msgid "Quantity"
+#~ msgstr "Количество"
+
+#~ msgid "Total"
+#~ msgstr "Итого"
+
+#~ msgid "Remove this item"
+#~ msgstr "Удалить этот элемент"
+
+#~ msgid "Available on backorder"
+#~ msgstr "Доступно позднее"
+
+#~ msgid "Coupon"
+#~ msgstr "Купон"
+
+#~ msgid "Coupon code"
+#~ msgstr "Код купона"
+
+#~ msgid "Apply Coupon"
+#~ msgstr "Применить купон"
+
+#~ msgid "Update Cart"
+#~ msgstr "Обновить корзину"
+
+#, fuzzy
+#~ msgid "Proceed to Checkout"
+#~ msgstr "К оформлению заказа &rarr;"
+
+#~ msgid "You may be interested in&hellip;"
+#~ msgstr "Вас также может заинтересовать&hellip;"
+
+#~ msgid "Calculate Shipping"
+#~ msgstr "Расчитать стоимость доставки"
+
+#~ msgid "Select a country&hellip;"
+#~ msgstr "Выберите страну&hellip;"
+
+#~ msgid "State / county"
+#~ msgstr "Страна"
+
+#~ msgid "Select a state&hellip;"
+#~ msgstr "Выберите штат&hellip;"
+
+#~ msgid "City"
+#~ msgstr "Город"
+
+#~ msgid "Postcode / Zip"
+#~ msgstr "Индекс"
+
+#~ msgid "Update Totals"
+#~ msgstr "Пересчитать итог"
+
+#~ msgid "Cart Discount"
+#~ msgstr "Скидка на товары в корзине"
+
+#~ msgid "[Remove]"
+#~ msgstr "[Удалить]"
+
+#~ msgid "Shipping"
+#~ msgstr "Доставка"
+
+#~ msgid "Order Discount"
+#~ msgstr "Скидка на заказ"
+
+#~ msgid "(Includes %s)"
+#~ msgstr "(Включает %s)"
+
+#~ msgid ""
+#~ "No shipping methods were found; please recalculate your shipping and "
+#~ "enter your state/county and zip/postcode to ensure there are no other "
+#~ "available methods for your location."
+#~ msgstr ""
+#~ "Методы доставки не найдены; пожалуйста, пересчитайте вашу доставку и "
+#~ "укажите ваше местоположение и почтовый индекс, чтобы убедиться, что "
+#~ "других методов доставки нет."
+
+#~ msgid ""
+#~ "Sorry, it seems that there are no available shipping methods for your "
+#~ "location (%s)."
+#~ msgstr "Извините, доставка по указанному адресу (%s) невозможна."
+
+#~ msgid ""
+#~ "If you require assistance or wish to make alternate arrangements please "
+#~ "contact us."
+#~ msgstr ""
+#~ "Если вам нужна помощь или требуются особые условия свяжитесь с нами."
+
+#~ msgid "Rated %s out of 5"
+#~ msgstr "Рейтинг %s из 5."
+
+#~ msgid "out of 5"
+#~ msgstr "из 5"
+
+#~ msgid "Related Products"
+#~ msgstr "Связанные продукты"
+
+#~ msgid "Rated %d out of 5"
+#~ msgstr "Ретинг %d из 5"
+
+#~ msgid "Your comment is awaiting approval"
+#~ msgstr "Ваш комментарий ожидает одобрения"
+
+#~ msgid "verified owner"
+#~ msgstr "подтвержденный владелец"
+
+#~ msgid "You may also like&hellip;"
+#~ msgstr "Вам также может понравиться &hellip;"
+
+#, fuzzy
+#~ msgid "Limit to Category (e.g. = Photos)"
+#~ msgstr "Ограничить категорией (опция):"
+
+#, fuzzy
+#~ msgid "Select an Option"
+#~ msgstr "Выбрать варианты"
+
+#~ msgid "Add Slide"
+#~ msgstr "Добавить слайд"
+
+#~ msgid "%s review for %s"
+#~ msgid_plural "%s reviews for %s"
+#~ msgstr[0] "%s обзор для %s"
+#~ msgstr[1] "%s обзоров для %s"
+
+#~ msgid "Reviews"
+#~ msgstr "Отзывы"
+
+#, fuzzy
+#~ msgid "There are no reviews yet."
+#~ msgstr "Нет ранее сохраненных настроект"
+
+#~ msgid "Add a review"
+#~ msgstr "Добавить отзыв"
+
+#~ msgid "Be the first to review"
+#~ msgstr "Оставьте свой отзыв первым"
+
+#~ msgid "Email"
+#~ msgstr "Электронная почта"
+
+#, fuzzy
+#~ msgid "Your Rating"
+#~ msgstr "Рейтинг"
+
+#~ msgid "Rate&hellip;"
+#~ msgstr "Рейтинг&hellip;"
+
+#~ msgid "Perfect"
+#~ msgstr "Замечательный"
+
+#~ msgid "Good"
+#~ msgstr "Хороший"
+
+#~ msgid "Average"
+#~ msgstr "Средний"
+
+#~ msgid "Not that bad"
+#~ msgstr "Неплохой"
+
+#~ msgid "Very Poor"
+#~ msgstr "Очень плохой"
+
+#~ msgid "Your Review"
+#~ msgstr "Ваш отзыв"
+
+#~ msgid ""
+#~ "Only logged in customers who have purchased this product may leave a "
+#~ "review."
+#~ msgstr ""
+#~ "Только авторизованные пользователи, которые приобрели продукт, могут "
+#~ "оставлять отзыв."
+
+#~ msgid ""
+#~ "Unfortunately your order cannot be processed as the originating bank/"
+#~ "merchant has declined your transaction."
+#~ msgstr ""
+#~ "К сожалению, ваш заказ не может быть обработан, поскольку ваш банк / "
+#~ "платежный агент отказал в проведении операции."
+
+#~ msgid "Please attempt your purchase again or go to your account page."
+#~ msgstr ""
+#~ "Пожалуйста, повторите попытку еще раз или перейдите на страницу настроек "
+#~ "вашей учетной записи."
+
+#~ msgid "Please attempt your purchase again."
+#~ msgstr "Пожалуйста, повторите попытку еще раз."
+
+#~ msgid "Pay"
+#~ msgstr "Оплатить"
+
+#~ msgid "Thank you. Your order has been received."
+#~ msgstr "Спасибо! Ваш заказ принят."
+
+#~ msgid "Order:"
+#~ msgstr "Заказ:"
+
+#~ msgid "Date:"
+#~ msgstr "Дата:"
+
+#~ msgid "Total:"
+#~ msgstr "Итого:"
+
+#~ msgid "Payment method:"
+#~ msgstr "Метод оплаты:"
+
+#~ msgid "Sort by popularity"
+#~ msgstr "По полулярности"
+
+#~ msgid "Sort by average rating"
+#~ msgstr "По среднему рейтингу"
+
+#~ msgid "Sort by newness"
+#~ msgstr "По новизне"
+
+#~ msgid "Sort by price: low to high"
+#~ msgstr "По цене: сначала дешевые"
+
+#~ msgid "Sort by price: high to low"
+#~ msgstr "По цене: сначала дорогие"
+
+#~ msgid "Showing all %d results"
+#~ msgstr "Все %d результаты"
+
+#~ msgid ""
+#~ "To track your order please enter your Order ID in the box below and press "
+#~ "return. This was given to you on your receipt and in the confirmation "
+#~ "email you should have received."
+#~ msgstr ""
+#~ "Для отслеживания статуса вашего заказа укажите ID Заказа и нажмите Enter. "
+#~ "ID Заказа был присвоен при его оформлении и отправлен вам вместе с "
+#~ "подтверждением заказа по электронной почте."
+
+#~ msgid "Order ID"
+#~ msgstr "ID Заказа"
+
+#~ msgid "Found in your order confirmation email."
+#~ msgstr "Указан в сообщении о подтверждении заказа."
+
+#~ msgid "Billing Email"
+#~ msgstr "Адрес электронной почты для выставления счетов"
+
+#~ msgid "Email you used during checkout."
+#~ msgstr "Адрес электронной почты, указанный при оформлении заказа."
+
+#~ msgid "Track"
+#~ msgstr "Отследить"
+
+#~ msgid "Order Details"
+#~ msgstr "Реквизиты заказа"
+
+#~ msgid "Download file%s"
+#~ msgstr "Скачать файл %s"
+
+#~ msgid "Order Again"
+#~ msgstr "Повторный заказ"
+
+#~ msgid "Customer details"
+#~ msgstr "Реквизиты клиента"
+
+#~ msgid "Billing Address"
+#~ msgstr "Адрес для выставления счета"
+
+#~ msgid "N/A"
+#~ msgstr "Н/Д"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Адрес доставки"
+
+#~ msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+#~ msgstr "Заказ %s сделанный %s имеет статус &ldquo;%s&rdquo;"
+
+#~ msgid "ago"
+#~ msgstr "назад"
+
+#~ msgid "and was completed"
+#~ msgstr "и был выполнен"
+
+#~ msgid " ago"
+#~ msgstr "назад"
+
+#~ msgid "Order Updates"
+#~ msgstr "Обновления заказа"
+
+#~ msgid "Products tagged &ldquo;"
+#~ msgstr "Пролукты с тэгами &ldquo;"
+
+#~ msgid "Search results for &ldquo;"
+#~ msgstr "Результаты поиска &ldquo;"
+
+#~ msgid "Posts tagged &ldquo;"
+#~ msgstr "Записи с тэгами &ldquo;"
+
+#~ msgid "Author:"
+#~ msgstr "Автор:"
+
+#~ msgid "Username or email"
+#~ msgstr "Имя пользователя или адрес электронной почты"
+
+#~ msgid "Login"
+#~ msgstr "Войти"
+
+#~ msgid "Lost Password?"
+#~ msgstr "Забыли пароль?"
+
+#~ msgid "Additional Information"
+#~ msgstr "Дополнительная информация"
+
+#~ msgid "Product Description"
+#~ msgstr "Описание продукта"
+
+#, fuzzy
+#~ msgid ""
+#~ "You have changes that are not saved.  Would you like to save them now?"
+#~ msgstr "У вас есть несохраненные изменения. Хотите сохранить их сейчас?"
+
+#, fuzzy
+#~ msgid "Are you sure?  Resetting will lose all custom values."
+#~ msgstr ""
+#~ "Вы уверены? Установление значений по умолчанию приведет к потере "
+#~ "измененных значений."
+
+#, fuzzy
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset.  "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "Ваши текущие настройки будут заменены значениями по умолчанию. Продолжить?"
+
+#~ msgid "%1$s License Key"
+#~ msgstr "%1$s ключ лицензии"
+
+#~ msgid "Deactivate License"
+#~ msgstr "Деактивировать лицензию"
+
+#~ msgid ""
+#~ "Updating this theme will lose any customizations you have made. 'Cancel' "
+#~ "to stop, 'OK' to update."
+#~ msgstr ""
+#~ "Обновление данной темы приведет к потере всех модификаций сделанных "
+#~ "ранее. Нажмите 'Отменить' для отмены, 'Ок' для продолжения."
+
+#~ msgid "Not Activated"
+#~ msgstr "Не активирован"
+
+#~ msgid "Deactivated"
+#~ msgstr "Отключено"
+
+#~ msgid "Valid"
+#~ msgstr "Действительный"
+
+#~ msgid "License Status"
+#~ msgstr "Статус лицензии"
+
+#~ msgid "Verify License"
+#~ msgstr "Проверить лицензию"
+
+#~ msgid "Activate License"
+#~ msgstr "Активировать лицензию"
+
+#~ msgid "Continued"
+#~ msgstr "Читать далее"
+
+#~ msgid "Yes - Display Recent Projects"
+#~ msgstr "Да - отображать недавние проекты"
+
+#, fuzzy
+#~ msgid ""
+#~ "Default is: 1140 <b>(Note: just input number, example: 650, does not "
+#~ "apply to Carousel slider)</b>"
+#~ msgstr ""
+#~ "По умолчанию: 1140  <b>(Внимание, просто введите значение, например: 350, "
+#~ "не применяется для карусельного слайдера)</b>"
+
+#~ msgid "vCard"
+#~ msgstr "vCard"
+
+#~ msgid "Virtue: About with Image"
+#~ msgstr "Virtue: О себе с изображением"
+
+#, fuzzy
+#~ msgid "Options panel created using %1$s"
+#~ msgstr "Панель опций создана с использованием"
+
+#~ msgid "Redux Framework"
+#~ msgstr "Redux Framework"
+
+#~ msgid "Dismiss"
+#~ msgstr "Отклонить"
+
+#~ msgid ""
+#~ "You have changes that are not saved. Would you like to save them now?"
+#~ msgstr "У вас есть несохраненные изменения. Хотите сохранить их сейчас?"
+
+#, fuzzy
+#~ msgid "Are you sure? Resetting will lose all custom values."
+#~ msgstr ""
+#~ "Вы уверены? Установление значений по умолчанию приведет к потере "
+#~ "измененных значений."
+
+#, fuzzy
+#~ msgid "Are you sure? Resetting will lose all custom values in this section."
+#~ msgstr ""
+#~ "Вы уверены? Установление значений по умолчанию приведет к потере "
+#~ "измененных значений."
+
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset. "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "Ваши текущие настройки будут заменены значениями по умолчанию. Продолжить?"
+
+#, fuzzy
+#~ msgid "Please Wait"
+#~ msgstr "Пожалуйста, подождите"
+
+#~ msgid "Hints"
+#~ msgstr "Советы"
+
+#~ msgid ""
+#~ "Warning- This options panel will not work properly without javascript!"
+#~ msgstr ""
+#~ "Внимание! Эта панель настроек не будет работать корректно без "
+#~ "подключенного JavaScript!"
+
+#~ msgid "Expand"
+#~ msgstr "Развернуть"
+
+#~ msgid "Save Changes"
+#~ msgstr "Сохранить изменения"
+
+#, fuzzy
+#~ msgid "Reset Section"
+#~ msgstr "Очистить секцию"
+
+#~ msgid "Reset All"
+#~ msgstr "Очистить всё"
+
+#~ msgid "Settings Imported!"
+#~ msgstr "Настройки импортированы!"
+
+#~ msgid "All Defaults Restored!"
+#~ msgstr "Все настройки востановлены по умолчанию!"
+
+#~ msgid "Section Defaults Restored!"
+#~ msgstr "Настройки сейкции востановлены по умолчанию!"
+
+#~ msgid "Settings Saved!"
+#~ msgstr "Настройки сохранены!"
+
+#~ msgid "Settings have changed, you should save them!"
+#~ msgstr "Настройки изменились, не забудьте их сохранить!"
+
+#~ msgid "error(s) were found!"
+#~ msgstr "ошибка(и)!"
+
+#~ msgid "warning(s) were found!"
+#~ msgstr "предупреждение(ия)!"
+
+#~ msgid "System Info"
+#~ msgstr "Системная информация"
+
+#~ msgid "Page Content Options"
+#~ msgstr "Настройки содержимого страницы"
+
+#, fuzzy
+#~ msgid "Blog Archive"
+#~ msgstr "Архивы за день: %s"
+
+#, fuzzy
+#~ msgid "Choose to show full post or post excerpt."
+#~ msgstr ""
+#~ "If Latest Post page is font page. Выберите отображать запись полностью "
+#~ "или кратко."
+
+#~ msgid "Back to"
+#~ msgstr "Назад к"
+
+#~ msgid "Shop"
+#~ msgstr "Магазин"
+
+#~ msgid "No products found which match your selection."
+#~ msgstr "Не найдено ни одного продукта удовлетворяющего критериям выбора."
+
+#, fuzzy
+#~ msgid "Background Repeat"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Background Origin"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "Background Attachment"
+#~ msgstr "Цвет фона"
+
+#, fuzzy
+#~ msgid "No media selected"
+#~ msgstr "Объекты медиа не выбраны"
+
+#~ msgid "Width"
+#~ msgstr "Ширина"
+
+#~ msgid "height"
+#~ msgstr "высота"
+
+#~ msgid "Units"
+#~ msgstr "Единицы"
+
+#~ msgid "Add"
+#~ msgstr "Добавить"
+
+#~ msgid "Import / Export Options"
+#~ msgstr "Настройки Импорта / Экспорта"
+
+#~ msgid "Import Options"
+#~ msgstr "Настройки Импорта"
+
+#~ msgid "Import from file"
+#~ msgstr "Импортировать из файла"
+
+#~ msgid "Import from URL"
+#~ msgstr "Импортировать из URL"
+
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Укажите файл бэкапа в поле ниже и нажмите Импорт для восстановления "
+#~ "настроек сайта из бэкапа."
+
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "Введите URL на настройки другого сайта и нажмите Импорт для загрузки "
+#~ "настроек из того сайта."
+
+#~ msgid "Import"
+#~ msgstr "Импорт"
+
+#~ msgid ""
+#~ "WARNING! This will overwrite all existing option values, please proceed "
+#~ "with caution!"
+#~ msgstr ""
+#~ "ВНИМАНИЕ! Это приведет к замене всех текущих настроек, действуйте с "
+#~ "осторожностю!"
+
+#~ msgid "Export Options"
+#~ msgstr "Настройки экспорта:"
+
+#~ msgid ""
+#~ "Here you can copy/download your current option settings. Keep this safe "
+#~ "as you can use it as a backup should anything go wrong, or you can use it "
+#~ "to restore your settings on this site (or any other site)."
+#~ msgstr ""
+#~ "Здесь вы можете сделать копию / выгрузить ваш набор настроек. Храните их "
+#~ "в надежном месте, поскольку вы в дальнейшем сможете использовать их в "
+#~ "качестве бэкапа если что-то пойдет не по плану, или вы сможете "
+#~ "использовать их для восстановления настроек на этом или другом сайте."
+
+#~ msgid "Copy"
+#~ msgstr "Копировать"
+
+#~ msgid "Copy Link"
+#~ msgstr "Копировать ссылку"
+
+#~ msgid "Import / Export"
+#~ msgstr "Импорт / Экспорт"
+
+#~ msgid "Regular"
+#~ msgstr "Стандартный (обычный)"
+
+#~ msgid "Hover"
+#~ msgstr "Наведение"
+
+#~ msgid "Visited"
+#~ msgstr "Посещенная"
+
+#~ msgid "Active"
+#~ msgstr "Активный"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "Username"
+#~ msgstr "Имя пользователя"
+
+#~ msgid "No items of this type were found."
+#~ msgstr "Элементы данного типа не найдены"
+
+#~ msgid "Backup Font Family"
+#~ msgstr "Запасное семейство шрифтов"
+
+#~ msgid "Font subsets"
+#~ msgstr "Подмножества шрифтов"
+
+#~ msgid "Subsets"
+#~ msgstr "Подмножества"
+
+#~ msgid "Font script"
+#~ msgstr "Начертание шрифта"
+
+#~ msgid "Height"
+#~ msgstr "Высота"
+
+#~ msgid "Word Spacing"
+#~ msgstr "Интервал между словами"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "Интервал между буквами"
+
+#~ msgid "Google Webfonts"
+#~ msgstr "Веб-шрифты Google"
+
+#~ msgid "This field must be a valid color value."
+#~ msgstr "Это поле должно содержать корректный код цвета."
+
+#~ msgid ""
+#~ "You must provide a comma separated list of numerical values for this "
+#~ "option."
+#~ msgstr ""
+#~ "Вы должны указать список через запятую числовых значений для данного поля."
+
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "Вы должны указать в этом поле корректный адрес электронной почты."
+
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr ""
+#~ "Вы не должны вводить код HTML в этом поле, все тэги HTML были удалены."
+
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "Вы не должны вводить специальные символы в этом поле, все специальные "
+#~ "символы были удалены."
+
+#, fuzzy
+#~ msgid "This field cannot be empty. Please provide a value."
+#~ msgstr "Это поле должно содержать корректный код цвета."
+
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "Вы должны указать числовое значение в этом поле."
+
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "Вы должны указать корректный URL в этом поле."
+
+#~ msgid "Options Object"
+#~ msgstr "Объект опций"
+
+#~ msgid "Show Object in Javascript Console Object"
+#~ msgstr "Показать объект в консоли объектов JavaScript"
+
+#~ msgid "New"
+#~ msgstr "Новый"
+
+#~ msgid "SKU:"
+#~ msgstr "Артикул:"
+
+#~ msgid "Tag:"
+#~ msgid_plural "Tags:"
+#~ msgstr[0] "Тэг:"
+#~ msgstr[1] "Тэги:"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущий"
+
+#~ msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Следующий <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Add Your Review"
+#~ msgstr "Добавить ваш отзыв"
+
+#~ msgid ""
+#~ "There are no reviews yet, would you like to <a data-toggle=\"collapse\" "
+#~ "data-parent=\"#review_form\" href=\"#review_form\" class=\"inline "
+#~ "show_review_form\">submit yours</a>?"
+#~ msgstr ""
+#~ "На настоящий момнет нет ни одного отзыва, не хотите <a data-toggle="
+#~ "\"collapse\" data-parent=\"#review_form\" href=\"#review_form\" class="
+#~ "\"inline show_review_form\">оставить свой</a>?"
+
+#~ msgid "Your order"
+#~ msgstr "Ваш заказ"
+
+#~ msgid "Have a coupon?"
+#~ msgstr "Есть купон?"
+
+#~ msgid "Click here to enter your code"
+#~ msgstr "Кликните здесь для ввода кода"
+
+#~ msgid "Add to cart"
+#~ msgstr "Добавить в корзину"
+
+#~ msgid "New password"
+#~ msgstr "Новый пароль"
+
+#~ msgid "Re-enter new password"
+#~ msgstr "Повторите новый пароль"
+
+#~ msgid "Register"
+#~ msgstr "Регистрация"
+
+#~ msgid "Re-enter password"
+#~ msgstr "Повторите пароль"
+
+#~ msgid ""
+#~ "Lost your password? Please enter your username or email address. You will "
+#~ "receive a link to create a new password via email."
+#~ msgstr ""
+#~ "Забыли пароль? Пожалуйста, укажите ваше имя пользователя или адрес "
+#~ "электронной почты. Мы отправим вам на ваш электронный адрес ссылку на "
+#~ "страницу для восстановления пароля."
+
+#~ msgid "Enter a new password below."
+#~ msgstr "Введите новый пароль ниже"
+
+#~ msgid "Reset Password"
+#~ msgstr "Сбросить пароль"
+
+#~ msgid ""
+#~ "Hello, <strong>%s</strong>. From your account dashboard you can view your "
+#~ "recent orders, manage your shipping and billing addresses and <a href=\"%s"
+#~ "\">change your password</a>."
+#~ msgstr ""
+#~ "Здравствуйте, <strong>%s</strong>. Из вашего личного кабинета вы можете "
+#~ "просматривать сделанные заказы, редактировать данные для оплаты и "
+#~ "доставки и <a href=\"%s\">изменить ваш пароль</a>."
+
+#~ msgid "My Addresses"
+#~ msgstr "Мои адреса"
+
+#~ msgid "My Address"
+#~ msgstr "Мой адрес"
+
+#~ msgid ""
+#~ "The following addresses will be used on the checkout page by default."
+#~ msgstr ""
+#~ "Данный адрес будет использоваться на странице оформления заказа по "
+#~ "умолчанию."
+
+#~ msgid "Edit"
+#~ msgstr "Редактировать"
+
+#~ msgid "You have not set up this type of address yet."
+#~ msgstr "Вы еще не указали адрес этого типа."
+
+#~ msgid "Available downloads"
+#~ msgstr "Доступно для скачивания"
+
+#~ msgid "%s download remaining"
+#~ msgid_plural "%s downloads remaining"
+#~ msgstr[0] "%s осталось для скачивания"
+#~ msgstr[1] "%s осталось для скачивания"
+
+#~ msgid "%s for %s item"
+#~ msgid_plural "%s for %s items"
+#~ msgstr[0] "%s для %s элемента"
+#~ msgstr[1] "%s для %s элементов"
+
+#~ msgid "Weight"
+#~ msgstr "Вес"
+
+#~ msgid "Dimensions"
+#~ msgstr "Размеры"
+
+#~ msgid "Reset to Defaults"
+#~ msgstr "Восстановить по умолчанию"
+
+#~ msgid "Not Valid"
+#~ msgstr "Не действительный"
+
+#~ msgid "Licencing"
+#~ msgstr "Лицензирование"
+
+#~ msgid "Shoestrap Theme Licence"
+#~ msgstr "Лицензия темы Shoestrap"
+
+#~ msgid "Enter your shoestrap licence to enable automatic updates."
+#~ msgstr ""
+#~ "Введите текст лицензионного соглашения Shoestrap для автоматического "
+#~ "обновления."
+
+#~ msgid "Your cart is currently empty."
+#~ msgstr "Ваша корзина пуста."
+
+#~ msgid "&larr; Return To Shop"
+#~ msgstr "&larr; Назад в магазин"
+
+#~ msgid "No products in the cart."
+#~ msgstr "В корзине нет продуктов."
+
+#~ msgid "Subtotal"
+#~ msgstr "Промежуточный итог"
+
+#~ msgid "View Cart &rarr;"
+#~ msgstr "Посмотреть корзину &rarr;"
+
+#~ msgid "Checkout &rarr;"
+#~ msgstr "Оформление &rarr;"
+
+#~ msgid "Free"
+#~ msgstr "Бесплатно"
+
+#~ msgid "Please fill in your details to see available shipping methods."
+#~ msgstr ""
+#~ "Пожалуйста заполните реквизиты для просмотра возможных вариантов доставки."
+
+#~ msgid ""
+#~ "There are some issues with the items in your cart (shown above). Please "
+#~ "go back to the cart page and resolve these issues before checking out."
+#~ msgstr ""
+#~ "Есть проблемы с товарами в вашей корзине (указано выше). Пожалуйста, "
+#~ "вернитесь в корзину и устраните эти проблемы до начала оформления заказа."
+
+#~ msgid "&larr; Return To Cart"
+#~ msgstr "&larr; Вернуться к корзине"
+
+#~ msgid "Billing &amp; Shipping"
+#~ msgstr "Счета &amp; Доставка"
+
+#~ msgid "Create an account?"
+#~ msgstr "Создать учетную запись?"
+
+#~ msgid ""
+#~ "Create an account by entering the information below. If you are a "
+#~ "returning customer please login at the top of the page."
+#~ msgstr ""
+#~ "Создайте учетную запись, указав требуемую информацию ниже. Если у вас уже "
+#~ "есть своя запись, войдите в нее с помощью меню входя в учетную запись."
+
+#~ msgid "Returning customer?"
+#~ msgstr "Регистрировались ранее?"
+
+#~ msgid "Click here to login"
+#~ msgstr "Нажмите для входа"
+
+#~ msgid ""
+#~ "If you have shopped with us before, please enter your details in the "
+#~ "boxes below. If you are a new customer please proceed to the Billing "
+#~ "&amp; Shipping section."
+#~ msgstr ""
+#~ "Если вы уже оформляли у нас заказы, введите ваши данные в форму ниже. "
+#~ "Если вы новый клиент, пожалуйста, перейдите в раздел Счета &amp; Доставка."
+
+#~ msgid "Qty"
+#~ msgstr "Кол-во"
+
+#~ msgid "Totals"
+#~ msgstr "Всего"
+
+#~ msgid ""
+#~ "Sorry, it seems that there are no available payment methods for your "
+#~ "location. Please contact us if you require assistance or wish to make "
+#~ "alternate arrangements."
+#~ msgstr ""
+#~ "Извините, похоже что для вашего местоположения нет доступных методов "
+#~ "оплаты. Пожалуйста, свяхитесь с нами если вам нужна консультация или вы "
+#~ "хотите обговорить специальные условия."
+
+#~ msgid "Pay for order"
+#~ msgstr "Оплата заказа"
+
+#~ msgid "Ship to billing address?"
+#~ msgstr "Доставка по адресу выставления счета?"
+
+#~ msgid "Please fill in your details above to see available payment methods."
+#~ msgstr ""
+#~ "Пожалуйста, заполните данные для определения доступных методов оплаты."
+
+#~ msgid ""
+#~ "Sorry, it seems that there are no available payment methods for your "
+#~ "state. Please contact us if you require assistance or wish to make "
+#~ "alternate arrangements."
+#~ msgstr ""
+#~ "Извините, похоже что для вашей страны (штата) нет доступных методов "
+#~ "оплаты. Пожалуйста, свяжитесь с нами, если вам нужна консультация или вы "
+#~ "хотите обговорить специальные условия."
+
+#~ msgid ""
+#~ "Since your browser does not support JavaScript, or it is disabled, please "
+#~ "ensure you click the <em>Update Totals</em> button before placing your "
+#~ "order. You may be charged more than the amount stated above if you fail "
+#~ "to do so."
+#~ msgstr ""
+#~ "Поскольку ваш браузер не поддерживает JavaScript, или он отключен, "
+#~ "пожалуйста, убедитесь, что вы нажали кнопку <em>Пересчитать итог</em> "
+#~ "перед началом оформления заказа. Вам может быть начислен счет на сумму "
+#~ "большую, чем должно быть, если вы этого не сделаете."
+
+#~ msgid "Update totals"
+#~ msgstr "Пересчитать итоги"
+
+#~ msgid "I have read and accept the"
+#~ msgstr "Я прочитал и принимаю"
+
+#~ msgid "terms &amp; conditions"
+#~ msgstr "условия"
+
+#~ msgid "You have received an order from %s. Their order is as follows:"
+#~ msgstr "Вы получили заказ от %s. Данные заказа указаны ниже:"
+
+#~ msgid "Order: %s"
+#~ msgstr "Заказ: %s"
+
+#~ msgid "Tel:"
+#~ msgstr "Тел:"
+
+#~ msgid ""
+#~ "Hi there. Your recent order on %s has been completed. Your order details "
+#~ "are shown below for your reference:"
+#~ msgstr ""
+#~ "Привет! Ваш недавних заказ на %s был выполнен. Подробности вашего заказа "
+#~ "указаны ниже для ваших записей:"
+
+#~ msgid ""
+#~ "An order has been created for you on %s. To pay for this order please use "
+#~ "the following link: %s"
+#~ msgstr "Для вас был создан заказ на %s. Для оплаты используйте ссулку: %s"
+
+#~ msgid "pay"
+#~ msgstr "Оплатить"
+
+#~ msgid ""
+#~ "Thanks for creating an account on %s. Your username is <strong>%s</"
+#~ "strong>."
+#~ msgstr ""
+#~ "Спасибо за регистрацию на %s. Ваше имя пользователя <strong>%s</strong>."
+
+#~ msgid "You can access your account area here: %s."
+#~ msgstr "Вы можете просмотреть свою учетную запись здесь: %s."
+
+#~ msgid "Hello, a note has just been added to your order:"
+#~ msgstr "Привет! К вашему заказу только что было добавлено сообщение:"
+
+#~ msgid "For your reference, your order details are shown below."
+#~ msgstr "Для вашего удобства подробности вашего заказа указаны ниже."
+
+#~ msgid ""
+#~ "Your order has been received and is now being processed. Your order "
+#~ "details are shown below for your reference:"
+#~ msgstr ""
+#~ "Ваш заказ был получен и в настоящее время обрабатывается. Для вашего "
+#~ "удобства подробности вашего заказа указаны ниже."
+
+#~ msgid ""
+#~ "Someone requested that the password be reset for the following account:"
+#~ msgstr ""
+#~ "Нами был получен запрос на восстановление пароля для этой учетной записи:"
+
+#~ msgid "Username: %s"
+#~ msgstr "Пользователь: %s"
+
+#~ msgid ""
+#~ "If this was a mistake, just ignore this email and nothing will happen."
+#~ msgstr "Если это произошло по ошибке, просто проигнорируйте это сообщение."
+
+#~ msgid "To reset your password, visit the following address:"
+#~ msgstr "Для смены пароля обратитесь по этой ссылке:"
+
+#~ msgid "Click here to reset your password"
+#~ msgstr "Кликните здесь для восстановления пароля"
+
+#~ msgid "Billing address"
+#~ msgstr "Реквизиты для выставления счета"
+
+#~ msgid "Shipping address"
+#~ msgstr "Адрес доставки"
+
+#~ msgid "Download %d:"
+#~ msgstr "Загрузить %d:"
+
+#~ msgid "Download:"
+#~ msgstr "Загрузить:"
+
+#~ msgid "Order number: %s"
+#~ msgstr "Заказ №: %s"
+
+#~ msgid "Order date: %s"
+#~ msgstr "Дата заказа: %s"
+
+#~ msgid "jS F Y"
+#~ msgstr "jS F Y"
+
+#~ msgid "Your details"
+#~ msgstr "Ваши реквизиты"
+
+#~ msgid "Quantity: %s"
+#~ msgstr "Количество: %s"
+
+#~ msgid "Cost: %s"
+#~ msgstr "Стоимость: %s"

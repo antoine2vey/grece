@@ -1,0 +1,24 @@
+div.product .product_image, .product-img-case .thumbnails a, div.product .product-summary-case .entry-summary, div.product .woocommerce-tabs .panel, .pcside > .postclass, .pcfull > .postclass,
+.kad-btn, .button, #kad-head-cart-popup .button, #commentform .form-submit #submit, .post-password-form input[type="submit"], table.shop_table td.actions .button, #content .single-article article,
+.staff_item, .blog_carousel .blog_item, #kad-blog-grid .blog_item, .portfolio-item, .products div.product_item, .kad_shop_default .product-category.grid_item, .kad_shop_default_simple .product-category.grid_item,
+.home-iconmenu .home-icon-item:hover .kad-btn-primary, .kad-icon-box:hover .kad-btn-primary, ol.media-list > li.comment, .tab-content{
+-moz-box-shadow: none;
+-webkit-box-shadow: none;
+-o-box-shadow: none;
+box-shadow: none;
+}
+div.product .product_image {
+padding: 15px 15px 15px;
+}
+.titleclass {
+background-repeat: no-repeat;
+background-position: left top;
+background-size: cover;
+background-image: url(../../img/demo_header_01.jpg);
+}
+
+// Post Class
+.product_list_widget li, .kadence_social_widget a, .widget_categories li a,.widget_archive li a, .widget_recent_entries li a, .widget_nav_menu li a,
+.widget_pages li a, .product-categories li a, .product-categories li a {
+	background: #fff;
+}

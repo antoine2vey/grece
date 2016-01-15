@@ -1,0 +1,7960 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pinnacle\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-23 17:05-0700\n"
+"PO-Revision-Date: 2015-02-23 17:07-0700\n"
+"Last-Translator: Administrator <georg_t123@hotmail.com>\n"
+"Language-Team: Pinnacle Theme german translation\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ virtue
+#: ../404.php:7
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr "Die gesuchte Seite existiert leider nicht."
+
+# @ virtue
+#: ../404.php:9
+msgid "It looks like this was the result of either:"
+msgstr "Sieht so aus, als wäre dies das Ergebnis von entweder:"
+
+# @ virtue
+#: ../404.php:11
+msgid "a mistyped address"
+msgstr "eine falsche Adresse"
+
+# @ virtue
+#: ../404.php:12
+msgid "an out-of-date link"
+msgstr "ein veralteter Link"
+
+#: ../404.php:13
+msgid "incorrect permalink settings"
+msgstr ""
+
+#: ../404.php:15
+msgid ""
+"You can return back to the site's homepage and see if you can find what you "
+"are looking for or use the search form below."
+msgstr ""
+
+# @ virtue
+#: ../archive.php:42 ../home.php:17 ../index.php:9 ../search.php:9
+#: ../taxonomy-portfolio-type.php:67
+msgid "Sorry, no results were found."
+msgstr "Leider wurden keine Ergebnisse gefunden."
+
+# @ virtue
+#: ../archive.php:82 ../front-page.php:122 ../home.php:38 ../index.php:24
+#: ../search.php:43 ../taxonomy-portfolio-type.php:154
+#: ../template-blog-grid.php:69 ../template-blog.php:85
+#: ../template-portfolio-grid.php:208
+msgid "&larr; Older posts"
+msgstr "&larr; ältere Einträge"
+
+# @ virtue
+#: ../archive.php:83 ../front-page.php:123 ../home.php:39 ../index.php:25
+#: ../search.php:44 ../taxonomy-portfolio-type.php:155
+#: ../template-blog-grid.php:70 ../template-blog.php:86
+#: ../template-portfolio-grid.php:209
+msgid "Newer posts &rarr;"
+msgstr "neuere Einträge &rarr;"
+
+# @ virtue
+#: ../lib/authorbox.php:6
+msgid "About Author"
+msgstr "Über den Autor"
+
+# @ virtue
+#: ../lib/authorbox.php:7 ../lib/utils.php:11
+#: ../themeoptions/theme_options.php:360
+msgid "Latest Posts"
+msgstr "Aktuelle Beiträge"
+
+# @ virtue
+#: ../lib/authorbox.php:13 ../lib/authorbox.php:16 ../lib/authorbox.php:20
+#: ../lib/authorbox.php:24 ../lib/authorbox.php:28 ../lib/authorbox.php:32
+#: ../lib/authorbox.php:36 ../lib/authorbox.php:40 ../lib/authorbox.php:44
+#: ../lib/authorbox.php:48
+msgid "Follow"
+msgstr "Verfolgen"
+
+# @ virtue
+#: ../lib/authorbox.php:16
+msgid "on Facebook"
+msgstr "auf Facebook"
+
+# @ virtue
+#: ../lib/authorbox.php:20
+msgid "on Twitter"
+msgstr "auf Twitter"
+
+# @ virtue
+#: ../lib/authorbox.php:24
+msgid "on Google Plus"
+msgstr "auf Google Plus"
+
+# @ virtue
+#: ../lib/authorbox.php:28
+msgid "on Flickr"
+msgstr "auf Flickr"
+
+# @ virtue
+#: ../lib/authorbox.php:32
+msgid "on Vimeo"
+msgstr "auf Vimeo"
+
+# @ virtue
+#: ../lib/authorbox.php:36
+msgid "on linkedin"
+msgstr "auf linkedin"
+
+# @ virtue
+#: ../lib/authorbox.php:40
+msgid "on Dribbble"
+msgstr "auf Dribbble"
+
+# @ virtue
+#: ../lib/authorbox.php:44
+msgid "on Pinterest"
+msgstr "auf Pinterest"
+
+# @ virtue
+#: ../lib/authorbox.php:48
+msgid "on Instagram"
+msgstr "auf Instagram"
+
+# @ virtue
+#: ../lib/authorbox.php:65
+msgid "Latest posts from"
+msgstr "Letzte Einträge von"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:161 ../lib/plugin-activate.php:48
+#, fuzzy
+msgid "Install Required Plugins"
+msgstr "Installiere benötitgtes Plugins"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:162 ../lib/plugin-activate.php:49
+msgid "Install Plugins"
+msgstr "Installiere Plugins"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:163 ../lib/plugin-activate.php:50
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installiere Plugin: %s"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Etwas ist schief gegangen."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:175 ../lib/plugin-activate.php:62
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zum benötigten Plugins-Installer."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Zurück zur Übersicht"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:177
+#: ../lib/class-tgm-plugin-activation.php:1939 ../lib/plugin-activate.php:63
+msgid "Plugin activated successfully."
+msgstr "Pluginaktivierung erfolgreich."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:178
+#: ../lib/class-tgm-plugin-activation.php:1630
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Das folgende Plugin wurde erfolgreich aktiviert:"
+msgstr[1] "Die folgenden Plugins wurden erfolgreich aktiviert:"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins installiert und erfolgreich aktiviert. %1$s"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Hinweis gelesen"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:531
+#: ../lib/class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr "Zurück zur Übersicht"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr "Privater Aufbewahrungsort"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr "Vorverpackt"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr "Benötigt"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr "Empfohlen"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr "Installiert aber nicht aktiviert"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1287
+#: ../lib/class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr "Installieren"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1309
+#: ../lib/class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr "Aktivieren"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Keine Plugins zu installieren oder aktivieren. <a href=\"%1$s\" title="
+"\"Zurück zur Übersicht\">Zurück zur Übersicht</a>"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr "Plugin"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr "Quelle"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr "Typ"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr "Status"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr "Installationspaket nicht verfügar."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Herunterladen von Installationspaket von <span class=\"code\">%s</"
+"span>&#8230;"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr "Entpacke das Paket&#8230;"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr "Installation des Plugin&#8230;"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr "Plugininstallation gescheitert."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr "Plugininstallation erfolgreich."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr "Pluginaktivierung gescheitert."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Der Installations- und Aktivierungsprozess wird gestartet. Dieser Vorgang "
+"kann eine Weile auf einigen Server benötigen, seien Sie daher bitte geduldig."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2053
+#: ../lib/class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr "Details anzeigen"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2053
+#: ../lib/class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr "Details verstecken"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen und Aktivierungen abgeschlossen."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere und aktiviere Plugin %1$s (%2$d/%3$d)"
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Der Installationsvorgang wird gestartet. Dieser Vorgang kann eine Weile auf "
+"einigen Server benötigen, seien Sie daher bitte geduldig."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Ein Fehler ist während der Installation aufgetreten %1$s: <strong>%2$s</"
+"strong>."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s scheiterte."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s erfolgreich installiert."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr "Alle Installationen sind abgeschlossen."
+
+# @ virtue
+#: ../lib/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere Plugin %1$s (%2$d/%3$d)"
+
+# @ virtue
+#: ../lib/cleanup.php:97 ../lib/custom.php:81
+#: ../templates/content-post-grid-carousel.php:42
+msgid "Read More"
+msgstr "Weiterlesen"
+
+# @ cmb
+#: ../lib/cmb/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr "Bitte nochmals versuchen"
+
+# @ cmb
+#: ../lib/cmb/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr "Entferne Einbettung"
+
+# @ cmb
+#: ../lib/cmb/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Keine Eingebetten Ergebnisse gefunden für %s. Mehr Infos unter"
+
+# @ virtue
+#: ../lib/cmb/helpers/cmb_Meta_Box_field.php:459
+#, fuzzy
+msgid "Add Group"
+msgstr "Neue Gruppe hinzufügen"
+
+# @ cmb
+# @ virtue
+# @ redux-framework
+#: ../lib/cmb/helpers/cmb_Meta_Box_field.php:460
+#, fuzzy
+msgid "Remove Group"
+msgstr "Entfernen"
+
+# @ cmb
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr "Reihe hinzufügen"
+
+# @ cmb
+# @ virtue
+# @ redux-framework
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:306
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:706
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:768
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:116
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:180
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:115
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:161
+msgid "Remove"
+msgstr "Entfernen"
+
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:601
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+# @ cmb
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:674
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr "Datei hinzufügen oder hochladen"
+
+# @ cmb
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:695
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr "Entferne Bild"
+
+# @ cmb
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:706
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr "Datei:"
+
+# @ cmb
+# @ domain
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:706
+#: ../lib/cmb/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr "Herunterladen"
+
+# @ default
+# @ virtue
+#: ../lib/cmb/init.php:258
+msgid "Clear"
+msgstr "Clear"
+
+# @ default
+# @ virtue
+# @ domain
+#: ../lib/cmb/init.php:259 ../lib/metaboxes.php:226 ../lib/metaboxes.php:243
+#: ../lib/metaboxes.php:254 ../themeoptions/theme_options.php:768
+#: ../themeoptions/theme_options.php:776 ../themeoptions/theme_options.php:784
+msgid "Default"
+msgstr "Standard"
+
+# @ default
+#: ../lib/cmb/init.php:260
+msgid "Select Color"
+msgstr "Wähle Farbe"
+
+# @ default
+#: ../lib/cmb/init.php:261
+msgid "Current Color"
+msgstr "Aktuelle Farbe"
+
+# @ rwtm
+#: ../lib/cmb/init.php:288
+#, fuzzy
+msgid "Select / Deselect All"
+msgstr "Gewählte Datei"
+
+# @ cmb
+#: ../lib/cmb/init.php:1177
+msgid "Save"
+msgstr "Speichern"
+
+# @ virtue
+#: ../lib/comments.php:38 ../templates/comment.php:11
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+# @ virtue
+#: ../lib/comments.php:43
+msgid "| (Edit)"
+msgstr "| (Editieren)"
+
+# @ virtue
+#: ../lib/comments.php:49 ../templates/comment.php:19
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar erwartet noch Moderation."
+
+# @ virtue
+#: ../lib/custom.php:30
+#, fuzzy
+msgid "Loading..."
+msgstr "Standard: lädt"
+
+#: ../lib/custom.php:31
+msgid "of"
+msgstr ""
+
+# @ virtue
+#: ../lib/custom.php:32
+#, fuzzy
+msgid "The Image could not be loaded."
+msgstr "Standard: Das Bild konnte nicht geladen werden."
+
+# @ virtue
+#: ../lib/custom.php:398 ../templates/entry-post-links.php:3
+msgid "Previous Post"
+msgstr "Vorheriger Eintrag"
+
+# @ virtue
+#: ../lib/custom.php:398 ../templates/entry-post-links.php:6
+msgid "Next Post"
+msgstr "Nächster Eintrag"
+
+# @ virtue
+#: ../lib/custom.php:492
+msgid "Occupation"
+msgstr "Beruf"
+
+# @ virtue
+#: ../lib/custom.php:495
+msgid "Please enter your Occupation."
+msgstr "Bitte geben Sie ihren Beruf ein."
+
+# @ virtue
+#: ../lib/custom.php:502
+msgid "Please enter your Twitter username."
+msgstr "Bitte geben Sie ihren Twitter Benutzernamen ein."
+
+# @ virtue
+#: ../lib/custom.php:509
+msgid "Please enter your Facebook url. (be sure to include http://)"
+msgstr ""
+"Bitte geben Sie ihre Facebook URL ein. (Unbedingt mit http:// beginnen)"
+
+# @ virtue
+#: ../lib/custom.php:516
+msgid "Please enter your Google Plus url. (be sure to include http://)"
+msgstr ""
+"Bitte geben Sie ihre Google Plus URL ein. (Unbedingt mit http:// beginnen)"
+
+# @ virtue
+#: ../lib/custom.php:523
+msgid "Please enter your Flickr url. (be sure to include http://)"
+msgstr "Bitte geben Sie ihre Flickr URL ein. (Unbedingt mit http:// beginnen)"
+
+# @ virtue
+#: ../lib/custom.php:530
+msgid "Please enter your Vimeo url. (be sure to include http://)"
+msgstr "Bitte geben Sie ihre Vimeo URL ein. (Unbedingt mit http:// beginnen)"
+
+# @ virtue
+#: ../lib/custom.php:537
+msgid "Please enter your Linkedin url. (be sure to include http://)"
+msgstr ""
+"Bitte geben Sie ihre Linkedin URL ein. (Unbedingt mit http:// beginnen)"
+
+# @ virtue
+#: ../lib/custom.php:544
+msgid "Please enter your Dribbble url. (be sure to include http://)"
+msgstr ""
+"Bitte geben Sie ihre Dribbble URL ein. (Unbedingt mit http:// beginnen)"
+
+# @ virtue
+#: ../lib/custom.php:551
+msgid "Please enter your Pinterest url. (be sure to include http://)"
+msgstr ""
+"Bitte geben Sie ihre Pinterest URL ein. (Unbedingt mit http:// beginnen)"
+
+# @ virtue
+#: ../lib/custom.php:558
+msgid "Please enter your Instagram url. (be sure to include http://)"
+msgstr ""
+"Bitte geben Sie ihre Instagram URL ein. (Unbedingt mit http:// beginnen)"
+
+# @ virtue
+#: ../lib/init.php:8
+msgid "Primary Navigation"
+msgstr "Hauptnavigation"
+
+# @ virtue
+#: ../lib/init.php:9
+msgid "Topbar Navigation"
+msgstr "Topbar Navigation"
+
+# @ virtue
+#: ../lib/init.php:10
+msgid "Footer Navigation"
+msgstr "Fußnavigation"
+
+# @ virtue
+# @ redux-framework
+#: ../lib/metaboxes.php:49 ../lib/metaboxes.php:292 ../lib/metaboxes.php:345
+msgid "All"
+msgstr "Alles"
+
+# @ virtue
+#: ../lib/metaboxes.php:65
+msgid "All Blog Posts"
+msgstr "Alle Blogeinträge"
+
+# @ virtue
+#: ../lib/metaboxes.php:150
+msgid "Standard Post Options"
+msgstr "Stand Beitragsoptionen"
+
+# @ virtue
+#: ../lib/metaboxes.php:158 ../lib/metaboxes.php:199
+msgid "Post Summary"
+msgstr "Eintragszusammenfassung"
+
+# @ virtue
+#: ../lib/metaboxes.php:163
+#, fuzzy
+msgid "Standard Post Default"
+msgstr "Stand Beitragsoptionen"
+
+# @ virtue
+#: ../lib/metaboxes.php:164 ../lib/metaboxes.php:205
+#: ../themeoptions/theme_options.php:1503
+#: ../themeoptions/theme_options.php:1516
+#: ../themeoptions/theme_options.php:1537
+#: ../themeoptions/theme_options.php:1558
+msgid "Text"
+msgstr "Text"
+
+# @ virtue
+#: ../lib/metaboxes.php:165 ../lib/metaboxes.php:206
+#: ../themeoptions/theme_options.php:1503
+#: ../themeoptions/theme_options.php:1516
+#: ../themeoptions/theme_options.php:1537
+#: ../themeoptions/theme_options.php:1558
+msgid "Portrait Image"
+msgstr "Portraitbild"
+
+# @ virtue
+#: ../lib/metaboxes.php:166 ../lib/metaboxes.php:207
+#: ../themeoptions/theme_options.php:1503
+#: ../themeoptions/theme_options.php:1516
+#: ../themeoptions/theme_options.php:1537
+#: ../themeoptions/theme_options.php:1558
+msgid "Landscape Image"
+msgstr "Querformatbild"
+
+# @ virtue
+#: ../lib/metaboxes.php:173
+#, fuzzy
+msgid "Image Post Options"
+msgstr "Beitragsoptionen"
+
+# @ virtue
+#: ../lib/metaboxes.php:182
+msgid "Head Content"
+msgstr "Kopfinhalt"
+
+# @ virtue
+#: ../lib/metaboxes.php:187 ../lib/metaboxes.php:204
+#, fuzzy
+msgid "Image Post Default"
+msgstr "Blog Beitrag Standards"
+
+# @ virtue
+#: ../lib/metaboxes.php:188 ../themeoptions/theme_options.php:1524
+msgid "Image"
+msgstr "Bild"
+
+# @ virtue
+#: ../lib/metaboxes.php:189 ../themeoptions/theme_options.php:360
+#: ../themeoptions/theme_options.php:519
+#: ../themeoptions/theme_options.php:1524
+#: ../themeoptions/theme_options.php:1545
+#: ../themeoptions/theme_options.php:1566
+msgid "None"
+msgstr "Kein"
+
+# @ virtue
+#: ../lib/metaboxes.php:193
+#, fuzzy
+msgid "Max Image Width"
+msgstr "Max Bild/Slider Breite"
+
+# @ virtue
+#: ../lib/metaboxes.php:194
+#, fuzzy
+msgid ""
+"Default is: 848 or 1140 on fullwidth posts (Note: just input number, "
+"example: 650)"
+msgstr ""
+"Standard ist: 670 oder 1140 bei über oder Drei ReihenLayouts (Hinweis: nur "
+"Zahlen eingeben, Beispiel: 650)"
+
+# @ virtue
+#: ../lib/metaboxes.php:214
+msgid "Post Options"
+msgstr "Beitragsoptionen"
+
+# @ virtue
+#: ../lib/metaboxes.php:221 ../lib/metaboxes.php:385
+msgid "Display Sidebar?"
+msgstr "Sidebar anzeigen?"
+
+# @ virtue
+#: ../lib/metaboxes.php:222 ../lib/metaboxes.php:386
+msgid "Choose if layout is fullwidth or sidebar"
+msgstr "Wähle Layout mit voller Breite oder mit Sidebar"
+
+# @ virtue
+#: ../lib/metaboxes.php:227 ../lib/metaboxes.php:245 ../lib/metaboxes.php:391
+#: ../themeoptions/theme_options.php:1326
+msgid "Yes"
+msgstr "Ja"
+
+# @ virtue
+#: ../lib/metaboxes.php:228 ../lib/metaboxes.php:244 ../lib/metaboxes.php:255
+#: ../lib/metaboxes.php:390 ../themeoptions/theme_options.php:1326
+msgid "No"
+msgstr "Nein"
+
+# @ virtue
+#: ../lib/metaboxes.php:232 ../lib/metaboxes.php:395
+msgid "Choose Sidebar"
+msgstr "Wähle Sidebar"
+
+# @ virtue
+#: ../lib/metaboxes.php:238
+msgid "Author Info"
+msgstr "Autoren Info"
+
+# @ virtue
+#: ../lib/metaboxes.php:239
+msgid "Display an author info box?"
+msgstr "Zeige eine Autoren Infobox?"
+
+# @ virtue
+#: ../lib/metaboxes.php:249
+msgid "Posts Carousel"
+msgstr "Beitragskarousell"
+
+# @ virtue
+#: ../lib/metaboxes.php:250
+msgid "Display a carousel with similar or recent posts?"
+msgstr "Zeige ein Karousell mit ähnlichen oder aktuellen Beiträgen?"
+
+# @ virtue
+#: ../lib/metaboxes.php:256 ../themeoptions/theme_options.php:1490
+msgid "Yes - Display Recent Posts"
+msgstr "Ja - aktuelle Beiträge anzeigen"
+
+# @ virtue
+#: ../lib/metaboxes.php:257 ../themeoptions/theme_options.php:1490
+msgid "Yes - Display Similar Posts"
+msgstr "Ja - ähnliche Beiträge anzeigen"
+
+# @ virtue
+#: ../lib/metaboxes.php:262
+msgid "Carousel Title"
+msgstr "Karouselltitel"
+
+# @ virtue
+#: ../lib/metaboxes.php:263
+msgid "ex. Similar Posts"
+msgstr "zB. ähnliche Beiträge"
+
+# @ virtue
+#: ../lib/metaboxes.php:271
+msgid "Blog List Options"
+msgstr "Blog Listoptionen"
+
+# @ virtue
+#: ../lib/metaboxes.php:280 ../lib/metaboxes.php:333
+msgid "Blog Category"
+msgstr "Blog Kategorie"
+
+# @ virtue
+#: ../lib/metaboxes.php:281 ../lib/metaboxes.php:334
+msgid "Select all blog posts or a specific category to show"
+msgstr "Wähle alle Blogeinträge oder eine Kategorie zum anzeigen"
+
+# @ virtue
+#: ../lib/metaboxes.php:287 ../lib/metaboxes.php:340
+msgid "How Many Posts Per Page"
+msgstr "Wie viele Beiträge pro Seite"
+
+# @ virtue
+#: ../lib/metaboxes.php:311
+msgid "Display Post Content as:"
+msgstr "Zeige Beitragsinhalt als:"
+
+# @ virtue
+#: ../lib/metaboxes.php:316
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+# @ virtue
+#: ../lib/metaboxes.php:317 ../themeoptions/theme_options.php:1702
+msgid "Full"
+msgstr "Voll"
+
+# @ virtue
+#: ../lib/metaboxes.php:324
+msgid "Blog Grid Options"
+msgstr "Blog Grid Optionen"
+
+# @ virtue
+#: ../lib/metaboxes.php:364
+msgid "Choose Column Layout:"
+msgstr "Wähle Spalten Layout:"
+
+# @ virtue
+# @ virute
+#: ../lib/metaboxes.php:369 ../themeoptions/theme_options.php:1013
+#: ../themeoptions/theme_options.php:1097
+msgid "Four Column"
+msgstr "Vier Spalten"
+
+# @ virtue
+# @ virute
+#: ../lib/metaboxes.php:370 ../themeoptions/theme_options.php:1013
+#: ../themeoptions/theme_options.php:1097
+msgid "Three Column"
+msgstr "Drei Spalten"
+
+# @ virtue
+# @ virute
+#: ../lib/metaboxes.php:371
+msgid "Two Column"
+msgstr "Zwei Spalten"
+
+# @ virtue
+#: ../lib/metaboxes.php:377
+msgid "Sidebar Options"
+msgstr "Sidebaroptionen"
+
+# @ virtue
+#: ../lib/plugin-activate.php:51
+msgid "Something went wrong with the plugin API."
+msgstr "Etwas ist mit der Plugin-API schief gegangen."
+
+# @ virtue
+#: ../lib/plugin-activate.php:64
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Ein Plugin wurde erfolgreiche installiert und aktiviert. %s"
+
+#: ../lib/scripts.php:32
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+
+#: ../lib/scripts.php:33
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+# @ virtue
+#: ../lib/utils.php:20
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Tägliches Archiv: %s"
+
+# @ virtue
+#: ../lib/utils.php:22
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Monatliches Archiv: %s"
+
+# @ virtue
+#: ../lib/utils.php:24
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jährliches Archiv : %s"
+
+# @ virtue
+#: ../lib/utils.php:26
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Authoren Archiv: %s"
+
+# @ virtue
+#: ../lib/utils.php:31
+#, php-format
+msgid "Search Results for %s"
+msgstr "Suchergebnisse für %s"
+
+# @ virtue
+#: ../lib/utils.php:33
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+# @ virtue
+#: ../lib/widgets.php:6 ../lib/widgets.php:58
+msgid "Primary Sidebar"
+msgstr "Primäre Sidebar"
+
+# @ virtue
+#: ../lib/widgets.php:48
+msgid "Topbar Widget"
+msgstr "Topbar Widget"
+
+# @ virtue
+#: ../lib/widgets.php:71 ../lib/widgets.php:112 ../lib/widgets.php:143
+msgid "Footer Column 1"
+msgstr "Fußzeilenspalte 1"
+
+# @ virtue
+#: ../lib/widgets.php:81 ../lib/widgets.php:122 ../lib/widgets.php:153
+msgid "Footer Column 2"
+msgstr "Fußzeilenspalte 2"
+
+# @ virtue
+#: ../lib/widgets.php:91 ../lib/widgets.php:132
+msgid "Footer Column 3"
+msgstr "Fußzeilenspalte 3"
+
+# @ virtue
+#: ../lib/widgets.php:101
+msgid "Footer Column 4"
+msgstr "Fußzeilenspalte 4"
+
+# @ virtue
+#: ../lib/widgets.php:177
+msgid "Use this widget to add a Vcard to your site"
+msgstr "Nutze dieses Widget um eine Vcard zur Seite hinzu zu fügen"
+
+# @ virtue
+#: ../lib/widgets.php:178
+#, fuzzy
+msgid "Pinnacle: Contact/Vcard"
+msgstr "Virtue: Kontakt/Vcard"
+
+# @ virtue
+#: ../lib/widgets.php:278 ../lib/widgets.php:445 ../lib/widgets.php:603
+#: ../lib/widgets.php:745
+msgid "Title:"
+msgstr "Titel:"
+
+# @ virtue
+#: ../lib/widgets.php:282
+msgid "Company Name:"
+msgstr "Firmen Name:"
+
+# @ virtue
+#: ../lib/widgets.php:286
+msgid "Name:"
+msgstr "Name:"
+
+# @ virtue
+#: ../lib/widgets.php:290
+msgid "Street Address:"
+msgstr "Strasse/Adresse:"
+
+# @ virtue
+#: ../lib/widgets.php:294
+msgid "City/Locality:"
+msgstr "Stadt/Ort:"
+
+# @ virtue
+#: ../lib/widgets.php:298
+msgid "State/Region:"
+msgstr "Bundesland/Region:"
+
+# @ virtue
+#: ../lib/widgets.php:302
+msgid "Zipcode/Postal Code:"
+msgstr "Postleitzahl:"
+
+# @ virtue
+# @ woocommerce
+#: ../lib/widgets.php:306
+#, fuzzy
+msgid "Mobile Telephone:"
+msgstr "Telefon:"
+
+# @ virtue
+# @ woocommerce
+#: ../lib/widgets.php:310
+#, fuzzy
+msgid "Fixed Telephone:"
+msgstr "Telefon:"
+
+# @ virtue
+# @ woocommerce
+#: ../lib/widgets.php:314
+msgid "Email:"
+msgstr "E-Mail:"
+
+# @ virtue
+#: ../lib/widgets.php:325
+msgid "Simple way to add Social Icons"
+msgstr "Einfacher Weg zum hinzufügen von Social Icons"
+
+# @ virtue
+#: ../lib/widgets.php:326
+#, fuzzy
+msgid "Pinnacle: Social Links"
+msgstr "Virtue: Social Links"
+
+# @ virtue
+#: ../lib/widgets.php:449
+msgid "Facebook:"
+msgstr "Facebook:"
+
+# @ virtue
+#: ../lib/widgets.php:453
+msgid "Twitter:"
+msgstr "Twitter:"
+
+# @ virtue
+#: ../lib/widgets.php:457
+msgid "Instagram:"
+msgstr "Instagram:"
+
+# @ virtue
+#: ../lib/widgets.php:461
+msgid "GooglePlus:"
+msgstr "GooglePlus:"
+
+# @ virtue
+#: ../lib/widgets.php:465
+msgid "Flickr:"
+msgstr "Flickr:"
+
+# @ virtue
+#: ../lib/widgets.php:469
+msgid "Vimeo:"
+msgstr "Vimeo:"
+
+# @ virtue
+#: ../lib/widgets.php:473
+msgid "Youtube:"
+msgstr "Youtube:"
+
+# @ virtue
+#: ../lib/widgets.php:477
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+# @ virtue
+#: ../lib/widgets.php:481
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+# @ virtue
+#: ../lib/widgets.php:485
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+# @ virtue
+#: ../lib/widgets.php:489
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: ../lib/widgets.php:493
+msgid "VK:"
+msgstr ""
+
+# @ virtue
+#: ../lib/widgets.php:497
+msgid "RSS:"
+msgstr "RSS:"
+
+# @ virtue
+#: ../lib/widgets.php:511
+msgid "This shows the most recent posts on your site with a thumbnail"
+msgstr ""
+"Dies zeigt den allerletzten Beitrag auf ihrer Seite mit einem Thumbnail"
+
+# @ virtue
+#: ../lib/widgets.php:512
+#, fuzzy
+msgid "Pinnacle: Recent Posts"
+msgstr "Virtue: letzte Beiträge"
+
+# @ virtue
+#: ../lib/widgets.php:537 ../templates/recentblog-carousel.php:7
+msgid "Recent Posts"
+msgstr "Letzte Beiträge"
+
+# @ virtue
+#: ../lib/widgets.php:606
+msgid "Number of posts to show:"
+msgstr "Anzahl der zu zeigenden Beiträge:"
+
+# @ virtue
+#: ../lib/widgets.php:609
+msgid "Limit to Catagory (Optional):"
+msgstr "Limitiere auf Kategorie (Optional):"
+
+# @ virtue
+#: ../lib/widgets.php:623
+msgid ""
+"This shows a grid of featured images from recent posts or portfolio items"
+msgstr ""
+"Dies zeigt einen Raster von gefeatureten Bildern der letzten Beiträge oder "
+"Portfolioeinträge"
+
+# @ virtue
+#: ../lib/widgets.php:624
+#, fuzzy
+msgid "Pinnacle: Post Grid"
+msgstr "Virtue: Beitrags Raster"
+
+# @ virtue
+#: ../lib/widgets.php:748
+msgid "Grid Choice:"
+msgstr "Rasterauswahl:"
+
+# @ virtue
+#: ../lib/widgets.php:750
+msgid "Blog Posts"
+msgstr "Blog Beiträge"
+
+# @ virtue
+#: ../lib/widgets.php:751
+msgid "Portfolio"
+msgstr "Portfolio"
+
+# @ virtue
+#: ../lib/widgets.php:754
+msgid "If Post - Choose Category (Optional):"
+msgstr "Wenn Beitrag - wähle Kategorie (optional):"
+
+# @ virtue
+#: ../lib/widgets.php:757
+msgid "If Portfolio - Choose Type (Optional):"
+msgstr "Wenn Portfolio -wähle Typ (optional):"
+
+# @ virtue
+#: ../lib/widgets.php:760
+msgid "Number of images to show:"
+msgstr "Anzahl der anzuzeigenden Bilder:"
+
+# @ virtue
+#: ../lib/widgets.php:771
+msgid "This allows for an image and a simple about text."
+msgstr "Dies ermöglicht einen einfachen 'Übertext' mit Bild."
+
+# @ virtue
+#: ../lib/widgets.php:772
+#, fuzzy
+msgid "Pinnacle: Image"
+msgstr "Virtue: Bild Grid"
+
+# @ virtue
+#: ../lib/widgets.php:826
+msgid "Lightbox"
+msgstr "Lightbox"
+
+# @ virtue
+#: ../lib/widgets.php:827
+msgid "New Window"
+msgstr "Neues Fenster"
+
+# @ virtue
+#: ../lib/widgets.php:828
+msgid "Same Window"
+msgstr "Gleiches Fenster"
+
+# @ virtue
+#: ../lib/widgets.php:829
+msgid "No Link"
+msgstr "Kein Link "
+
+# @ virtue
+#: ../lib/widgets.php:841
+msgid "Image URL"
+msgstr "Bild URL"
+
+# @ virtue
+# @ redux-framework
+#: ../lib/widgets.php:843
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:108
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:159
+msgid "Upload"
+msgstr "Hochladen"
+
+# @ virtue
+#: ../lib/widgets.php:846
+msgid "Image opens in"
+msgstr "Bild öffnen in"
+
+# @ virtue
+#: ../lib/widgets.php:850
+msgid "Image Link (optional)"
+msgstr "Bild Link (optional)"
+
+# @ virtue
+#: ../lib/widgets.php:854
+msgid "Text/Caption (optional)"
+msgstr "Text/Beschreibung (optional)"
+
+# @ woocommerce
+#: ../product-searchform.php:2
+msgid "Search for products"
+msgstr "Suche nach Produkten:"
+
+# @ virtue
+#: ../searchform.php:2
+msgid "Search for:"
+msgstr "Suche nach:"
+
+# @ virtue
+#: ../searchform.php:3
+msgid "Search"
+msgstr "Suche"
+
+# @ virtue
+#: ../taxonomy-portfolio-type.php:103 ../template-portfolio-grid.php:155
+#: ../templates/bottomportfolio-carousel.php:138
+#: ../templates/home/portfolio-carousel.php:191
+#, fuzzy
+msgid "View details"
+msgstr "Details verstecken"
+
+# @ virtue
+#: ../template-blog-grid.php:58 ../template-blog.php:74
+#: ../templates/home/blog-home.php:51 ../templates/home/latest-slider.php:58
+#: ../templates/recentblog-carousel.php:39
+#: ../templates/similarblog-carousel.php:45
+msgid "Sorry, no blog entries found."
+msgstr "Leider keine Blog Einträge gefunden."
+
+# @ virtue
+#: ../template-portfolio-grid.php:199
+#: ../templates/bottomportfolio-carousel.php:183
+#: ../templates/home/portfolio-carousel.php:236
+msgid "Sorry, no portfolio entries found."
+msgstr "Leider keine Portfolio Einträge gefunden."
+
+# @ woocommerce
+#: ../templates/account-sidebar.php:18
+#, fuzzy
+msgid "Edit Account"
+msgstr "Mein Konto"
+
+# @ virtue
+#: ../templates/account-sidebar.php:21
+#, fuzzy
+msgid "Logout"
+msgstr "Logo"
+
+# @ virtue
+#: ../templates/bottomportfolio-carousel.php:9
+msgid "Recent Projects"
+msgstr "Aktuelle Projekte"
+
+# @ virtue
+#: ../templates/comment.php:15
+msgid "(Edit)"
+msgstr "(Editieren)"
+
+# @ virtue
+#: ../templates/comments.php:9
+#, php-format
+msgid "One Response "
+msgid_plural "%1$s Responses "
+msgstr[0] "Eine Antwort "
+msgstr[1] "%1$s Antworten "
+
+# @ virtue
+#: ../templates/comments.php:18
+msgid "&larr; Older comments"
+msgstr "&larr; Ältere Kommentare"
+
+# @ virtue
+#: ../templates/comments.php:21
+msgid "Newer comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+# @ virtue
+#: ../templates/comments.php:34 ../templates/comments.php:51
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+# @ virtue
+#: ../templates/comments.php:63
+msgid "Leave a Reply"
+msgstr "Deine Gedanken zu diesem Thema"
+
+# @ virtue
+# @ woocommerce
+#: ../templates/comments.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Hinterlasse eine Anmerkungen zu %s"
+
+# @ virtue
+#: ../templates/comments.php:66
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Du musst <a href=\"%s\">angemeldet sein,</a> um ein Kommentar zu "
+"hinterlassen."
+
+# @ virtue
+#: ../templates/comments.php:71
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Angemeldet als <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+# @ virtue
+#: ../templates/comments.php:72
+msgid "Log out of this account"
+msgstr "Von diesem Zugang abmelden"
+
+# @ virtue
+#: ../templates/comments.php:72
+msgid "Log out &raquo;"
+msgstr "Abmelden?  &raquo;"
+
+# @ virtue
+# @ woocommerce
+#: ../templates/comments.php:77
+msgid "Name"
+msgstr "Name"
+
+# @ virtue
+#: ../templates/comments.php:77 ../templates/comments.php:81
+msgid " <span>*</span>"
+msgstr " <span>*</span>"
+
+# @ virtue
+#: ../templates/comments.php:81
+msgid "Email (will not be published)"
+msgstr "E-Mail (wird nicht veröffentlicht)"
+
+# @ virtue
+#: ../templates/comments.php:85
+msgid "Website"
+msgstr "Webseite"
+
+# @ virtue
+#: ../templates/comments.php:90
+msgid "Comment"
+msgstr "Kommentar"
+
+# @ virtue
+#: ../templates/comments.php:92
+msgid "Submit Comment"
+msgstr "Kommentar absenden"
+
+# @ virtue
+#: ../templates/content-fullpost.php:138
+#: ../templates/content-fullpostfull.php:138
+#: ../templates/content-single.php:144
+#: ../templates/content-singleportfolio.php:169
+msgid "Pages:"
+msgstr "Seiten:"
+
+# @ virtue
+#: ../templates/entry-meta-subhead.php:3
+msgid "by"
+msgstr "von"
+
+# @ virtue
+#: ../templates/entry-meta-subhead.php:5
+#, fuzzy
+msgid "on"
+msgstr "Symbol hinzufügen"
+
+#: ../templates/entry-meta-subhead.php:6
+msgid "with"
+msgstr ""
+
+#: ../templates/entry-meta.php:5
+msgid "By"
+msgstr ""
+
+#: ../templates/header.php:72
+msgid "No menu assigned"
+msgstr ""
+
+# @ virtue
+#: ../templates/home/blog-home.php:6
+msgid "Latest from the Blog"
+msgstr "Aktuelles aus dem Blog"
+
+# @ virtue
+#: ../templates/similarblog-carousel.php:6
+msgid "Similar Posts"
+msgstr "Ähnliche Beiträge"
+
+# @ virtue
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:50
+#, fuzzy
+msgid "Icon"
+msgstr "Symbol hinzufügen"
+
+# @ virtue
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:55
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:53
+#, fuzzy, php-format
+msgid "New %s"
+msgstr "Neuer Mitarbeiter"
+
+# @ virtue
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:110
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:178
+msgid "Upload Icon"
+msgstr "Symbol hochladen"
+
+# @ virtue
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:119
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:184
+msgid "Select an Icon"
+msgstr "Wähle ein Symbol"
+
+# @ redux-framework
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:139
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:203
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:121
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:166
+msgid "URL"
+msgstr "URL"
+
+# @ virtue
+# @ redux-framework
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:140
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:205
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:122
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:168
+#: ../themeoptions/theme_options.php:820
+msgid "Title"
+msgstr "Titel"
+
+# @ virtue
+# @ redux-framework
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:141
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:207
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:123
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:170
+msgid "Description"
+msgstr "Beschreibung"
+
+# @ virtue
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:142
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:209
+msgid "Icon Link"
+msgstr "Symbol Link"
+
+# @ virtue
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:146
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:214
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:128
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:177
+msgid "Open Link in New Tab/Window"
+msgstr "Öffne Link in neuem Tab/Fenster"
+
+# @ virtue
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:156
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:223
+msgid "Delete Icon"
+msgstr "Lösche Symbol"
+
+# @ virtue
+#: ../themeoptions/options_assets/extensions/kad_icons/kad_icons/field_kad_icons.php:226
+msgid "Add Icon"
+msgstr "Symbol hinzufügen"
+
+# @ virtue
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:48
+#: ../themeoptions/theme_options.php:467 ../themeoptions/theme_options.php:620
+msgid "Slide"
+msgstr "Slide"
+
+# @ virtue
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:124
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:172
+msgid "Slide Link"
+msgstr "Slide Link"
+
+# @ redux-framework
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:137
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:185
+msgid "Delete Slide"
+msgstr "Entferne Slide"
+
+# @ redux-framework
+#: ../themeoptions/options_assets/extensions/kad_slides/kad_slides/field_kad_slides.php:188
+#, fuzzy, php-format
+msgid "Add %s"
+msgstr "Slide hinzufügen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:69
+#, fuzzy
+msgid "Site Header"
+msgstr "Seitenbreiter Banner"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:71
+#, fuzzy
+msgid "Welcome to Pinnacle Theme Options"
+msgstr "Willkommen zu den Virtue Theme-Optionen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:72
+msgid "This theme was developed by"
+msgstr "Dieses Thema wurde entwickelt von"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:73
+msgid "For theme documentation visit"
+msgstr "Für Themendokumentation besuche"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:75
+msgid "For support please visit"
+msgstr "Für Support besuche bitte"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:82
+#, fuzzy
+msgid "Header Height"
+msgstr "Kopf Start Höhe"
+
+#: ../themeoptions/theme_options.php:91
+msgid "Transparent Header"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:96
+#, fuzzy
+msgid "Enable Transparent header?"
+msgstr "Fixierten Kopf Einschalten?"
+
+#: ../themeoptions/theme_options.php:97
+msgid "This will make the page header background fill to the top of the page."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:103
+msgid "Menu Text Color (For Transparent Header)"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:104
+msgid "Choose the font color of the menu font while background is transparent"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:114
+msgid "Border Color (For Transparent Header)"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:115
+msgid "Choose the color of bottom border while background is transparent"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:125
+msgid "Site title font Color (For Transparent Header)"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:126
+msgid "Choose the font color for the logo while background is transparent"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:137
+msgid "Logo (For Transparent Header)"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:138
+msgid "Upload your Logo."
+msgstr ""
+
+#: ../themeoptions/theme_options.php:144
+msgid "@2x Logo (For Transparent Header) "
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:145 ../themeoptions/theme_options.php:174
+msgid "Should be twice the pixel size of your normal logo."
+msgstr "Sollte die doppelte Pixelanzahl ihres normalen Logo besitzen."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:152
+msgid "Logo Options"
+msgstr "Logo Optionen"
+
+#: ../themeoptions/theme_options.php:157
+msgid "Logo Container Width"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:158
+msgid "16%"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:158
+msgid "25%"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:158
+msgid "33%"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:158
+msgid "41%"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:158
+msgid "50%"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:166
+msgid "Logo"
+msgstr "Logo"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:167
+msgid "Upload your Logo. If left blank theme will use site name."
+msgstr "Logo hochladen. Wenn leer, verwendet das Thema den Seitennamen."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:173
+msgid "Upload Your @2x Logo for Retina Screens"
+msgstr "Lade Logo @2x für Retina Screens hoch"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:179
+msgid "Sitename Logo Font"
+msgstr "Font für den Seitennamen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:192
+msgid "Choose size and style your sitename, if you don't use an image logo."
+msgstr "Wähle Größe & Still für den Seitennamen. Wenn Sie kein Logo verwenden."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:204 ../themeoptions/theme_options.php:360
+#: ../themeoptions/theme_options.php:519
+msgid "Page Title"
+msgstr "Seitentitel"
+
+# @ woocommerce
+#: ../themeoptions/theme_options.php:209
+#, fuzzy
+msgid "Show the page title by default"
+msgstr "Das einzige Ergebnis anzeigen"
+
+#: ../themeoptions/theme_options.php:210
+#: ../themeoptions/theme_options.php:1176
+#: ../themeoptions/theme_options.php:1183
+#: ../themeoptions/theme_options.php:1268
+#: ../themeoptions/theme_options.php:1434
+msgid "This can be overridden on each page."
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:217
+#, fuzzy
+msgid "Page Header Default Background"
+msgstr "Kopf Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:222
+#, fuzzy
+msgid "Page Title Color"
+msgstr "Seitentitel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:223
+#, fuzzy
+msgid "Choose the default pagetitle color for your site."
+msgstr "Wählen Sie die standard Highlight Farbe für Ihre Seite."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:233
+#, fuzzy
+msgid "Page Subtitle Color"
+msgstr "Seitentitel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:234
+#, fuzzy
+msgid "Choose the default subtitle color for your site."
+msgstr "Wählen Sie die standard Highlight Farbe für Ihre Seite."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:244
+#, fuzzy
+msgid "Page Title Align"
+msgstr "Seitentitel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:245
+msgid "Center"
+msgstr "Mitte"
+
+# @ virtue
+# @ redux-framework
+#: ../themeoptions/theme_options.php:245
+msgid "Left"
+msgstr "Links"
+
+# @ virtue
+# @ redux-framework
+#: ../themeoptions/theme_options.php:245
+msgid "Right"
+msgstr "Rechts"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:254
+#, fuzzy
+msgid "Footer Layout"
+msgstr "Fuß Widget Layout"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:259
+msgid "Footer Widget Layout"
+msgstr "Fuß Widget Layout"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:260
+msgid "Select how many columns for footer widgets"
+msgstr "Wähle wie viele Fuß-Widget-Spalten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:273
+msgid "Topbar Settings"
+msgstr "Topbar Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:278
+msgid "Use Topbar?"
+msgstr "Benutze Topbar?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:279
+msgid "Choose to show or hide topbar"
+msgstr "Wähle zum anzeigen der Topbar"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:285
+#, fuzzy
+msgid "Topbar Height"
+msgstr "Topbar Widget"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:294
+#, fuzzy
+msgid "Hide on mobile?"
+msgstr "Details verstecken"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:295
+#, fuzzy
+msgid "Choose to show or hide topbar on mobile"
+msgstr "Wähle zum anzeigen oder verstecken des Symbolmenü in der Topbar"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:301
+msgid "Use Topbar Icon Menu?"
+msgstr "Benutze Topbar Symbolmenü?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:302
+msgid "Choose to show or hide topbar icon Menu"
+msgstr "Wähle zum anzeigen oder verstecken des Symbolmenü in der Topbar"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:308
+msgid "Topbar Icon Menu"
+msgstr "Topbar Symbolmenü"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:309
+msgid "Choose your icons for the topbar icon menu."
+msgstr "Wählen Sie die Symbole für das Topbar-Symbolmenü."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:314
+#, fuzzy
+msgid "Icon menu font size"
+msgstr "Sekundärmenü Elementgröße"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:323
+msgid "Show Cart total in topbar?"
+msgstr "Zeige Warenkorb-Total in Topbar?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:324
+msgid "This only works if using woocommerce"
+msgstr "Dies funktioniert nur wenn Sie woocommerce verwenden"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:330
+msgid "Display Search in Topbar?"
+msgstr "Zeige Suche in der Topbar?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:331
+msgid "Choose to show or hide search in topbar"
+msgstr "Wähle zum anzeigen oder versteckender Suche  in der Tobar"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:337
+#, fuzzy
+msgid "Enable widget area in left of Topbar?"
+msgstr "Ermögliche Widgetbereich rechts in der Topbar?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:343
+msgid "Topbar Layout Switch"
+msgstr "Topbar Layout-Tausch"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:344
+msgid "This moves the left items to the right and right items to the left."
+msgstr ""
+"Dies verschiebt die linken Elemente nach rechts und die rechten nach links."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:352
+#, fuzzy
+msgid "Home Slider"
+msgstr "Bilderslider"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:353
+msgid "Home Page Slider Options"
+msgstr "Hauptseiten-Slider Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:358
+msgid "Choose a Home Image Slider"
+msgstr "Wähle einen Haupt Bildslider"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:359
+msgid "If you don't want an image slider on your home page choose none."
+msgstr ""
+"Wenn Sie keinen Bildslider auf Ihrer Webseiten haben wollen, dann wählen Sie "
+"keinen aus."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:360 ../themeoptions/theme_options.php:519
+msgid "Flex Slider"
+msgstr "Bild Slider"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:360
+msgid "Carousel Slider"
+msgstr "Sliderkarousell"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:360 ../themeoptions/theme_options.php:519
+#: ../themeoptions/theme_options.php:1558
+#: ../themeoptions/theme_options.php:1566
+msgid "Video"
+msgstr "Video"
+
+#: ../themeoptions/theme_options.php:367
+msgid "Place behind Header"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:368
+#, fuzzy
+msgid "This enabled the transparent header on the home page."
+msgstr "Das entscheided ob eine Sidebar auf der Hauptseite ist."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:375 ../themeoptions/theme_options.php:527
+#, fuzzy
+msgid "Home Page Title"
+msgstr "Seitentitel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:383 ../themeoptions/theme_options.php:535
+#, fuzzy
+msgid "Home Page SubTitle"
+msgstr "Hauptseite - Blogtitel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:384 ../themeoptions/theme_options.php:536
+#, fuzzy
+msgid "optional text below home page title"
+msgstr "Subtitel steht unt dem Seitentitel"
+
+#: ../themeoptions/theme_options.php:392 ../themeoptions/theme_options.php:544
+msgid "Home Page Title Padding Top"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:402 ../themeoptions/theme_options.php:554
+#, fuzzy
+msgid "Home Page Title Padding Bottom"
+msgstr "Seiten Titel und Subtitel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:417 ../themeoptions/theme_options.php:570
+msgid "Slider Images"
+msgstr "Silder Bilder"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:418 ../themeoptions/theme_options.php:571
+msgid "Use large images for best results."
+msgstr "Benutze große Bilder für beste Ergebnisse"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:424 ../themeoptions/theme_options.php:577
+msgid "Slider Max Height"
+msgstr "Slider maximal Höhe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:425 ../themeoptions/theme_options.php:436
+#: ../themeoptions/theme_options.php:578 ../themeoptions/theme_options.php:589
+msgid "Note: does not work if images are smaller than max."
+msgstr "Hinweis: das funktioniert nicht bei Bildern wenn kleiner sind als max."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:435 ../themeoptions/theme_options.php:588
+msgid "Slider Max Width"
+msgstr "Slider maximale Breite"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:446 ../themeoptions/theme_options.php:599
+msgid "Auto Play?"
+msgstr "Automatisch abspielen?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:447 ../themeoptions/theme_options.php:600
+msgid "This determines if a slider automatically scrolls"
+msgstr "Dies entscheiden ob der slider automatisch scrollt"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:454 ../themeoptions/theme_options.php:607
+msgid "Slider Pause Time"
+msgstr "Slider Pausezeit"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:455 ../themeoptions/theme_options.php:608
+msgid "How long to pause on each slide, in milliseconds."
+msgstr "Wie vie Pause pro Slide, in Millisekunden."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:465 ../themeoptions/theme_options.php:618
+msgid "Transition Type"
+msgstr "Übergangstyp"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:466 ../themeoptions/theme_options.php:619
+msgid "Choose a transition type"
+msgstr "Wähle einen Übergangstyp"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:467 ../themeoptions/theme_options.php:620
+msgid "Fade"
+msgstr "Überblenden"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:474 ../themeoptions/theme_options.php:627
+msgid "Slider Transition Time"
+msgstr "Slider Übergangszeit"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:475 ../themeoptions/theme_options.php:628
+msgid "How long for slide transitions, in milliseconds."
+msgstr "Wie viel Zeit für den Übergang, in Millisekunden."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:485 ../themeoptions/theme_options.php:638
+msgid "Show Captions?"
+msgstr "Zeige Beschriftung?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:486 ../themeoptions/theme_options.php:639
+msgid "Choose to show or hide captions"
+msgstr "Wähle zum anzeigen oder verstecken"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:493 ../themeoptions/theme_options.php:646
+msgid "Video Embed Code"
+msgstr "Video Einbettcode"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:494 ../themeoptions/theme_options.php:647
+msgid "If your using a video on the home page place video embed code here."
+msgstr ""
+"Wenn Sie ein Video für Ihre Hauptseite verwenden, bette den Code hier ein."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:504
+#, fuzzy
+msgid "Home Mobile Slider"
+msgstr "Handy Slider"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:505
+#, fuzzy
+msgid "Create a different home slider for your mobile visitors."
+msgstr ""
+"Erstelle einen mehr leichtgewichtigern Slider für die mobilen Besucher."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:510
+msgid "Would you like to use this feature?"
+msgstr "Wollen sie diese Funktion benutzen?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:511
+msgid ""
+"Choose if you would like to show a different slider on your home page for "
+"your mobile visitors."
+msgstr ""
+"Wählen Sie dies, wenn Sie einen anderen Slider für Ihre mobilen Besucher auf "
+"Ihrer Hauptseite zeigen möchten."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:517
+msgid "Choose a Slider for Mobile"
+msgstr "Wähle einen Slider für Handies"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:518
+msgid "Choose which slider you would like to show for mobile viewers."
+msgstr "Wähle Slider welche Siie für Handybesucher anzeigen möchten."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:656
+msgid "Home Layout"
+msgstr "Hauptseite - Layout"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:663
+msgid "Display a sidebar on the Home Page?"
+msgstr "Zeige eine Sidebar auf der Hauptseite?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:664
+msgid "This determines if there is a sidebar on the home page."
+msgstr "Das entscheided ob eine Sidebar auf der Hauptseite ist."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:674
+msgid "Choose a Sidebar for your Home Page"
+msgstr "Wähle eine Sidbar für die Hauptseite"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:682
+msgid "Homepage Layout Manager"
+msgstr "Hauptseiten Layout Manager"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:683
+msgid "Organize how you want the layout to appear on the homepage"
+msgstr "Organisieren Sie wie das Layouter auf Ihre Homepage aussehen soll"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:687
+msgid "Portfolio Carousel"
+msgstr "Portofolio-Karousell"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:688 ../themeoptions/theme_options.php:850
+msgid "Icon Menu"
+msgstr "Symbolmenü"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:689
+#, fuzzy
+msgid "Call to Action"
+msgstr "Virtue: Social Links"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:690
+msgid "Page Content"
+msgstr "Seiteninhalt"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:694
+msgid "Latest Blog Posts"
+msgstr "Aktuelle Blogeintäge"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:701
+msgid "Home Blog Settings"
+msgstr "Hauptseite - Blog Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:706
+msgid "Home Blog Title"
+msgstr "Hauptseite - Blogtitel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:707
+msgid "e.g. = Latest from the blog"
+msgstr "zB: aktuell aus dem Blog"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:712
+msgid "Choose How many posts on Homepage"
+msgstr "Wähle Anzahl der Beiträge für Hauptseite"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:721
+msgid "Choose how many post columns on Homepage"
+msgstr "Wähle wie viele Beiträgespalten auf der Hauptseite sind"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:731
+msgid "Limit posts to a Category"
+msgstr "Limitiere Beiträge auf eine Kategorie"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:732
+msgid "Leave blank to select all"
+msgstr "Leer lassen um alle zu zeigen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:738
+msgid "Home Portfolio Carousel Settings"
+msgstr "Hauptseite - Portfoliokarousell Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:743
+msgid "Home Portfolio Carousel title"
+msgstr "Hauptseite - Portfoliokarousell Titel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:744
+msgid "e.g. = Portfolio Carousel title"
+msgstr "zB: Portfoliokarousell Titel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:751
+msgid "Portfolio Carousel Category Type"
+msgstr "Portfoliokarousell Kategorietyp"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:752
+msgid "Leave blank to select all types"
+msgstr "Leer lassen um all Typen zu verwenden"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:758
+msgid "Choose how many columns are in carousel"
+msgstr "Wähle wie viele Spalten im Karousell sein sollen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:767
+#, fuzzy
+msgid "Portfolio Layout Style"
+msgstr "Seiten Layoutstill"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:768
+#: ../themeoptions/theme_options.php:1248
+#, fuzzy
+msgid "Post Boxes"
+msgstr "Beitragsoptionen"
+
+#: ../themeoptions/theme_options.php:768
+#: ../themeoptions/theme_options.php:1248
+msgid "Flat with Margin"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:775
+#, fuzzy
+msgid "Portfolio Hover Style"
+msgstr "Portfolio Arbeitstypen"
+
+# @ virtue
+# @ redux-framework
+#: ../themeoptions/theme_options.php:776
+#, fuzzy
+msgid "Light"
+msgstr "Rechts"
+
+#: ../themeoptions/theme_options.php:776
+msgid "Dark"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:776
+#: ../themeoptions/theme_options.php:1634
+msgid "Primary Color"
+msgstr "Hauptfarbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:783
+#, fuzzy
+msgid "Portfolio Image Ratio"
+msgstr "Portfolio Seitenoptionen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:784
+msgid "Square 1:1"
+msgstr "Quadratisch 1:1"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:784
+msgid "Portrait 3:4"
+msgstr "Portrait 3:4"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:784
+msgid "Landscape 4:3"
+msgstr "Querformat 4:3"
+
+# @ default
+# @ virtue
+#: ../themeoptions/theme_options.php:784
+msgid "Wide Landscape 4:2"
+msgstr "Breites Querformat 4:2"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:791
+msgid "Choose how many portfolio items are in carousel"
+msgstr "Wähle wie viele Portofolioelmente im Karousell sein sollen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:800
+msgid "Choose the carousel speed (in seconds)."
+msgstr "Wähle the Karousell-Geschwindigkeit (in Sekunden)."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:809
+msgid "Portfolio Carousel Scroll"
+msgstr "Portofolio-Karousell Scroll"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:810
+msgid "Choose how the portfolio items scroll."
+msgstr "Wähle wie die Portofolioelmente scrollen sollen."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:811
+msgid "One Item"
+msgstr "Ein Element"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:811
+msgid "All Visible"
+msgstr "Alle Sichtbar"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:818
+msgid "Portfolio Carousel Order by"
+msgstr "Portfoliokarousell Sortierung nach"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:819
+msgid "Choose how the portfolio items should be ordered in the carousel."
+msgstr "Wähle wie die Portfolioelemente angeordnet sein sollen im Karousell."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:820
+msgid "Menu Order"
+msgstr "Menü Anordnung"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:820
+msgid "Date"
+msgstr "Datum"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:820
+msgid "Random"
+msgstr "Zufall"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:827
+#, fuzzy
+msgid "Display lightbox link in portfolio item?"
+msgstr "Zeige Lightbox-Link in der rechten oberen Ecke?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:833
+msgid "Display Portfolio Types under Title"
+msgstr "Zeige Portfoliotypen unter Titel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:839
+#, fuzzy
+msgid "Display Portfolio excerpt under Title"
+msgstr "Zeige Portfoliotypen unter Titel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:845
+msgid "Home Icon Menu"
+msgstr "Hauptseite - Symbolmenü"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:851
+msgid "Choose your icons for the icon menu."
+msgstr "Wähle die Symbole für das Symbomenü."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:856
+msgid "Choose how many columns in each row"
+msgstr "Wähle wie viele Spalten pro Reihe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:865
+#, fuzzy
+msgid "Icon menu button text (optional)"
+msgstr "Bild Link (optional)"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:866 ../themeoptions/theme_options.php:920
+#, fuzzy
+msgid "e.g. = Read More"
+msgstr "Weiterlesen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:871
+msgid "Icon Color"
+msgstr "Symbolfarbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:872
+#, fuzzy
+msgid "Choose the color for icon."
+msgstr "Wähle the Karousell-Geschwindigkeit (in Sekunden)."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:881
+#, fuzzy
+msgid "Icon Background Color"
+msgstr "Hintergrund Farbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:882
+#, fuzzy
+msgid ""
+"Choose the background color for icon. * Note the hover color is set by your "
+"primary color in basic styling."
+msgstr ""
+"Wähle die Hintergrundfarbe für die Symbolmenüboxen. * Hinweis: die hover "
+"Farbe wird von der Einstellung Hauptfarbe in Basis Still verwendet"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:890
+#, fuzzy
+msgid "Title and Description Font Color"
+msgstr "Hover und Aktive Schriftfarbe"
+
+#: ../themeoptions/theme_options.php:891
+msgid "Choose the color for icon menu title and description Font."
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:900
+#, fuzzy
+msgid "Home Call To Action Settings"
+msgstr "Hauptseite Aktionsprodukte Einstellung"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:905
+#, fuzzy
+msgid "Call to Action Text"
+msgstr "Virtue: Social Links"
+
+#: ../themeoptions/theme_options.php:910
+msgid "Call to Action Text Color"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:919
+msgid "Call to Action Button Text"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:925
+msgid "Call to Action Button Link"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:930
+#, fuzzy
+msgid "Button Text Color"
+msgstr "Button Farbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:939
+#, fuzzy
+msgid "Button Background Color"
+msgstr "Hintergrund Farbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:947
+#, fuzzy
+msgid "Button Hover Text Color"
+msgstr "Button Farbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:956
+#, fuzzy
+msgid "Button Hover Background Color"
+msgstr "Hintergrund Farbe"
+
+#: ../themeoptions/theme_options.php:964
+msgid "Call to action top and bottom padding."
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:974
+#, fuzzy
+msgid "Call to action background"
+msgstr "Hauptinhalt Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:979
+msgid "Page Content Options (if home page is latest post page)"
+msgstr "Seiteninhalt Optionen (wenn die Seite ein Aktuelle Beträgeseite ist)"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:984
+msgid "Latest Post Display"
+msgstr "Aktuellste Beitragsanzeige"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:985
+#, fuzzy
+msgid "If Latest Post page is front page. Choose how to show the posts."
+msgstr ""
+"Wenn aktuelle Beiträge auf Hauptseite. Wählen Sie anzeige des vollen Beitrag "
+"oder Beitragsauszug."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:986
+#: ../themeoptions/theme_options.php:1579
+#, fuzzy
+msgid "Normal Post Excerpt"
+msgstr "Beitragsauszug Länge"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:986
+#: ../themeoptions/theme_options.php:1579
+#, fuzzy
+msgid "Normal Full Post"
+msgstr "Blog Beiträge"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:986
+#: ../themeoptions/theme_options.php:1579
+#, fuzzy
+msgid "Grid Post"
+msgstr "Vorheriger Eintrag"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:993
+#, fuzzy
+msgid "Post Grid Columns"
+msgstr "Beitragsspalten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:994
+#: ../themeoptions/theme_options.php:1587
+#, fuzzy
+msgid "Two"
+msgstr "Oben"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:994
+#: ../themeoptions/theme_options.php:1587
+#, fuzzy
+msgid "Three"
+msgstr "Drei Reihen"
+
+#: ../themeoptions/theme_options.php:994
+#: ../themeoptions/theme_options.php:1587
+msgid "Four"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1005
+msgid "Shop Settings"
+msgstr "Shop Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1006
+#, fuzzy
+msgid "Shop Archive Page Settings (Woocommerce plugin required)"
+msgstr "Shop Archivseiten Einstellung"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1011
+msgid "Shop Product Column Layout"
+msgstr "Shop Produkt Spalten Layout"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1012
+msgid "Choose how many product columns on the shop and category pages"
+msgstr "Wähle wie viele Produktspalten auf den Shop- & Kategorieseiten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1021
+msgid "Display the sidebar on Shop Page?"
+msgstr "Zeige die Sidebar auf Shopseite?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1022
+msgid "This determines if there is a sidebar on the shop page."
+msgstr "Dies entscheided ob eine Sidebar auf der Shopseite ist."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1032
+msgid "Choose a Sidebar for your shop page"
+msgstr "Wählen Sie eine Sidebar für Ihre Shopseite"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1041
+msgid "Display the sidebar on Product Category Pages?"
+msgstr "Zeige die Sidebar auf Shoparchiven?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1042
+msgid "This determines if there is a sidebar on the product category pages."
+msgstr ""
+"Dies entscheidet ob eine Sidebar auf den Shop- und Kategorieseiten ist."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1052
+msgid "Choose a Sidebar for your Product Category Pages"
+msgstr "Wähle eine Sidbar für die Produkt-Kategorie-Seiten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1060
+msgid "How many products per page"
+msgstr "Wie viele Produkte pro Seite"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1069
+msgid "Show Ratings in Shop and Category Pages"
+msgstr "Zeige Bewertungen in Shop- und Kategorieseiten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1070
+msgid "This determines if the rating is displayed in the product archive pages"
+msgstr ""
+"Dies entscheidet ob eine Bewertung angezeigt wird in den Produktarchivseiten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1076
+msgid "Hide Add to Cart Till Mouse Hover"
+msgstr "Verstecke \"zum Warenkorb hinzufügen\" bis die Maus darüber ist"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1077
+msgid ""
+"This determines if add to cart button will be hidden till the mouse hovers "
+"over the product"
+msgstr ""
+"Dies entscheide ob \"zum Warenkorb hinzufügen\" versteckt bleibt bis die "
+"Maus über dem Produkt ist."
+
+#: ../themeoptions/theme_options.php:1083
+msgid "Quantity box plus and minus"
+msgstr ""
+
+#: ../themeoptions/theme_options.php:1084
+msgid ""
+"Turn this off if you would like to use browser added plus and minus for "
+"number boxes"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1090
+msgid "Shop Category Image Size"
+msgstr "Shopkategorie Bildergröße"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1095
+msgid "Shop Category Column Layout"
+msgstr "Shopkategorie Splatenlayout"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1096
+msgid ""
+"Choose how many Category Image columns to show on the shop and category pages"
+msgstr ""
+"Wähle wie viele Kategoriebilder Splaten auf den Shop- & Kategorieseiten "
+"gezeigt werden"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1104
+msgid "Shop Product Title Settings"
+msgstr "Shop Produkttitel Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1109
+msgid "Shop & archive Product title Font"
+msgstr "Shop & Archiv Produkttitel Schrift"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1120
+msgid "Choose Size and Style for product titles on category and archive pages."
+msgstr ""
+"Wähle Größe und Still für die Produkttitel auf Kategory- und Archivseiten."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1131
+msgid "Set Product Title to Uppercase?"
+msgstr "Den Produkttitel groß schreiben?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1132
+msgid "This makes your product titles uppercase on Category pages"
+msgstr "Dies macht den Produkttitel großgeschrieben auf Kategorieseiten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1138
+msgid "Product title Min Height"
+msgstr "Produkttitel Mindesthöhe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1139
+msgid ""
+"If your titles are long increase this to help align your products height."
+msgstr ""
+"Wenn Ihre Titel lange sind, erhöhen Sie diese um die Ausrichtung Ihrer "
+"Produkthöhe zu verbessern."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1148
+msgid "Product Image Sizes"
+msgstr "Produktbild Größen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1153
+msgid "Enable Product Image Aspect Ratio on Catalog pages"
+msgstr "Verwende Produktbild Aspekt Ratio auf Katalogseiten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1154
+msgid ""
+"If turned off image dimensions are set by woocommerce settings - recommended "
+"width: 270px for Catalog Images"
+msgstr ""
+"Wenn ausgeschaltet werden Bildabmessungen aus woocommerce Einstellungen "
+"verwendet - empfohlene Breite: 270px für Katalogbilder"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1160
+msgid "Enable Product Image Aspect Ratio on product Page"
+msgstr "Verwende Produktbild Aspekt Ratio auf Produktseiten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1161
+msgid ""
+"If turned off image dimensions are set by woocommerce settings - recommended "
+"width: 468px for Single Product Image"
+msgstr ""
+"Wenn ausgeschaltet werden Bildabmessungen aus woocommerce Einstellungen "
+"verwendet - empfohlene Breite: 468px für Produktbilder"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1169
+#, fuzzy
+msgid "Product Settings"
+msgstr "Produktseiten Einstellung"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1170
+#, fuzzy
+msgid "Single Product Page Header (Woocommerce plugin required)"
+msgstr "Single Produkt Layout"
+
+# @ woocommerce
+#: ../themeoptions/theme_options.php:1175
+#: ../themeoptions/theme_options.php:1267
+#, fuzzy
+msgid "Show the Title in header by default"
+msgstr "Das einzige Ergebnis anzeigen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1182
+#: ../themeoptions/theme_options.php:1274
+#, fuzzy
+msgid "Show the Title in post"
+msgstr "Zeige Datum mit Beiträgen?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1189
+#: ../themeoptions/theme_options.php:1280
+#, fuzzy
+msgid "Product Default Title Text"
+msgstr "Produkt VERKAUF Text"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1190
+#, fuzzy
+msgid "Category of product"
+msgstr "Produktkategorie"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1190
+#, fuzzy
+msgid "Product Title"
+msgstr "Produktvideo"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1190
+#: ../themeoptions/theme_options.php:1281
+#: ../themeoptions/theme_options.php:1441
+#, fuzzy
+msgid "Custom"
+msgstr "Benutzerdefinierter Tab"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1197
+#: ../themeoptions/theme_options.php:1288
+#: ../themeoptions/theme_options.php:1455
+#, fuzzy
+msgid "Post Default Title"
+msgstr "Blog Beitrag Standards"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1198
+#: ../themeoptions/theme_options.php:1289
+#, fuzzy
+msgid "Example: My Shop"
+msgstr "Beispiel 400"
+
+# @ default
+# @ virtue
+# @ domain
+#: ../themeoptions/theme_options.php:1204
+#: ../themeoptions/theme_options.php:1295
+#: ../themeoptions/theme_options.php:1462
+#, fuzzy
+msgid "Post Default Subtitle"
+msgstr "Standard"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1210
+msgid "Display product tabs?"
+msgstr "Zeige Produkttablulatoren?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1211
+msgid "This determines if product tabs are displayed"
+msgstr "Die entscheidet ob Produkttabulatoren angezeigt werden"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1217
+msgid "Display related products?"
+msgstr "Zeige ähnliche Produkte?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1218
+msgid "This determines related products are displayed"
+msgstr "Dies entscheidet ob ähnliche Produkte angezeigt werden"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1226
+msgid "Portfolio Options"
+msgstr "Portfolio-Optionen"
+
+#: ../themeoptions/theme_options.php:1227
+msgid "Portfolio Options (Pinnacle Toolkit plugin required)"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1232
+msgid "Allow Comments on Portfolio Posts"
+msgstr "Erlaube Kommentare auf Portfoliobeiträgen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1233
+msgid "Turn on to allow Comments on Portfolio posts"
+msgstr "Aktiviere um Kommmentare auf Portfoliobeiträgen zu erlauben"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1239
+#, fuzzy
+msgid "Portfolio Grid Options"
+msgstr "Portfolio-Optionen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1246
+#, fuzzy
+msgid "Default Portfolio Layout Style"
+msgstr "Hauptseite - Portfoliokarousell Titel"
+
+#: ../themeoptions/theme_options.php:1247
+msgid "This sets the defualt layout style for the portfolio post."
+msgstr ""
+
+# @ woocommerce
+#: ../themeoptions/theme_options.php:1255
+#, fuzzy
+msgid "Default Hover Style"
+msgstr "Standard Sortierung"
+
+#: ../themeoptions/theme_options.php:1256
+msgid "This sets the defualt hover style for the portfolio post."
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1257
+#, fuzzy
+msgid "Primary Color Style"
+msgstr "Hauptfarbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1257
+#, fuzzy
+msgid "Light Style"
+msgstr "Acht Elemente"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1257
+#, fuzzy
+msgid "Dark Style"
+msgstr "Kopf-Still"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1262
+#, fuzzy
+msgid "Single Portfolio Page Header"
+msgstr "Hauptseiten - Portfoliokarousell Titel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1281
+#, fuzzy
+msgid "Category of Portfolio"
+msgstr "Produktkategorie"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1281
+#, fuzzy
+msgid "Portfolio Title"
+msgstr "Portfolio Typ"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1301
+#, fuzzy
+msgid "Single Portfolio Navigation Options"
+msgstr "Portfolio Navigation Optionen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1306
+#, fuzzy
+msgid "Show portfolio nav below post title"
+msgstr "Hauptseite - Portfoliokarousell Titel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1314
+msgid "All Projects Default Portfolio Page"
+msgstr "Alle Projekte Standard Portfolioseite"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1315
+#, fuzzy
+msgid "This sets the link in every portfolio post."
+msgstr ""
+"Dies setzt einen Link in jeden Portfolioeintrag. Sie das im Eintrag "
+"überschreiben."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1320
+msgid "Portfolio Post Bottom Carousel"
+msgstr "Portofolioeintrags - Karousell unten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1325
+#, fuzzy
+msgid "Display Bottom Portfolio carousel by Default"
+msgstr "Portofolio-Karousell unten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1333
+#, fuzzy
+msgid "Bottom Portfolio Carousel Items"
+msgstr "Portofolio-Karousell unten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1334
+msgid "All Portfolio Posts"
+msgstr "Alle Portfolio Beiträge"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1334
+msgid "Only of same Portfolio Type"
+msgstr "Nur vom gleichen Portfolio Typ"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1341
+msgid "Choose how many columns to show on recent portfolio carousel."
+msgstr ""
+"Wähle wie viele Portofoliospalten in einem letzte Portfolios-Karousell sein "
+"sollen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1350
+msgid "Portfolio Category Pages"
+msgstr "Portolio Kategorie Seiten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1355
+msgid "Choose how many portfolio columns to show on portfolio catagory pages."
+msgstr ""
+"Wähle wie viele Portofoliospalten in Portfolio Kategorieseiten sein sollen."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1366
+#: ../themeoptions/theme_options.php:1367
+msgid "Blog Options"
+msgstr "Blog Optionen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1372
+msgid "Show Comments Closed Text?"
+msgstr "Zeige Text kommentieren 'geschlossen'?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1373
+msgid "Choose to show or hide comments closed alert below posts."
+msgstr ""
+"Wähle zum zeigen oder verstecken des Kommentieren geschlossen Hinweis unter "
+"Beiträgen."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1379
+#, fuzzy
+msgid "Show Author image with posts?"
+msgstr "Zeige Author Symbol mit Beiträgen?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1380
+#, fuzzy
+msgid "Choose to show or hide author image beside post title."
+msgstr "Wähle zum zeigen oder verstecken des Authorsymbol unter Beitragstitel."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1386
+#, fuzzy
+msgid "Show author name with posts?"
+msgstr "Zeige Author Symbol mit Beiträgen?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1387
+#, fuzzy
+msgid "Choose to show or hide author name under post title."
+msgstr "Wähle zum zeigen oder verstecken des Authorsymbol unter Beitragstitel."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1393
+#, fuzzy
+msgid "Show categories with posts?"
+msgstr "Zeige Datum mit Beiträgen?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1394
+#, fuzzy
+msgid "Choose to show or hide categories in the post footer."
+msgstr "Wähle zum zeigen oder verstecken des Datum mit Beitragstitel."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1400
+#, fuzzy
+msgid "Show tags with posts?"
+msgstr "Zeige Datum mit Beiträgen?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1401
+#, fuzzy
+msgid "Choose to show or hide tags in the post footer."
+msgstr "Wähle zum zeigen oder verstecken des Datum mit Beitragstitel."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1407
+#, fuzzy
+msgid "Show comment count with posts?"
+msgstr "Zeige Kommentarsymbol mit Beiträgen?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1408
+#, fuzzy
+msgid "Choose to show or hide comment count under post title."
+msgstr ""
+"Wähle zum zeigen oder verstecken des Kommentarsymbol unter Beitragstitel."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1414
+#, fuzzy
+msgid "Show date with posts?"
+msgstr "Zeige Datum mit Beiträgen?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1415
+#, fuzzy
+msgid "Choose to show or hide date under post title."
+msgstr "Wähle zum zeigen oder verstecken des Datum mit Beitragstitel."
+
+#: ../themeoptions/theme_options.php:1421
+msgid "Show Previous and Next posts links?"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1422
+#, fuzzy
+msgid ""
+"Choose to show or hide previous and next post links in the footer of a "
+"single post."
+msgstr ""
+"Wähle zum zeigen oder verstecken Brotkrumenpfad auf einzelnen Beiträgen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1428
+#, fuzzy
+msgid "Blog Post Page Header"
+msgstr "Seite für alle Blogeinträge"
+
+#: ../themeoptions/theme_options.php:1433
+msgid "Show the post title in head by default"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1440
+#, fuzzy
+msgid "Blog Post Default Head Title"
+msgstr "Blog Beitrag Standards"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1441
+#, fuzzy
+msgid "Category"
+msgstr "Blog Kategorie"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1441
+#, fuzzy
+msgid "Post Title"
+msgstr "Seitentitel"
+
+#: ../themeoptions/theme_options.php:1448
+msgid "Show the post title below the header"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1456
+#, fuzzy
+msgid "Example: Blog"
+msgstr "Beispiel 400"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1468
+msgid "Blog Post Defaults"
+msgstr "Blog Beitrag Standards"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1473
+msgid "Blog Post Sidebar Default"
+msgstr "Bloge Beitrag Sidebar Standard"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1474
+#: ../themeoptions/theme_options.php:1482
+msgid "Yes, Show"
+msgstr "Ja, anzeigen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1474
+#: ../themeoptions/theme_options.php:1482
+#: ../themeoptions/theme_options.php:1490
+msgid "No, Do not Show"
+msgstr "Nein, nicht anzeigen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1481
+msgid "Blog Post Author Box Default"
+msgstr "Bloge Beitrag Author Box Standard"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1489
+#, fuzzy
+msgid "Blog Post Bottom Carousel Default"
+msgstr "Portofolioeintrags - Karousell unten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1497
+#, fuzzy
+msgid "Blog Post Defaults Standard"
+msgstr "Blog Beitrag Standards"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1502
+#, fuzzy
+msgid "Standard Blog Post Summary Default"
+msgstr "Bloge Beitragübersicht Standardansicht"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1510
+#, fuzzy
+msgid "Blog Post Defaults Image"
+msgstr "Blog Beitrag Standards"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1515
+#, fuzzy
+msgid "Image Blog Post Summary Default"
+msgstr "Bloge Beitragübersicht Standardansicht"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1523
+#, fuzzy
+msgid "Single Image Post Head Content"
+msgstr "Bloge Beitrag Sidebar Standard"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1531
+#, fuzzy
+msgid "Blog Post Defaults gallery"
+msgstr "Blog Beitrag Standards"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1536
+#, fuzzy
+msgid "Gallery Blog Post Summary Default"
+msgstr "Bloge Beitragübersicht Standardansicht"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1537
+#, fuzzy
+msgid "Portrait Slider"
+msgstr "Portraitbild-Slider"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1537
+#, fuzzy
+msgid "Landscape Slider"
+msgstr "Querformatbild-Slider"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1544
+#, fuzzy
+msgid "Single Gallery Post Head Content"
+msgstr "Bloge Beitrag Sidebar Standard"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1545
+#, fuzzy
+msgid "Image Slider (Flex Slider)"
+msgstr "Sliderkarousell"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1545
+#, fuzzy
+msgid "Carousel Slider (Caroufedsel Slider)"
+msgstr "Sliderkarousell"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1552
+#, fuzzy
+msgid "Blog Post Defaults Video"
+msgstr "Blog Beitrag Standards"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1557
+#, fuzzy
+msgid "Video Blog Post Summary Default"
+msgstr "Bloge Beitragübersicht Standardansicht"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1565
+#, fuzzy
+msgid "Single Video Post Head Content"
+msgstr "Bloge Beitrag Sidebar Standard"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1573
+msgid "Blog Category/Archive Defaults"
+msgstr "Blog Kategorie/Archive Standards"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1578
+#, fuzzy
+msgid "Category Display Type"
+msgstr "Aktuellste Beitragsanzeige"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1586
+#, fuzzy
+msgid "Category Grid Columns"
+msgstr "Gallerie Splaten"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1596
+msgid "Display the sidebar on blog archives?"
+msgstr "Zeige die Sidebar auf Shoparchiven?"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1597
+msgid "This determines if there is a sidebar on the blog category pages."
+msgstr ""
+"Dies entscheidet ob eine Sidebar auf den Blog- und Kategorieseiten ist."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1607
+msgid "Choose a Sidebar for your Category/Archive Pages"
+msgstr "Wähle eine Sidbar für die Kategorie/Archive Seite"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1618
+msgid "Basic Styling"
+msgstr "Basis Styling"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1619
+msgid "Basic Stylng"
+msgstr "Basis Styling"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1624
+msgid "Theme Skin Stylesheet"
+msgstr "Themen Skin Stylesheet"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1625
+msgid ""
+"Note* changes made in options panel will override this stylesheet. Example: "
+"Colors set in typography."
+msgstr ""
+"Hinweis*  Gemachte Änderungen im Einstellungspanel ignorieren diesen "
+"Stylesheet. Beispiel: gewählte Farben in Typographie."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1635
+msgid "Choose the default Highlight color for your site."
+msgstr "Wählen Sie die standard Highlight Farbe für Ihre Seite."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1643
+#, fuzzy
+msgid "Primary Hover Color"
+msgstr "Hauptfarbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1644
+#, fuzzy
+msgid "Recomended to be 20% lighter than primary color"
+msgstr "20% heller als Hauptfarbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1653
+msgid "Sitewide Gray Fonts"
+msgstr "Globale Link Schriftfarbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1662
+msgid "Footer Font Color"
+msgstr "Fußzeilen Schriftfarbe"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1673
+msgid "Advanced Styling"
+msgstr "Erweitertes Styling"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1674
+msgid "Main Content Background"
+msgstr "Hauptinhalt Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1680
+#, fuzzy
+msgid "Content Background"
+msgstr "Hauptinhalt Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1685
+#: ../themeoptions/theme_options.php:1691
+msgid "Topbar Background"
+msgstr "Topbar Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1696
+#: ../themeoptions/theme_options.php:1710
+msgid "Header Background"
+msgstr "Kopf Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1701
+#, fuzzy
+msgid "Header Background Style"
+msgstr "Kopf Hintergrund"
+
+#: ../themeoptions/theme_options.php:1702
+msgid "Simple"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1716
+#, fuzzy
+msgid "Header Background Color"
+msgstr "HoverHintergrund Farbe"
+
+#: ../themeoptions/theme_options.php:1725
+msgid "If background is color, select Transparency"
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1734
+#: ../themeoptions/theme_options.php:1740
+#, fuzzy
+msgid "Menu Background"
+msgstr "Handymenü Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1745
+#: ../themeoptions/theme_options.php:1751
+msgid "Mobile Menu Background"
+msgstr "Handymenü Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1756
+#, fuzzy
+msgid "Post and Page Content area Background"
+msgstr "Hauptinhalt Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1762
+#, fuzzy
+msgid "Post Background"
+msgstr "Fußzeilen Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1767
+#: ../themeoptions/theme_options.php:1773
+msgid "Footer Background"
+msgstr "Fußzeilen Hintergrund"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1778
+#: ../themeoptions/theme_options.php:1784
+msgid "Body Background"
+msgstr "Seiten Hintergrund"
+
+#: ../themeoptions/theme_options.php:1785
+msgid "This shows if site is using the boxed layout option."
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1792
+msgid "Typography"
+msgstr "Typographie"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1793
+msgid "Header Font Options"
+msgstr "Überschrift Optionen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1798
+msgid "H1 Headings"
+msgstr "H1 Überschrift"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1810
+msgid "Choose Size and Style for h1 (This Styles Your Page Titles)"
+msgstr "Wähle Größe und Still für h1 (Dieser Still ist Ihr Seitentitel)"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1821
+msgid "H2 Headings"
+msgstr "H2 Überschrift"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1836
+msgid "Choose Size and Style for h2"
+msgstr "Wähle Größe und Still für h2"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1847
+msgid "H3 Headings"
+msgstr "H3 Überschrift"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1862
+msgid "Choose Size and Style for h3"
+msgstr "Wähle Größe und Still für h3"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1873
+msgid "H4 Headings"
+msgstr "H4 Überschrift"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1888
+msgid "Choose Size and Style for h4"
+msgstr "Wähle Größe und Still für h4"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1899
+msgid "H5 Headings"
+msgstr "H5 Überschrift"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1912
+msgid "Choose Size and Style for h5"
+msgstr "Wähle Größe und Still für h5"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1923
+#, fuzzy
+msgid "Page Subtitle"
+msgstr "Seitentitel"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1935
+#, fuzzy
+msgid "Choose Size and Style for Page Subtitle"
+msgstr "Wähle Größe und Still für Handymenü"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1946
+msgid "Body Font Options"
+msgstr "Generelle Schrifteinstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1951
+msgid "Body Font"
+msgstr "Generelle Schrift"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1966
+msgid "Choose Size and Style for paragraphs"
+msgstr "Wähle Größe und Still für Paragraphen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1979
+msgid "Menu Settings"
+msgstr "Menüeinstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1980
+msgid "Primary Menu Options"
+msgstr "Hauptmenü Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:1985
+msgid "Primary Menu Font"
+msgstr "Hauptmenü Schrift"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2000
+msgid "Choose Size and Style for primary menu"
+msgstr "Wähle Größe & Still für Hauptmenü"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2010
+msgid "Mobile Menu Options"
+msgstr "Handymenü Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2015
+msgid "Mobile Menu Font"
+msgstr "Handymenü Schrift"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2030
+msgid "Choose Size and Style for Mobile Menu"
+msgstr "Wähle Größe und Still für Handymenü"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2041
+#, fuzzy
+msgid "Topbar Menu Options"
+msgstr "Handymenü Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2046
+#, fuzzy
+msgid "Topbar Menu Font"
+msgstr "Handymenü Schrift"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2058
+#, fuzzy
+msgid "Choose Size and Style for topbar menu"
+msgstr "Wähle Größe & Still für Hauptmenü"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2070
+#: ../themeoptions/theme_options.php:2071
+msgid "Misc Settings"
+msgstr "Generelle Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2077
+msgid "Custom Favicon"
+msgstr "Benutzer definiertes Favicon"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2078
+msgid ""
+"Upload a 16px x 16px png/gif/ico image that will represent your website "
+"favicon."
+msgstr ""
+"Lade ein 16px * 16px png/gif/ico Bild hoch das als Symbol für Ihre Webseite "
+"verwendet wird."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2083
+msgid "Footer Copyright Text"
+msgstr "Fußzeilen Urhebertext"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2084
+msgid ""
+"Write your own copyright text here. You can use the following shortcodes in "
+"your footer text: [copyright] [site-name] [the-year]"
+msgstr ""
+"Schreiben Sie Ihren Urhebertext hier. Sie können folgende Kürzel in der "
+"Fußzeile verweden: [copyright] [site-name] [the-year]"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2090
+msgid "Search Results Sidebars"
+msgstr "Suchergebnisse Sidebars"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2095
+msgid "Search Results - choose Sidebar"
+msgstr "Suchergebnisse - wähle Sidebar"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2103
+msgid "Create Sidebars"
+msgstr "Erstelle Sidebars"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2108
+msgid "Create Custom Sidebars"
+msgstr "Erstelle benutzerdefinierte Sidebar"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2109
+msgid "Type new sidebar name into textbox"
+msgstr "Schreibe den neuen Sidebarnamen in die Textbox"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2110
+msgid "Extra Sidebar"
+msgstr "Extra Sidebar"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2115
+#, fuzzy
+msgid "WordPress Galleries"
+msgstr "Wordpress Gallerien"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2120
+#, fuzzy
+msgid "Enable Pinnacle Galleries to override WordPress"
+msgstr "Ermöglicht das Virtue die Wordpressgallerien ersetzt"
+
+#: ../themeoptions/theme_options.php:2121
+msgid "You must have virtue/pinnacle toolkit installed to use."
+msgstr ""
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2129
+#: ../themeoptions/theme_options.php:2135
+msgid "Custom CSS"
+msgstr "Benutzerdefinierte CSS"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2130
+msgid "Custom CSS Box"
+msgstr "Benutzerdefinierte CSS Box"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2136
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+"Addiert am schnellsten CSS zu ihren Theme durch Eintragung in diese Box."
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2156
+#: ../themeoptions/theme_options.php:2157
+msgid "Theme Options"
+msgstr "Theme Einstellungen"
+
+# @ virtue
+#: ../themeoptions/theme_options.php:2164
+#, fuzzy
+msgid ""
+"Thank you for using the Pinnacle Theme by <a href=\"http://kadencethemes.com/"
+"\" target=\"_blank\">Kadence Themes</a>."
+msgstr ""
+"Dank für das verweden des Virtue Thema von <a href=\"http://kadencethemes."
+"com/\" target=\"_blank\">Kadence Themes</a>."
+
+# @ virtue
+#: ../woocommerce/loop/rating.php:20
+msgid "not rated"
+msgstr "nicht bewertet"
+
+# @ virtue
+#: ../woocommerce/loop/sale-flash.php:14
+msgid "Sale!"
+msgstr "Angebot!"
+
+# @ woocommerce
+#: ../woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr "Wähle eine Option"
+
+# @ woocommerce
+#: ../woocommerce/single-product/add-to-cart/variable.php:60
+msgid "Clear selection"
+msgstr "Lösche Auswahl"
+
+# @ woocommerce
+#: ../woocommerce/single-product/add-to-cart/variable.php:92
+msgid "This product is currently out of stock and unavailable."
+msgstr "Dieses Produkt ist momentan nicht auf Lager."
+
+# @ virtue
+#: ../woocommerce/single-product/product-image.php:51
+#, fuzzy
+msgid "Placeholder"
+msgstr "SUCHE Platzhaltertext"
+
+# @ virtue
+# @ redux-framework
+#~ msgid "Add/Edit Gallery"
+#~ msgstr "Hizufügen/Editieren Gallerie"
+
+# @ virtue
+# @ redux-framework
+#~ msgid "Clear Gallery"
+#~ msgstr "Gallerie leeren"
+
+# @ virtue
+#~ msgid "Page Title and Subtitle"
+#~ msgstr "Seiten Titel und Subtitel"
+
+# @ virtue
+#~ msgid "Subtitle"
+#~ msgstr "Subtitel"
+
+# @ virtue
+#~ msgid "Subtitle will go below page title"
+#~ msgstr "Subtitel steht unt dem Seitentitel"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Hide Page Title"
+#~ msgstr "Seitentitel"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Show"
+#~ msgstr "Ja, anzeigen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Page Title background behind Header"
+#~ msgstr "Seiten Titel und Subtitel"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Post Title and Subtitle"
+#~ msgstr "Seiten Titel und Subtitel"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Post Header Title"
+#~ msgstr "Kopf-Still"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Subtitle will go below post title"
+#~ msgstr "Subtitel steht unt dem Seitentitel"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Gallery Post Options"
+#~ msgstr "Beitragsoptionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Post Head Content"
+#~ msgstr "Kopfinhalt"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Gallery Post Default"
+#~ msgstr "Blog Beitrag Standards"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Image Slider - (Flex Slider)"
+#~ msgstr "Sliderkarousell"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Carousel Slider - (Caroufedsel Slider)"
+#~ msgstr "Sliderkarousell"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Post Slider Gallery"
+#~ msgstr "Beitrag Slider Bilder"
+
+# @ virtue
+# @ redux-framework
+#, fuzzy
+#~ msgid "Add images for gallery here"
+#~ msgstr "Hizufügen/Editieren Gallerie"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Max Slider Height"
+#~ msgstr "Max Bild/Silder Höhe"
+
+# @ virtue
+#~ msgid "Default is: 400 (Note: just input number, example: 350)"
+#~ msgstr "Standard ist: 400 (Hinweis: nur Zahlen eingeben Beispiel: 350)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Max Slider Width"
+#~ msgstr "Max Bild/Slider Breite"
+
+# @ virtue
+#, fuzzy
+#~ msgid ""
+#~ "Default is: 848 or 1140 on fullwidth posts (Note: just input number, "
+#~ "example: 650, only applys to Image Slider)"
+#~ msgstr ""
+#~ "Standardwert ist: 770 oder 1140 auf Eintägen voller Breite (Hinweis: nur "
+#~ "Zahlen verwenden, Beispiel: 650, gilt nicht für Karussellslider)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Portrait Image (feature image)"
+#~ msgstr "Portraitbild-Slider"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Landscape Image (feature image)"
+#~ msgstr "Querformatbild-Slider"
+
+# @ virtue
+#~ msgid "Portrait Image Slider"
+#~ msgstr "Portraitbild-Slider"
+
+# @ virtue
+#~ msgid "Landscape Image Slider"
+#~ msgstr "Querformatbild-Slider"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Video Post Options"
+#~ msgstr "Beitragsoptionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Video Post Default"
+#~ msgstr "Blog Beitrag Standards"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Video Post embed code"
+#~ msgstr "Video Einbettcode"
+
+# @ virtue
+#, fuzzy
+#~ msgid ""
+#~ "Place Embed Code Here, works with youtube, vimeo. (Use the featured image "
+#~ "for screen shot)"
+#~ msgstr ""
+#~ "Hier eingebetteten Code eingeben, funktioniert mit youtube, vimeo..."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Max Video Width"
+#~ msgstr "Slider maximale Breite"
+
+# @ virtue
+#, fuzzy
+#~ msgid ""
+#~ "Default is: 848 or 1140 on fullwidth posts (Note: just input number, "
+#~ "example: 650, does not apply to carousel slider)"
+#~ msgstr ""
+#~ "Standardwert ist: 770 oder 1140 auf Eintägen voller Breite (Hinweis: nur "
+#~ "Zahlen verwenden, Beispiel: 650, gilt nicht für Karussellslider)"
+
+# @ virtue
+#~ msgid "Portfolio Post Options"
+#~ msgstr "Portfolio Beitragsoptionen"
+
+# @ virtue
+#~ msgid "Project Layout"
+#~ msgstr "Projektlayout"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Beside 40%"
+#~ msgstr "Neben"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Beside 33%"
+#~ msgstr "Neben"
+
+# @ virtue
+#~ msgid "Above"
+#~ msgstr "Über"
+
+# @ virtue
+#~ msgid "Three Rows"
+#~ msgstr "Drei Reihen"
+
+# @ virtue
+#~ msgid "Project Options"
+#~ msgstr "Projektoptionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Portfolio Slider/Images"
+#~ msgstr "Portolio Silder Bilder"
+
+# @ virtue
+# @ redux-framework
+#, fuzzy
+#~ msgid "Add images for post here"
+#~ msgstr "Hizufügen/Editieren Gallerie"
+
+# @ virtue
+#~ msgid "Max Image/Slider Height"
+#~ msgstr "Max Bild/Silder Höhe"
+
+# @ virtue
+#~ msgid "Default is: 450 (Note: just input number, example: 350)"
+#~ msgstr "Standard ist: 450 (Hinweis: nur Zahlen eingeben, Beispiel: 350)"
+
+# @ virtue
+#~ msgid "Max Image/Slider Width"
+#~ msgstr "Max Bild/Slider Breite"
+
+# @ virtue
+#~ msgid ""
+#~ "Default is: 670 or 1140 on above or three row layouts (Note: just input "
+#~ "number, example: 650)"
+#~ msgstr ""
+#~ "Standard ist: 670 oder 1140 bei über oder Drei ReihenLayouts (Hinweis: "
+#~ "nur Zahlen eingeben, Beispiel: 650)"
+
+# @ virtue
+#~ msgid "Value 01 Title"
+#~ msgstr "Wert 01 Titel"
+
+# @ virtue
+#~ msgid "ex. Project Type:"
+#~ msgstr "zB. Projekttyp:"
+
+# @ virtue
+#~ msgid "Value 01 Description"
+#~ msgstr "Wert 01 Beschreibung"
+
+# @ virtue
+#~ msgid "ex. Character Illustration"
+#~ msgstr "zB. Zeichen-Illustration"
+
+# @ virtue
+#~ msgid "Value 02 Title"
+#~ msgstr "Wert 02 Titel"
+
+# @ virtue
+#~ msgid "ex. Skills Needed:"
+#~ msgstr "zB. Fähigkeiten gebraucht:"
+
+# @ virtue
+#~ msgid "Value 02 Description"
+#~ msgstr "Wert 02 Beschreibung"
+
+# @ virtue
+#~ msgid "ex. Photoshop, Illustrator"
+#~ msgstr "zB.: Photoshop, Illustrator"
+
+# @ virtue
+#~ msgid "Value 03 Title"
+#~ msgstr "Wert 03 Title"
+
+# @ virtue
+#~ msgid "ex. Customer:"
+#~ msgstr "zB. Kunde:"
+
+# @ virtue
+#~ msgid "Value 03 Description"
+#~ msgstr "Wert 03 Beschreibung"
+
+# @ virtue
+#~ msgid "ex. Example Inc"
+#~ msgstr "zB. Beispiel GmbH"
+
+# @ virtue
+#~ msgid "Value 04 Title"
+#~ msgstr "Wert 04 Titel"
+
+# @ virtue
+#~ msgid "ex. Project Year:"
+#~ msgstr "zB. Projektjahr:"
+
+# @ virtue
+#~ msgid "Value 04 Description"
+#~ msgstr "Wert 04 Beschreibung"
+
+# @ virtue
+#~ msgid "ex. 2013"
+#~ msgstr "zB. 2013"
+
+# @ virtue
+#~ msgid "External Website"
+#~ msgstr "Externe Webseite"
+
+# @ virtue
+#~ msgid "ex. Website:"
+#~ msgstr "zB. Webseite:"
+
+# @ virtue
+#~ msgid "Website Address"
+#~ msgstr "Webseitenadresse"
+
+# @ virtue
+#~ msgid "ex. http://www.example.com"
+#~ msgstr "zB. http://www.example.com"
+
+# @ virtue
+#~ msgid "If Video Project"
+#~ msgstr "Wenn Video Projekt"
+
+# @ virtue
+#~ msgid "Place Embed Code Here, works with youtube, vimeo..."
+#~ msgstr ""
+#~ "Hier eingebetteten Code eingeben, funktioniert mit youtube, vimeo..."
+
+# @ virtue
+#~ msgid "Bottom Carousel Options"
+#~ msgstr "Karussell Optionen unten"
+
+# @ virtue
+#~ msgid "ex. Similar Projects"
+#~ msgstr "zB. ähnliche Projekte"
+
+# @ virtue
+#~ msgid "Bottom Portfolio Carousel"
+#~ msgstr "Portofolio-Karousell unten"
+
+# @ virtue
+#~ msgid "Display a carousel with portfolio items below project?"
+#~ msgstr "Zeige ein Karussell mit  Portfolioeinträge unter Projekt?"
+
+# @ virtue
+#~ msgid "Carousel Items"
+#~ msgstr "Karousel Einträge"
+
+# @ virtue
+#~ msgid "Carousel Order"
+#~ msgstr "Karousell Sortierung"
+
+# @ virtue
+#~ msgid "Product Sidebar Options"
+#~ msgstr "Produkt Sidebaroptionen"
+
+# @ virtue
+#~ msgid "Portfolio Page Options"
+#~ msgstr "Portfolio Seitenoptionen"
+
+# @ virtue
+# @ redux-framework
+#~ msgid "Style"
+#~ msgstr "Still"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Hover Style"
+#~ msgstr "Kopf-Still"
+
+# @ virtue
+#~ msgid "Columns"
+#~ msgstr "Splaten"
+
+# @ virtue
+# @ virute
+#~ msgid "Five Column"
+#~ msgstr "Fünf Spalten"
+
+# @ virtue
+#~ msgid "Portfolio Work Types"
+#~ msgstr "Portfolio Arbeitstypen"
+
+# @ virtue
+#~ msgid "Order Items By"
+#~ msgstr "Sortiere Einträge nach"
+
+# @ virtue
+#~ msgid "Items per Page"
+#~ msgstr "Einträge pro Seite"
+
+# @ virtue
+#~ msgid "How many portfolio items per page"
+#~ msgstr "Wie viele Portfolio Einträge pro Seite"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Image Ratio?"
+#~ msgstr "Bild URL"
+
+# @ virtue
+#~ msgid "Display Item Work Types"
+#~ msgstr "Zeig Eintrag-Arbeitstypen"
+
+# @ virtue
+#~ msgid "Display Item Excerpt"
+#~ msgstr "Zeige Eintragsauszug"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Add Lightbox link in each item"
+#~ msgstr "Addiere Lightbox-Link rechts oben bei jedem Element"
+
+# @ virtue
+#~ msgid "Feature Page Options"
+#~ msgstr "Feature Seietenoptionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Header Options"
+#~ msgstr "Überschrift Optionen"
+
+# @ virtue
+#~ msgid "If image slider make sure images uploaded are at-least 1170px wide."
+#~ msgstr ""
+#~ "Wenn Bildslider, stelle sicher das die Bilder mindestens 1170px breit "
+#~ "sind."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Add for flex, carousel, and image carousel."
+#~ msgstr "Fügt ein Karousell zu einem Widgetbereich hinzu"
+
+# @ virtue
+#, fuzzy
+#~ msgid "If Cyclone Slider"
+#~ msgstr "Wenn Slider Typ"
+
+# @ virtue
+#, fuzzy
+#~ msgid ""
+#~ "Paste Cyclone slider shortcode here (example: [cycloneslider id="
+#~ "\"slider1\"])"
+#~ msgstr ""
+#~ "Cyclone Slider Shortcode hier einfügen (zB: [cycloneslider id=\"slider1\")"
+
+# @ virtue
+#~ msgid ""
+#~ "Default is: 1140 on fullwidth posts (Note: just input number, example: "
+#~ "650, does not apply to Carousel slider)"
+#~ msgstr ""
+#~ "Standardwert ist: 1140 auf Eintägen voller Breite (Hinweis: nur Zahlen "
+#~ "eingeben, Beispiel: 650, gilt nicht für Karussellslider)"
+
+# @ virtue
+#~ msgid "If Video Post"
+#~ msgstr "Wenn Videobeitrag"
+
+# @ virtue
+#~ msgid "Contact Page Options"
+#~ msgstr "Kontaktseiten Optionen"
+
+# @ virtue
+#~ msgid "Use Contact Form"
+#~ msgstr "Benutze Kontaktformular"
+
+# @ virtue
+#~ msgid "Contact Form Title"
+#~ msgstr "Kontakt von Titel"
+
+# @ virtue
+#~ msgid "ex. Send us an Email"
+#~ msgstr "Sende uns z.B. eine E-Mail"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Contact Form Email Recipient"
+#~ msgstr "Kontakformular E-Mail"
+
+# @ virtue
+#~ msgid "Use Map"
+#~ msgstr "Benutze Karte"
+
+# @ virtue
+#~ msgid "Address"
+#~ msgstr "Adresse"
+
+# @ virtue
+#~ msgid "Enter your Location"
+#~ msgstr "Ort eingeben"
+
+# @ virtue
+#~ msgid "Map Type"
+#~ msgstr "Kartentyp"
+
+# @ virtue
+#~ msgid "ROADMAP"
+#~ msgstr "STRASSENKARTE"
+
+# @ virtue
+#~ msgid "HYBRID"
+#~ msgstr "HYBRID"
+
+# @ virtue
+#~ msgid "TERRAIN"
+#~ msgstr "TERRAIN"
+
+# @ virtue
+#~ msgid "SATELLITE"
+#~ msgstr "SATELLIT"
+
+# @ virtue
+#~ msgid "Map Zoom Level"
+#~ msgstr "Karten Zoomstufe"
+
+# @ virtue
+#~ msgid "A good place to start is 15"
+#~ msgstr "Ein guter Weg zum starten ist 15"
+
+# @ virtue
+#~ msgid "1 (World View)"
+#~ msgstr "1 (Weltansicht)"
+
+# @ virtue
+#~ msgid "21 (Street View)"
+#~ msgstr "21 (Strassenansicht)"
+
+# @ virtue
+#~ msgid "Map Height"
+#~ msgstr "Kartenhöhe"
+
+# @ virtue
+#~ msgid "Default is 300"
+#~ msgstr "Standard ist 300"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Gültige E-Mail-Adresse eingeben."
+
+# @ virtue
+#~ msgid "Please enter your name."
+#~ msgstr "Bitte Namen eingeben."
+
+# @ virtue
+#~ msgid "Please enter your email address."
+#~ msgstr "Bitte E-Mail-Adresse eingeben."
+
+# @ virtue
+#~ msgid "You entered an invalid email address."
+#~ msgstr "Du hast eine ungültige E-Mail-Adresse eingegeben."
+
+# @ virtue
+#~ msgid "Please enter a message."
+#~ msgstr "Bitte Nachricht eingeben."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Contact"
+#~ msgstr " Kontakt"
+
+# @ virtue
+#~ msgid "From"
+#~ msgstr "Von"
+
+# @ virtue
+#~ msgid "Thanks, your email was sent successfully."
+#~ msgstr "Danke, ihr E-Mail wurde erfolgreich gesendet."
+
+# @ virtue
+#~ msgid "Sorry, an error occured."
+#~ msgstr "Leider ist ein Fehler augetreten."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Message:"
+#~ msgstr "Nachricht: "
+
+# @ virtue
+#~ msgid "Send Email"
+#~ msgstr "Sende E-Mail"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Search results for"
+#~ msgstr "Suchergebnisse für %s"
+
+# @ woocommerce
+#~ msgid "Error 404"
+#~ msgstr "Fehler 404"
+
+# @ virtue
+# @ woocommerce
+#, fuzzy
+#~ msgid " - Page"
+#~ msgstr "Seite"
+
+# @ virtue
+#~ msgid "Sorry, no post entries found."
+#~ msgstr "Leider keine Blogeinträge gefunden."
+
+# @ virtue
+#~ msgid "External Link"
+#~ msgstr "Externer Link"
+
+# @ virtue
+#~ msgid "Your Cart"
+#~ msgstr "Ihr Warenkorb"
+
+# @ cmb
+# @ virtue
+# @ redux-framework
+#, fuzzy
+#~ msgid "Move up"
+#~ msgstr "Entfernen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Edit Menu Item"
+#~ msgstr "Virtue: Bild Grid"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Navigation Label"
+#~ msgstr "Handynaviagtion"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "Öffne Link in neuem Tab/Fenster"
+
+# @ virtue
+#, fuzzy
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "Bild Link (optional)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Enable Large Menu"
+#~ msgstr "Hauptseiten - Symbolmenü"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Number of Columns"
+#~ msgstr "Anzahl der zu zeigenden Beiträge:"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Example Home"
+#~ msgstr "Beispiel 400"
+
+# @ virtue
+#~ msgid "Product Video"
+#~ msgstr "Produktvideo"
+
+# @ virtue
+#~ msgid "Custom Tab"
+#~ msgstr "Benutzerdefinierter Tab"
+
+# @ virtue
+#~ msgid "Wide Feature"
+#~ msgstr "Breites Feature"
+
+# @ virtue
+#~ msgid "Wide Grey"
+#~ msgstr "Wide Grey"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Wide Content"
+#~ msgstr "Seiteninhalt"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background"
+#~ msgstr "Seiten Hintergrund"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Image"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Image Position"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+# @ redux-framework
+#, fuzzy
+#~ msgid "Left Top"
+#~ msgstr "Links"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Left Center"
+#~ msgstr "Mitte"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Center Top"
+#~ msgstr "Mitte"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Center Center"
+#~ msgstr "Mitte"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Center Bottom"
+#~ msgstr "Mitte"
+
+# @ virtue
+# @ redux-framework
+#, fuzzy
+#~ msgid "Right Top"
+#~ msgstr "Rechts"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Right Center"
+#~ msgstr "Mitte"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Right Bottom"
+#~ msgstr "Acht Elemente"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Repeat Background Image"
+#~ msgstr "Feature Hintergrund"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Cover"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+# @ virute
+#, fuzzy
+#~ msgid "Two Columns"
+#~ msgstr "Zwei Spalten"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Two Columns offset Right"
+#~ msgstr "Zwei Spalten Rechtsbündig"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Two Columns offset Left"
+#~ msgstr "Zwei Spalten Linksbündig"
+
+# @ virtue
+# @ virute
+#, fuzzy
+#~ msgid "Three Columns"
+#~ msgstr "Drei Spalten"
+
+# @ virtue
+# @ virute
+#, fuzzy
+#~ msgid "Four Columns"
+#~ msgstr "Vier Spalten"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Divider"
+#~ msgstr "Separator einfügen"
+
+# @ virtue
+#~ msgid "Line"
+#~ msgstr "Linie"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Size"
+#~ msgstr "Symbolgröße"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Color"
+#~ msgstr "Schriftfarbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Spacing"
+#~ msgstr "Abstand oben"
+
+# @ virtue
+#~ msgid "Tabs"
+#~ msgstr "Tabs"
+
+# @ virtue
+#~ msgid "Accordion"
+#~ msgstr "Akkordeon"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pull-Quotes"
+#~ msgstr "Pull-Quote"
+
+# @ virtue
+#~ msgid "Align"
+#~ msgstr "Ausrichtung"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pull-Quote Text"
+#~ msgstr "Pull-Quote"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Block-Quotes"
+#~ msgstr "Block-Quote"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Block-Quote Text"
+#~ msgstr "Block-Quote"
+
+# @ virtue
+#~ msgid "Background Color"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Color Opacity"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Content Text"
+#~ msgstr "Fußzeilen Urhebertext"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Button"
+#~ msgstr "Button Text"
+
+# @ virtue
+#~ msgid "Button Text"
+#~ msgstr "Button Text"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Open Link In New Tab?"
+#~ msgstr "Öffne Link in neuem Tab/Fenster"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Font Color"
+#~ msgstr "Symbol/Schriftfarbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Font Hover Color"
+#~ msgstr "Symbol/Schriftfarbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Button Background Hover Color"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Link URL"
+#~ msgstr "Link"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Button Size"
+#~ msgstr "Button Text"
+
+# @ woocommerce
+#, fuzzy
+#~ msgid "Choose an Icon (optional)"
+#~ msgstr "Wähle eine Option"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Google Map"
+#~ msgstr "Virtue: Google Karte"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Address One"
+#~ msgstr "Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Address Title One"
+#~ msgstr "Adresse"
+
+# @ virtue
+#~ msgid "Map Zoom"
+#~ msgstr "Karten Zoomstufe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Address Two"
+#~ msgstr "Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Address Title Two"
+#~ msgstr "Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Address Three"
+#~ msgstr "Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Address Title Three"
+#~ msgstr "Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Address Four"
+#~ msgstr "Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Address Title Four"
+#~ msgstr "Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Map Center"
+#~ msgstr "Mitte"
+
+# @ virtue
+#~ msgid "Choose an Icon"
+#~ msgstr "Wähle ein Symbol"
+
+# @ virtue
+#~ msgid "Icon Size"
+#~ msgstr "Symbolgröße"
+
+# @ virtue
+#~ msgid "Icon Float"
+#~ msgstr "Symbol fliegend"
+
+# @ virtue
+#~ msgid "Icon Style"
+#~ msgstr "Symboltstill"
+
+# @ virtue
+#~ msgid "Circle"
+#~ msgstr "Kreis"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Small Circle"
+#~ msgstr "Kreis"
+
+# @ virtue
+#~ msgid "Square"
+#~ msgstr "Quadrat"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Small Square"
+#~ msgstr "Quadrat"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Icon Box"
+#~ msgstr "Symbol Box einfügen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Hover Icon Background Color"
+#~ msgstr "Hover Hintergrundfarbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Show Button?"
+#~ msgstr "Zeige Beschriftung?"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Button Text e.g. Read More"
+#~ msgstr "Weiterlesen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Video URL"
+#~ msgstr "Video"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Video Width"
+#~ msgstr "Slider maximale Breite"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Video Height"
+#~ msgstr "Slider maximal Höhe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Video Max Width"
+#~ msgstr "Slider maximale Breite"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Hide Controls"
+#~ msgstr "Details verstecken"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Auto Play"
+#~ msgstr "Automatisch abspielen?"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo:"
+
+# @ woocommerce
+#, fuzzy
+#~ msgid "Order By"
+#~ msgstr "Bestell-ID"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Number of Posts"
+#~ msgstr "Anzahl der zu zeigenden Beiträge:"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Staff Posts"
+#~ msgstr "Ähnliche Beiträge"
+
+# @ woocommerce
+#, fuzzy
+#~ msgid "Link to single post?"
+#~ msgstr "Das einzige Ergebnis anzeigen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Use Full Content?"
+#~ msgstr "Seiteninhalt"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Image Ratio"
+#~ msgstr "Bild URL"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Portrait"
+#~ msgstr "Portrait 3:4"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Landscape"
+#~ msgstr "Querformat 4:3"
+
+# @ default
+# @ virtue
+#, fuzzy
+#~ msgid "Widelandscape"
+#~ msgstr "Breites Querformat 4:2"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Button Title"
+#~ msgstr "Button Text"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Button Font Color"
+#~ msgstr "Button Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Modal Title"
+#~ msgstr "Tab Titel"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Modal Content"
+#~ msgstr "Tab Inhalt"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Testimonial Form"
+#~ msgstr "Empfehlung"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Show Location Field?"
+#~ msgstr "Zeige Beschriftung?"
+
+# @ default
+# @ virtue
+# @ domain
+#, fuzzy
+#~ msgid "Default: Name"
+#~ msgstr "Standard"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Testimonial Field Label"
+#~ msgstr "Empfehlung"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Default: Testimonial"
+#~ msgstr "Neue Empfehlung"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Default: Link - optional"
+#~ msgstr "Bild Link (optional)"
+
+# @ default
+# @ virtue
+# @ domain
+#, fuzzy
+#~ msgid "Default: Submit"
+#~ msgstr "Standard"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle Shortcodes"
+#~ msgstr "Shortcodes"
+
+# @ woocommerce
+#, fuzzy
+#~ msgid "Choose a shortcode"
+#~ msgstr "Wähle eine Option"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Add Shortcode"
+#~ msgstr "Shortcodes"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Align Text"
+#~ msgstr "Text"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Align Left"
+#~ msgstr "Ausrichtung"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Align Center"
+#~ msgstr "Mitte"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Align Right"
+#~ msgstr "Ausrichtung"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Image Carousel - (Caroufedsel Carousel)"
+#~ msgstr "Sliderkarousell"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Shortcode"
+#~ msgstr "Shortcodes"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Gallery Post Shortcode"
+#~ msgstr "Cyclone Slide Shortcode hier einfügen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "If using shortcode place here."
+#~ msgstr "Slider Shortcode hier eingeben"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Video Post Shortcode"
+#~ msgstr "Shortcodes"
+
+# @ virtue
+#~ msgid "Image Carousel"
+#~ msgstr "Bildkarousell"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Shortcode Slider"
+#~ msgstr "Shop Slider"
+
+# @ virtue
+#~ msgid "Image List"
+#~ msgstr "Bilderliste"
+
+# @ virtue
+#~ msgid "Image List Style 2"
+#~ msgstr "Bilderlisten Stil 2"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Slider Shortcode"
+#~ msgstr "Cyclone Slide Shortcode hier einfügen"
+
+# @ virtue
+#~ msgid "Paste Slider Shortcode here"
+#~ msgstr "Slider Shortcode hier eingeben"
+
+# @ virtue
+#~ msgid "Project Summary"
+#~ msgstr "Projektzusammenfassung"
+
+# @ virtue
+#~ msgid "Image Slider"
+#~ msgstr "Bilderslider"
+
+# @ virtue
+#~ msgid "Choose Portfolio Parent Page"
+#~ msgstr "Hauptseiten - Portfoliokarousell Titel"
+
+# @ virtue
+#~ msgid "Testimonial Options"
+#~ msgstr "Empfehlungs Optionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Text Next To Name"
+#~ msgstr "Neuer Typ Name"
+
+# @ virtue
+#~ msgid "ex: New York, NY"
+#~ msgstr "zB: New York, NY"
+
+# @ virtue
+#~ msgid "ex: CEO of Example Inc"
+#~ msgstr "zB. CEO von Beispiel GmbH"
+
+# @ virtue
+#~ msgid "ex: http://www.example.com"
+#~ msgstr "zB. http://www.example.com"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Staff Options"
+#~ msgstr "Mitarbeiterseite Optionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Job Title"
+#~ msgstr "Tab Titel"
+
+# @ woocommerce
+#, fuzzy
+#~ msgid "ex: Customer Service"
+#~ msgstr "%s Kundenbewertung"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Facebook Link"
+#~ msgstr "Facebook:"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Twitter Link"
+#~ msgstr "Twitter:"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Instagram Link"
+#~ msgstr "Instagram:"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Linkedin Link"
+#~ msgstr "Linkedin:"
+
+# @ virtue
+#~ msgid "Product Video Tab"
+#~ msgstr "Produkt Video Tab"
+
+# @ virtue
+# @ virute
+#~ msgid "Six Column"
+#~ msgstr "Sechs Spalten"
+
+# @ virtue
+#~ msgid "Filter?"
+#~ msgstr "Filter?"
+
+# @ virtue
+#~ msgid ""
+#~ "You can have filterable portfolios with one work type if has children"
+#~ msgstr ""
+#~ "Du kannst filterbare Portfolios haben mit einem Arbeitstyp wenn es Kinder "
+#~ "hat"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Masonry Layout?"
+#~ msgstr "Masonry"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Images height will not be cropped"
+#~ msgstr "Setze gleiche Bildhöhe wenn beschnitten"
+
+# @ virtue
+#~ msgid "Staff Page Options"
+#~ msgstr "Mitarbeiterseite Optionen"
+
+# @ virtue
+#~ msgid "Limit to Group"
+#~ msgstr "Limitieren auf Gruppe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Content"
+#~ msgstr "Tab Inhalt"
+
+# @ virtue
+#~ msgid "Testimonial Page Options"
+#~ msgstr "Empfehlungstseiten Optionen"
+
+# @ virtue
+#~ msgid "Testimonial Group"
+#~ msgstr "Empfehlungs Gruppe"
+
+# @ virtue
+#~ msgid "How many testimonial items per page"
+#~ msgstr "Wie viele Empfehlungseinträge pro Seite"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Limit Testimonial Text"
+#~ msgstr "Empfehlung ändern"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Word Count Text"
+#~ msgstr "Fußzeilen Urhebertext"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Link Text"
+#~ msgstr "Text"
+
+# @ virtue
+#, fuzzy
+#~ msgid "eg: Read More"
+#~ msgstr "Weiterlesen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "If Shortcode Slider"
+#~ msgstr "Wenn Cyclone Slider"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Enter a Location"
+#~ msgstr "Ort eingeben"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle Custom Tab 01"
+#~ msgstr "Aktiviere Benutzerdefinierter Tab 01"
+
+# @ virtue
+#~ msgid "Tab Title"
+#~ msgstr "Tab Titel"
+
+# @ virtue
+#~ msgid "This will show on the tab"
+#~ msgstr "Dies wird auf dem Tab gezeigt"
+
+# @ virtue
+#~ msgid "Tab Content"
+#~ msgstr "Tab Inhalt"
+
+# @ virtue
+#~ msgid "Add Tab Content"
+#~ msgstr "Tab Inhalt hinzufügen"
+
+# @ virtue
+#~ msgid "Tab priority"
+#~ msgstr "Tab Priorität"
+
+# @ virtue
+#~ msgid "This will determine where the tab is shown (e.g. 20)"
+#~ msgstr "Dies entscheidet wo der Tab gezeigt wird (e.g. 20)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle Custom Tab 02"
+#~ msgstr "Aktiviere Benutzerdefinierter Tab 02"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle Custom Tab 03"
+#~ msgstr "Aktiviere Benutzerdefinierter Tab 03"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Install Recommended Plugins"
+#~ msgstr "Installiere benötitgtes Plugins"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Theme Recommended Plugins"
+#~ msgstr "Zurück zu dem empfohlenen Plugins Installer."
+
+# @ virtue
+#~ msgid "Return to recommended Plugins Installer"
+#~ msgstr "Zurück zu dem empfohlenen Plugins Installer."
+
+# @ virtue
+#~ msgid "Filter Projects"
+#~ msgstr "Projekte filtern"
+
+# @ virtue
+#~ msgid "Portfolio Item"
+#~ msgstr "Portfolio Element"
+
+# @ virtue
+#~ msgid "Add New"
+#~ msgstr "Neu hinzufügen"
+
+# @ virtue
+#~ msgid "Add New Portfolio Item"
+#~ msgstr "Neues Portfolio Element hinzufügen"
+
+# @ virtue
+#~ msgid "Edit Portfolio Item"
+#~ msgstr "Portfolio Element ändern"
+
+# @ virtue
+#~ msgid "New Portfolio Item"
+#~ msgstr "NeuesPortfolio Element"
+
+# @ virtue
+#~ msgid "All Portfolio"
+#~ msgstr "Alle Portfolios"
+
+# @ virtue
+#~ msgid "View Portfolio Item"
+#~ msgstr "Portfolio Element ansehen"
+
+# @ virtue
+#~ msgid "Search Portfolio"
+#~ msgstr "Portfolio suchen"
+
+# @ virtue
+#~ msgid "No Portfolio Item found"
+#~ msgstr "Kein Portfolioelement gefunden"
+
+# @ virtue
+#~ msgid "No Portfolio Items found in Trash"
+#~ msgstr "Kein Portfolio Element im Papierkorb gefunden"
+
+# @ virtue
+#~ msgid "Portfolio Type"
+#~ msgstr "Portfolio Typ"
+
+# @ virtue
+#~ msgid "Search Type"
+#~ msgstr "Suche Typ"
+
+# @ virtue
+#~ msgid "All Type"
+#~ msgstr "Alle Typen"
+
+# @ virtue
+#~ msgid "Parent Type"
+#~ msgstr "Übergeordneter Typ"
+
+# @ virtue
+#~ msgid "Parent Type:"
+#~ msgstr "Übergeordneter Typ:"
+
+# @ virtue
+#~ msgid "Edit Type"
+#~ msgstr "Typ ändern"
+
+# @ virtue
+#~ msgid "Update Type"
+#~ msgstr "Typ aktualisieren"
+
+# @ virtue
+#~ msgid "Add New Type"
+#~ msgstr "Neuen Typ hinzufügen"
+
+# @ virtue
+#~ msgid "New Type Name"
+#~ msgstr "Neuer Typ Name"
+
+# @ virtue
+#~ msgid "Testimonials"
+#~ msgstr "Empfehlungen"
+
+# @ virtue
+#~ msgid "Testimonial"
+#~ msgstr "Empfehlung"
+
+# @ virtue
+#~ msgid "Add New Testimonial"
+#~ msgstr "Neue Empfehlung hinzufügen"
+
+# @ virtue
+#~ msgid "Edit Testimonial"
+#~ msgstr "Empfehlung ändern"
+
+# @ virtue
+#~ msgid "New Testimonial"
+#~ msgstr "Neue Empfehlung"
+
+# @ virtue
+#~ msgid "All Testimonials"
+#~ msgstr "Alle Empfehlungen"
+
+# @ virtue
+#~ msgid "View Testimonial"
+#~ msgstr "Empfehlung ansehen"
+
+# @ virtue
+#~ msgid "Search Testimonials"
+#~ msgstr "Empfehlung suchen"
+
+# @ virtue
+#~ msgid "No Testimonials found"
+#~ msgstr "Keine Empfehlung gefunden"
+
+# @ virtue
+#~ msgid "No Testimonials found in Trash"
+#~ msgstr "Keine Empfehlung im Pabierkorb"
+
+# @ virtue
+#~ msgid "Search Groups"
+#~ msgstr "Suche Gruppe:"
+
+# @ virtue
+#~ msgid "All Groups"
+#~ msgstr "Alle Gruppen"
+
+# @ virtue
+#~ msgid "Parent Groups"
+#~ msgstr "Übergeordnete Gruppe"
+
+# @ virtue
+#~ msgid "Parent Groups:"
+#~ msgstr "Übergeordnete Gruppe:"
+
+# @ virtue
+#~ msgid "Edit Group"
+#~ msgstr "Grupppe ändern"
+
+# @ virtue
+#~ msgid "Update Group"
+#~ msgstr "Gruppe aktualisieren"
+
+# @ virtue
+#~ msgid "Add New Group"
+#~ msgstr "Neue Gruppe hinzufügen"
+
+# @ virtue
+#~ msgid "New Group Name"
+#~ msgstr "Neuer Gruppen Name"
+
+# @ virtue
+#~ msgid "Staff"
+#~ msgstr "Mitarbeiter"
+
+# @ virtue
+#~ msgid "Add New Staff"
+#~ msgstr "Neuen Mitarbeiter hinzufügen"
+
+# @ virtue
+#~ msgid "Edit Staff"
+#~ msgstr "Mitarbeiter ändern"
+
+# @ virtue
+#~ msgid "New Staff"
+#~ msgstr "Neuer Mitarbeiter"
+
+# @ virtue
+#~ msgid "All Staff"
+#~ msgstr "Alle Mitarbeiter"
+
+# @ virtue
+#~ msgid "View Staff"
+#~ msgstr "Mitarbeiter ansehen"
+
+# @ virtue
+#~ msgid "Search Staff"
+#~ msgstr "Suche Mitarbeiter:"
+
+# @ virtue
+#~ msgid "No Staff found"
+#~ msgstr "Mitarbeiter nicht gefunden"
+
+# @ virtue
+#~ msgid "No Staff found in Trash"
+#~ msgstr "Keine Mitarbeiter im Papierkorb"
+
+# @ virtue
+#~ msgid "Staff Group"
+#~ msgstr "Mitarbeiter Gruppe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Adds a gallery to any widget area."
+#~ msgstr "Fügt eine Gallerie zu einem Widgetbereich hinzu"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle: Gallery"
+#~ msgstr "Virtue: Gallerie"
+
+# @ virtue
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+# @ virtue
+#~ msgid "Masonry"
+#~ msgstr "Masonry"
+
+# @ virtue
+#~ msgid "Carousel"
+#~ msgstr "Karousell"
+
+# @ virtue
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Custom Grid"
+#~ msgstr "Benutzerdefinierter Tab"
+
+# @ virtue
+#~ msgid "1 Column"
+#~ msgstr "1 Spalte"
+
+# @ virtue
+#~ msgid "2 Columns"
+#~ msgstr "2 Spalten"
+
+# @ virtue
+#~ msgid "3 Columns"
+#~ msgstr "3 Spalten"
+
+# @ virtue
+#~ msgid "4 Columns"
+#~ msgstr "4 Spalten"
+
+# @ virtue
+#~ msgid "5 Columns"
+#~ msgstr "5 Spalten"
+
+# @ virtue
+#~ msgid "6 Columns"
+#~ msgstr "6 Spalten"
+
+# @ virtue
+#~ msgid "Off"
+#~ msgstr "Aus"
+
+# @ virtue
+#~ msgid "On"
+#~ msgstr "An"
+
+# @ virtue
+#~ msgid "Gallery Type"
+#~ msgstr "Gallerietyp"
+
+# @ virtue
+#~ msgid "Gallery Columns"
+#~ msgstr "Gallerie Splaten"
+
+# @ virtue
+#~ msgid "Display Captions"
+#~ msgstr "Zeige Beschriftung"
+
+# @ virtue
+#~ msgid "Slider Width (e.g. = 600)"
+#~ msgstr "Slider Breite (zB: = 600)"
+
+# @ virtue
+#~ msgid "Slider Height (e.g. = 400)"
+#~ msgstr "Slider Höhe (zB:. = 400)"
+
+# @ virtue
+#~ msgid "Slider Speed (e.g. = 7000)"
+#~ msgstr "Slider Geschwindigkeit (zB: = 7000)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "If Type Custom Grid"
+#~ msgstr "Wenn Slider Typ"
+
+# @ virtue
+#~ msgid "Adds a carousel to any widget area"
+#~ msgstr "Fügt ein Karousell zu einem Widgetbereich hinzu"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle: Carousel"
+#~ msgstr "Virtue: Karousell"
+
+# @ virtue
+#~ msgid "Portfolio Posts"
+#~ msgstr "Portfolio Beiträge"
+
+# @ virtue
+#~ msgid "Featured Products"
+#~ msgstr "Gefeaturete Produkte"
+
+# @ virtue
+#~ msgid "Sale Products"
+#~ msgstr "Produkt verkaufen"
+
+# @ virtue
+#~ msgid "Best Products"
+#~ msgstr "Bestes Produkt"
+
+# @ virtue
+#~ msgid "Category of Products"
+#~ msgstr "Produktkategorie"
+
+# @ virtue
+#~ msgid "1 item"
+#~ msgstr "1 Eintrag"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Portfolio Fullwidth"
+#~ msgstr "Portfolio Voll"
+
+# @ virtue
+#~ msgid "Carousel Type"
+#~ msgstr "Karousell Typ"
+
+# @ virtue
+#~ msgid "Carousel Columns"
+#~ msgstr "Karousell Spalten"
+
+# @ virtue
+#~ msgid "Scroll Setting"
+#~ msgstr "Scroll Einstellung"
+
+# @ virtue
+#~ msgid "Items (e.g. = 8)"
+#~ msgstr "Einträge (zB: = 8)"
+
+# @ woocommerce
+#, fuzzy
+#~ msgid "Order by"
+#~ msgstr "Bestell-ID"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Blog Post Category"
+#~ msgstr "Blog Kategorie"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Portfolio Category"
+#~ msgstr "Portolio Kategorie Seiten"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Product Category"
+#~ msgstr "Blog Kategorie"
+
+# @ virtue
+#~ msgid "Carousel Speed (e.g. = 7000)"
+#~ msgstr "Karousell Geschwindigkeit (zB: = 7000)"
+
+# @ virtue
+#~ msgid "Adds a info box with icon options"
+#~ msgstr "Fügt eine Infobox mit Symboloptionen hinzu"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle: Info Box"
+#~ msgstr "Virtue: Infobox"
+
+# @ virtue
+#~ msgid "Or upload a custom icon"
+#~ msgstr "Oder lade ein Bildsymbol hoch"
+
+# @ virtue
+#~ msgid "Box Background Color (e.g. = #f2f2f2)"
+#~ msgstr "Box Hintergrund Farbe (zB: = #f2f2f2)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Text Color (e.g. = #444444)"
+#~ msgstr "Symbol Hintergrund Farbe (zB: = #444444)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Icon Size (e.g. = 28)"
+#~ msgstr "Symbolgröße (zB: = 48)"
+
+# @ virtue
+#~ msgid "Icon Background Color (e.g. = #444444)"
+#~ msgstr "Symbol Hintergrund Farbe (zB: = #444444)"
+
+# @ virtue
+#~ msgid "Icon Color (e.g. = #f2f2f2)"
+#~ msgstr "Symbol Farbe (zB: = #f2f2f2)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Link:"
+#~ msgstr "Link"
+
+# @ virtue
+#~ msgid "Adds a google map to a widget area"
+#~ msgstr "Fügt eine Googlekarte zum Widgetbereich hinzu"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle: Google Map"
+#~ msgstr "Virtue: Google Karte"
+
+# @ virtue
+#~ msgid "Marker Title:"
+#~ msgstr "Marker Titel:"
+
+# @ virtue
+#~ msgid "Marker Address"
+#~ msgstr "Marker Adresse"
+
+# @ virtue
+#~ msgid "Map Height (e.g. = 300)"
+#~ msgstr "Kartenhöhe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Marker Title Two:"
+#~ msgstr "Marker Titel:"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Marker Address Two"
+#~ msgstr "Marker Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Marker Title Three:"
+#~ msgstr "Marker Titel:"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Marker Address Three"
+#~ msgstr "Marker Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Marker Title Four:"
+#~ msgstr "Marker Titel:"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Marker Address Four"
+#~ msgstr "Marker Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle: Call to Action"
+#~ msgstr "Virtue: Social Links"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Title Size (e.g. = 48)"
+#~ msgstr "Symbolgröße (zB: = 48)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Title Color (e.g. = #f2f2f2)"
+#~ msgstr "Symbol Farbe (zB: = #f2f2f2)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Subtitle Size (e.g. = 48)"
+#~ msgstr "Symbolgröße (zB: = 48)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Subtitle Color (e.g. = #f2f2f2)"
+#~ msgstr "Symbol Farbe (zB: = #f2f2f2)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Button Text:"
+#~ msgstr "Button Text"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Button Link:"
+#~ msgstr "Button Text"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle: Image Menu Item"
+#~ msgstr "Virtue: Bild Grid"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Upload an image"
+#~ msgstr "Symbol hochladen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Item Height (e.g. = 220)"
+#~ msgstr "Kartenhöhe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "on Linkedin"
+#~ msgstr "auf linkedin"
+
+# @ virtue
+#~ msgid "Sorry, no staff entries found."
+#~ msgstr "Leider keine Mitarbeiter Einträge gefunden."
+
+# @ rwtm
+# @ redux-framework
+#~ msgid "Delete"
+#~ msgstr "Löschen"
+
+# @ rwtm
+#~ msgid "Select File"
+#~ msgstr "Gewählte Datei"
+
+# @ rwtm
+#~ msgid "Select Image"
+#~ msgstr "Wähle Bild"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Slider Options"
+#~ msgstr "Sidebaroptionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Category Slider"
+#~ msgstr "Blog Kategorie"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Category Image"
+#~ msgstr "Shopkategorie Bildergröße"
+
+# @ default
+#, fuzzy
+#~ msgid "Title Color"
+#~ msgstr "Wähle Farbe"
+
+# @ default
+#, fuzzy
+#~ msgid "Sub Title Color"
+#~ msgstr "Wähle Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Parallax"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Location - optional"
+#~ msgstr "Text/Beschreibung (optional)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Link - optional"
+#~ msgstr "Bild Link (optional)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Image Upload - optional"
+#~ msgstr "Bild Wiederholungsoptionen"
+
+# @ woocommerce
+#~ msgid "Submit"
+#~ msgstr "Übermitteln"
+
+# @ virtue
+#, fuzzy
+#~ msgid "You must be logged in to submit an testimonial."
+#~ msgstr ""
+#~ "Du musst <a href=\"%s\">angemeldet sein,</a> um ein Kommentar zu "
+#~ "hinterlassen."
+
+# @ virtue
+#, fuzzy
+#~ msgid " Testimonial Post"
+#~ msgstr "Empfehlungen"
+
+# @ virtue
+# @ redux-framework
+#~ msgid "From "
+#~ msgstr "Von "
+
+# @ virtue
+#~ msgid "Sorry, no testimonial entries found."
+#~ msgstr "Leider keine Einträge gefunden."
+
+# @ virtue
+#~ msgid "portfolio"
+#~ msgstr "Portfolio"
+
+# @ virtue
+#~ msgid "Home Widget Area"
+#~ msgstr "Fußzeilen Widget Layout"
+
+# @ virtue
+#~ msgid "Stumbleupon:"
+#~ msgstr "Stumbleupon:"
+
+# @ virtue
+#~ msgid "This shows a slider with your testimonials"
+#~ msgstr "Dies zeigt einen Slider mit Ihren Empfehlungen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Pinnacle: Testimonial Carousel"
+#~ msgstr "Virtue: Empfehlungskarousell"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Page Link"
+#~ msgstr "Banner Link"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Post Link"
+#~ msgstr "Kein Link "
+
+# @ virtue
+#~ msgid "Number of words to show:"
+#~ msgstr "Anzahl der zu zeigenden Wörter:"
+
+# @ virtue
+#~ msgid "Orderby:"
+#~ msgstr "Sortieren nach:"
+
+# @ virtue
+#~ msgid "Limit to Group (Optional):"
+#~ msgstr "Limitiere auf Gruppe (Optional):"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Link Options:"
+#~ msgstr "Logo Optionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Testimonial Text Color (e.g. = #444444)"
+#~ msgstr "Symbol Hintergrund Farbe (zB: = #444444)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Testimonial Name Color (e.g. = #444444)"
+#~ msgstr "Symbol Hintergrund Farbe (zB: = #444444)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Testimonial Background Color (e.g. = #ffffff)"
+#~ msgstr "Box Hintergrund Farbe (zB: = #f2f2f2)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Opacity:"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#~ msgid "Name: "
+#~ msgstr "Name: "
+
+# @ virtue
+#~ msgid "Email: "
+#~ msgstr "E-Mail: "
+
+# @ virtue
+#~ msgid "Featured News"
+#~ msgstr "Gefeaturetes News"
+
+# @ virtue
+#~ msgid "Best Selling Products"
+#~ msgstr "Best verkaufte Produkte"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Products on Sale"
+#~ msgstr "Produkt VERKAUF Text"
+
+# @ virtue
+#~ msgid "Enable Sticky Header?"
+#~ msgstr "Fixierten Kopf Einschalten?"
+
+# @ virtue
+#~ msgid "Choose to enable fixed header. Automatically off for mobile"
+#~ msgstr ""
+#~ "Wähle zum einschalten des fixierten Kopf. Automatisch aus bei Handys."
+
+# @ virtue
+#~ msgid "Enable Mobile Sticky Header?"
+#~ msgstr "Mobile Fixierten Kopf Einschalten?"
+
+# @ virtue
+#~ msgid "Choose to enable fixed header for mobile"
+#~ msgstr "Wähle zum einschalten des fixierten Kopf auf Handys."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Choose to enable a shrinking sticky header"
+#~ msgstr "Wähle zum einschalten des fixierten Kopf auf Handys."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Page Header background Overlay color"
+#~ msgstr "HoverHintergrund Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Page Header background Overlay Opacity"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Sitewide Footer Call To Action"
+#~ msgstr "Virtue: Social Links"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Use Sitewide Footer Call to Action"
+#~ msgstr "Virtue: Social Links"
+
+# @ virtue
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Cyclone Slider / Shortcode"
+#~ msgstr "Cyclone Slide Shortcode hier einfügen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Kadence Slider"
+#~ msgstr "Bilderslider"
+
+# @ virtue
+#~ msgid "If Revolution Slider"
+#~ msgstr "Wenn Revolution Slider"
+
+# @ virtue
+#~ msgid "Choose your Revolution Slider Here"
+#~ msgstr "Wähle hier einen Revolution Slider"
+
+# @ virtue
+#, fuzzy
+#~ msgid "If Kadence Slider"
+#~ msgstr "Wenn Slider Typ"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Choose your Kadence Slider Here"
+#~ msgstr "Wähle hier einen Revolution Slider"
+
+# @ virtue
+#~ msgid "Add arrow at the bottom of slider"
+#~ msgstr "Pfeil am Fuß des Silders hinzufügen"
+
+# @ virtue
+#~ msgid "This adds a little arrow link that scrolls down into the content"
+#~ msgstr ""
+#~ "Dies fügt einen kleinen Pfeil-Link hinzu welcher in den Inhalt runter "
+#~ "scrollt."
+
+# @ virtue
+#, fuzzy
+#~ msgid "If Cyclone Slider or using any shortcode"
+#~ msgstr "Cyclone Slide Shortcode hier einfügen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Paste shortcode here"
+#~ msgstr "Slider Shortcode hier eingeben"
+
+# @ virtue
+#~ msgid "Image Menu"
+#~ msgstr "Bilder Menü"
+
+# @ virtue
+#~ msgid "Portfolio Full"
+#~ msgstr "Portfolio Voll"
+
+# @ virtue
+#~ msgid "On Sale Products"
+#~ msgstr "Aktions Produkte"
+
+# @ virtue
+#~ msgid "Custom Carousel"
+#~ msgstr "Angepasstes Karousell"
+
+# @ virtue
+#~ msgid "Home Image Menu"
+#~ msgstr "Hauptseiten - Symbolmenü"
+
+# @ virtue
+#~ msgid "Add images, descriptions, titles, and links"
+#~ msgstr "Füge Bilder, Beschreibungen, Titel und Links hinzu"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Choose the Text Color."
+#~ msgstr "Fußzeilen Schriftfarbe"
+
+# @ virtue
+#~ msgid "Image Menu Height"
+#~ msgstr "Bild Menü Höhe"
+
+# @ virtue
+#~ msgid "Home Featured Product Settings"
+#~ msgstr "Hauptseite Gefeaturetes Produkt Einstellung"
+
+# @ virtue
+#~ msgid "Home Product Carousel Title"
+#~ msgstr "Hauptseite Produktkarousell Titel"
+
+# @ virtue
+#~ msgid "e.g. = Featured Products"
+#~ msgstr "zB: = Gefeaturetes Projekt"
+
+# @ virtue
+#~ msgid "Choose how many products are in carousel"
+#~ msgstr "Wähle wie viele Produkte im Karousell sein sollen"
+
+# @ virtue
+#~ msgid "Carousel Scroll"
+#~ msgstr "Karousell Scroll"
+
+# @ virtue
+#~ msgid "Choose how the product items scroll."
+#~ msgstr "Wähle wie die Produkte scrollen."
+
+# @ virtue
+#~ msgid "Home On Sale Product Settings"
+#~ msgstr "Hauptseite Aktionsprodukte Einstellung"
+
+# @ virtue
+#~ msgid "Home On Sale Product Carousel Title"
+#~ msgstr "Hauptseite Aktionsprodukte Karouselltitel"
+
+# @ virtue
+#~ msgid "e.g. = On Sale Products"
+#~ msgstr "zB: = Produkte in Aktion"
+
+# @ virtue
+#~ msgid "Home Best Selling Product Settings"
+#~ msgstr "Hauptseite Best verkaufte Produkte Einstellungen"
+
+# @ virtue
+#~ msgid "Home Best Selling Product Carousel Title"
+#~ msgstr "Hauptseite Best verkaufte Produkte Karouselltitel"
+
+# @ virtue
+#~ msgid "e.g. = Best Selling Products"
+#~ msgstr "zB: = Best verkaufte Produkte"
+
+# @ virtue
+#~ msgid "Home Custom Carousel Settings"
+#~ msgstr "Hauptseite Benutzerdefiniertes Karousell Einstellungen"
+
+# @ virtue
+#~ msgid "Home Custom Carousel Title"
+#~ msgstr "Hauptseite Benutzerdefiniertes Karousell Titel"
+
+# @ virtue
+#~ msgid "e.g. = Featured News"
+#~ msgstr "zB: gefeaturete News"
+
+# @ virtue
+#~ msgid "Custom Carousel Items"
+#~ msgstr "Benutzerdefiniertes Karousell Einträge"
+
+# @ virtue
+#~ msgid "Custom Carousel Scroll"
+#~ msgstr "Benutzerdefiniertes Karousell Scroll"
+
+# @ virtue
+#~ msgid "Choose how the custom items scroll."
+#~ msgstr "Wähle wie die Benutzerdefinierten Karousell Einträge scrollen"
+
+# @ virtue
+#~ msgid "Home Portfolio Full Settings"
+#~ msgstr "Hauptseite - Portfolio Gesamt Einstellungen"
+
+# @ virtue
+#~ msgid "Home Portfolio Full Title"
+#~ msgstr "Hauptseite - Portfolio Gesamt Titel"
+
+# @ virtue
+#~ msgid "e.g. = Our Work"
+#~ msgstr "zB: = Unsere Arbeit"
+
+# @ virtue
+#~ msgid "Portfolio Full Category Type"
+#~ msgstr "Portfolio Gesamt Kategorietyp"
+
+# @ virtue
+#~ msgid "Choose type for the Portfolio Full"
+#~ msgstr "Wähle den Typ für Portfolio Gesamt"
+
+# @ virtue
+#~ msgid "Choose how many Portfolio Items on Homepage"
+#~ msgstr "Wähle Anzahl der Portfolioeinträge für Hauptseite"
+
+# @ virtue
+#~ msgid "Portfolio full Order by"
+#~ msgstr "Portfolio Gesamt Sortierung nach"
+
+# @ virtue
+#~ msgid "Choose how the portfolio items should be ordered."
+#~ msgstr "Wähle wie die Portfolioelemente angeordnet sein sollen."
+
+# @ virtue
+#~ msgid "Choose how many Portfolio columns"
+#~ msgstr "Wähle wie viele Portofolio Spalten"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Use masonry Layout?"
+#~ msgstr "Wähle Spalten Layout:"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Photo Post"
+#~ msgstr "Portfolio Beiträge"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Shop Product Style"
+#~ msgstr "Shop Produkttitel Einstellungen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Choose the product style"
+#~ msgstr "Wähle wie die Produkte scrollen."
+
+# @ virtue
+#~ msgid "Show Category Filter on Shop Page"
+#~ msgstr "Zeige Kategoriefilter auf der Shopseite"
+
+# @ virtue
+#~ msgid "This adds an dynamic filter to the shop page"
+#~ msgstr "Dies fügt einen dynamischen Filter zur Shopseite hinzu"
+
+# @ virtue
+#~ msgid "Show Category Filter on Category Pages"
+#~ msgstr "Zeige Kategoriefilter auf Kategorieseiten"
+
+# @ virtue
+#~ msgid "This adds an dynamic filter to Category pages"
+#~ msgstr "Dies fügt einen dynamischen Filter zu den Kategorieseiten hinzu"
+
+# @ virtue
+#~ msgid "Use Infinite Scroll on Shop pages"
+#~ msgstr "Benutze Endloss-Scroll auf Shopseiten"
+
+# @ virtue
+#~ msgid "Not recomended that you use with filter."
+#~ msgstr "Es ist nicht empfohlen dies mit Filter zu benutzen."
+
+# @ virtue
+#~ msgid "Show Sold tag if product out of stock."
+#~ msgstr "Zeige Verkauft Hinweis wenn das Produkt nicht auf Lager ist."
+
+# @ virtue
+#~ msgid ""
+#~ "This determines if a sold tag is displayed on the top right of the "
+#~ "product image"
+#~ msgstr ""
+#~ "Dies entscheidet ob ein Verkauft Hinweis angzeigt im Produktbild oben "
+#~ "rechts"
+
+# @ virtue
+#~ msgid "Product Image Flip"
+#~ msgstr "Produktbild Flip"
+
+# @ virtue
+#~ msgid ""
+#~ "This allows your product image to flip to the first gallery image when "
+#~ "hovered over on shop page. *Note only works in newer browsers."
+#~ msgstr ""
+#~ "Das ermöglicht einem Produktbild auf den ersten Platz der Galeriebilder "
+#~ "zu flippen wenn die Maus darüber ist in der Shopseite. * Hinweis "
+#~ "funktioniert nur in neueren Browsern."
+
+# @ virtue
+#~ msgid "Category Image Aspect Ratio"
+#~ msgstr "Kategorie Bild Aspekt Ratio"
+
+# @ virtue
+#~ msgid ""
+#~ "If enabled below this sets how you want your category images to be "
+#~ "cropped."
+#~ msgstr ""
+#~ "Bei Aktivierung lege darunter fest, wie Ihre Kategoriebilder "
+#~ "zugeschnitten werden soll."
+
+# @ virtue
+#~ msgid "Product Image Aspect Ratio"
+#~ msgstr "Produktbild Aspekt Ratio"
+
+# @ virtue
+#~ msgid ""
+#~ "If enabled below this sets how you want your product images to be cropped."
+#~ msgstr ""
+#~ "Bei Aktivierung lege darunter fest, wie Ihre Produktbilder zugeschnitten "
+#~ "werden soll."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Shop Slider/Content"
+#~ msgstr "Shop Slider"
+
+# @ virtue
+#, fuzzy
+#~ msgid "This enabled the transparent header on the Shop page."
+#~ msgstr "Dies entscheided ob eine Sidebar auf der Shopseite ist."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Choose a Head Content for your shop page"
+#~ msgstr "Wählen Sie einen Slider für Ihre Shopseite"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Cyclone/Shortcode Slider"
+#~ msgstr "Cyclone Slider"
+
+# @ virtue
+#~ msgid ""
+#~ "Note: does not work if images are smaller than max. If using sidebar set "
+#~ "to 770"
+#~ msgstr ""
+#~ "Hinweis: das funktioniert nicht bei Bildern welche kleiner sind als max. "
+#~ "Bei Verwendung von Sidebar setze 770"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Single Product Settings"
+#~ msgstr "Hauptseite Aktionsprodukte Einstellung"
+
+# @ virtue
+#~ msgid "Single Product Layout"
+#~ msgstr "Single Produkt Layout"
+
+# @ virtue
+#, fuzzy
+#~ msgid "This determines the width of the image area on single product pages."
+#~ msgstr ""
+#~ "Dies entscheidet über Bilde & Produkttitel Layout auf ein einzelnen "
+#~ "Produktseiten."
+
+# @ virtue
+#~ msgid "Product Sidebar Default"
+#~ msgstr "Produkt Sidebar Standard"
+
+# @ virtue
+#~ msgid "Choose a Default Sidebar for your Single Product Pages"
+#~ msgstr "Wähle eine Standard-Sidbar für die einzelnen Produktseiten"
+
+# @ virtue
+#~ msgid "Display variations as radio buttons instead of select box?"
+#~ msgstr "Zeige Variationen als Radio-Buttons anstelle einer Select-Box?"
+
+# @ virtue
+#~ msgid "This will display product varations in a box form."
+#~ msgstr "Dies zeigt Produktvariation in einer Boxform"
+
+# @ virtue
+#~ msgid "Product Tab Order - Lowest First"
+#~ msgstr "Produkt Tab Sortierung - Niedrigste zuerst"
+
+# @ virtue
+#~ msgid "Description Tab"
+#~ msgstr "Beschreibung Tab"
+
+# @ virtue
+#~ msgid "Additional Information Tab"
+#~ msgstr "Zusätzliche Information Tab"
+
+# @ virtue
+#~ msgid "Reviews Tab"
+#~ msgstr "Bewertungs Tab"
+
+# @ virtue
+#~ msgid "Activate Custom Tab 01"
+#~ msgstr "Aktiviere Benutzerdefinierter Tab 01"
+
+# @ virtue
+#~ msgid "This adds a custom product tab to your products"
+#~ msgstr "Dies fügt einen benutzerdefinierten Tab zu Ihren Produkten hinzu"
+
+# @ virtue
+#~ msgid "Activate Custom Tab 02"
+#~ msgstr "Aktiviere Benutzerdefinierter Tab 02"
+
+# @ virtue
+#~ msgid "Activate Custom Tab 03"
+#~ msgstr "Aktiviere Benutzerdefinierter Tab 03"
+
+# @ virtue
+#~ msgid "Choose how many columns are in related product carousel"
+#~ msgstr "Wähle wie viele Spalten in einem verwandtem Produktkarousell"
+
+# @ virtue
+#~ msgid "Portfolio Permalink Base"
+#~ msgstr "Portfolio Permalink Base"
+
+# @ virtue
+#~ msgid "Standard: portfolio *NOTE If you change this resave your permalinks"
+#~ msgstr ""
+#~ "Standard: Portfolio *Hinweis: Bei Änderungen werden Permalinks erneut "
+#~ "gespeichert"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Single Portfolio Default Title Text"
+#~ msgstr "Hauptseite - Portfolio Gesamt Titel"
+
+# @ virtue
+#~ msgid "Portfolio Arrow Navigation"
+#~ msgstr "Portfolio Pfeil Navigation"
+
+# @ virtue
+#~ msgid "Navigate through All Posts"
+#~ msgstr "Navigiere durch alle Einträge"
+
+# @ virtue
+#~ msgid "Navigate through Category"
+#~ msgstr "Navigiere durch Kategorie"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Show portfolio category with filter"
+#~ msgstr "Zeige \"Eingetragen in\" Kategorien mit Beiträgen?"
+
+# @ virtue
+#~ msgid "Post Excerpt Length"
+#~ msgstr "Beitragsauszug Länge"
+
+# @ virtue
+#~ msgid "Determines how many words are in an Excerpt."
+#~ msgstr "Entscheidet wie viele Wörter in dem Auszug enthalten sind"
+
+# @ virtue
+#~ msgid "Use Infinite Scroll on Blog pages"
+#~ msgstr "Benutze Endlos-Scroll auf Blogseiten"
+
+# @ virtue
+#~ msgid ""
+#~ "Remove Pagination and creates infinite scroll instead. Note does not work "
+#~ "with slider post summaries"
+#~ msgstr ""
+#~ "Entfernt Seitennummerierung und erstellt Endlos-Scroll anstelle. Hinweis "
+#~ "funktioniert nicht mit Slider Beitrags Auszügen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Gallery Grid"
+#~ msgstr "Gallerietyp"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Image Carousel (Caroufedsel Carousel)"
+#~ msgstr "Sliderkarousell"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Breadcrumbs Color"
+#~ msgstr "Brotkrumenpfad"
+
+# @ virtue
+#~ msgid "Feature Background"
+#~ msgstr "Feature Hintergrund"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Choose to enable a search button in the header menu"
+#~ msgstr "Wähle zum einschalten des fixierten Kopf auf Handys."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Choose to enable a Cart button in the header menu"
+#~ msgstr "Wähle zum einschalten des fixierten Kopf auf Handys."
+
+# @ virtue
+#~ msgid "Hover and Active Font Color"
+#~ msgstr "Hover und Aktive Schriftfarbe"
+
+# @ virtue
+#~ msgid "Hover and Active Background Color"
+#~ msgstr "Hover und Aktive Hintergrundfarbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Dropdown Background Color"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Dropdown Menu Font size"
+#~ msgstr "Fußzeilen Schriftfarbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Choose Size and color for the Dropdown menus"
+#~ msgstr "Wähle Größe und Still für Sekundärmenü"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Item Background Hover Color"
+#~ msgstr "HoverHintergrund Farbe"
+
+# @ virtue
+#~ msgid "Mobile Hover and Active Font Color"
+#~ msgstr "Handy Hover und Aktiv Schriftfarbe"
+
+# @ virtue
+#~ msgid "Mobile Hover and Active Background Color"
+#~ msgstr "Handy Hover und Aktiv Hindergrundfarbe"
+
+# @ virtue
+#~ msgid "Language Settings"
+#~ msgstr "Spracheinstellungen"
+
+# @ virtue
+#~ msgid "Quick Language Settings"
+#~ msgstr "Schnelle Spracheinstellungen"
+
+# @ virtue
+#~ msgid "Standard: Search\""
+#~ msgstr "Standard: Suche\""
+
+# @ virtue
+#~ msgid "Topbar Cart Total Text"
+#~ msgstr "Topbar \"WARENKORB GESAMT\" Text"
+
+# @ virtue
+#~ msgid "Standard: Your Cart"
+#~ msgstr "Standard: Warenkorb"
+
+# @ virtue
+#~ msgid "Product Sold Text"
+#~ msgstr "Produkt AUSVERKAUFT Text"
+
+# @ virtue
+#~ msgid "Standard: Sold"
+#~ msgstr "Standard: Ausverkauft"
+
+# @ virtue
+#~ msgid "Product Sale Text"
+#~ msgstr "Produkt VERKAUF Text"
+
+# @ virtue
+#~ msgid "Standard: Sale"
+#~ msgstr "Standard: Verkauf"
+
+# @ virtue
+#~ msgid "Post READ MORE text"
+#~ msgstr "Beitrag WEITERLESEN Text"
+
+# @ virtue
+#~ msgid "Standard: Read More"
+#~ msgstr "Standard: weiter lesen"
+
+# @ virtue
+#~ msgid "Post Author BY text"
+#~ msgstr "Beitrag Autor VON text"
+
+# @ virtue
+#~ msgid "Standard: by"
+#~ msgstr "Standard: von"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Post Data ON text"
+#~ msgstr "Beitrag WEITERLESEN Text"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Standard: on"
+#~ msgstr "Standard: von"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Standard: with"
+#~ msgstr "Standard: von"
+
+# @ virtue
+#~ msgid "Dynamic filter All text"
+#~ msgstr "Dynamischer filter ALLES Text"
+
+# @ virtue
+#~ msgid "Standard: All"
+#~ msgstr "Standard: Alles"
+
+# @ virtue
+#~ msgid "Mobile dynamic Filter Products text"
+#~ msgstr "Handy danimischer FILTERE PRODUKTE Text"
+
+# @ virtue
+#~ msgid "Standard: Filter Products"
+#~ msgstr "Standard: Filtere Produkte"
+
+# @ virtue
+#~ msgid "Mobile dynamic Filter Projects text"
+#~ msgstr "Handy dynamischer FILTER PROJEKTE Text"
+
+# @ virtue
+#~ msgid "Standard: Filter Projects"
+#~ msgstr "Standard: Filter Projekte"
+
+# @ virtue
+#~ msgid "Product Page: Description tab text"
+#~ msgstr "Produktseite: BESCHREIBUNG Tabtext"
+
+# @ virtue
+#~ msgid "Standard: Description"
+#~ msgstr "Standard: Beschreibung"
+
+# @ virtue
+#~ msgid "Product Page: Description header text"
+#~ msgstr "Produktseite: BESCHREIBUNGS KOPF Text"
+
+# @ virtue
+#~ msgid "Standard: Product Description"
+#~ msgstr "Standard: Produktbeschreibung Kopf"
+
+# @ virtue
+#~ msgid "Product Page: Additional Information tab text"
+#~ msgstr "Produktseite: ZUSÄTZLICHE INFORMATION Tab Text"
+
+# @ virtue
+#~ msgid "Standard: Additional Information"
+#~ msgstr "Standard: Zusätzliche Information"
+
+# @ virtue
+#~ msgid "Product Page: Additional Information Header text"
+#~ msgstr "Produktseite: ZUSÄTZLICHE INFORMATION KOPF Text"
+
+# @ virtue
+#~ msgid "Product Page: Product Video tab text"
+#~ msgstr "Produktseite: PRODUKT VIDEO Tab Text"
+
+# @ virtue
+#~ msgid "Standard: Product Video"
+#~ msgstr "Standard: Produktvideo"
+
+# @ virtue
+#~ msgid "Product Page: Product Video Header text"
+#~ msgstr "Produktseite: PRODUKT VIDEO KOPF Text"
+
+# @ virtue
+#~ msgid "Product Page: Reviews tab text"
+#~ msgstr "Produktseiten: BEWERTUNG Tab Text"
+
+# @ virtue
+#~ msgid "Standard: Reviews"
+#~ msgstr "Standard: Bewertungen"
+
+# @ virtue
+#~ msgid "Product Page: Related Products text"
+#~ msgstr "Produktseiten: ÄHNLICHE PRODUKTE Text"
+
+# @ virtue
+#~ msgid "Standard: Related Products"
+#~ msgstr "Standard: ähnliche Produkte"
+
+# @ virtue
+#~ msgid "LightBox: Loading text"
+#~ msgstr "LightBox: LADE Text"
+
+# @ virtue
+#~ msgid "LightBox: of text"
+#~ msgstr "LightBox: VON Text"
+
+# @ virtue
+#~ msgid "Standard: of"
+#~ msgstr "Standard: von"
+
+# @ virtue
+#~ msgid "LightBox: Error text"
+#~ msgstr "LightBox: FEHLER Text"
+
+# @ virtue
+#~ msgid "Breadcrumbs"
+#~ msgstr "Brotkrumenpfad"
+
+# @ virtue
+#~ msgid "Sitewide Breadcrumbs"
+#~ msgstr "Seitenweite Brotkrumenpfad"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Show Breadcrumbs on Shop Page?"
+#~ msgstr "Zeigen Brotkrumenpfad auf Blogbeiträgen?"
+
+# @ virtue
+#~ msgid ""
+#~ "Choose to show or hide breadcrumbs on your Woocommerce pages and "
+#~ "Categories"
+#~ msgstr ""
+#~ "Wähle zum zeigen oder verstecken der Brotkrumenpfad auf "
+#~ "Woocommereceseiten und Kategorien"
+
+# @ virtue
+#~ msgid "Show Breadcrumbs on Products?"
+#~ msgstr "Zeige Brotkrumenpfad bei Produkten?"
+
+# @ virtue
+#~ msgid "Choose to show or hide breadcrumbs on your Woocommerce products"
+#~ msgstr ""
+#~ "Wähle zum anzeigen oder verstecken des Brotkrumenpfad bei den "
+#~ "Woocommerceprodukten"
+
+# @ virtue
+#~ msgid "Show Breadcrumbs on Blog Post?"
+#~ msgstr "Zeigen Brotkrumenpfad auf Blogbeiträgen?"
+
+# @ virtue
+#~ msgid "Choose to show or hide breadcrumbs on your single blog post"
+#~ msgstr ""
+#~ "Wähle zum zeigen oder verstecken Brotkrumenpfad auf einzelnen Beiträgen"
+
+# @ virtue
+#~ msgid "Show Breadcrumbs on Portfolio Post?"
+#~ msgstr "Zeige Brotkrumenpfad auf Portfoliobeiträgen"
+
+# @ virtue
+#~ msgid "Choose to show or hide breadcrumbs on your single portfolio posts"
+#~ msgstr ""
+#~ "Wähle zum zeigen oder verstecken des Brotkrumenpfad auf einzelnen "
+#~ "Portfoliobeiträgen."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Show Breadcrumbs on Pages?"
+#~ msgstr "Zeige Brotkrumenpfad bei Produkten?"
+
+# @ virtue
+#~ msgid "Choose to show or hide breadcrumbs on your pages and categories"
+#~ msgstr ""
+#~ "Wähle zum zeigen oder verstecken des Brotkrumenpfad auf Seiten & "
+#~ "Kategorien"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Show Breadcrumbs on Archives?"
+#~ msgstr "Zeige Brotkrumenpfad bei Produkten?"
+
+# @ virtue
+#~ msgid "Home title for breadcrumbs"
+#~ msgstr "Titel für Hauptseite bei Brotkrumenpfad"
+
+# @ virtue
+#~ msgid "Standard: Home"
+#~ msgstr "Standard: Home"
+
+# @ virtue
+#~ msgid "All Blog Post Page"
+#~ msgstr "Seite für alle Blogeinträge"
+
+# @ virtue
+#~ msgid ""
+#~ "This sets the link for your main blog page, for breadcrumbs. Use only if "
+#~ "your blog page is not your home page."
+#~ msgstr ""
+#~ "Dies setzt den Link für Ihre Hauptblogseite, für den Brotkrumenpfad. "
+#~ "Benutze dies nur wenn die Blogseite ist nicht die Startseite ist."
+
+# @ virtue
+#~ msgid "Show Shop page in breadcrumbs?"
+#~ msgstr "Zeige Shopseite im Brotkrumenpfad?"
+
+# @ virtue
+#~ msgid "Choose to show or hide the shop page in breadcrumbs on your site"
+#~ msgstr "Wähle zum zeigen oder verstecken der Shopseite im Brotkrumenpfad"
+
+# @ virtue
+#~ msgid "Google Analytics Tracking ID"
+#~ msgstr "Google Analytics Tracking ID"
+
+# @ virtue
+#~ msgid ""
+#~ "Paste your Google Analytics Tracking ID Here. (example: UA-########-#)"
+#~ msgstr ""
+#~ "Hier die Google Analytics Tracking ID einfügen. (example: UA-########-#)"
+
+# @ rwtm
+#, fuzzy
+#~ msgid "Select2 Select"
+#~ msgstr "Gewählte Datei"
+
+# @ virtue
+#~ msgid "Limit Max Page width"
+#~ msgstr "Limitiere max. Seitenbreite"
+
+# @ virtue
+#~ msgid "Limit Max Page to 940px"
+#~ msgstr "Limitiere max. Seite auf 940px"
+
+# @ virtue
+#~ msgid "Smooth Scrolling"
+#~ msgstr "Weiches Scrolling"
+
+# @ virtue
+#~ msgid "Enable Smooth Scrolling"
+#~ msgstr "Ermögliche weiches Scrolling"
+
+# @ virtue
+#~ msgid "This enables the styled scroll bar."
+#~ msgstr "Dies aktiviert das Styling des Scrollbar."
+
+# @ virtue
+#~ msgid "Enable Auto Hide"
+#~ msgstr "Automatische verstecken ermöglichen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "This hides the scroll bar then not scrolling."
+#~ msgstr "Dies versteckt die Scrollbar wenn nicht gescrollt wird."
+
+# @ virtue
+#~ msgid "Hide Scroll background"
+#~ msgstr "Verstecke Scrollhintergrund"
+
+# @ virtue
+#~ msgid "This hides the scroll bar background."
+#~ msgstr "Versteckt den Hintergrund der Scrollbar."
+
+# @ virtue
+#~ msgid ""
+#~ "Disable this if using a plugin to customize galleries, for example "
+#~ "jetpack tiled gallery."
+#~ msgstr ""
+#~ "Deaktivieren Sie diese, wenn Sie ein Plugin verwenden, um die Galerien "
+#~ "anpassen, z. B. Jetpack gekachelt Galerie."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Use Masonry Feature on Pinnacle Galleries"
+#~ msgstr "Benutze Masonry Darstellung bei Virtue Gallerien"
+
+# @ virtue
+#~ msgid ""
+#~ "This allows for dynamic gallery grids with images of different height"
+#~ msgstr ""
+#~ "Dies ergmölicht, für dynamische Gallerie-Raster, Bilder mit "
+#~ "unterschiedlichen höhen."
+
+# @ virtue
+#~ msgid "Site Scroll Animation in"
+#~ msgstr "Seiten Herein Scrollanimation"
+
+# @ virtue
+#~ msgid "Enable Animation In"
+#~ msgstr "Ermögliche Herein zu animieren"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Disable this if you want to hide all the appear animation"
+#~ msgstr ""
+#~ "Schalte dies ab wenn Sie alle \"Auftauch-Animation\" nicht haben wollen"
+
+# @ virtue
+#~ msgid "Filter Products"
+#~ msgstr "Produkt filtern"
+
+# @ woocommerce
+#~ msgid "Out of stock"
+#~ msgstr "Nicht auf Lager"
+
+# @ virtue
+#~ msgid "Sold"
+#~ msgstr "Verkauft"
+
+# @ virtue
+#~ msgid "View your shopping cart"
+#~ msgstr "Warenkorb ansehen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Border Top Color"
+#~ msgstr "Fußzeilen Schriftfarbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Border Bottom Size"
+#~ msgstr "Button Text"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Border Bottom Color"
+#~ msgstr "Fußzeilen Schriftfarbe"
+
+# @ virtue
+#~ msgid "Featured Projects"
+#~ msgstr "Gefeaturetes Projekt"
+
+# @ virtue
+#~ msgid "Feature Page Slider Images"
+#~ msgstr "Feature Seite Slider Bilder"
+
+# @ cmb
+#, fuzzy
+#~ msgid "Remove image"
+#~ msgstr "Entferne Bild"
+
+# @ redux-framework
+#, fuzzy
+#~ msgid "Add images"
+#~ msgstr "Slide hinzufügen"
+
+# @ virtue
+# @ redux-framework
+#, fuzzy
+#~ msgid "Add to gallery"
+#~ msgstr "Hizufügen/Editieren Gallerie"
+
+# @ virtue
+#~ msgid "Secondary Navigation"
+#~ msgstr "Sekundärnavigation"
+
+# @ virtue
+#~ msgid "Mobile Navigation"
+#~ msgstr "Handynaviagtion"
+
+# @ virtue
+#~ msgid "Icon/Font Color"
+#~ msgstr "Symbol/Schriftfarbe"
+
+# @ virtue
+#~ msgid "Hover Icon/Font Color"
+#~ msgstr "Hover Symbol/ Schriftfarbe"
+
+# @ virtue
+#~ msgid "Site Default"
+#~ msgstr "Seiten Standard"
+
+# @ virtue
+#~ msgid "Rev Slider"
+#~ msgstr "Rev Slider"
+
+# @ virtue
+#, fuzzy
+#~ msgid "If Revolution, Cyclone or Kadence Slider"
+#~ msgstr "Wenn Revolution oder Cyclone Slider"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Auto Play Slider?"
+#~ msgstr "Automatisch abspielen?"
+
+# @ virtue
+#~ msgid "Location"
+#~ msgstr "Ort"
+
+# @ virtue
+#~ msgid "Client Title"
+#~ msgstr "Kunden Titel"
+
+# @ virtue
+#~ msgid "Link"
+#~ msgstr "Link"
+
+# @ virtue
+#~ msgid "Crop images to equal height"
+#~ msgstr "Bildgröße zuschneiden auf gleiche Höhe"
+
+# @ virtue
+#~ msgid "If cropped rows will be equal"
+#~ msgstr "Wenn beschnitten werden die Reihen gleich sein"
+
+# @ virtue
+#~ msgid "Default is 1:1 ratio (Note: just input number, example: 350)"
+#~ msgstr ""
+#~ "Standard ist 1:1 Aspekt (Hinweis: nur Zahlen eingeben, Bespiel: 350)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Portfolio Category Page Options"
+#~ msgstr "Portolio Kategorie Seiten"
+
+# @ virtue
+#~ msgid "Default is 16:9 ratio (Note: just input number, example: 350)"
+#~ msgstr ""
+#~ "Standard  ist 1:1 Aspekt (Hinweis: nur Zahlen eingeben, Bespiel: 350)"
+
+# @ virute
+#~ msgid "One Column"
+#~ msgstr "Eine Spalte"
+
+# @ virtue
+#~ msgid "Feature Options"
+#~ msgstr "Feature Optionen"
+
+# @ virtue
+#~ msgid "Paste Revolution slider alias here (example: slider1)"
+#~ msgstr "Revolution Slider alias hier eingeben (zB: slider)"
+
+# @ virtue
+#, fuzzy
+#~ msgid "If Cyclone or Kadence Slider"
+#~ msgstr "Wenn Cyclone Slider"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Display Shortcode Slider above Header"
+#~ msgstr "Bewege den Slider über den Kopf"
+
+# @ virtue
+#~ msgid "Use Lightbox for Feature Image"
+#~ msgstr "Benutzer Lightbox für Feature-Bild"
+
+# @ virtue
+#~ msgid ""
+#~ "If feature option is set to image, choose to use lightbox link with image."
+#~ msgstr ""
+#~ "Wenn Featureoption ist auf Bild gestellt, wähle Benutze Lightbox Link mit "
+#~ "Bild."
+
+# @ virtue
+#~ msgid "SEO Options"
+#~ msgstr "SEO Optionen"
+
+# @ virtue
+#~ msgid "Optimal Format: Brand Name | Primary Keyword and Secondary Keyword"
+#~ msgstr ""
+#~ "Optimales Format: Markenname | Primäres Keyword and Sekundäres Keyword"
+
+# @ virtue
+#~ msgid "Page Description"
+#~ msgstr "Seiten Beschreibung"
+
+# @ virtue
+#~ msgid "Optimal Length: Roughly 155 Characters"
+#~ msgstr "Optimale Länge: ungefähr 155 Zeichen"
+
+# @ virtue
+#~ msgid "Virtue Custom Tab 01"
+#~ msgstr "Virtue Benutzerdefinierter Tab 01"
+
+# @ virtue
+#~ msgid "Virtue Custom Tab 02"
+#~ msgstr "Virtue Benutzerdefinierter Tab 01"
+
+# @ virtue
+#~ msgid "Virtue Custom Tab 03"
+#~ msgstr "Virtue Benutzerdefinierter Tab 01"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Install Suggested Plugins"
+#~ msgstr "Installiere benötitgtes Plugins"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Header Widget Area"
+#~ msgstr "Fußzeilen Widget Layout"
+
+# @ virtue
+#~ msgid "posted in:"
+#~ msgstr "Eingetragen in:"
+
+# @ virtue
+#~ msgid "Menu"
+#~ msgstr "Menü"
+
+# @ virtue
+#~ msgid "Copy and Paste this code into the theme options import feature"
+#~ msgstr ""
+#~ "Kopiere und füge diesen Code in die Thema - Optionen - Importfunktion"
+
+# @ virtue
+#~ msgid "There are no previous options"
+#~ msgstr "Es gibt keine vorherigen Optionen"
+
+# @ virtue
+#~ msgid "Main Settings"
+#~ msgstr "Haupteinstellungen"
+
+# @ virtue
+#~ msgid "Select Boxed or Wide Site Layout Style"
+#~ msgstr "Wähle Spaltenstill oder füllender Layoutstill"
+
+# @ virtue
+#~ msgid "Logo Layout"
+#~ msgstr "Logo Layout"
+
+# @ virtue
+#~ msgid "Choose how you want your logo to be laid out"
+#~ msgstr "Wähle wie das Logolayout sein soll"
+
+# @ virtue
+#~ msgid "Site Tagline - Below Logo\""
+#~ msgstr "Seiten Slogan - unter Logo\""
+
+# @ virtue
+#~ msgid "An optional line of text below your logo"
+#~ msgstr "Eine optionale Zeile unter dem Logo"
+
+# @ virtue
+#~ msgid "Site Tagline Font"
+#~ msgstr "Seiten-Slogan Font"
+
+# @ virtue
+#~ msgid "Choose size and style your site tagline"
+#~ msgstr "Wähle Größe & Still des Seitenslogan"
+
+# @ virtue
+#~ msgid "Logo Spacing"
+#~ msgstr "Logo Abstand"
+
+# @ virtue
+#~ msgid "Top Spacing"
+#~ msgstr "Abstand oben"
+
+# @ virtue
+#~ msgid "Bottom Spacing"
+#~ msgstr "Abstand unten"
+
+# @ virtue
+#~ msgid "Left Spacing"
+#~ msgstr "Abstand links"
+
+# @ virtue
+#~ msgid "Right Spacing"
+#~ msgstr "Abstand rechts"
+
+# @ virtue
+#~ msgid "Primary Menu Spacing"
+#~ msgstr "Hauptmenü Abstand"
+
+# @ virtue
+#~ msgid "Upload a banner for bottom of header."
+#~ msgstr "Lade Banner hoch für den unteren Kopfteil."
+
+# @ virtue
+#~ msgid "Banner Link"
+#~ msgstr "Banner Link"
+
+# @ virtue
+#~ msgid "Choose a Header Style"
+#~ msgstr "Wähle einen Kopf Still"
+
+# @ virtue
+#~ msgid "Note: This header style does not have secondary menu support."
+#~ msgstr "Hinweis: dieser Kopf-Still hat keine Sekundärmenü Unterstützung."
+
+# @ virtue
+#~ msgid "Choose how many menu items per Side"
+#~ msgstr "Wähle wie viele Menüelemente pro Slide"
+
+# @ virtue
+#~ msgid "This determines how many menu items fit on each side of the logo"
+#~ msgstr "Das entscheided wie viele Menüelemente auf derSseite des Logo sind"
+
+# @ virtue
+#~ msgid ""
+#~ "Note this will hide remove search (you can re-enable it my adding it to "
+#~ "the widget area)"
+#~ msgstr ""
+#~ "Hinweis dies entfernt die Suche (sie können es reaktivieren, durch "
+#~ "hinzufügen in den Widgetbereich)"
+
+# @ virtue
+#~ msgid "Slider Settings"
+#~ msgstr "Slider Einstellungen"
+
+# @ virtue
+#~ msgid "Thumb Slider"
+#~ msgstr "Vorschau Slider"
+
+# @ virtue
+#~ msgid "Move Slider above Header"
+#~ msgstr "Bewege den Slider über den Kopf"
+
+# @ virtue
+#~ msgid "This works great for full screen sliders"
+#~ msgstr "Dies funktioniert toll für Vollbild Sliders"
+
+# @ virtue
+#~ msgid "Paste Cyclone Slider shortcode here"
+#~ msgstr "Cyclone Slide Shortcode hier einfügen"
+
+# @ virtue
+#~ msgid "Home Post Excerpt Length"
+#~ msgstr "Hauptseite Beitragsauszug Länge"
+
+# @ virtue
+#~ msgid "Determines how many words are in the post excerpt."
+#~ msgstr "Entscheidet wie viele Wörte in dem Beitragsauszug enthalten sind."
+
+# @ virtue
+#~ msgid "Set height for portfolio items - Optional"
+#~ msgstr "Setze höhe für Portfolioelemente (optional)"
+
+# @ virtue
+#~ msgid "Example 400"
+#~ msgstr "Beispiel 400"
+
+# @ virtue
+#~ msgid "Icon Menu Box Background Color"
+#~ msgstr "Symbol Menübox Hindergrundfarbe"
+
+# @ virtue
+#~ msgid "Icon Menu Font and Icon Color"
+#~ msgstr "Symbolmenü Font und Symbolfarbe"
+
+# @ virtue
+#~ msgid ""
+#~ "Choose the color for icon menu font and icon. * Note the hover color is "
+#~ "set to white and background is set to primary color."
+#~ msgstr ""
+#~ "Wähle die Farbe für Symbolmenüschrift und Symbole. * Hinweis die hover "
+#~ "Farbe ist weiß und der Hintergrund ist die Hauptfarbe."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Display Portfolio Filter"
+#~ msgstr "Zeige Portfoliotypen unter Titel"
+
+# @ virtue
+#~ msgid "Use Post Grid Format"
+#~ msgstr "Benutze Beitrags Raster"
+
+# @ virtue
+#~ msgid "Would you like to use have a slider on your shop page?"
+#~ msgstr "Wollen sie einen Silder auf Ihre Shopseite benutzen?"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Display Product Navigation arrows beside title?"
+#~ msgstr "Zeige Produkt-Navigationspfeile neben Titel?"
+
+# @ virtue
+#~ msgid ""
+#~ "This will display navigation arrow beside product title to navigate to "
+#~ "other products in the same category."
+#~ msgstr ""
+#~ "Dies zeigt Navigationspfeile neben Produkttiel zum navigieren zu anderen "
+#~ "Produkten der selben Kategorie."
+
+# @ virtue
+#~ msgid "Scroll to Tab?"
+#~ msgstr "Srolle zu Tab?"
+
+# @ virtue
+#~ msgid "This scrolls the page to the product tab when clicked"
+#~ msgstr "Dies scroll die Seite zu dem Produkt-Tab wenn geklickt"
+
+# @ virtue
+#~ msgid "Choose to show or hide posted in categories under post title."
+#~ msgstr ""
+#~ "Wähle zum zeigen oder verstecken von \"Eingetragen in\" Kategorien unter "
+#~ "Beitragstitel."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Display Similar Posts in random order?"
+#~ msgstr "Ja - ähnliche Beiträge anzeigen"
+
+# @ virtue
+#~ msgid "This is used for hover effects"
+#~ msgstr "Wird bentutzt für Mausdrüber-Effekte"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Content Background Color"
+#~ msgstr "HoverHintergrund Farbe"
+
+# @ virtue
+#~ msgid "Upload background image or texture"
+#~ msgstr "Hintergrundbild hochladen Bild oder Textur"
+
+# @ virtue
+#~ msgid "Image repeat options"
+#~ msgstr "Bild Wiederholungsoptionen"
+
+# @ virtue
+#~ msgid "no-repeat"
+#~ msgstr "keine Wiederholung"
+
+# @ virtue
+#~ msgid "repeat"
+#~ msgstr "Wiederholung"
+
+# @ virtue
+#~ msgid "repeat-x"
+#~ msgstr "Wiederholung-x"
+
+# @ virtue
+#~ msgid "repeat-y"
+#~ msgstr "Wiederholung-y"
+
+# @ virtue
+#~ msgid "X image placement options"
+#~ msgstr "X Bild Platzierungsoption"
+
+# @ virtue
+#~ msgid "left"
+#~ msgstr "Links"
+
+# @ virtue
+#~ msgid "center"
+#~ msgstr "Mitte"
+
+# @ virtue
+#~ msgid "right"
+#~ msgstr "Rechts"
+
+# @ virtue
+#~ msgid "Y image placement options"
+#~ msgstr "Y Bild Platzierungsoption"
+
+# @ virtue
+#~ msgid "top"
+#~ msgstr "Oben"
+
+# @ virtue
+#~ msgid "bottom"
+#~ msgstr "Unten"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Topbar Background Color"
+#~ msgstr "Topbar Hintergrund"
+
+# @ virtue
+#~ msgid "Secondary Menu Background"
+#~ msgstr "Sekundärmenü Hintergrund"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Secondary Menu Background Color"
+#~ msgstr "Sekundärmenü Hintergrund"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Mobile Menu Background Color"
+#~ msgstr "Handymenü Hintergrund"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Body Background Color"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#~ msgid "Fixed or Scroll"
+#~ msgstr "Fixiert oder Scrollend"
+
+# @ virtue
+#~ msgid "Secondary Menu Options"
+#~ msgstr "Sekundärmenü Einstellungen"
+
+# @ virtue
+#~ msgid "Secondary Menu Font"
+#~ msgstr "Sekundärmenü Schrift"
+
+# @ virtue
+#~ msgid "Secondary Hover and Active Font Color"
+#~ msgstr "Sekundär Hover und Aktiv Schriftfarbe"
+
+# @ virtue
+#~ msgid "Secondary Hover and Active Background Color"
+#~ msgstr "Sekundär Hover und Aktiv Hintergrundfarbe"
+
+# @ virtue
+#~ msgid "Choose how many menu items fit in the menu."
+#~ msgstr "Wähle wie viele Menüelemente ins Menü sollen."
+
+# @ virtue
+#~ msgid "Four Items"
+#~ msgstr "Vier Elemente"
+
+# @ virtue
+#~ msgid "Five Items"
+#~ msgstr "Fünf Elemente"
+
+# @ virtue
+#~ msgid "Six Items"
+#~ msgstr "Sechs Elemente"
+
+# @ virtue
+#~ msgid "Seven Items"
+#~ msgstr "Sieben Elemente"
+
+# @ virtue
+#~ msgid "Mobile Menu only show button"
+#~ msgstr "Handymenü Schrift"
+
+# @ virtue
+#~ msgid "Mobile Menu Title"
+#~ msgstr "Handy MENÜ Titel"
+
+# @ virtue
+#~ msgid "Standard: Menu"
+#~ msgstr "Standard: Menu"
+
+# @ virtue
+#~ msgid "Post Category POSTED IN text"
+#~ msgstr "Beitragskategorie EINGETRAGEN IN Text"
+
+# @ virtue
+#~ msgid "Standard: posted in:"
+#~ msgstr "Standard: Eingetragen in:"
+
+# @ virtue
+#~ msgid "Show Breadcrumbs in Woocommerce Pages and Categories?"
+#~ msgstr "Zeige Brotkrumenpfad in Woocommerce Seiten und Kategorien?"
+
+# @ virtue
+#~ msgid "Show Breadcrumbs on Pages & Categories?"
+#~ msgstr "Zeige Brotkrumenpfad auf Seiten & Kategorien?"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Grid Link for testimonial navigation"
+#~ msgstr "Leider keine Einträge gefunden."
+
+# @ virtue
+#~ msgid "Hide Image Border"
+#~ msgstr "Verstecke Bild-Rahmen"
+
+# @ virtue
+#~ msgid "Choose to show or hide image border"
+#~ msgstr "Wähle zum zeigen oder verstecken des Bild-Rahmen"
+
+# @ virtue
+#~ msgid "Sets the email for the contact page email form."
+#~ msgstr ""
+#~ "Stellt die E-Mail-Adresse für das E-Mail-Formular der Kontaktseite ein."
+
+# @ virtue
+#~ msgid "Enter a valid email address."
+#~ msgstr "Gültige E-Mail-Adresse eingeben."
+
+# @ virtue
+#~ msgid "Advanced Settings"
+#~ msgstr "Erweiterte Optionen"
+
+# @ virtue
+#~ msgid "SEO General Options"
+#~ msgstr "SEO Generelle Einstellungen"
+
+# @ virtue
+#~ msgid "Turn on Virtue SEO?"
+#~ msgstr "Virtue SEO einschalten?"
+
+# @ virtue
+#~ msgid ""
+#~ "Choose if you would like to use Virtue Theme SEO options, for full seo "
+#~ "support use a plugin"
+#~ msgstr ""
+#~ "Wählen Sie ob Sie Virtue Theme SEO Option verwenden wollen, für "
+#~ "kompletten SEO Support benutze bitte ein Plugin"
+
+# @ virtue
+#~ msgid "Site Title"
+#~ msgstr "Seitentitel"
+
+# @ virtue
+#~ msgid "Site Description"
+#~ msgstr "Seitenbeschreibung"
+
+# @ virtue
+#~ msgid "Theme Update Import"
+#~ msgstr "Thema Update Import"
+
+# @ virtue
+#~ msgid ""
+#~ "<p class=\"description\">If updating from version 1.7.4 or earlier use "
+#~ "this script to update your theme options.</p>"
+#~ msgstr ""
+#~ "<p class=\"description\">Wenn Sie von Version 1.7.4 oder früher "
+#~ "aktuallisieren, benutze diese Skription um die Themenoptionen zu "
+#~ "aktuallisieren.</p>"
+
+# @ virtue
+#~ msgid "Turn on and save to start script"
+#~ msgstr "Einschalten und speichern um das Skript zu starten"
+
+# @ virtue
+#~ msgid "If using a child theme enter child theme folder"
+#~ msgstr "Wenn Child-Theme verwendet, den Child-Theme Pfad angeben"
+
+# @ woocommerce
+#~ msgid "Cart Totals"
+#~ msgstr "Warenkorb Endsumme"
+
+# @ woocommerce
+#~ msgid "Cart Subtotal"
+#~ msgstr "Warenkorb Zwischensumme"
+
+# @ woocommerce
+#~ msgid "Order Total"
+#~ msgstr "Gesamtbestellung"
+
+# @ woocommerce
+#~ msgid " (taxes estimated for %s)"
+#~ msgstr "(Steuern geschätzt für %s)"
+
+# @ woocommerce
+#~ msgid ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+#~ msgstr ""
+#~ "Hinweis: Versand und Steuern sind geschätzte %s und werden während der "
+#~ "Prüfung auf der Grundlage Ihrer Abrechnung und Versandinformationen "
+#~ "aktualisiert."
+
+# @ woocommerce
+#~ msgid "Product"
+#~ msgstr "Produkt"
+
+# @ woocommerce
+#~ msgid "Price"
+#~ msgstr "Preis"
+
+# @ woocommerce
+#~ msgid "Quantity"
+#~ msgstr "Anzahl"
+
+# @ woocommerce
+#~ msgid "Total"
+#~ msgstr "Gesamt"
+
+# @ woocommerce
+#~ msgid "Remove this item"
+#~ msgstr "Entferne diesen Artikel"
+
+# @ woocommerce
+#~ msgid "Available on backorder"
+#~ msgstr "Erhältlich im Rückstand"
+
+# @ woocommerce
+#~ msgid "Coupon"
+#~ msgstr "Gutschein"
+
+# @ woocommerce
+#~ msgid "Coupon code"
+#~ msgstr "Gutschein-Code"
+
+# @ woocommerce
+#~ msgid "Apply Coupon"
+#~ msgstr "Gutschein einlösen"
+
+# @ woocommerce
+#~ msgid "Update Cart"
+#~ msgstr "Warenkorb aktualisieren"
+
+# @ woocommerce
+#~ msgid "Proceed to Checkout"
+#~ msgstr "Zur Kasse"
+
+# @ woocommerce
+#~ msgid "You may be interested in&hellip;"
+#~ msgstr "Vielleicht für dich interessant&hellip;"
+
+# @ woocommerce
+#~ msgid "Calculate Shipping"
+#~ msgstr "Berechne Lieferkosten"
+
+# @ woocommerce
+#~ msgid "Select a country&hellip;"
+#~ msgstr "Wähle ein Land&hellip;"
+
+# @ woocommerce
+#~ msgid "State / county"
+#~ msgstr "Bundesland"
+
+# @ woocommerce
+#~ msgid "Select a state&hellip;"
+#~ msgstr "Wählen Sie einen Bundesland&hellip;"
+
+# @ woocommerce
+#~ msgid "City"
+#~ msgstr "Stadt"
+
+# @ woocommerce
+#~ msgid "Postcode / Zip"
+#~ msgstr "Postleitzahl"
+
+# @ woocommerce
+#~ msgid "Update Totals"
+#~ msgstr "Endsumme aktualisieren"
+
+# @ woocommerce
+#~ msgid "Cart Discount"
+#~ msgstr "Warenkorb Ermäßigung"
+
+# @ woocommerce
+#~ msgid "[Remove]"
+#~ msgstr "[Entfernen]"
+
+# @ woocommerce
+#~ msgid "Shipping"
+#~ msgstr "Versand"
+
+# @ woocommerce
+#~ msgid "Order Discount"
+#~ msgstr "Ermäßigung"
+
+# @ woocommerce
+#~ msgid "(Includes %s)"
+#~ msgstr "(Beinhaltet %s)"
+
+# @ woocommerce
+#~ msgid ""
+#~ "No shipping methods were found; please recalculate your shipping and "
+#~ "enter your state/county and zip/postcode to ensure there are no other "
+#~ "available methods for your location."
+#~ msgstr ""
+#~ "Keine Liefermöglichkeiten gefunden; bitte berechne die Lieferung und gib "
+#~ "Land/Ort und Postleitzahl an, um sicher zu gehen, dass es keine anderen "
+#~ "Liefermöglichkeiten für Ihren Ort gibt."
+
+# @ woocommerce
+#~ msgid ""
+#~ "Sorry, it seems that there are no available shipping methods for your "
+#~ "location (%s)."
+#~ msgstr ""
+#~ "Leider scheinen keine verfügbaren Liefermöglichkeiten zu existieren für "
+#~ "Ort (%s)."
+
+# @ woocommerce
+#~ msgid ""
+#~ "If you require assistance or wish to make alternate arrangements please "
+#~ "contact us."
+#~ msgstr ""
+#~ "Wenn Sie Unterstützung benötigen oder alternative Modalitäten brauchen, "
+#~ "so kontaktieren Sie uns bitte."
+
+# @ woocommerce
+#~ msgid "Rated %s out of 5"
+#~ msgstr "Bewertet mit %s von 5"
+
+# @ woocommerce
+#~ msgid "out of 5"
+#~ msgstr "von 5"
+
+# @ virtue
+#~ msgid "Related Products"
+#~ msgstr "Ähnliche Produkte"
+
+# @ woocommerce
+#~ msgid "Rated %d out of 5"
+#~ msgstr "Bewertet mit %d von 5"
+
+# @ woocommerce
+#~ msgid "Your comment is awaiting approval"
+#~ msgstr "Dein Kommentar wird geprüft."
+
+# @ woocommerce
+#~ msgid "verified owner"
+#~ msgstr "Verifizierter Käufer"
+
+# @ woocommerce
+#~ msgid "You may also like&hellip;"
+#~ msgstr "Vielleicht mögen Sie auch&hellip;"
+
+# @ virtue
+#~ msgid "It is recomended that you leave this off."
+#~ msgstr "Es ist empfolen diese abgeschalten zu lassen."
+
+# @ virtue
+#~ msgid "Limit to Category (e.g. = Photos)"
+#~ msgstr "Limitiere auf Kategorie (zB: = Photos):"
+
+# @ domain
+#, fuzzy
+#~ msgid ""
+#~ "You have changes that are not saved.  Would you like to save them now?"
+#~ msgstr "Sie haben ungespeicherte Änderungen. Wollen Sie diese speichern?"
+
+# @ domain
+#, fuzzy
+#~ msgid "Are you sure?  Resetting will lose all custom values."
+#~ msgstr ""
+#~ "Sind Sie  sicher? Zurücksetzen wird alle benutzerdefinierte Werte "
+#~ "entfernen."
+
+# @ domain
+#, fuzzy
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset.  "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "Ihre aktuellen Einstellungen werden durch die Standardwerte ersetzt. "
+#~ "Wollen Sie fortsetzen?"
+
+# @ redux-framework
+#~ msgid "Select an Option"
+#~ msgstr "Wähle eine Einstellung"
+
+# @ redux-framework
+#~ msgid "Add Slide"
+#~ msgstr "Slide hinzufügen"
+
+# @ woocommerce
+#~ msgid "%s review for %s"
+#~ msgid_plural "%s reviews for %s"
+#~ msgstr[0] "%s Bewertung von %s"
+#~ msgstr[1] "%s Bewertungen von %s"
+
+# @ woocommerce
+#~ msgid "Reviews"
+#~ msgstr "Bewertungen"
+
+# @ woocommerce
+#~ msgid "There are no reviews yet."
+#~ msgstr "Dieses Produkt wurde noch nicht bewertet."
+
+# @ woocommerce
+#~ msgid "Add a review"
+#~ msgstr "Eine Bewertung erstellen"
+
+# @ woocommerce
+#~ msgid "Be the first to review"
+#~ msgstr "Erstelle die erste Bewertung"
+
+# @ woocommerce
+#~ msgid "Email"
+#~ msgstr "Email"
+
+# @ woocommerce
+#~ msgid "Your Rating"
+#~ msgstr "Deine Wertung"
+
+# @ woocommerce
+#~ msgid "Rate&hellip;"
+#~ msgstr "Wert&hellip;"
+
+# @ woocommerce
+#~ msgid "Perfect"
+#~ msgstr "Perfekt"
+
+# @ woocommerce
+#~ msgid "Good"
+#~ msgstr "Gut"
+
+# @ woocommerce
+#~ msgid "Average"
+#~ msgstr "Durchschnittlich"
+
+# @ woocommerce
+#~ msgid "Not that bad"
+#~ msgstr "Nicht so schlecht"
+
+# @ woocommerce
+#~ msgid "Very Poor"
+#~ msgstr "Nicht gut"
+
+# @ woocommerce
+#~ msgid "Your Review"
+#~ msgstr "Deine Bewertung"
+
+# @ woocommerce
+#~ msgid ""
+#~ "Only logged in customers who have purchased this product may leave a "
+#~ "review."
+#~ msgstr ""
+#~ "Nur angemeldete Kunden, die dieses Produkt gekauft haben dürfen bewerten."
+
+# @ woocommerce
+#~ msgid ""
+#~ "Unfortunately your order cannot be processed as the originating bank/"
+#~ "merchant has declined your transaction."
+#~ msgstr ""
+#~ "Leider kann deine Bestellung nicht bearbeitet werden, weil die Bank/deine "
+#~ "Transaktion abgelehnt hat."
+
+# @ woocommerce
+#~ msgid "Please attempt your purchase again or go to your account page."
+#~ msgstr ""
+#~ "Bitte versuchen Sie Ihren Kauf noch einmal oder gehen Sie auf Ihrer Konto "
+#~ "Seite."
+
+# @ woocommerce
+#~ msgid "Please attempt your purchase again."
+#~ msgstr "Bitte versuchen Sie erneut Ihren Einkauf."
+
+# @ woocommerce
+#~ msgid "Pay"
+#~ msgstr "Zahlen"
+
+# @ woocommerce
+#~ msgid "My Account"
+#~ msgstr "Mein Konto"
+
+# @ woocommerce
+#~ msgid "Thank you. Your order has been received."
+#~ msgstr "Danke. Deine Bestellung wurde übermittelt."
+
+# @ woocommerce
+#~ msgid "Order:"
+#~ msgstr "Bestellung:"
+
+# @ woocommerce
+#~ msgid "Date:"
+#~ msgstr "Datum:"
+
+# @ woocommerce
+#~ msgid "Total:"
+#~ msgstr "Gesamt:"
+
+# @ woocommerce
+#~ msgid "Payment method:"
+#~ msgstr "Zahlungsmethode:"
+
+# @ woocommerce
+#~ msgid "Sort by popularity"
+#~ msgstr "Sortiere nach Popularität"
+
+# @ woocommerce
+#~ msgid "Sort by average rating"
+#~ msgstr "Sortiere nach Bewertung"
+
+# @ woocommerce
+#~ msgid "Sort by newness"
+#~ msgstr "Sortiere nach Aktualität"
+
+# @ woocommerce
+#~ msgid "Sort by price: low to high"
+#~ msgstr "Sortieren nach Preis: aufsteigend"
+
+# @ woocommerce
+#~ msgid "Sort by price: high to low"
+#~ msgstr "Sortieren nach Preis: absteigend"
+
+# @ woocommerce
+#~ msgid "Showing all %d results"
+#~ msgstr "Zeige alle %d Ergebnisse"
+
+# @ woocommerce
+#~ msgid ""
+#~ "To track your order please enter your Order ID in the box below and press "
+#~ "return. This was given to you on your receipt and in the confirmation "
+#~ "email you should have received."
+#~ msgstr ""
+#~ "Zum Verfolgen deiner Bestellung gib bitte deine Bestell-ID in das Feld "
+#~ "unten ein und drücke Enter. Diese steht auf deiner Quittung, die du mit "
+#~ "der Bestätigungs-Email erhalten hast."
+
+# @ woocommerce
+#~ msgid "Order ID"
+#~ msgstr "Bestell-ID"
+
+# @ woocommerce
+#~ msgid "Found in your order confirmation email."
+#~ msgstr "Gefunden in deiner Bestellbestätigungs-EMail."
+
+# @ woocommerce
+#~ msgid "Billing Email"
+#~ msgstr "Abrechnungs Email"
+
+# @ woocommerce
+#~ msgid "Email you used during checkout."
+#~ msgstr "Email, die Sie während des Kaufes verwendet haben."
+
+# @ woocommerce
+#~ msgid "Track"
+#~ msgstr "Verfolgen"
+
+# @ woocommerce
+#~ msgid "Order Details"
+#~ msgstr "Bestelldetails"
+
+# @ woocommerce
+#~ msgid "Download file%s"
+#~ msgstr "Dateien herunterladen%s"
+
+# @ woocommerce
+#~ msgid "Order Again"
+#~ msgstr "Erneut bestellen"
+
+# @ woocommerce
+#~ msgid "Customer details"
+#~ msgstr "Kundendetails"
+
+# @ woocommerce
+#~ msgid "Billing Address"
+#~ msgstr "Rechnungsadresse"
+
+# @ woocommerce
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+# @ woocommerce
+#~ msgid "Shipping Address"
+#~ msgstr "Lieferadresse"
+
+# @ woocommerce
+#~ msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+#~ msgstr ""
+#~ "Bestellung %s welche gemacht wurde %s hat den Status &ldquo;%s&rdquo;"
+
+# @ woocommerce
+#~ msgid "ago"
+#~ msgstr "vor "
+
+# @ woocommerce
+#~ msgid "and was completed"
+#~ msgstr "und wurde fertiggestellt"
+
+# @ woocommerce
+#~ msgid " ago"
+#~ msgstr " vor"
+
+# @ woocommerce
+#~ msgid "Order Updates"
+#~ msgstr "Bestellungsaktualisierungen"
+
+# @ woocommerce
+#~ msgid "Additional Information"
+#~ msgstr "Zusätzliche Information"
+
+# @ woocommerce
+#~ msgid "Product Description"
+#~ msgstr "Produktbeschreibung"
+
+# @ woocommerce
+#~ msgid "Products tagged &ldquo;"
+#~ msgstr "Produkte markiert &ldquo;"
+
+# @ woocommerce
+#~ msgid "Search results for &ldquo;"
+#~ msgstr "Suchergebnis für &ldquo;"
+
+# @ woocommerce
+#~ msgid "Posts tagged &ldquo;"
+#~ msgstr "Beiträge markiert &ldquo;"
+
+# @ woocommerce
+#~ msgid "Author:"
+#~ msgstr "Autor:"
+
+# @ woocommerce
+#~ msgid "Username or email"
+#~ msgstr "Benutzername oder Email"
+
+# @ woocommerce
+#~ msgid "Login"
+#~ msgstr "Login"
+
+# @ woocommerce
+#~ msgid "Lost Password?"
+#~ msgstr "Passwort vergessen?"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Options"
+#~ msgstr "SEO Optionen"
+
+# @ domain
+#, fuzzy
+#~ msgid ""
+#~ "You have changes that are not saved. Would you like to save them now?"
+#~ msgstr "Sie haben ungespeicherte Änderungen. Wollen Sie diese speichern?"
+
+# @ domain
+#, fuzzy
+#~ msgid "Are you sure? Resetting will lose all custom values."
+#~ msgstr ""
+#~ "Sind Sie  sicher? Zurücksetzen wird alle benutzerdefinierte Werte "
+#~ "entfernen."
+
+# @ domain
+#, fuzzy
+#~ msgid "Are you sure? Resetting will lose all custom values in this section."
+#~ msgstr ""
+#~ "Sind Sie  sicher? Zurücksetzen wird alle benutzerdefinierte Werte "
+#~ "entfernen."
+
+# @ domain
+#, fuzzy
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset. "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "Ihre aktuellen Einstellungen werden durch die Standardwerte ersetzt. "
+#~ "Wollen Sie fortsetzen?"
+
+# @ cmb
+#, fuzzy
+#~ msgid "Please Wait"
+#~ msgstr "Bitte nochmals versuchen"
+
+# @ woocommerce
+#, fuzzy
+#~ msgid "Reset Section"
+#~ msgstr "Lösche Auswahl"
+
+# @ virtue
+#, fuzzy
+#~ msgid "error(s) were found!"
+#~ msgstr "Leider wurden keine Ergebnisse gefunden."
+
+# @ virtue
+#, fuzzy
+#~ msgid "warning(s) were found!"
+#~ msgstr "Leider wurden keine Ergebnisse gefunden."
+
+# @ virtue
+#, fuzzy
+#~ msgid "Not Activated"
+#~ msgstr "Aktivieren"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Deactivated"
+#~ msgstr "Aktivieren"
+
+# @ virtue
+#, fuzzy
+#~ msgid "License Status"
+#~ msgstr "Status"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Activate License"
+#~ msgstr "Aktivieren"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "Installiere Plugin: %s"
+#~ msgstr[1] "Installiere Plugin: %s"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Activate installed plugin"
+#~ msgid_plural "Activate installed plugins"
+#~ msgstr[0] "Aktivieren"
+#~ msgstr[1] "Aktivieren"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Options Object"
+#~ msgstr "SEO Optionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Repeat"
+#~ msgstr "Seiten Hintergrund"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Origin"
+#~ msgstr "Seiten Hintergrund"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Size"
+#~ msgstr "Seiten Hintergrund"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Attachment"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Background Position"
+#~ msgstr "Hintergrund Farbe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Bottom"
+#~ msgstr "Unten"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Border style"
+#~ msgstr "Kopf-Still"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Width"
+#~ msgstr "Slider maximale Breite"
+
+# @ virtue
+# @ redux-framework
+#, fuzzy
+#~ msgid "height"
+#~ msgstr "Rechts"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Add"
+#~ msgstr "Adresse"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Import / Export Options"
+#~ msgstr "Portfolio Beitragsoptionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Import Options"
+#~ msgstr "Beitragsoptionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Export Options"
+#~ msgstr "Beitragsoptionen"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Copy Link"
+#~ msgstr "Kein Link "
+
+# @ virtue
+#, fuzzy
+#~ msgid "Active"
+#~ msgstr "Aktivieren"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Add More"
+#~ msgstr "Weiterlesen"
+
+# @ woocommerce
+#, fuzzy
+#~ msgid "Password"
+#~ msgstr "Passwort vergessen?"
+
+# @ woocommerce
+#, fuzzy
+#~ msgid "Username"
+#~ msgstr "Benutzername oder Email"
+
+# @ redux-framework
+#, fuzzy
+#~ msgid "Select an item"
+#~ msgstr "Wähle eine Einstellung"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Standard Fonts"
+#~ msgstr "Standard: von"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Font style"
+#~ msgstr "Symboltstill"
+
+# @ woocommerce
+#, fuzzy
+#~ msgid "Font script"
+#~ msgstr "Produktbeschreibung"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Text Align"
+#~ msgstr "Ausrichtung"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Height"
+#~ msgstr "Kartenhöhe"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Word Spacing"
+#~ msgstr "Abstand oben"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Letter Spacing"
+#~ msgstr "Abstand links"
+
+# @ virtue
+#, fuzzy
+#~ msgid "Font color"
+#~ msgstr "Symbol/Schriftfarbe"
+
+# @ woocommerce
+#, fuzzy
+#~ msgctxt "%1$d = first, %2$d = last, %3$d = total"
+#~ msgid "Showing %1$d–%2$d of %3$d results"
+#~ msgstr "Zeige alle %d Ergebnisse"
