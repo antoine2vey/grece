@@ -7,7 +7,6 @@ function string_limit_words($string, $word_limit)
   return implode(' ', $words);
 }
 
-if ( function_exists('register_sidebar') ) register_sidebar();	
 
 function scripts_js()
 {
@@ -44,7 +43,10 @@ add_filter( 'image_send_to_editor', 'bbx_images', 10 );
 add_filter( 'wp_get_attachment_link', 'bbx_images', 10 );
 
 
+
+
 function excerpt_home(){
+
 $excerpt = get_the_content();
 $excerpt = preg_replace(" (\[.*?\])",'',$excerpt);
 $excerpt = strip_shortcodes($excerpt);
@@ -52,7 +54,7 @@ $excerpt = strip_tags($excerpt);
 $excerpt = substr($excerpt, 0, 190);
 $excerpt = substr($excerpt, 0, strripos($excerpt, " "));
 $excerpt = trim(preg_replace( '/\s+/', ' ', $excerpt));
-$excerpt = $excerpt.'... <a href="'.$permalink.'">more</a>';
+$excerpt = $excerpt.' [...]';
 return $excerpt;
 }
 

@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;  
     font-weight: 300;
+	background-color:red;
 }
 
 a {
@@ -343,6 +344,7 @@ i {
     color: #fff;
 }
 
+
 @media screen and (max-width: 1000px) {
     
     .navbar ul li a {
@@ -382,3 +384,5 @@ i {
         margin: 30px auto;
     }
 }
+
+
