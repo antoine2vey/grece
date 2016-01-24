@@ -7,7 +7,6 @@ function string_limit_words($string, $word_limit)
   return implode(' ', $words);
 }
 
-
 function scripts_js()
 {
     wp_register_script( 'script_js', get_template_directory_uri() . '/js/bootstrap.js', array( 'jquery', 'jquery-ui-core' ), false, true );

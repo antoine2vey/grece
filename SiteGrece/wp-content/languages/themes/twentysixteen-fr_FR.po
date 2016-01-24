@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Twenty Sixteen package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-11-23 09:32:56+0000\n"
+"PO-Revision-Date: 2016-01-13 10:42:07+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -28,7 +28,7 @@ msgstr "Modifier<span class=\"screen-reader-text\"> \"%s\"</span>"
 #. translators: %s: Name of current post
 #: inc/template-tags.php:184 template-parts/content.php:28
 msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
-msgstr "Continuer la lecture de<span class=\"screen-reader-text\"> &laquo;&nbsp;%s&nbsp;&rquo;</span>"
+msgstr "Continuer la lecture<span class=\"screen-reader-text\"> de &laquo;&nbsp;%s&nbsp;&raquo;</span>"
 
 #: inc/customizer.php:246
 msgid "Red"
