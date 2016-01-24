@@ -27,7 +27,7 @@
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-left">
 							<li><a href="#asso">L'association</a></li>
-							<li><a href="<?php echo home_url(); ?>/?page_id=23">Le projet</a></li>
+							<li><a href="<?php echo home_url(); ?>/contact">Le projet</a></li>
 							<li><a href="#galerie">Galerie</a></li>
 							<li><a href="#">Faire un don</a></li>
 						</ul>
