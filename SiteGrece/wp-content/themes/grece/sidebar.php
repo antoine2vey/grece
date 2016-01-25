@@ -1,29 +1,28 @@
 <div class="side">
-	<?php get_search_form(); ?>
-		<ul class="list">
-			<?php wp_get_archives('type=monthly'); ?>
-		</ul>
-		<h4 class="section">Derniers articles</h4>
-		<ul class="list">
-			<?php wp_reset_postdata(); query_posts('posts_per_page=5'); while (have_posts()) : the_post(); ?>
-				<li>
-					<a href="<?php the_permalink(); ?>">
-						<?php the_title(); ?>
-					</a>
-				</li>
-				<li>
-					<?php
-  $excerpt = get_the_excerpt();
-  echo string_limit_words($excerpt,15);
-?> ...
-				</li>
+	<h2 class="section">Les derniers articles</h2>
+	
+		<?php wp_reset_postdata(); query_posts('posts_per_page=5'); while (have_posts()) : the_post(); ?>
+		<ul class="list last-articles">
+		<li>
+			<h4>
+				<a href="<?php the_permalink(); ?>">
+					<?php the_title(); ?>
+				</a>
+			</h4>
+		</li>
+		<li>
+			<?php
+			$excerpt = get_the_excerpt();
+			echo string_limit_words($excerpt,15);
+			?> ...
+		</li>
+</ul>
+	<?php endwhile; ?>
 
-				<?php endwhile; ?>
 
-		</ul>
-		<div class="widget">
-			<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar() ) : ?>
-				<?php dynamic_sidebar(); ?>
-					<?php endif; ?>
-		</div>
+<div class="widget">
+	<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar() ) : ?>
+	<?php dynamic_sidebar(); ?>
+<?php endif; ?>
+</div>
 </div>

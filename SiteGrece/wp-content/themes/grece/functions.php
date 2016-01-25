@@ -32,6 +32,12 @@ add_action( 'wp_enqueue_scripts', 'wp_style' );
 
 
 
+function enqueue_font_awesome() {
+	wp_enqueue_style( 'font-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' );
+
+}
+add_action( 'wp_enqueue_scripts', 'enqueue_font_awesome' );
+
 
 function bbx_images( $html ) { 
 	$html = preg_replace( '/(width|height)="\d*"\s/', "", $html ); 

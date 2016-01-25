@@ -406,6 +406,95 @@ i {
 }
 
 
+
+/** ARTICLES CSS **/
+
+#articles li{
+    list-style-type: none
+}
+
+#articles i{
+    color: #121212;
+}
+
+#articles .infos {
+    font: 300 15px Roboto;
+    margin: 20px 0;
+}
+
+#articles p {
+    text-align: justify;
+}
+
+.last-articles {
+    background-color: #181b21;
+    margin-bottom: 20px;
+    color: white;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.last-articles a{
+    text-decoration: none;
+    color:#fff;
+}
+
+.last-articles h4 {
+    margin-bottom: 10px;
+    text-align: left;
+    color: #fff;
+}
+
+.last-articles p {
+    font: 100 12px Roboto;
+    text-align: justify;
+}
+
+#articles h2 {
+    margin-top: 100px;
+    margin-bottom: 40px;
+    text-align: right;
+}
+
+#articles .btn-primary {
+    background-color: #e74c3c;
+    border-color: #c0392b;
+}
+
+#articles .btn-primary:hover {
+    background-color: #3498db;
+    border-color: #2980b9;
+}
+
+#respond{
+    text-align: left !important;
+    margin: 0 !important;
+    margin-bottom: 15px !important;
+    margin-top: 15px !important;
+}
+#name {
+    font-weight: 700;
+    color: #2980b9;
+}
+
+
+
+#photo-com {
+    float: left;
+    margin-right: 10px;
+}
+
+.commentaire {
+    margin: 40px 0;
+}
+
+#date {
+    opacity: 0.6;
+    font: 500 13px Roboto;
+}
+
+
+
 @media screen and (max-width: 1000px) {
     
     .navbar ul li a {
