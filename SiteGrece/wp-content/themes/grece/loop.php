@@ -4,7 +4,14 @@
 		<?php wp_reset_postdata(); query_posts('posts_per_page=4'); while (have_posts()) : the_post(); ?>
 		<div class="col-md-2 col-sm-8 col-xs-12" id="article">
                 <div class="article_image">
-                    <img src="<?php echo get_template_directory_uri();?>/img/joris.jpg" />
+            <?php
+if ( has_post_thumbnail() ) {
+    echo "<img src='".get_the_post_thumbnail_url()."'/>";
+}
+else {
+   echo '<img src="' . get_template_directory_uri() . '/img/joris.jpg"/>';
+}
+?>               
                 </div>
                 <div class="article_texte">
                     <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
@@ -20,6 +27,7 @@
                     </div>
                 </div>
             </div>
+
 			<?php endwhile; ?>
 				<?php else : ?>
 					<p class="nothing">Aucun article n'est disponible, contactez l'éditeur pour du contenu ! Sinon patientez ;-)</p>
