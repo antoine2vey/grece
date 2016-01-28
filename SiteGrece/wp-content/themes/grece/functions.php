@@ -65,4 +65,11 @@ return $excerpt;
 
 add_theme_support('post-thumbnails',array('post'));
 
+
+
+function texte_commentaire($comment){
+	return "<span class='texte_commentaire'>".$comment."</span>";
+}
+add_filter('comment_text', 'texte_commentaire',1000);
+
 ?>

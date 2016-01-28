@@ -397,12 +397,15 @@ i {
 }
 
 .post-content{
-    margin:20px;
     text-align: justify;
 }
 
 .post-content i,.post-info i{
     color:#000;
+}
+
+.form-group label{
+    margin-bottom: 5px
 }
 
 
@@ -443,6 +446,11 @@ i {
     margin-bottom: 10px;
     text-align: left;
     color: #fff;
+    border-bottom:2px solid #fff;
+}
+
+.last-article h4 a:hover{
+    cursor:pointer;
 }
 
 .last-articles p {
@@ -493,6 +501,24 @@ i {
     font: 500 13px Roboto;
 }
 
+.logged{
+margin-bottom:10px;}
+
+.cadre_commentaires #comments{
+    margin:20px 0;
+}
+
+.title_subject_commentaire{
+    color:red;
+}
+
+.commentmetadata p{
+    display:inline-block;
+}
+
+.commentmetadata strong{
+    color:#2980b9;
+}
 
 
 @media screen and (max-width: 1000px) {

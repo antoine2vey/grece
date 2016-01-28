@@ -14,7 +14,7 @@
 					</div>
 
 					<p class="infos post-info">
-						<i class="fa fa-clock-o"></i><?php the_date(); ?> / <i class="fa fa-user"></i> <?php the_author(); ?>
+						<i class="fa fa-clock-o"></i><?php the_date(); ?> / <i class="fa fa-user"></i> <?php the_author(); ?> // <?php the_category(); ?>
 					</p>
 
 					<div class="post-comments">

@@ -37,7 +37,7 @@
 									<?php get_search_form(); ?>
 								</form>
 							</li>
-							<li><a href="#">S'identifier</a></li>
+							<li><a href="<?php echo home_url();?>/wp-login.php">S'identifier</a></li>
 							<li>
 								<input type="button" value="S'inscrire" />
 							</li>
