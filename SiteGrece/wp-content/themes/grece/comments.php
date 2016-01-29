@@ -71,7 +71,7 @@ $oddcomment = 'alt';
 	<li class="<?php echo $oddcomment; ?>" id="comment-<?php comment_ID() ?>">
 
 <div class="commentmetadata">
-<strong><?php comment_author_link() ?></strong><?php comment_text() ?><?php _e(' -'); ?> <a href="#comment-<?php comment_ID() ?>" title=""><?php comment_date('j F Y') ?> <?php _e('&agrave;');?> <?php comment_time() ?></a><?php edit_comment_link('Editer le commentaire'); ?>
+<strong><?php comment_author_link() ?></strong><?php echo get_comment_text() ?><?php _e(' -'); ?> <a href="#comment-<?php comment_ID() ?>" title=""><?php comment_date('j F Y') ?> <?php _e('&agrave;');?> <?php comment_time() ?></a><?php edit_comment_link('Editer le commentaire'); ?>
  		<?php if ($comment->comment_approved == '0') : ?>
 		<em><?php _e('Votre commentaire est en cours de mod&eacute;ration'); ?></em>
  		<?php endif; ?>
