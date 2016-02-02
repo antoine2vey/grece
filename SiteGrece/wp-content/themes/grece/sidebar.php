@@ -1,5 +1,5 @@
 <div class="side">
-	<h2 class="section">Les derniers articles</h2>
+	<h2 class="section title-header">Les derniers articles</h2>
 	
 		<?php wp_reset_postdata(); query_posts('posts_per_page=5'); while (have_posts()) : the_post(); ?>
 		<ul class="list last-articles">
