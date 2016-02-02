@@ -1,8 +1,12 @@
-<div class="row">
+<div class="row article-index">
 <div class="col-md-2"></div>
+
+
 	<?php if (have_posts()) : ?>
 		<?php wp_reset_postdata(); query_posts('posts_per_page=4'); while (have_posts()) : the_post(); ?>
-		<div class="col-md-2 col-sm-8 col-xs-12" id="article">
+
+
+		<div class="col-md-2 col-xs-12" id="article">
                 <div class="article_image">
             <?php
 if ( has_post_thumbnail() ) {
@@ -30,8 +34,11 @@ else {
 
 			<?php endwhile; ?>
 				<?php else : ?>
+
+
 					<p class="nothing">Aucun article n'est disponible, contactez l'éditeur pour du contenu ! Sinon patientez ;-)</p>
-					<?php endif; ?>
-						<div class="col-md-2"></div>
+
+				<?php endif; ?>
+
 </div>
 </section>

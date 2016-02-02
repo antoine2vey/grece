@@ -1,10 +1,6 @@
 <?php
 /**
  * The template for displaying 404 pages (not found)
- *
- * @package WordPress
- * @subpackage Twenty_Fifteen
- * @since Twenty Fifteen 1.0
  */
 
 get_header(); ?>
@@ -14,7 +10,7 @@ get_header(); ?>
 
 			<section class="error-404 not-found">
 					<div class="page-header col s12">
-						<h1 class="page-title"><?php _e( 'Il semblerait que vous êtes perdu.', 'grece' ); ?></h1>
+						<h1 class="page-title">Il semblerait que vous êtes perdu</h1>
 					</div>
 					<div class="page-content col s12" style="text-align:center">
 						<p>

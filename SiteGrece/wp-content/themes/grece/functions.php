@@ -26,7 +26,6 @@ function wp_style()
     wp_enqueue_style( 'animate');
 	wp_register_style( 'reset', get_template_directory_uri() . '/css/reset.css', array(), false, 'screen' );
     wp_enqueue_style( 'reset');
-	
 }
 add_action( 'wp_enqueue_scripts', 'wp_style' );
 
@@ -71,5 +70,27 @@ function texte_commentaire($comment){
 	return "<span class='texte_commentaire'>".$comment."</span>";
 }
 add_filter('comment_text', 'texte_commentaire',1000);
+
+$now   = time();
+$date2 = strtotime('2012-08-14 16:01:05');
+ 
+function dateDiff($date1, $date2){
+    $diff = abs($date1 - $date2);
+    $retour = array();
+ 
+    $tmp = $diff;
+    $retour['second'] = $tmp % 60;
+ 
+    $tmp = floor( ($tmp - $retour['second']) /60 );
+    $retour['minute'] = $tmp % 60;
+ 
+    $tmp = floor( ($tmp - $retour['minute'])/60 );
+    $retour['hour'] = $tmp % 24;
+ 
+    $tmp = floor( ($tmp - $retour['hour'])  /24 );
+    $retour['day'] = $tmp;
+ 
+    return $retour;
+}
 
 ?>

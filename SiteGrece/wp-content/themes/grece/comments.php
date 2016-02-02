@@ -53,6 +53,7 @@ if (!empty($post->post_password)) { // if there's a password
 	}
 }
 
+
 	/* This variable is for alternating comment background */
 
 $oddcomment = 'alt';
@@ -63,15 +64,13 @@ $oddcomment = 'alt';
 
 <div class="cadre_commentaires">
 <?php if ($comments) : ?>
-	<h3 id="comments"><?php comments_number('Pas de commentaire', 'Un commentaire', '% commentaires' );?> pour <span class="title_subject_commentaire">&#8220;<?php the_title(); ?>&#8221;</span></h3>
-
 <ol class="commentlist">
 <?php foreach ($comments as $comment) : ?>
 
 	<li class="<?php echo $oddcomment; ?>" id="comment-<?php comment_ID() ?>">
 
 <div class="commentmetadata">
-<strong><?php comment_author_link() ?></strong><?php echo get_comment_text() ?><?php _e(' -'); ?> <a href="#comment-<?php comment_ID() ?>" title=""><?php comment_date('j F Y') ?> <?php _e('&agrave;');?> <?php comment_time() ?></a><?php edit_comment_link('Editer le commentaire'); ?>
+<strong><?php comment_author_link() ?></strong><span class="text-comment"><?php echo get_comment_text() ?></span><span class="comment-date"><?php _e(' -'); ?> <?php comment_date('j F Y') ?> <?php _e('&agrave;');?> <?php comment_time() ?></span> <?php edit_comment_link(' - Editer le commentaire'); ?>
  		<?php if ($comment->comment_approved == '0') : ?>
 		<em><?php _e('Votre commentaire est en cours de mod&eacute;ration'); ?></em>
  		<?php endif; ?>
