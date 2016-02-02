@@ -471,10 +471,12 @@ i {
 	background-color: #fff;
 	padding: 30px;
 	margin-bottom: 25px;
+	border-radius:3px
 }
 
 #articles .content,
 .last-articles {
+	border-radius:3px;
 	box-shadow: rgba(0, 0, 0, 0.156863) 0px 5px 10px 0px, rgba(0, 0, 0, 0.117647) 0px 2px 10px 0px;
 	transition: .2s ease
 }

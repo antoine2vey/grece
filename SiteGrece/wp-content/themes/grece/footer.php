@@ -5,10 +5,10 @@
             </div>
             <div class="col-md-6">
                 <h5 class="right">
-                    <a href="#asso">L'association</a> /
-                    <a href="#projet">Le projet</a> /
-                    <a href="#galerie">Galerie</a> /
-                    <a href="#">Faire un don</a>
+                    <a href="<?php echo home_url()?>/#asso">L'association</a> /
+                    <a href="<?php echo home_url()?>/projet">Le projet</a> /
+                    <a href="<?php echo home_url()?>/#galerie">Galerie</a> /
+                    <a href="#">Faire un don.</a>
                 </h5>
             </div>
         </div>
