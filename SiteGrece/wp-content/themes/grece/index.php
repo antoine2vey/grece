@@ -25,19 +25,19 @@
 		<div class="row character">
 			<div class="col-md-2 col-sm-4 col-xs-12 col-md-offset-3">
 				<div class="photo_acteur">
-					<img src="<?php echo get_template_directory_uri();?>/img/Greece.png" />
+					<img src="<?php echo get_template_directory_uri();?>/img/joris.jpg" />
 				</div>
 				<h2>Clément <span class="bold">Viseur</span></h2>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-12">
 				<div class="photo_acteur">
-					<img src="<?php echo get_template_directory_uri();?>/img/Greece.png" />
+					<img src="<?php echo get_template_directory_uri();?>/img/joris.jpg" />
 				</div>
 				<h2>Rodolphe <span class="bold">Herbaut</span></h2>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-12">
 				<div class="photo_acteur">
-					<img src="<?php echo get_template_directory_uri();?>/img/Greece.png" />
+					<img src="<?php echo get_template_directory_uri();?>/img/joris.jpg" />
 				</div>
 				<h2>Qui <span class="bold">suis-je</span></h2>
 			</div>

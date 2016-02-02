@@ -13,7 +13,7 @@ function scripts_js()
 	wp_register_script( 'hyphenate', get_template_directory_uri() . '/js/hyphenate.js', array( 'jquery', 'jquery-ui-core' ), false, true );
 	wp_register_script( 'wow', get_template_directory_uri() . '/js/wow.min.js', array( 'jquery', 'jquery-ui-core' ), false, true );
     wp_enqueue_script( 'script_js' );
-//	wp_enqueue_script('hyphenate');
+	wp_enqueue_script('hyphenate');
 	wp_enqueue_script('wow');
 }
 add_action( 'wp_enqueue_scripts', 'scripts_js' );

@@ -1,6 +1,7 @@
 <?php if ('open' == $post->comment_status) : ?>
 
-		<h2 id="respond">Laissez un commentaire :</h2>
+		<h2 id="respond">Laissez un commentaire</h2>
+		<div class="underline"></div>
 
 <?php if ( get_option('comment_registration') && !$user_ID ) : ?>
 <p>You must be <a href="<?php echo get_option('siteurl'); ?>/wp-login.php?redirect_to=<?php the_permalink(); ?>">connect&eacute;</a> pour laisser un commentaire.</p>
@@ -10,7 +11,7 @@
 <form action="<?php echo get_option('siteurl'); ?>/wp-comments-post.php" method="post" id="commentform" role="form">
 <?php if ( $user_ID ) : ?>
 
-<p class="logged">Logged in as <a href="<?php echo get_option('siteurl'); ?>/wp-admin/profile.php"><?php echo $user_identity; ?></a>. <a href="<?php echo get_option('siteurl'); ?>/wp-login.php?action=logout" title="D&eacute;connect&eacute; de ce compte">D&eacute;connection &raquo;</a></p>
+<p class="logged">Connecté en tant que <a href="<?php echo get_option('siteurl'); ?>/wp-admin/profile.php"><?php echo $user_identity; ?></a>. <a href="<?php echo get_option('siteurl'); ?>/wp-login.php?action=logout" title="D&eacute;connect&eacute; de ce compte">Déconnexion</a></p>
 
 <?php else : ?>
 	<div class="form-group">
@@ -70,7 +71,7 @@ $oddcomment = 'alt';
 	<li class="<?php echo $oddcomment; ?>" id="comment-<?php comment_ID() ?>">
 
 <div class="commentmetadata">
-<strong><?php comment_author_link() ?></strong><span class="text-comment"><?php echo get_comment_text() ?></span><span class="comment-date"><?php _e(' -'); ?> <?php comment_date('j F Y') ?> <?php _e('&agrave;');?> <?php comment_time() ?></span> <?php edit_comment_link(' - Editer le commentaire'); ?>
+<strong><?php comment_author_link() ?></strong><span class="text-comment hyphenate"><?php echo get_comment_text() ?></span><span class="comment-date"><?php _e(' -'); ?> <?php comment_date('j F Y') ?> <?php _e('&agrave;');?> <?php comment_time() ?></span> <?php edit_comment_link(' - Editer le commentaire'); ?>
  		<?php if ($comment->comment_approved == '0') : ?>
 		<em><?php _e('Votre commentaire est en cours de mod&eacute;ration'); ?></em>
  		<?php endif; ?>

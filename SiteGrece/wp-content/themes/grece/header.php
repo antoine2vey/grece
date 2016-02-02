@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 
 <head <?php language_attributes(); ?>>
 	<meta charset="<?php bloginfo('charset'); ?>">
@@ -7,6 +7,7 @@
 		<?php bloginfo('title'); ?>
 	</title>
 	<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,100' rel='stylesheet' type='text/css'>
 	<?php wp_head(); ?>
 		<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css">
 </head>
@@ -27,8 +28,8 @@
 					</div>
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-left">
-							<li><a href="#asso">L'association</a></li>
-							<li><a href="<?php echo home_url(); ?>/contact">Le projet</a></li>
+							<li><a href="<?php echo home_url();?>/#asso">L'association</a></li>
+							<li><a href="<?php echo home_url(); ?>/projet">Le projet</a></li>
 							<li><a href="#galerie">Galerie</a></li>
 							<li><a href="#">Faire un don</a></li>
 						</ul>
