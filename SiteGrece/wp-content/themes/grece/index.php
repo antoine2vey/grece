@@ -1,6 +1,6 @@
-<main class="index">
-	<?php get_header(); ?>
 
+	<?php get_header(); ?>
+<main class="index">
 	<div class="hero">
 		<img src="<?php echo get_template_directory_uri();?>/img/hospital.png" />
 		<span class="text-hero">Projet humanitaire<br/><p class="roboto">pour la Grèce</p></span>
