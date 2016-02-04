@@ -122,9 +122,8 @@ body {
 	border-color: #f39c12;
 }
 
-.hero img {
-	width: 100%;
-	height: auto;
+.hero{
+	position: relative;
 }
 
 .hero span {
@@ -138,6 +137,7 @@ body {
 	font-size: 6.5em
 }
 
+
 .roboto {
 	font-family: 'Roboto';
 	font-size: .4em
@@ -145,6 +145,8 @@ body {
 
 .hero img {
 	-webkit-filter: brightness(.8);
+	width: 100%;
+	height: auto;
 }
 
 #header h1 {
@@ -187,6 +189,8 @@ h1 {
 	margin-bottom: 10px;
 	margin-top: 100px;
 }
+
+
 
 .underline {
 	height: 5px;
@@ -445,6 +449,10 @@ i {
 	font: 400 1.2em Roboto;
 }
 
+.post-title {
+	margin-top:0;
+}
+
 .post-content {
 	text-align: justify;
 	line-height: 1.444444
@@ -467,7 +475,14 @@ i {
 
 /** ARTICLES CSS **/
 
-#articles .content {
+.category .title-header{
+	text-align: left
+}
+
+
+
+#articles .content,
+.category-content{
 	background-color: #fff;
 	padding: 30px;
 	margin-bottom: 25px;
@@ -475,7 +490,8 @@ i {
 }
 
 #articles .content,
-.last-articles {
+.last-articles,
+.category-content {
 	border-radius:3px;
 	box-shadow: rgba(0, 0, 0, 0.156863) 0px 5px 10px 0px, rgba(0, 0, 0, 0.117647) 0px 2px 10px 0px;
 	transition: .2s ease
@@ -485,7 +501,16 @@ i {
 	box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
-#articles h1 {
+.category-content h2{
+	color: #e74c3c;
+	margin-top: 0px;
+	font: 900 20px Roboto;
+	text-align: left;
+	text-decoration: none
+}
+
+#articles h1,
+ {
 	color: #e74c3c;
 	margin-top: 0px;
 	font: 900 40px Roboto;
@@ -624,6 +649,10 @@ i {
 	color: red;
 }
 
+.index{
+	background-color:#fff;
+}
+
 .commentmetadata {
 	margin: 10px 0;
 	line-height: 1.24;
@@ -698,6 +727,15 @@ i {
 	#articles h2 {
 		text-align: center;
 	}
+	.hero span {
+		font-size:4em;
+		text-align: center;
+	}
 }
 
-@media screen and (max-width:767px) {}
+@media screen and (max-width:767px) {
+	.hero span {
+		font-size:2em;
+		text-align: center;
+	}
+}

@@ -1,4 +1,6 @@
-<?php get_header(); ?>
+<main class="index">
+	<?php get_header(); ?>
+
 	<div class="hero">
 		<img src="<?php echo get_template_directory_uri();?>/img/hospital.png" />
 		<span class="text-hero">Projet humanitaire<br/><p class="roboto">pour la Grèce</p></span>
@@ -131,4 +133,5 @@
 			<div class="col-md-2 col-sm-2 col-xs-1"></div>
 		</div>
 		<?php get_template_part('loop');?>
-			<?php get_footer(); ?>
+		<?php get_footer(); ?>
+	</main>

@@ -6,7 +6,7 @@
 		<?php wp_reset_postdata(); query_posts('posts_per_page=4'); while (have_posts()) : the_post(); ?>
 
 
-		<div class="col-md-2 col-xs-12" id="article">
+		<div class="col-md-2 col-sm-6 col-xs-12" id="article">
                 <div class="article_image">
             <?php
 if ( has_post_thumbnail() ) {
