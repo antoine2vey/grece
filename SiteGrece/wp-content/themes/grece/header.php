@@ -19,14 +19,14 @@
 					<div id="logo"><a href="<?php echo home_url(); ?>"><img src="<?php echo get_template_directory_uri();?>/img/logo.png"/></a></div>
 
 					<div class="navbar-header">
-						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#toggle">
 							<span class="sr-only">Toggle navigation</span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
 					</div>
-					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<div class="collapse navbar-collapse" id="toggle">
 						<ul class="nav navbar-nav navbar-left">
 							<li><a href="<?php echo home_url();?>/#asso">L'association</a></li>
 							<li><a href="<?php echo home_url(); ?>/projet">Le projet</a></li>
@@ -35,14 +35,14 @@
 						</ul>
 						<ul class="nav navbar-nav navbar-right hidden-xs hidden-sm">
 							<li>
-								<form action="#" method="POST">
+								<form action="#" method="POST" class="search">
 									<?php get_search_form(); ?>
 								</form>
 							</li>
 							<li><a href="<?php echo home_url();?>/wp-login.php">S'identifier</a></li>
 							<li>
 
-                                <a href="<?php echo home_url();?>/wp-login.php"><button class="btn btn-danger">S'inscrire</button></a>
+                                <a href="<?php echo home_url();?>/wp-login.php" class="inscription"><button class="btn btn-danger">S'inscrire</button></a>
 							</li>
 						</ul>
 					</div>

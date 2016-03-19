@@ -78,6 +78,8 @@ $oddcomment = 'alt';
 </div>
 	</li>
 
+    <div class="underline"></div>
+
 <?php /* Changes every other comment to a different class */
 	if ('alt' == $oddcomment) $oddcomment = '';
 	else $oddcomment = 'alt';

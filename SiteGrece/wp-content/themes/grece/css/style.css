@@ -1,14 +1,15 @@
 body {
-    font-family: 'Roboto', sans-serif;  
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
-	background-color:red;
+    overflow-x: hidden;
+    background-color: #ecf0f1;
 }
 
-a {
+#header a {
     color: #fff;
 }
 
-a:hover {
+#header a:hover {
     color: #e74c3c;
     text-decoration: none;
 }
@@ -16,7 +17,7 @@ a:hover {
 .navbar {
     background-color: #121212;
     text-transform: uppercase;
-    height: 70px;
+    min-height: 8vh;
 }
 
 .navbar-toggle {
@@ -48,10 +49,42 @@ a:hover {
     margin-top: 20px;
     padding: 0 10px;
     color: white;
+    transition: .2s ease
 }
 
 .navbar input[type="button"]:hover {
     background-color: #c0392b;
+}
+
+.navbar .inscription {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+input[name="s"]::-webkit-input-placeholder::before {
+    font-family: fontAwesome;
+    content: '\f002  ';
+    color: #69f
+}
+
+input[name="s"]::-moz-placeholder::before {
+    font-family: fontAwesome;
+    content: '\f002  ';
+    color: #69f
+}
+
+/* firefox 19+ */
+input[name="s"]:-ms-input-placeholder::before {
+    font-family: fontAwesome;
+    content: '\f002  ';
+    color: #69f
+}
+
+/* ie */
+input[name="s"]:-moz-placeholder::before {
+    font-family: fontAwesome;
+    content: '\f002  ';
+    color: #69f
 }
 
 #logo {
@@ -76,7 +109,8 @@ a:hover {
 }
 
 .navbar ul li a {
-    color: rgba(255,255,255,0.6);
+    transition: .2s ease-in-out;
+    color: rgba(255, 255, 255, 0.6);
     padding: 10px;
     padding-top: 22px;
     font: 300 15px Roboto;
@@ -84,23 +118,45 @@ a:hover {
     cursor: pointer;
 }
 
-.navbar ul li a:hover{
+.navbar ul li a:hover {
     border: 0;
     color: #fff;
     border-top: 4px solid #c0392b;
     background-color: transparent;
 }
 
-.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus,
+.nav .open > a:active {
     background-color: transparent;
     border-color: #f39c12;
 }
 
-#header {
-    background: url(../images/Greece.png) no-repeat fixed center center;
-    background-size: cover;
+.hero {
+    position: relative;
+}
+
+.hero span {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-family: 'Pacifico', 'cursive';
+    font-size: 6.5em
+}
+
+.roboto {
+    font-family: 'Roboto';
+    font-size: .4em
+}
+
+.hero img {
+    -webkit-filter: brightness(.8);
     width: 100%;
-    height: 670px;
+    height: auto;
 }
 
 #header h1 {
@@ -111,7 +167,7 @@ a:hover {
 }
 
 #footer {
-    height: 54px;
+    min-height: 7vh;
     background-color: #001112;
     width: 100%;
 }
@@ -121,6 +177,12 @@ a:hover {
     font: 100 12px Roboto;
     text-transform: uppercase;
     margin-top: 20px;
+}
+
+#footer .right a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1em
 }
 
 #asso {
@@ -153,7 +215,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.photo {
+.photo_acteur {
     height: 120px;
     width: 120px;
     margin: 15px auto;
@@ -161,8 +223,14 @@ h1 {
     overflow: hidden;
 }
 
-.photo img {
+.photo_acteur img {
     height: 120px;
+}
+
+.photo {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
 }
 
 h2 {
@@ -179,6 +247,10 @@ h2 {
 #projet {
     width: 100%;
     margin-top: 40px;
+}
+
+#projet h4 {
+    color: #fff
 }
 
 #montant-recolte {
@@ -219,13 +291,13 @@ h2 {
 }
 
 #box {
-    background: url(../images/decor_projet.png) no-repeat right top;
+    background: url(../img/decor_projet.png) no-repeat right top;
     background-size: 90% auto;
     height: 950px;
 }
 
 #decor {
-    width: 60%;
+    width: 240px;
     position: absolute;
 }
 
@@ -235,15 +307,24 @@ h2 {
     margin-top: 500px;
 }
 
-#in-box {
-    margin-top:200px;
-    width: 250px;
-    margin-left: 150px;
-    display: block;
+@media screen and (min-width: 992px) {
+    #in-box {
+        width: 250px;
+        top: 50%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, -50%);
+        margin-left: 50px;
+        display: block;
+    }
 }
 
 #in-box div {
     text-align: center;
+}
+
+#in-box a {
+    text-decoration: none
 }
 
 .left {
@@ -275,6 +356,7 @@ h4 {
     padding: 10px;
     color: #ffffff;
     font: 700 20px Roboto;
+    transition: .2s ease
 }
 
 #button:hover {
@@ -297,6 +379,11 @@ h4 {
     overflow: hidden;
 }
 
+.article_image img {
+    height: auto;
+    width: 110%;
+}
+
 .article_auteur {
     min-height: 54px;
     background-color: #c0392b;
@@ -306,7 +393,7 @@ h4 {
 }
 
 .article_texte {
-    min-height: 80px;
+    min-height: 120px;
     background-color: #eaeaea;
     padding: 11px;
 }
@@ -344,11 +431,264 @@ i {
     color: #fff;
 }
 
+#contact .btn-primary {
+    background-color: #e74c3c;
+    border-color: #c0392b;
+    transition: .1s ease
+}
 
-@media screen and (max-width: 1000px) {
-    
+#contact .btn-primary:hover {
+    background-color: #3498db;
+    border-color: #2980b9;
+}
+
+#contact {
+    width: 100%;
+    height: 81.5vh;
+    overflow: hidden;
+    position: relative;
+}
+
+#contact .container {
+    height: 100vh;
+}
+
+.post-info {
+    font: 400 1.2em Roboto;
+}
+
+.post-title {
+    color: #e74c3c;
+    margin-top: 0;
+}
+
+.post-content {
+    text-align: justify;
+    line-height: 1.444444
+}
+
+.post-content i,
+.post-info i {
+    color: #000;
+}
+
+.form-group label {
+    margin-bottom: 5px
+}
+
+.comment-date {
+    color: #d3d3d3;
+}
+
+/** ARTICLES CSS **/
+
+.category .title-header {
+    text-align: left
+}
+
+#articles .content,
+.category-content {
+    background-color: #fff;
+    padding: 30px;
+    margin-bottom: 25px;
+    border-radius: 3px
+}
+
+#articles .content,
+.last-articles,
+.category-content {
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.156863) 0px 5px 10px 0px, rgba(0, 0, 0, 0.117647) 0px 2px 10px 0px;
+    transition: .2s ease
+}
+
+.last-articles:hover {
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.category-content h2 {
+    color: #e74c3c;
+    margin-top: 0px;
+    font: 900 20px Roboto;
+    text-align: left;
+    text-decoration: none
+}
+
+#articles h1,
+{
+    color: #e74c3c;
+    margin-top: 0px;
+    font: 900 40px Roboto;
+}
+
+#articles .underline {
+    height: 1px;
+    width: 100%;
+    background-color: #ecf0f1;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+.title-header {
+    font: 500 1.5em Roboto;
+    color: #3498db;
+    margin-top: 100px;
+    margin-bottom: 25px;
+    display: block;
+}
+
+.side li {
+    list-style-type: none
+}
+
+.single h5 {
+    color: #000;
+    font: 300 15px 'Roboto';
+    text-transform: none
+}
+
+#articles i {
+    color: #121212;
+}
+
+#articles .infos {
+    font: 300 15px Roboto;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#articles p {
+    text-align: justify;
+}
+
+.commentlist {
+    list-style-type: none;
+}
+
+.last-articles {
+    background-color: #fff;
+    margin-bottom: 20px;
+    color: #121212;
+    padding: 20px;
+}
+
+.last-articles a {
+    text-decoration: none;
+    color: #121212;
+}
+
+.last-articles h4 {
+    margin-bottom: 10px;
+    text-align: left;
+    color: #121212;
+    font-weight: 700;
+}
+
+.last-article h4 a:hover {
+    cursor: pointer;
+}
+
+.last-articles p {
+    font: 100 12px Roboto;
+    text-align: justify;
+}
+
+#articles h2 {
+    margin-top: 100px;
+    margin-bottom: 25px;
+    text-align: right;
+}
+
+#articles .btn-primary {
+    background-color: #e74c3c;
+    border-color: #c0392b;
+}
+
+#articles .btn-primary:hover {
+    background-color: #3498db;
+    border-color: #2980b9;
+}
+
+#respond {
+    text-align: left !important;
+    margin: 0 !important;
+    margin-bottom: 15px !important;
+    margin-top: 15px !important;
+    font-weight: 700;
+}
+
+#name {
+    font-weight: 700;
+    color: #2980b9;
+}
+
+#photo-com {
+    float: left;
+    margin-right: 10px;
+}
+
+.commentaire {
+    margin: 40px 0;
+}
+
+#date {
+    opacity: 0.6;
+    font: 500 13px Roboto;
+}
+
+.logged {
+    margin-bottom: 10px;
+}
+
+.cadre_commentaires #comments {
+    margin: 20px 0;
+}
+
+@media screen and (min-width: 992px) {
+    .cadre_commentaires {
+        margin-bottom: 50px
+    }
+}
+
+.title_subject_commentaire {
+    color: red;
+}
+
+.index {
+    background-color: #fff;
+}
+
+.commentmetadata {
+    margin: 10px 0;
+    line-height: 1.24;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.commentmetadata p {
+    display: inline-block;
+}
+
+.commentmetadata strong {
+    color: #2980b9;
+    margin-right: 10px
+}
+
+.error-img {
+    text-align: center;
+}
+
+.error-img img {
+    width: 50%
+}
+
+.error-404 h2 {
+    margin-top: 5vh
+}
+
+@media screen and (max-width: 992px) {
     .navbar ul li a {
-        color: rgba(255,255,255,0.6);
+        color: rgba(255, 255, 255, 0.6);
         padding: 10px;
         padding-top: 22px;
         font: 300 15px Roboto;
@@ -356,33 +696,177 @@ i {
         background-color: #121212;
     }
 
-    .navbar ul li a:hover{
+    .navbar ul li a:hover {
         color: #fff;
         background-color: #121212;
         border-color: transparent;
     }
-    
+
     #box {
         background: #121212;
         height: auto;
         margin-top: 20px;
     }
-    
+
     #in-box {
+        margin-top: 200px;
+        width: 250px;
+        margin-left: 150px;
+        display: block;
         margin: 50px auto;
     }
-    
+
     #galerie {
         margin-top: 0;
     }
-    
+
     #project {
         padding-right: 15px;
     }
-    
+
     #article {
-        margin: 30px auto;
+    }
+
+    .character {
+        margin: 0 50px;
+    }
+
+    .article-index {
+        margin: 50px
+    }
+
+    .article-index #article {
+        margin-bottom: 40px
+    }
+
+    #articles h2 {
+        text-align: center;
+    }
+
+    .hero span {
+        font-size: 4em;
+        text-align: center;
+    }
+
+    #asso,#galerie{
+        padding-bottom: 0;
+    }
+
+    #asso h1,#projet h1,#galerie h1{
+        margin-top:30px
+    }
+
+    .post-title{
+        margin-top:60px;
+        font-size:40px
+    }
+
+    .title-header{
+        margin-top:60px
+    }
+
+    .side h2{
+        margin-top:40px !important
+    }
+
+    .post-title{
+        margin-top:0
     }
 }
 
+@media screen and (max-width: 767px) {
+    .hero span {
+        font-size: 2em;
+        text-align: center;
+    }
 
+    #logo {
+        height: 60px;
+        width: 60px;
+        margin-left: -30px;
+        margin-top: 20px;
+    }
+
+    #logo img {
+        height: 30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin: 0
+    }
+
+    #asso h1 {
+        font-size: 40px
+    }
+
+    #asso {
+        padding-bottom: 0
+    }
+
+    #projet h1,
+    #galerie h1,
+    .title-header,
+    .side h2{
+        margin-top: 30px !important
+    }
+
+    #galerie {
+        padding-bottom: 0
+    }
+
+    .page h1 {
+        font-size: 22px;
+        margin-top: 40px
+    }
+
+    .content h1 {
+        font-size: 25px;
+    }
+}
+    .post-content blockquote {
+        background: #f9f9f9;
+        border-left: 10px solid #ccc;
+        margin: 1.5em 10px;
+        padding: 0.5em 10px;
+        quotes: "\201C" "\201D" "\2018" "\2019";
+    }
+
+    .post-content blockquote:before {
+        color: #ccc;
+        content: open-quote;
+        font-size: 4em;
+        line-height: 0.1em;
+        margin-right: 0.25em;
+        vertical-align: -0.4em;
+    }
+
+    .post-content blockquote p {
+        display: inline;
+    }
+
+    .post-content li {
+        margin: 2px 0
+    }
+
+    .post-content ul {
+        list-style-type: disc;
+        list-style-position: inside;
+    }
+
+    .post-content ol {
+        list-style-type: decimal;
+        list-style-position: inside;
+    }
+
+    .post-content ul ul, ol ul {
+        list-style-type: circle;
+        list-style-position: inside;
+        margin-left: 15px;
+    }
+
+    .post-content ol ol, ul ol {
+        list-style-type: lower-latin;
+        list-style-position: inside;
+        margin-left: 15px;
+    }

@@ -23,12 +23,15 @@ add_action('wp_enqueue_scripts', 'scripts_js');
 
 function wp_style()
 {
+
     wp_register_style('bootstrap', get_template_directory_uri() . '/css/bootstrap.css', array(), false, 'screen');
     wp_enqueue_style('bootstrap');
     wp_register_style('animate', get_template_directory_uri() . '/css/animate.css', array(), false, 'screen');
     wp_enqueue_style('animate');
     wp_register_style('reset', get_template_directory_uri() . '/css/reset.css', array(), false, 'screen');
     wp_enqueue_style('reset');
+    wp_register_style('basic_style', get_template_directory_uri() . '/css/style.css', array(), false, 'screen');
+    wp_enqueue_style('basic_style');
 }
 
 add_action('wp_enqueue_scripts', 'wp_style');
@@ -77,29 +80,6 @@ function texte_commentaire($comment)
 }
 
 add_filter('comment_text', 'texte_commentaire', 1000);
-
-$now = time();
-$date2 = strtotime('2012-08-14 16:01:05');
-
-function dateDiff($date1, $date2)
-{
-    $diff = abs($date1 - $date2);
-    $retour = array();
-
-    $tmp = $diff;
-    $retour['second'] = $tmp % 60;
-
-    $tmp = floor(($tmp - $retour['second']) / 60);
-    $retour['minute'] = $tmp % 60;
-
-    $tmp = floor(($tmp - $retour['minute']) / 60);
-    $retour['hour'] = $tmp % 24;
-
-    $tmp = floor(($tmp - $retour['hour']) / 24);
-    $retour['day'] = $tmp;
-
-    return $retour;
-}
 
 
 /* security */
