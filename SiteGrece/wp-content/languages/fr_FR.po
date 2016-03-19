@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Development (4.4.x) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-08 17:55:57+0000\n"
+"PO-Revision-Date: 2016-02-11 10:20:56+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -660,7 +660,7 @@ msgstr "Une fois en mode de réorganisation, des options de contrôle supplémen
 msgid "Embedded WordPress Post"
 msgstr "Inclure un article WordPress"
 
-#: wp-includes/comment-template.php:2143
+#: wp-includes/comment-template.php:2171
 msgid "<a href=\"%1$s\" aria-label=\"Logged in as %2$s. Edit your profile.\">Logged in as %2$s</a>. <a href=\"%3$s\">Log out?</a>"
 msgstr "<a href=\"%1$s\" aria-label=\"Connecté en tant que %2$s. Modifiez votre profil.\">Connecté en tant que %2$s</a>. <a href=\"%3$s\">Se déconnecter&nbsp;?</a>"
 
@@ -859,7 +859,7 @@ msgstr "Ajouter une nouvelle image d&rsquo;en-tête"
 msgid "Add new image"
 msgstr "Ajouter une nouvelle image"
 
-#: wp-includes/class-wp-customize-manager.php:1828
+#: wp-includes/class-wp-customize-manager.php:1830
 msgid "Site Icon"
 msgstr "Icône du site"
 
@@ -867,11 +867,11 @@ msgstr "Icône du site"
 msgid "Expand Sidebar"
 msgstr "Étendre la colonne latérale"
 
-#: wp-includes/class-wp-customize-manager.php:1829
+#: wp-includes/class-wp-customize-manager.php:1831
 msgid "The Site Icon is used as a browser and app icon for your site. Icons must be square, and at least 512px wide and tall."
 msgstr "L&rsquo;icône du site est utilisée pour représenter votre site en tant qu&rsquo;icône de navigateur (favicon) et icône d&rsquo;application. Les icônes doivent être au format carré, et mesurer au moins 512px en largeur comme en hauteur. "
 
-#: wp-includes/class-wp-customize-manager.php:1795
+#: wp-includes/class-wp-customize-manager.php:1797
 msgid "Site Identity"
 msgstr "Identité du site"
 
@@ -896,7 +896,7 @@ msgstr "Votre lien de réinitialisation de mot de passe semble être invalide. V
 msgid "Your password reset link has expired. Please request a new link below."
 msgstr "Votre lien de réinitialisation de mot de passe semble avoir expiré. Veuillez demander un nouveau lien ci-dessous."
 
-#: wp-includes/pluggable.php:1780
+#: wp-includes/pluggable.php:1789
 msgid "To set your password, visit the following address:"
 msgstr "Pour configurer votre mot de passe, rendez-vous à l'adresse suivante&nbsp;:"
 
@@ -1156,10 +1156,6 @@ msgstr "Barre d'outils en ligne (quand une image, un lien ou un aperçu est sél
 msgid "Allow link notifications from other blogs (pingbacks and trackbacks) on new articles"
 msgstr "Autoriser les liens de notification d'autres blogs (pings et rétroliens) sur les nouveaux articles"
 
-#: wp-includes/widgets/class-wp-widget-text.php:107
-msgid "Content:"
-msgstr "Contient&nbsp;:"
-
 #: wp-includes/class-wp-editor.php:1051
 msgid "Ctrl + letter:"
 msgstr "Ctrl + lettre :"
@@ -1183,6 +1179,10 @@ msgstr "Raccourcis par défaut,"
 #: wp-includes/class-wp-editor.php:1042
 msgid "Additional shortcuts,"
 msgstr "Raccourcis supplémentaires,"
+
+#: wp-includes/widgets/class-wp-widget-text.php:107
+msgid "Content:"
+msgstr "Contenu&nbsp;:"
 
 #: wp-includes/class-wp-customize-section.php:236
 #: wp-includes/customize/class-wp-customize-themes-section.php:55
@@ -1639,13 +1639,13 @@ msgid "F j, Y @ H:i:s"
 msgstr "j F Y à G \\h i \\m\\i\\n"
 
 #. translators: 1: website name, 2: website IP, 3: website hostname
-#: wp-includes/pluggable.php:1466 wp-includes/pluggable.php:1476
-#: wp-includes/pluggable.php:1619 wp-includes/pluggable.php:1627
+#: wp-includes/pluggable.php:1475 wp-includes/pluggable.php:1485
+#: wp-includes/pluggable.php:1628 wp-includes/pluggable.php:1636
 msgid "Website: %1$s (IP: %2$s, %3$s)"
 msgstr "Site web&nbsp;: %1$s (IP&nbsp;: %2$s, %3$s)"
 
 #. translators: 1: comment author, 2: author IP, 3: author domain
-#: wp-includes/pluggable.php:1486 wp-includes/pluggable.php:1634
+#: wp-includes/pluggable.php:1495 wp-includes/pluggable.php:1643
 msgid "Author: %1$s (IP: %2$s, %3$s)"
 msgstr "Auteur&nbsp;: %1$s (IP&nbsp;: %2$s, %3$s)"
 
@@ -1677,24 +1677,24 @@ msgid "The %1$s option is deprecated for the family of %2$s functions. Use the %
 msgstr "L'option %1$s est obsolète pour l'ensemble des fonctions %2$s. Utilisez plutôt l'option %3$s."
 
 #. translators: %s: post title
-#: wp-includes/comment-template.php:1468
+#: wp-includes/comment-template.php:1480
 msgid "1 Comment<span class=\"screen-reader-text\"> on %s</span>"
 msgstr "Un commentaire <span class=\"screen-reader-text\"> sur %s</span>"
 
 #. translators: 1: Number of comments 2: post title
-#: wp-includes/comment-template.php:1473
+#: wp-includes/comment-template.php:1485
 msgid "%1$s Comment<span class=\"screen-reader-text\"> on %2$s</span>"
 msgid_plural "%1$s Comments<span class=\"screen-reader-text\"> on %2$s</span>"
 msgstr[0] "%1$s commentaire <span class=\"screen-reader-text\"> sur %2$s</span>"
 msgstr[1] "%1$s commentaires <span class=\"screen-reader-text\"> sur %2$s</span>"
 
 #. translators: %s: post title
-#: wp-includes/comment-template.php:1479
+#: wp-includes/comment-template.php:1491
 msgid "Comments Off<span class=\"screen-reader-text\"> on %s</span>"
 msgstr "Commentaires fermés<span class=\"screen-reader-text\"> sur %s</span>"
 
 #. translators: %s: post title
-#: wp-includes/comment-template.php:1463
+#: wp-includes/comment-template.php:1475
 msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
 msgstr "Aucun commentaire<span class=\"screen-reader-text\"> sur %s</span>"
 
@@ -1839,26 +1839,26 @@ msgctxt "translations"
 msgid "Installed"
 msgstr "Installé"
 
-#: wp-includes/pluggable.php:1479
+#: wp-includes/pluggable.php:1488
 msgid "You can see all pingbacks on this post here:"
 msgstr "Vous pouvez voir tous les pings de cet article ici : "
 
-#: wp-includes/pluggable.php:1469
+#: wp-includes/pluggable.php:1478
 msgid "You can see all trackbacks on this post here:"
 msgstr "Vous pouvez voir tous les rétroliens de cet article ici :"
 
-#: wp-includes/pluggable.php:1468 wp-includes/pluggable.php:1478
-#: wp-includes/pluggable.php:1489 wp-includes/pluggable.php:1637
+#: wp-includes/pluggable.php:1477 wp-includes/pluggable.php:1487
+#: wp-includes/pluggable.php:1498 wp-includes/pluggable.php:1646
 msgid "Comment: %s"
 msgstr "Commentaire : %s"
 
-#: wp-includes/pluggable.php:1490
+#: wp-includes/pluggable.php:1499
 msgid "You can see all comments on this post here:"
 msgstr "Vous pouvez lire tous les commentaires de cet article ici :"
 
-#: wp-includes/pluggable.php:1467 wp-includes/pluggable.php:1477
-#: wp-includes/pluggable.php:1488 wp-includes/pluggable.php:1620
-#: wp-includes/pluggable.php:1628 wp-includes/pluggable.php:1636
+#: wp-includes/pluggable.php:1476 wp-includes/pluggable.php:1486
+#: wp-includes/pluggable.php:1497 wp-includes/pluggable.php:1629
+#: wp-includes/pluggable.php:1637 wp-includes/pluggable.php:1645
 msgid "URL: %s"
 msgstr "Adresse web : %s"
 
@@ -1953,7 +1953,7 @@ msgstr "En passant"
 msgid "Do not pass style tags to wp_add_inline_style()."
 msgstr "Ne passez pas de balises de style dans wp_add_inline_style()."
 
-#: wp-includes/comment-template.php:1570
+#: wp-includes/comment-template.php:1582
 msgid "Reply to %s"
 msgstr "Répondre à %s"
 
@@ -3966,11 +3966,11 @@ msgstr "Aller à la barre d&rsquo;outils"
 msgid "Hex Value"
 msgstr "Valeur hexadécimale"
 
-#: wp-includes/class-wp-customize-manager.php:1862
+#: wp-includes/class-wp-customize-manager.php:1864
 msgid "Header Text Color"
 msgstr "Couleur du texte d&rsquo;en-tête"
 
-#: wp-includes/class-wp-customize-manager.php:1839
+#: wp-includes/class-wp-customize-manager.php:1841
 msgid "Colors"
 msgstr "Couleurs"
 
@@ -4005,7 +4005,7 @@ msgstr "Arguments insuffisants passés à cette méthode XML-RPC."
 msgid "Sorry, you cannot stick a private post."
 msgstr "Désolé, vous ne pouvez pas mettre en avant un article privé."
 
-#: wp-includes/class-wp-customize-manager.php:1885
+#: wp-includes/class-wp-customize-manager.php:1887
 #: wp-includes/customize/class-wp-customize-header-image-control.php:31
 msgid "Header Image"
 msgstr "Image d&rsquo;en-tête"
@@ -4046,31 +4046,31 @@ msgstr "L&#8217;identifiant du site doit utiliser au moins 4 caractères."
 msgid "Please enter a site title."
 msgstr "Veuillez saisir un titre de site."
 
-#: wp-includes/class-wp-customize-manager.php:2002
+#: wp-includes/class-wp-customize-manager.php:2004
 msgid "A static page"
 msgstr "Une page statique"
 
-#: wp-includes/class-wp-customize-manager.php:1877
+#: wp-includes/class-wp-customize-manager.php:1879
 msgid "Background Color"
 msgstr "Couleur d&rsquo;arrière-plan"
 
-#: wp-includes/class-wp-customize-manager.php:1927
+#: wp-includes/class-wp-customize-manager.php:1929
 msgid "Background Repeat"
 msgstr "Répétition de l&rsquo;arrière-plan"
 
-#: wp-includes/class-wp-customize-manager.php:1944
+#: wp-includes/class-wp-customize-manager.php:1946
 msgid "Background Position"
 msgstr "Position d&rsquo;arrière-plan"
 
-#: wp-includes/class-wp-customize-manager.php:1855
+#: wp-includes/class-wp-customize-manager.php:1857
 msgid "Display Header Text"
 msgstr "Afficher le texte d&rsquo;en-tête"
 
-#: wp-includes/class-wp-customize-manager.php:1960
+#: wp-includes/class-wp-customize-manager.php:1962
 msgid "Background Attachment"
 msgstr "Image d’arrière-plan"
 
-#: wp-includes/class-wp-customize-manager.php:1905
+#: wp-includes/class-wp-customize-manager.php:1907
 #: wp-includes/customize/class-wp-customize-background-image-control.php:30
 msgid "Background Image"
 msgstr "Image d’arrière-plan"
@@ -4087,35 +4087,35 @@ msgstr "Retirer l&rsquo;image"
 msgid "Sorry, you are not allowed to edit this post type."
 msgstr "Désolé, vous n&rsquo;avez pas l&rsquo;autorisation de modifier ce type de contenu."
 
-#: wp-includes/class-wp-customize-manager.php:1931
+#: wp-includes/class-wp-customize-manager.php:1933
 msgid "No Repeat"
 msgstr "Pas de répétition"
 
-#: wp-includes/class-wp-customize-manager.php:1932
+#: wp-includes/class-wp-customize-manager.php:1934
 msgid "Tile"
 msgstr "Motif répété"
 
-#: wp-includes/class-wp-customize-manager.php:1933
+#: wp-includes/class-wp-customize-manager.php:1935
 msgid "Tile Horizontally"
 msgstr "Répétition horizontale"
 
-#: wp-includes/class-wp-customize-manager.php:1934
+#: wp-includes/class-wp-customize-manager.php:1936
 msgid "Tile Vertically"
 msgstr "Répétition verticale"
 
-#: wp-includes/class-wp-customize-manager.php:1965
+#: wp-includes/class-wp-customize-manager.php:1967
 msgid "Fixed"
 msgstr "Fixe"
 
-#: wp-includes/class-wp-customize-manager.php:1964
+#: wp-includes/class-wp-customize-manager.php:1966
 msgid "Scroll"
 msgstr "Défilant"
 
-#: wp-includes/class-wp-customize-manager.php:2013
+#: wp-includes/class-wp-customize-manager.php:2015
 msgid "Front page"
 msgstr "Page d&rsquo;accueil"
 
-#: wp-includes/class-wp-customize-manager.php:2025
+#: wp-includes/class-wp-customize-manager.php:2027
 msgid "Posts page"
 msgstr "Page des articles"
 
@@ -4231,23 +4231,23 @@ msgstr "Le thème &laquo;&nbsp;%s&nbsp;&raquo; n&rsquo;est un thème parent vali
 msgid "&mdash; Select &mdash;"
 msgstr "&mdash; Sélectionner &mdash;"
 
-#: wp-includes/class-wp-customize-manager.php:1983
+#: wp-includes/class-wp-customize-manager.php:1985
 msgid "Static Front Page"
 msgstr "Page d&rsquo;accueil statique"
 
-#: wp-includes/class-wp-customize-manager.php:1986
+#: wp-includes/class-wp-customize-manager.php:1988
 msgid "Your theme supports a static front page."
 msgstr "Le thème actuel accepte les pages statiques."
 
-#: wp-includes/class-wp-customize-manager.php:1997
+#: wp-includes/class-wp-customize-manager.php:1999
 msgid "Front page displays"
 msgstr "La page d&rsquo;accueil affiche"
 
-#: wp-includes/class-wp-customize-manager.php:2001
+#: wp-includes/class-wp-customize-manager.php:2003
 msgid "Your latest posts"
 msgstr "Les derniers articles"
 
-#: wp-includes/class-wp-customize-manager.php:1817
+#: wp-includes/class-wp-customize-manager.php:1819
 msgid "Tagline"
 msgstr "Slogan"
 
@@ -4721,7 +4721,7 @@ msgstr "%1$s est appelée de la mauvaise manière. %2$s %3$s"
 msgid "Sorry, you cannot publish this post."
 msgstr "Désolé, vous ne pouvez pas publier cet article."
 
-#: wp-includes/pluggable.php:1496
+#: wp-includes/pluggable.php:1505
 msgid "Permalink: %s"
 msgstr "Permalien&nbsp;: %s"
 
@@ -4805,12 +4805,12 @@ msgid "No pages found."
 msgstr "Aucune page trouvée."
 
 #: wp-includes/post.php:1369
-msgid "No posts found in Trash."
-msgstr "Aucun article trouvé dans la corbeille."
+msgid "No pages found in Trash."
+msgstr "Aucune page trouvée dans la Corbeille."
 
 #: wp-includes/post.php:1369
-msgid "No pages found in Trash."
-msgstr "Aucune page trouvée dans la corbeille."
+msgid "No posts found in Trash."
+msgstr "Aucun article trouvé dans la Corbeille."
 
 #: wp-includes/admin-bar.php:530
 msgid "Shortlink"
@@ -4921,7 +4921,7 @@ msgstr "Article non valide"
 msgid "Invalid taxonomy: %s."
 msgstr "Taxinomie non valide&nbsp;: %s"
 
-#: wp-includes/query.php:2549
+#: wp-includes/query.php:2552
 msgid "\"caller_get_posts\" is deprecated. Use \"ignore_sticky_posts\" instead."
 msgstr "&laquo;&nbsp;caller_get_posts&nbsp;&raquo; n&rsquo;est plus recommandé. Utilisez &laquo;&nbsp;ignore_sticky_posts&nbsp;&raquo; à la place."
 
@@ -5181,7 +5181,7 @@ msgstr "<strong>Les valeurs des constantes VHOST et SUBDOMAIN_INSTALL ne corresp
 msgid "<strong>ERROR</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
 msgstr "<strong>ERREUR</strong>&nbsp;: cet identifiant n&rsquo;est pas valide, car il utilise des caractères non autorisés. Merci d&rsquo;utiliser un identifiant valide."
 
-#: wp-includes/comment-template.php:2127
+#: wp-includes/comment-template.php:2155
 msgid "Required fields are marked %s"
 msgstr "Les champs obligatoires sont indiqués avec %s"
 
@@ -5308,7 +5308,7 @@ msgstr "Inscription d'un nouveau site : %s"
 msgid "New %1$s Site: %2$s"
 msgstr "Nouveau site %1$s : %2$s"
 
-#: wp-includes/pluggable.php:1754
+#: wp-includes/pluggable.php:1763
 msgid "New user registration on your site %s:"
 msgstr "Inscription d'un nouvel utilisateur sur votre site %s :"
 
@@ -5348,7 +5348,7 @@ msgstr "Une erreur est survenue lors de votre ajout à ce site. Retournez à l&r
 msgid "This file is too big. Files must be less than %d KB in size."
 msgstr "Ce fichier est trop gros. La taille des fichiers doit être inférieure %d Ko."
 
-#: wp-includes/comment-template.php:2144
+#: wp-includes/comment-template.php:2172
 msgid "Your email address will not be published."
 msgstr "Votre adresse de messagerie ne sera pas publiée."
 
@@ -5509,7 +5509,7 @@ msgstr "Mais, avant d&#8217;utiliser votre nouveau site, <strong>vous devez l&#8
 msgid "Site registration has been disabled."
 msgstr "Les inscriptions de sites sont désactivées."
 
-#: wp-includes/pluggable.php:1616
+#: wp-includes/pluggable.php:1625
 msgid "A new trackback on the post \"%s\" is waiting for your approval"
 msgstr "Un nouveau rétrolien sur l'article « %s » attend votre approbation"
 
@@ -5517,23 +5517,23 @@ msgstr "Un nouveau rétrolien sur l'article « %s » attend votre approbation"
 msgid "If you&#8217;re not going to use a great site domain, leave it for a new user. Now have at it!"
 msgstr "Si vous ne comptez pas utiliser ce superbe nom de domaine, laissez-le à un autre utilisateur. Et maintenant, lancez-vous&nbsp;!"
 
-#: wp-includes/pluggable.php:1484
+#: wp-includes/pluggable.php:1493
 msgid "New comment on your post \"%s\""
 msgstr "Nouveau commentaire sur votre article « %s »"
 
-#: wp-includes/pluggable.php:1464
+#: wp-includes/pluggable.php:1473
 msgid "New trackback on your post \"%s\""
 msgstr "Nouveau rétrolien sur votre article « %s »"
 
-#: wp-includes/pluggable.php:1474
+#: wp-includes/pluggable.php:1483
 msgid "New pingback on your post \"%s\""
 msgstr "Nouveau ping sur votre article « %s »"
 
-#: wp-includes/pluggable.php:1624
+#: wp-includes/pluggable.php:1633
 msgid "A new pingback on the post \"%s\" is waiting for your approval"
 msgstr "Un nouveau ping sur l'article « %s » attend votre approbation"
 
-#: wp-includes/pluggable.php:1632
+#: wp-includes/pluggable.php:1641
 msgid "A new comment on the post \"%s\" is waiting for your approval"
 msgstr "Un nouveau commentaire sur l'article « %s » attend votre approbation"
 
@@ -5807,11 +5807,11 @@ msgstr "L&rsquo;utilisateur a bloqué les requêtes HTTP."
 msgid "Too many redirects."
 msgstr "Trop de redirections."
 
-#: wp-includes/comment-template.php:2157
+#: wp-includes/comment-template.php:2185
 msgid "Cancel reply"
 msgstr "Annuler la réponse."
 
-#: wp-includes/comment-template.php:2158
+#: wp-includes/comment-template.php:2186
 msgid "Post Comment"
 msgstr "Laisser un commentaire"
 
@@ -6520,46 +6520,46 @@ msgstr "Que dois-je faire maintenant ?"
 msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
 msgstr "<strong>ERREUR</strong>&nbsp;: l&rsquo;identifiant ou le mot de passe n&rsquo;est pas valide."
 
-#: wp-includes/pluggable.php:1502 wp-includes/pluggable.php:1645
+#: wp-includes/pluggable.php:1511 wp-includes/pluggable.php:1654
 msgid "Delete it: %s"
 msgstr "Le supprimer : %s"
 
-#: wp-includes/pluggable.php:1504 wp-includes/pluggable.php:1646
+#: wp-includes/pluggable.php:1513 wp-includes/pluggable.php:1655
 msgid "Spam it: %s"
 msgstr "Le marquer comme indésirable : %s"
 
-#: wp-includes/pluggable.php:1621
+#: wp-includes/pluggable.php:1630
 msgid "Trackback excerpt: "
 msgstr "Extrait du rétrolien :"
 
-#: wp-includes/pluggable.php:1629
+#: wp-includes/pluggable.php:1638
 msgid "Pingback excerpt: "
 msgstr "Extrait du ping :"
 
-#: wp-includes/pluggable.php:1641
+#: wp-includes/pluggable.php:1650
 msgid "Approve it: %s"
 msgstr "L'approuver : %s"
 
-#: wp-includes/pluggable.php:1648
+#: wp-includes/pluggable.php:1657
 msgid "Currently %s comment is waiting for approval. Please visit the moderation panel:"
 msgid_plural "Currently %s comments are waiting for approval. Please visit the moderation panel:"
 msgstr[0] "En ce moment, %s commentaire attend votre approbation. Veuillez vous rendre sur le panneau de modération :"
 msgstr[1] "En ce moment, %s commentaires attendent vos approbations. Veuillez vous rendre sur le panneau de modération :"
 
-#: wp-includes/pluggable.php:1715
+#: wp-includes/pluggable.php:1724
 msgid "Password Lost and Changed for user: %s"
 msgstr "Mot de passe oublié et changé pour l'utilisateur : %s"
 
-#: wp-includes/pluggable.php:1719
+#: wp-includes/pluggable.php:1728
 msgid "[%s] Password Lost/Changed"
 msgstr "[%s] Mot de passe oublié et changé"
 
-#: wp-includes/pluggable.php:1755 wp-includes/pluggable.php:1779
+#: wp-includes/pluggable.php:1764 wp-includes/pluggable.php:1788
 #: wp-login.php:324
 msgid "Username: %s"
 msgstr "Identifiant : %s"
 
-#: wp-includes/pluggable.php:1758
+#: wp-includes/pluggable.php:1767
 msgid "[%s] New User Registration"
 msgstr "[%s] Inscription d'un nouvel utilisateur"
 
@@ -7007,11 +7007,11 @@ msgid "Sorry, that username already exists!"
 msgstr "Désolé, cet identifiant existe déjà&nbsp;!"
 
 #. translators: 1: blog name, 2: post title
-#: wp-includes/pluggable.php:1481
+#: wp-includes/pluggable.php:1490
 msgid "[%1$s] Pingback: \"%2$s\""
 msgstr "[%1$s] Ping : « %2$s »"
 
-#: wp-includes/pluggable.php:1652
+#: wp-includes/pluggable.php:1661
 msgid "[%1$s] Please moderate: \"%2$s\""
 msgstr "[%1$s] Demande de modération pour « %2$s »"
 
@@ -7102,7 +7102,7 @@ msgstr "IDs de pages, séparés par une virgule."
 msgid "%1$s was called with an argument that is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr "%1$s est appelé avec un argument qui est <strong>déprécié</strong> depuis la version %2$s, aucune alternative n&rsquo;est disponible."
 
-#: wp-includes/pluggable.php:1500 wp-includes/pluggable.php:1643
+#: wp-includes/pluggable.php:1509 wp-includes/pluggable.php:1652
 msgid "Trash it: %s"
 msgstr "Le mettre dans la Corbeille : %s"
 
@@ -7195,7 +7195,7 @@ msgstr " "
 msgid "By: %s"
 msgstr "Par&nbsp;: %s"
 
-#: wp-includes/pluggable.php:1785
+#: wp-includes/pluggable.php:1794
 msgid "[%s] Your username and password info"
 msgstr "[%s] Votre identifiant et votre mot de passe"
 
@@ -7267,12 +7267,12 @@ msgid "Friday"
 msgstr "vendredi"
 
 #. translators: 1: blog name, 2: post title
-#: wp-includes/pluggable.php:1471
+#: wp-includes/pluggable.php:1480
 msgid "[%1$s] Trackback: \"%2$s\""
 msgstr "[%1$s] Rétrolien : « %2$s »"
 
 #. translators: 1: blog name, 2: post title
-#: wp-includes/pluggable.php:1492
+#: wp-includes/pluggable.php:1501
 msgid "[%1$s] Comment: \"%2$s\""
 msgstr "[%1$s] Commentaire : « %2$s »"
 
@@ -7371,7 +7371,7 @@ msgstr "Réglages"
 msgid "First Post"
 msgstr "Premier article"
 
-#: wp-includes/class-wp-customize-manager.php:1806
+#: wp-includes/class-wp-customize-manager.php:1808
 #: wp-includes/class-wp-xmlrpc-server.php:467
 msgid "Site Title"
 msgstr "Titre du site"
@@ -7418,7 +7418,7 @@ msgstr "Titre&nbsp;:"
 msgid "(required)"
 msgstr "(obligatoire)"
 
-#: wp-includes/comment-template.php:2123
+#: wp-includes/comment-template.php:2151
 #: wp-includes/theme-compat/comments.php:102
 msgid "Website"
 msgstr "Site web"
@@ -7473,7 +7473,7 @@ msgstr "Connecté(e) en tant que %s."
 msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
 msgstr "Propulsé par WordPress, plate-forme de publication personnelle sémantique de pointe."
 
-#: wp-includes/comment-template.php:1488
+#: wp-includes/comment-template.php:1500
 msgid "Enter your password to view comments."
 msgstr "Saisissez votre mot de passe pour accéder aux commentaires."
 
@@ -7549,24 +7549,24 @@ msgstr[1] "%s sujets"
 msgid "Feed for all posts filed under %s"
 msgstr "Flux pour tous les articles classés dans %s"
 
-#: wp-includes/comment-template.php:1571
+#: wp-includes/comment-template.php:1583
 msgid "Log in to Reply"
 msgstr "Connectez-vous pour répondre"
 
-#: wp-includes/comment-template.php:1682
+#: wp-includes/comment-template.php:1694
 msgid "Leave a Comment"
 msgstr "Laisser un commentaire"
 
-#: wp-includes/comment-template.php:1683
+#: wp-includes/comment-template.php:1695
 msgid "Log in to leave a Comment"
 msgstr "Connectez-vous pour laisser un commentaire"
 
-#: wp-includes/comment-template.php:1838 wp-includes/comment-template.php:2151
+#: wp-includes/comment-template.php:1850 wp-includes/comment-template.php:2179
 #: wp-includes/theme-compat/comments.php:75
 msgid "Leave a Reply"
 msgstr "Laisser un commentaire"
 
-#: wp-includes/comment-template.php:1839 wp-includes/comment-template.php:2152
+#: wp-includes/comment-template.php:1851 wp-includes/comment-template.php:2180
 #: wp-includes/theme-compat/comments.php:75
 msgid "Leave a Reply to %s"
 msgstr "Répondre à %s"
@@ -7635,7 +7635,7 @@ msgstr "Cette page est en XHTML 1.0 Transitional valide"
 msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
 msgstr "<abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr> valide"
 
-#: wp-includes/comment-template.php:1751
+#: wp-includes/comment-template.php:1763
 msgid "Click here to cancel reply."
 msgstr "Cliquez ici pour annuler la réponse."
 
@@ -7643,7 +7643,7 @@ msgstr "Cliquez ici pour annuler la réponse."
 msgid "<strong>ERROR</strong>: Please enter a username."
 msgstr "<strong>ERREUR</strong>&nbsp;: veuillez renseigner l&rsquo;identifiant."
 
-#: wp-includes/comment-template.php:2121
+#: wp-includes/comment-template.php:2149
 #: wp-includes/theme-compat/comments-popup.php:81 wp-login.php:720
 msgid "Email"
 msgstr "Adresse de contact"
@@ -7674,7 +7674,7 @@ msgstr "Écrire un commentaire"
 msgid "Tags: "
 msgstr "Étiquettes&nbsp;: "
 
-#: wp-includes/comment-template.php:2141
+#: wp-includes/comment-template.php:2169
 #: wp-includes/theme-compat/comments.php:82
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
 msgstr "Vous devez <a href=\"%s\">être connecté(e)</a> pour rédiger un commentaire."
@@ -7704,7 +7704,7 @@ msgstr "Auteur"
 msgid "URL"
 msgstr "Adresse web"
 
-#: wp-includes/comment-template.php:1041 wp-includes/comment-template.php:2139
+#: wp-includes/comment-template.php:1041 wp-includes/comment-template.php:2167
 msgctxt "noun"
 msgid "Comment"
 msgstr "Commentaire"
@@ -7713,19 +7713,19 @@ msgstr "Commentaire"
 msgid "No"
 msgstr "Non"
 
-#: wp-includes/class-wp-customize-manager.php:1948
+#: wp-includes/class-wp-customize-manager.php:1950
 #: wp-includes/class-wp-editor.php:988 wp-includes/media-template.php:613
 #: wp-includes/media-template.php:844 wp-includes/media-template.php:910
 msgid "Left"
 msgstr "Gauche"
 
-#: wp-includes/class-wp-customize-manager.php:1949
+#: wp-includes/class-wp-customize-manager.php:1951
 #: wp-includes/class-wp-editor.php:989 wp-includes/media-template.php:616
 #: wp-includes/media-template.php:847 wp-includes/media-template.php:913
 msgid "Center"
 msgstr "Centre"
 
-#: wp-includes/class-wp-customize-manager.php:1950
+#: wp-includes/class-wp-customize-manager.php:1952
 #: wp-includes/class-wp-editor.php:990 wp-includes/media-template.php:619
 #: wp-includes/media-template.php:850 wp-includes/media-template.php:916
 msgid "Right"
@@ -7810,7 +7810,7 @@ msgstr "Catégories"
 msgid "Advanced"
 msgstr "Avancé"
 
-#: wp-includes/comment-template.php:2119
+#: wp-includes/comment-template.php:2147
 #: wp-includes/theme-compat/comments-popup.php:76
 #: wp-includes/theme-compat/comments.php:96
 msgid "Name"
@@ -7916,7 +7916,7 @@ msgstr "Enregistrer brouillon"
 msgid "No comments yet."
 msgstr "Pas encore de commentaire."
 
-#: wp-includes/comment-template.php:1569 wp-includes/script-loader.php:488
+#: wp-includes/comment-template.php:1581 wp-includes/script-loader.php:488
 msgid "Reply"
 msgstr "Répondre"
 
@@ -8120,8 +8120,8 @@ msgstr "Aperçu"
 msgid "Dismiss"
 msgstr "Fermer"
 
-#: wp-includes/pluggable.php:1487 wp-includes/pluggable.php:1635
-#: wp-includes/pluggable.php:1756
+#: wp-includes/pluggable.php:1496 wp-includes/pluggable.php:1644
+#: wp-includes/pluggable.php:1765
 msgid "Email: %s"
 msgstr "E-mail : %s"
 

@@ -1,0 +1,4166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: photo-gallery\n"
+"POT-Creation-Date: 15-10-26 01:21+000\n"
+"PO-Revision-Date: 2015-12-11 11:38+0400\n"
+"Last-Translator: admin < asd@mail.ru >\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=2; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#: ../photo-gallery-notices.php:188
+msgid "Leave A Review?"
+msgstr "留下您的评论？"
+
+#: ../photo-gallery-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "当然！我喜欢！"
+
+#: ../photo-gallery-notices.php:191
+msgid "I've already left a review"
+msgstr "我已经离开了评论"
+
+#: ../photo-gallery-notices.php:192
+msgid "Maybe Later"
+msgstr "也许以后"
+
+#: ../photo-gallery-notices.php:193 ../photo-gallery-notices.php:203
+msgid "Never show again"
+msgstr "不要再显示"
+
+#: ../photo-gallery-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "嘿！怎么样了？"
+
+#: ../photo-gallery-notices.php:201
+msgid "Check out User Guide"
+msgstr "查阅用户指南"
+
+#: ../photo-gallery-notices.php:202
+msgid "Get Some Help"
+msgstr "得到一些帮助"
+
+#. Name of the plugin
+msgid "Photo Gallery"
+msgstr "照片库"
+
+#. URI of the plugin
+msgid "https://web-dorado.com/products/wordpress-photo-gallery-plugin.html"
+msgstr "https://web-dorado.com/products/wordpress-photo-gallery-plugin.html"
+
+#. Description of the plugin
+msgid ""
+"This plugin is a fully responsive gallery plugin with advanced "
+"functionality.  It allows having different image galleries for your posts "
+"and pages. You can create unlimited number of galleries, combine them into "
+"albums, and provide descriptions and tags."
+msgstr ""
+"这个插件是一个完全响应画廊插件，拥有先进的功能。它允许具有不同的图像画廊为您"
+"的文章和页面。您可以创建无限数量的画廊，将它们组合成相册，并提供说明和标签。"
+
+#. Author of the plugin
+msgid "WebDorado"
+msgstr "WebDorado"
+
+#. Author URI of the plugin
+msgid "https://web-dorado.com"
+msgstr "https://web-dorado.com"
+
+#: ../photo-gallery.php:81
+msgid "Add Galleries/Images"
+msgstr "添加画廊/图片"
+
+#: ../photo-gallery.php:86 .. /admin/views/BWGViewAlbums_bwg.php:47
+msgid "Albums"
+msgstr "相册"
+
+#: ../photo-gallery.php:91 ../admin/views/BWGViewAddTags.php:45 ..
+#: /admin/views/BWGViewGalleries_bwg.php:939
+#: ../admin/views/BWGViewTags_bwg.php:49
+msgid "Tags"
+msgstr "标签"
+
+#: ../photo-gallery.php:96
+msgid "Options"
+msgstr "选项"
+
+#: ../photo-gallery.php:100 .. /admin/views/BWGViewThemes_bwg.php:45
+msgid "Themes"
+msgstr "主题"
+
+#: ../photo-gallery.php:105 .. /admin/views/BWGViewComments_bwg.php:48
+msgid "Comments"
+msgstr "评论"
+
+#: ../photo-gallery.php:110 .. /admin/views/BWGViewRates_bwg.php:47
+msgid "Ratings"
+msgstr "评级"
+
+#: ../photo-gallery.php:115
+msgid "Generate Shortcode"
+msgstr "生成简"
+
+#: ../photo-gallery.php:117
+msgid "Featured Plugins"
+msgstr "特色插件"
+
+#: ../photo-gallery.php:118
+msgid "Featured Themes"
+msgstr "特色主题"
+
+#: ../photo-gallery.php:120
+msgid "Uninstall"
+msgstr "卸载"
+
+#: ../photo-gallery.php:124 ../addons/addons.php:30
+msgid "Photo Gallery Add-ons"
+msgstr "相册添加附件"
+
+#: ../photo-gallery.php:2655 ../photo-gallery.php:2812
+msgid "field is required."
+msgstr "字段是必须的。"
+
+#: ../photo-gallery.php:2656
+msgid "You must select an image file."
+msgstr "您必须选择一个图像文件。"
+
+#: ../photo-gallery.php:2657
+msgid "You must select an audio file."
+msgstr "您必须选择一个音频文件。"
+
+#: ../photo-gallery.php:2658
+msgid ""
+"You do not have Instagram CLIENT_ID. Input its value in Options->Embed "
+"options. "
+msgstr "你不必Instagram的CLIENT_ID。在选项 - >选项嵌入输入它的价值。"
+
+#: ../photo-gallery.php:2659
+msgid "Instagram recent post number must be between 1 and 33."
+msgstr "Instagram的最近的职位数必须是1和33之间。"
+
+#: ../photo-gallery.php:2660
+msgid "The gallery is not empty. Please delete all the images first."
+msgstr "这个画廊是不是空的。请先删除所有图像。"
+
+#: ../photo-gallery.php:2661
+msgid "Please enter url to embed."
+msgstr "请输入网址嵌入。"
+
+#: ../photo-gallery.php:2662
+msgid "Error: cannot get response from the server."
+msgstr "错误：无法从服务器获得响应。"
+
+#: ../photo-gallery.php:2663
+msgid "Error: something wrong happened at the server."
+msgstr "错误：发生了什么错误在服务器上。"
+
+#: ../photo-gallery.php:2664
+msgid "Error"
+msgstr "误"
+
+#: ../photo-gallery.php:2665
+msgid "Show order column"
+msgstr "显示顺序列"
+
+#: ../photo-gallery.php:2666 ../admin/views/BWGViewAlbums_bwg.php:57 ..
+#: /admin/views/BWGViewGalleries_bwg.php:56
+#: ../admin/views/BWGViewGalleries_bwg. php:774
+msgid "Hide order column"
+msgstr "为了隐藏列"
+
+#: ../photo-gallery.php:2813 ../frontend/views/BWGViewGalleryBox.php:1235
+msgid "This is not a valid email address."
+msgstr "这不是一个有效的电子邮件地址。"
+
+#: ../photo-gallery.php:2814
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:1037
+#: ../frontend/views/BWGViewAlbum_extended_preview.php:1025 ..
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:584
+msgid "There are no images matching your search."
+msgstr "没有符合搜索条件的图像。"
+
+#: ../photo-gallery.php:2817
+msgid "Select Tag."
+msgstr "选择标记。"
+
+#: ../photo-gallery.php:2837
+msgid "Photo gallery plugin autoupdate interval."
+msgstr "图片库插件自动更新的时间间隔。"
+
+#: ../addons/addons.php:5
+msgid "Photo Gallery Facebook"
+msgstr "相册的Facebook"
+
+#: ../addons/addons.php:7 ../update/update.php:35
+msgid ""
+"Photo Gallery Facebook is an add-on, which helps to display Facebook photos "
+"and videos within Photo Gallery plugin. You can create Facebook-only "
+"galleries, embed individual images and videos or include Facebook albums "
+"within mixed type albums."
+msgstr ""
+"照片库Facebook是一个附加的，这有助于显示在照片库插件Facebook的照片和视频。您"
+"可以创建Facebook的专用画廊，嵌入单个图像和视频，或包括在混合型专辑的Facebook"
+"相册。"
+
+#: ../addons/addons.php:12
+msgid "NextGen Gallery Import to Photo Gallery"
+msgstr "NextGen的画廊导入到相册"
+
+#: ../addons/addons.php:14
+msgid ""
+"This addon integrates NextGen with Photo Gallery allowing to import images "
+"and related data from NextGen to use with Photo Gallery"
+msgstr "这个插件集成NextGen的照相馆，允许从NextGen的导入图像和相关数据照相馆用"
+
+#: ../addons/addons.php:19
+msgid "Photo Gallery Export / Import"
+msgstr "照片库导出/导入"
+
+#: ../addons/addons.php:21
+msgid ""
+"Photo Gallery Export/Import helps to move created galleries and albums from "
+"one site to another. This way you can save the gallery/album options and "
+"manual modifications."
+msgstr ""
+"照片库导出/导入有助于将创建画廊和专辑从一个网站到另一个。这样，你可以保存图"
+"库/相册选项和手动修改。"
+
+#: ../addons/addons.php:63
+msgid "GET THIS ADD ON"
+msgstr "GET THIS ADD ON"
+
+#: ../admin/models/BWGModelOptions_bwg.php:78
+msgid "Logout of your app"
+msgstr "您的应用程序退出"
+
+#: ../admin/models/BWGModelOptions_bwg.php:81
+msgid "Log into Facebook with your app"
+msgstr "登录到Facebook的使用你的应用程序"
+
+#: ../admin/models/BWGModelOptions_bwg.php:89
+msgid "View your application's settings."
+msgstr "查看应用程序的设置。"
+
+#: ../admin/views/BWGViewAddAlbumsGalleries.php:45
+msgid "Albums/Galleries"
+msgstr "相册/画廊"
+
+#: ../admin/views/BWGViewAddAlbumsGalleries.php:51 ..
+#: /admin/views/BWGViewAddAlbumsGalleries.php:77 ../admin/views/BWGViewAddTags.
+#: php:51 ../admin/views/BWGViewAddTags.php:68
+#: ../admin/views/BWGViewAlbums_bwg. php:69
+#: ../admin/views/BWGViewAlbums_bwg.php:90
+#: /admin/views/BWGViewComments_bwg.php:63
+#: ../admin/views/BWGViewComments_bwg.php:91
+#: ../admin/views/BWGViewGalleries_bwg.php:68
+#: /admin/views/BWGViewGalleries_bwg.php:90
+#: ../admin/views/BWGViewTags_bwg.php:64 ../admin/views/BWGViewTags_bwg.php:84
+#: ../admin/views/BWGViewThemes_bwg.php:77 .
+#: frontend/views/BWGViewGalleryBox.php:1247
+#: /frontend/views/BWGViewGalleryBox.php:1275
+#: ../frontend/views/BWGViewGalleryBox. php:1282
+msgid "Name"
+msgstr "命名"
+
+#: ../admin/views/BWGViewAddAlbumsGalleries.php:70 ..
+#: /admin/views/BWGViewBWGShortcode.php:214
+msgid "Type"
+msgstr "类型"
+
+#: ../admin/views/BWGViewAddTags.php:75 ../admin/views/BWGViewAlbums_bwg.php:98
+#: .. /admin/views/BWGViewGalleries_bwg.php:98
+#: ../admin/views/BWGViewTags_bwg.php:92
+msgid "Slug"
+msgstr "弹头"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:40
+msgid "This section allows you to create, edit and delete albums."
+msgstr "本部分允许您创建，编辑和删除的专辑。"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:41
+#: ../admin/views/BWGViewComments_bwg.php:42
+#: ../admin/views/BWGViewGalleries_bwg.php:40 ..
+#: /admin/views/BWGViewGalleries_bwg.php:219 ../admin/views/BWGViewOptions_bwg.
+#: php:31 ../admin/views/BWGViewRates_bwg.php:41
+#: ../admin/views/BWGViewTags_bwg. php:43
+#: ../admin/views/BWGViewThemes_bwg.php:39
+#: /admin/views/BWGViewThemes_bwg.php:217
+msgid "Read More in User Manual"
+msgstr "更多的用户手册"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:49 ../admin/views/BWGViewGalleries_bwg.
+#: php:48 ../admin/views/BWGViewThemes_bwg.php:47
+msgid "Add new"
+msgstr "添新"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:51 ../admin/views/BWGViewGalleries_bwg.
+#: php:50
+msgid "Changes made in this table should be saved."
+msgstr "在该表中所做的更改应保存。"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:55 ../admin/views/BWGViewGalleries_bwg.
+#: php:54 ../admin/views/BWGViewGalleries_bwg.php:772
+msgid "Select All"
+msgstr "全选"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:58 ../admin/views/BWGViewGalleries_bwg.
+#: php:57
+msgid "Save Order"
+msgstr "保存订单"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:59
+#: ../admin/views/BWGViewComments_bwg.php:51
+#: ../admin/views/BWGViewGalleries_bwg.php:58 ..
+#: /admin/views/BWGViewGalleries_bwg.php:790
+msgid "Publish"
+msgstr "公布"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:60
+#: ../admin/views/BWGViewComments_bwg.php:52
+#: ../admin/views/BWGViewGalleries_bwg.php:59 ..
+#: /admin/views/BWGViewGalleries_bwg.php:793
+msgid "Unpublish"
+msgstr "取消发布"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:61
+#: ../admin/views/BWGViewComments_bwg.php:53
+#: ../admin/views/BWGViewGalleries_bwg.php:60 ..
+#: /admin/views/BWGViewGalleries_bwg.php:794
+#: ../admin/views/BWGViewRates_bwg.php:50 ../admin/views/BWGViewTags_bwg.php:56
+#: ../admin/views/BWGViewThemes_bwg.php:50
+msgid "Do you want to delete selected items?"
+msgstr "是否要删除选定的项目？"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:65
+#: ../admin/views/BWGViewAlbums_bwg.php:127
+#: ../admin/views/BWGViewAlbums_bwg.php:162 ..
+#: /admin/views/BWGViewComments_bwg.php:57
+#: ../admin/views/BWGViewComments_bwg.php:124
+#: ../admin/views/BWGViewComments_bwg.php:160
+#: /admin/views/BWGViewGalleries_bwg.php:64
+#: ../admin/views/BWGViewGalleries_bwg. php:127
+#: ../admin/views/BWGViewGalleries_bwg.php:174
+#: /admin/views/BWGViewGalleries_bwg.php:800 php:956
+#: ../admin/views/BWGViewGalleries_bwg.php:1071
+#: /admin/views/BWGViewRates_bwg.php:54 ../admin/views/BWGViewRates_bwg.php:107
+#: /admin/views/BWGViewRates_bwg.php:137 ../admin/views/BWGViewTags_bwg.php:56
+#: /admin/views/BWGViewTags_bwg.php:104 ../admin/views/BWGViewTags_bwg.php:156
+#: /admin/views/BWGViewThemes_bwg.php:54
+#: ../admin/views/BWGViewThemes_bwg.php:87 .
+#: admin/views/BWGViewThemes_bwg.php:134
+msgid "Delete"
+msgstr "删"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:101 ../admin/views/BWGViewBWGShortcode.
+#: php:363 ../admin/views/BWGViewBWGShortcode.php:508 ..
+#: /admin/views/BWGViewGalleries_bwg.php:84
+#: ../admin/views/BWGViewGalleries_bwg. php:914
+#: ../admin/views/BWGViewOptions_bwg.php:1014
+#: /admin/views/BWGViewWidget.php:123
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:107 ../admin/views/BWGViewBWGShortcode.
+#: php:209 ../admin/views/BWGViewGalleries_bwg.php:115 ..
+#: /admin/views/BWGViewGalleries_bwg.php:945
+msgid "Order"
+msgstr "订购"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:115
+#: ../admin/views/BWGViewGalleries_bwg. php:106
+msgid "Author"
+msgstr "笔者"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:123 ../admin/views/BWGViewComments_bwg.
+#: php:121 ../admin/views/BWGViewGalleries_bwg.php:123 ..
+#: /admin/views/BWGViewGalleries_bwg.php:953
+msgid "Published"
+msgstr "发布时间"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:126
+#: ../admin/views/BWGViewAlbums_bwg.php:149
+#: ../admin/views/BWGViewAlbums_bwg.php:159 ..
+#: /admin/views/BWGViewGalleries_bwg.php:126
+#: ../admin/views/BWGViewGalleries_bwg. php:171
+#: ../admin/views/BWGViewGalleries_bwg.php:364
+#: /admin/views/BWGViewGalleries_bwg.php:1013
+#: ../admin/views/BWGViewTags_bwg.php:103
+#: ../admin/views/BWGViewTags_bwg.php:136 142
+#: ../admin/views/BWGViewTags_bwg.php:148 151
+#: ../admin/views/BWGViewThemes_bwg.php:86 ../admin/views/BWGViewThemes_bwg.
+#: php:129
+msgid "Edit"
+msgstr "编辑"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:195
+msgid "This section allows you to add/edit album."
+msgstr "这部分允许你添加/编辑专辑。"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:196
+msgid "Manual"
+msgstr "手工"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:258
+#: ../admin/views/BWGViewGalleries_bwg. php:536
+#: ../admin/views/BWGViewOptions_bwg.php:99 ..
+#: /admin/views/BWGViewTags_bwg.php:51 ../admin/views/BWGViewThemes_bwg.php:224
+msgid "Save"
+msgstr "保存"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:259
+#: ../admin/views/BWGViewGalleries_bwg. php:539
+#: ../admin/views/BWGViewThemes_bwg.php:225
+msgid "Apply"
+msgstr "运用"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:260
+#: ../admin/views/BWGViewGalleries_bwg. php:541
+#: ../admin/views/BWGViewGalleries_bwg.php:807 ..
+#: /admin/views/BWGViewThemes_bwg.php:226
+msgid "Cancel"
+msgstr "撤消"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:265
+#: ../admin/views/BWGViewGalleries_bwg. php:546
+#: ../admin/views/BWGViewThemes_bwg.php:253
+msgid "Name:"
+msgstr "姓名："
+
+#: ../admin/views/BWGViewAlbums_bwg.php:269
+#: ../admin/views/BWGViewGalleries_bwg. php:550
+msgid "Slug:"
+msgstr "弹头："
+
+#: ../admin/views/BWGViewAlbums_bwg.php:273
+msgid "Description:"
+msgstr "说明："
+
+#: ../admin/views/BWGViewAlbums_bwg.php:292
+#: ../admin/views/BWGViewGalleries_bwg. php:663
+msgid "Author:"
+msgstr "作者："
+
+#: ../admin/views/BWGViewAlbums_bwg.php:296
+msgid "Published:"
+msgstr "发布时间："
+
+#: ../admin/views/BWGViewAlbums_bwg.php:299 ../admin/views/BWGViewBWGShortcode.
+#: php:231 ../admin/views/BWGViewBWGShortcode.php:242 ..
+#: /admin/views/BWGViewBWGShortcode.php:249 php:290
+#: ../admin/views/BWGViewBWGShortcode.php:319
+#: /admin/views/BWGViewBWGShortcode.php:389 php:424
+#: ../admin/views/BWGViewBWGShortcode.php:468
+#: /admin/views/BWGViewBWGShortcode.php:495 php:534
+#: ../admin/views/BWGViewBWGShortcode.php:570
+#: /admin/views/BWGViewBWGShortcode.php:595 php:602
+#: ../admin/views/BWGViewBWGShortcode.php:617
+#: /admin/views/BWGViewBWGShortcode.php:628 php:668
+#: ../admin/views/BWGViewBWGShortcode.php:675
+#: /admin/views/BWGViewBWGShortcode.php:682 php:689
+#: ../admin/views/BWGViewBWGShortcode.php:712
+#: /admin/views/BWGViewBWGShortcode.php:745 php:752
+#: ../admin/views/BWGViewBWGShortcode.php:783
+#: /admin/views/BWGViewBWGShortcode.php:810 php:821
+#: ../admin/views/BWGViewBWGShortcode.php:835
+#: /admin/views/BWGViewBWGShortcode.php:842 php:849
+#: ../admin/views/BWGViewBWGShortcode.php:866
+#: /admin/views/BWGViewBWGShortcode.php:877 php:907
+#: ../admin/views/BWGViewBWGShortcode.php:918
+#: /admin/views/BWGViewBWGShortcode.php:929 php:936
+#: ../admin/views/BWGViewBWGShortcode.php:945
+#: /admin/views/BWGViewBWGShortcode.php:952 php:959
+#: ../admin/views/BWGViewBWGShortcode.php:966
+#: /admin/views/BWGViewBWGShortcode.php:973 php:980
+#: ../admin/views/BWGViewBWGShortcode.php:987
+#: /admin/views/BWGViewBWGShortcode.php:994 php:1001
+#: ../admin/views/BWGViewBWGShortcode.php:1008
+#: /admin/views/BWGViewBWGShortcode.php:1015
+#: ../admin/views/BWGViewGalleries_bwg. php:629
+#: ../admin/views/BWGViewGalleries_bwg.php:670
+#: /admin/views/BWGViewOptions_bwg.php:152
+#: ../admin/views/BWGViewOptions_bwg.php:162
+#: ../admin/views/BWGViewOptions_bwg.php:181
+#: /admin/views/BWGViewOptions_bwg.php:191 201
+#: ../admin/views/BWGViewOptions_bwg.php:220
+#: /admin/views/BWGViewOptions_bwg.php:230 240
+#: ../admin/views/BWGViewOptions_bwg.php:267
+#: /admin/views/BWGViewOptions_bwg.php:277 287
+#: ../admin/views/BWGViewOptions_bwg.php:297
+#: /admin/views/BWGViewOptions_bwg.php:307 634
+#: ../admin/views/BWGViewOptions_bwg.php:671
+#: /admin/views/BWGViewOptions_bwg.php:690 709
+#: ../admin/views/BWGViewOptions_bwg.php:755
+#: /admin/views/BWGViewOptions_bwg.php:765 775
+#: ../admin/views/BWGViewOptions_bwg.php:785
+#: /admin/views/BWGViewOptions_bwg.php:795 811
+#: ../admin/views/BWGViewOptions_bwg.php:825
+#: /admin/views/BWGViewOptions_bwg.php:835 845
+#: ../admin/views/BWGViewOptions_bwg.php:855
+#: /admin/views/BWGViewOptions_bwg.php:865 875
+#: ../admin/views/BWGViewOptions_bwg.php:885
+#: /admin/views/BWGViewOptions_bwg.php:895 905
+#: ../admin/views/BWGViewOptions_bwg.php:915
+#: /admin/views/BWGViewOptions_bwg.php:925 935
+#: ../admin/views/BWGViewOptions_bwg.php:945
+#: /admin/views/BWGViewOptions_bwg.php:957 1005
+#: ../admin/views/BWGViewOptions_bwg.php:1037
+#: /admin/views/BWGViewOptions_bwg.php:1047 1123
+#: ../admin/views/BWGViewOptions_bwg.php:1133
+#: /admin/views/BWGViewOptions_bwg.php:1153 1161
+#: ../admin/views/BWGViewOptions_bwg.php:1182
+#: /admin/views/BWGViewOptions_bwg.php:1217 1225
+#: ../admin/views/BWGViewOptions_bwg.php:1260
+#: /admin/views/BWGViewOptions_bwg.php:1321 1388
+#: ../admin/views/BWGViewOptions_bwg.php:1398
+#: /admin/views/BWGViewOptions_bwg.php:1406 1423
+#: ../admin/views/BWGViewOptions_bwg.php:1431
+#: /admin/views/BWGViewOptions_bwg.php:1449 1459
+#: ../admin/views/BWGViewOptions_bwg.php:1478
+#: /admin/views/BWGViewOptions_bwg.php:1506 1649
+#: ../admin/views/BWGViewOptions_bwg.php:1659
+#: /admin/views/BWGViewOptions_bwg.php:1669 1679
+#: ../admin/views/BWGViewOptions_bwg.php:1689
+#: /admin/views/BWGViewThemes_bwg.php:342
+#: ../admin/views/BWGViewThemes_bwg.php:583
+#: ../admin/views/BWGViewThemes_bwg.php:733 ../admin/views/BWGViewThemes_bwg.
+#: php:1501 ../admin/views/BWGViewThemes_bwg.php:1733
+#: /admin/views/BWGViewThemes_bwg.php:2241 3656
+#: ../admin/views/BWGViewThemes_bwg.php:3701
+#: /admin/views/BWGViewWidgetSlideshow.php:147
+#: ../admin/views/BWGViewWidgetTags. php:125
+#: ../admin/views/BWGViewWidgetTags.php:146
+msgid "No"
+msgstr "否"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:301 ../admin/views/BWGViewBWGShortcode.
+#: php:230 ../admin/views/BWGViewBWGShortcode.php:241 ..
+#: /admin/views/BWGViewBWGShortcode.php:248 php:289
+#: ../admin/views/BWGViewBWGShortcode.php:318
+#: /admin/views/BWGViewBWGShortcode.php:388 php:423
+#: ../admin/views/BWGViewBWGShortcode.php:467
+#: /admin/views/BWGViewBWGShortcode.php:494 php:533
+#: ../admin/views/BWGViewBWGShortcode.php:569
+#: /admin/views/BWGViewBWGShortcode.php:594 php:601
+#: ../admin/views/BWGViewBWGShortcode.php:616
+#: /admin/views/BWGViewBWGShortcode.php:627 php:667
+#: ../admin/views/BWGViewBWGShortcode.php:674
+#: /admin/views/BWGViewBWGShortcode.php:681 php:688
+#: ../admin/views/BWGViewBWGShortcode.php:711
+#: /admin/views/BWGViewBWGShortcode.php:744 php:751
+#: ../admin/views/BWGViewBWGShortcode.php:782
+#: /admin/views/BWGViewBWGShortcode.php:809 php:820
+#: ../admin/views/BWGViewBWGShortcode.php:834
+#: /admin/views/BWGViewBWGShortcode.php:841 php:848
+#: ../admin/views/BWGViewBWGShortcode.php:865
+#: /admin/views/BWGViewBWGShortcode.php:876 php:906
+#: ../admin/views/BWGViewBWGShortcode.php:917
+#: /admin/views/BWGViewBWGShortcode.php:928 php:935
+#: ../admin/views/BWGViewBWGShortcode.php:944
+#: /admin/views/BWGViewBWGShortcode.php:951 php:958
+#: ../admin/views/BWGViewBWGShortcode.php:965
+#: /admin/views/BWGViewBWGShortcode.php:972 php:979
+#: ../admin/views/BWGViewBWGShortcode.php:986
+#: /admin/views/BWGViewBWGShortcode.php:993 php:1000
+#: ../admin/views/BWGViewBWGShortcode.php:1007
+#: /admin/views/BWGViewBWGShortcode.php:1014
+#: ../admin/views/BWGViewGalleries_bwg. php:631
+#: ../admin/views/BWGViewGalleries_bwg.php:672
+#: /admin/views/BWGViewOptions_bwg.php:151
+#: ../admin/views/BWGViewOptions_bwg.php:161
+#: ../admin/views/BWGViewOptions_bwg.php:180
+#: /admin/views/BWGViewOptions_bwg.php:190 200
+#: ../admin/views/BWGViewOptions_bwg.php:219
+#: /admin/views/BWGViewOptions_bwg.php:229 239
+#: ../admin/views/BWGViewOptions_bwg.php:266
+#: /admin/views/BWGViewOptions_bwg.php:276 286
+#: ../admin/views/BWGViewOptions_bwg.php:296
+#: /admin/views/BWGViewOptions_bwg.php:306 633
+#: ../admin/views/BWGViewOptions_bwg.php:670
+#: /admin/views/BWGViewOptions_bwg.php:689 708
+#: ../admin/views/BWGViewOptions_bwg.php:741
+#: /admin/views/BWGViewOptions_bwg.php:764 774
+#: ../admin/views/BWGViewOptions_bwg.php:784
+#: /admin/views/BWGViewOptions_bwg.php:794 810
+#: ../admin/views/BWGViewOptions_bwg.php:822
+#: /admin/views/BWGViewOptions_bwg.php:834 844
+#: ../admin/views/BWGViewOptions_bwg.php:854
+#: /admin/views/BWGViewOptions_bwg.php:864 874
+#: ../admin/views/BWGViewOptions_bwg.php:884
+#: /admin/views/BWGViewOptions_bwg.php:894 904
+#: ../admin/views/BWGViewOptions_bwg.php:914
+#: /admin/views/BWGViewOptions_bwg.php:924 934
+#: ../admin/views/BWGViewOptions_bwg.php:944
+#: /admin/views/BWGViewOptions_bwg.php:955 1004
+#: ../admin/views/BWGViewOptions_bwg.php:1036
+#: /admin/views/BWGViewOptions_bwg.php:1046 1122
+#: ../admin/views/BWGViewOptions_bwg.php:1132
+#: /admin/views/BWGViewOptions_bwg.php:1152 1160
+#: ../admin/views/BWGViewOptions_bwg.php:1181
+#: /admin/views/BWGViewOptions_bwg.php:1216 1224
+#: ../admin/views/BWGViewOptions_bwg.php:1259
+#: /admin/views/BWGViewOptions_bwg.php:1322 1387
+#: ../admin/views/BWGViewOptions_bwg.php:1397
+#: /admin/views/BWGViewOptions_bwg.php:1405 1422
+#: ../admin/views/BWGViewOptions_bwg.php:1430
+#: /admin/views/BWGViewOptions_bwg.php:1448 1458
+#: ../admin/views/BWGViewOptions_bwg.php:1477
+#: /admin/views/BWGViewOptions_bwg.php:1505 1648
+#: ../admin/views/BWGViewOptions_bwg.php:1658
+#: /admin/views/BWGViewOptions_bwg.php:1688
+#: ../admin/views/BWGViewThemes_bwg.php:340
+#: ../admin/views/BWGViewThemes_bwg.php:581 ../admin/views/BWGViewThemes_bwg.
+#: php:731 ../admin/views/BWGViewThemes_bwg.php:1499
+#: /admin/views/BWGViewThemes_bwg.php:1731 2239
+#: ../admin/views/BWGViewThemes_bwg.php:3654
+#: /admin/views/BWGViewThemes_bwg.php:3699 ../admin/views/BWGViewUninstall_bwg.
+#: php:79 ../admin/views/BWGViewWidgetSlideshow.php:146
+#: /admin/views/BWGViewWidgetTags.php:124
+#: ../admin/views/BWGViewWidgetTags.php:145
+msgid "Yes"
+msgstr "对"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:305
+#: ../admin/views/BWGViewGalleries_bwg. php:676
+msgid "Preview image:"
+msgstr "预览图像："
+
+#: ../admin/views/BWGViewAlbums_bwg.php:320
+#: ../admin/views/BWGViewGalleries_bwg. php:690
+msgid "Add Preview Image"
+msgstr "添加预览图像"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:331
+msgid "Albums And Galleries:"
+msgstr "相册和画廊："
+
+#: ../admin/views/BWGViewAlbums_bwg.php:341
+msgid "Add Albums/Galleries"
+msgstr "添加相册/画廊"
+
+#: ../admin/views/BWGViewBWGShortcode.php:34
+#: ../admin/views/BWGViewBWGShortcode. php:1027
+#: ../admin/views/BWGViewOptions_bwg.php:328 ..
+#: /admin/views/BWGViewOptions_bwg.php:481
+msgid "None"
+msgstr "无"
+
+#: ../admin/views/BWGViewBWGShortcode.php:35
+msgid "Cube Horizontal"
+msgstr "立方水平"
+
+#: ../admin/views/BWGViewBWGShortcode.php:36
+msgid "Cube Vertical"
+msgstr "魔方立式"
+
+#: ../admin/views/BWGViewBWGShortcode.php:37
+msgid "Fade"
+msgstr "淡出"
+
+#: ../admin/views/BWGViewBWGShortcode.php:38
+msgid "Slice Horizontal"
+msgstr "切片水平"
+
+#: ../admin/views/BWGViewBWGShortcode.php:39
+msgid "Slice Vertical"
+msgstr "片垂直"
+
+#: ../admin/views/BWGViewBWGShortcode.php:40
+msgid "Slide Horizontal"
+msgstr "幻灯片水平"
+
+#: ../admin/views/BWGViewBWGShortcode.php:41
+msgid "Slide Vertical"
+msgstr "滑动垂直"
+
+#: ../admin/views/BWGViewBWGShortcode.php:42
+msgid "Scale Out"
+msgstr "横向扩展"
+
+#: ../admin/views/BWGViewBWGShortcode.php:43
+msgid "Scale In"
+msgstr "规模"
+
+#: ../admin/views/BWGViewBWGShortcode.php:44
+msgid "Block Scale"
+msgstr "块定标"
+
+#: ../admin/views/BWGViewBWGShortcode.php:45
+msgid "Kaleidoscope"
+msgstr "万花筒"
+
+#: ../admin/views/BWGViewBWGShortcode.php:46
+msgid "Fan"
+msgstr "范"
+
+#: ../admin/views/BWGViewBWGShortcode.php:47
+msgid "Blind Horizontal"
+msgstr "盲水平"
+
+#: ../admin/views/BWGViewBWGShortcode.php:48
+msgid "Blind Vertical"
+msgstr "帘垂直"
+
+#: ../admin/views/BWGViewBWGShortcode.php:49
+#: ../admin/views/BWGViewBWGShortcode. php:216
+#: ../admin/views/BWGViewWidget.php:151 ../framework/WDWLibrary.php:851
+msgid "Random"
+msgstr "随意"
+
+#: ../admin/views/BWGViewBWGShortcode.php:97
+msgid "Display"
+msgstr "展出"
+
+#: ../admin/views/BWGViewBWGShortcode.php:116 ../admin/views/BWGViewThemes_bwg.
+#: php:234
+msgid "Thumbnails"
+msgstr "缩略图"
+
+#: ../admin/views/BWGViewBWGShortcode.php:120
+#: ../admin/views/BWGViewBWGShortcode. php:364
+#: ../admin/views/BWGViewBWGShortcode.php:509 ..
+#: /admin/views/BWGViewOptions_bwg.php:1015
+#: ../admin/views/BWGViewThemes_bwg.php:235
+#: ../admin/views/BWGViewWidget.php:124
+msgid "Masonry"
+msgstr "砌体"
+
+#: ../admin/views/BWGViewBWGShortcode.php:124
+#: ../admin/views/BWGViewBWGShortcode. php:365
+#: ../admin/views/BWGViewBWGShortcode.php:510 ..
+#: /admin/views/BWGViewOptions_bwg.php:1016
+#: ../admin/views/BWGViewThemes_bwg.php:236
+msgid "Mosaic"
+msgstr "摩西的"
+
+#: ../admin/views/BWGViewBWGShortcode.php:128
+#: ../admin/views/BWGViewOptions_bwg. php:114
+#: ../admin/views/BWGViewThemes_bwg.php:237
+msgid "Slideshow"
+msgstr "幻灯片"
+
+#: ../admin/views/BWGViewBWGShortcode.php:132 ../admin/views/BWGViewThemes_bwg.
+#: php:238
+msgid "Image Browser"
+msgstr "图像浏览器"
+
+#: ../admin/views/BWGViewBWGShortcode.php:136 ../admin/views/BWGViewThemes_bwg.
+#: php:239
+msgid "Compact Album"
+msgstr "紧凑专辑"
+
+#: ../admin/views/BWGViewBWGShortcode.php:140 ../admin/views/BWGViewThemes_bwg.
+#: php:240
+msgid "Masonry Album"
+msgstr "砌体专辑"
+
+#: ../admin/views/BWGViewBWGShortcode.php:144 ../admin/views/BWGViewThemes_bwg.
+#: php:241
+msgid "Extended Album"
+msgstr "扩展相册"
+
+#: ../admin/views/BWGViewBWGShortcode.php:148 ../admin/views/BWGViewThemes_bwg.
+#: php:242
+msgid "Blog Style"
+msgstr "博客风格"
+
+#: ../admin/views/BWGViewBWGShortcode.php:152
+#: ../admin/views/BWGViewOptions_bwg. php:118
+#: ../admin/views/BWGViewThemes_bwg.php:245
+msgid "Carousel"
+msgstr "圆盘传送带"
+
+#: ../admin/views/BWGViewBWGShortcode.php:161
+msgid "Theme:"
+msgstr "主题："
+
+#: ../admin/views/BWGViewBWGShortcode.php:164
+msgid "Select Theme"
+msgstr "选择主题"
+
+#: ../admin/views/BWGViewBWGShortcode.php:176
+msgid "Gallery:"
+msgstr "画廊："
+
+#: ../admin/views/BWGViewBWGShortcode.php:179
+#: ../admin/views/BWGViewWidget.php:128
+#: ../admin/views/BWGViewWidgetSlideshow.php:109
+msgid "Select Gallery"
+msgstr "选择图库"
+
+#: ../admin/views/BWGViewBWGShortcode.php:191
+msgid "The selected album expanded content will be displayed."
+msgstr "选择的相册扩展内容将被显示。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:191
+msgid "Album:"
+msgstr "专辑："
+
+#: ../admin/views/BWGViewBWGShortcode.php:194
+#: ../admin/views/BWGViewWidget.php:140
+msgid "Select Album"
+msgstr "选择相册"
+
+#: ../admin/views/BWGViewBWGShortcode.php:206
+msgid "Sort images by:"
+msgstr "通过将图像整理："
+
+#: ../admin/views/BWGViewBWGShortcode.php:210 ../admin/views/BWGViewThemes_bwg.
+#: php:58
+msgid "Title"
+msgstr "称号"
+
+#: ../admin/views/BWGViewBWGShortcode.php:211
+#: ../admin/views/BWGViewRates_bwg.php:104
+msgid "Date"
+msgstr "迄今"
+
+#: ../admin/views/BWGViewBWGShortcode.php:212
+#: ../admin/views/BWGViewGalleries_bwg. php:904
+#: ../admin/views/BWGViewGalleries_bwg.php:920 ../framework/WDWLibrary. php:849
+msgid "Filename"
+msgstr "文件名"
+
+#: ../admin/views/BWGViewBWGShortcode.php:213 ../framework/WDWLibrary.php:850
+msgid "Size"
+msgstr "尺寸"
+
+#: ../admin/views/BWGViewBWGShortcode.php:215
+msgid "Resolution"
+msgstr "解析度"
+
+#: ../admin/views/BWGViewBWGShortcode.php:221
+msgid "Order images:"
+msgstr "指令图像："
+
+#: ../admin/views/BWGViewBWGShortcode.php:223
+msgid "Ascending"
+msgstr "升序"
+
+#: ../admin/views/BWGViewBWGShortcode.php:224
+msgid "Descending"
+msgstr "降序"
+
+#: ../admin/views/BWGViewBWGShortcode.php:228
+#: ../admin/views/BWGViewOptions_bwg. php:158
+msgid "Show search box:"
+msgstr "显示搜索框："
+
+#: ../admin/views/BWGViewBWGShortcode.php:235
+#: ../admin/views/BWGViewOptions_bwg. php:168
+msgid "Search box width:"
+msgstr "搜索框宽度："
+
+#: ../admin/views/BWGViewBWGShortcode.php:239
+#: ../admin/views/BWGViewOptions_bwg. php:187
+msgid "Show tag box:"
+msgstr "显示标签框："
+
+#: ../admin/views/BWGViewBWGShortcode.php:246
+#: ../admin/views/BWGViewOptions_bwg. php:177
+msgid "Show \"Order by\" dropdown list:"
+msgstr "展会 “排序按”下拉列表："
+
+#: ../admin/views/BWGViewBWGShortcode.php:254
+#: ../admin/views/BWGViewOptions_bwg. php:1298
+msgid "Masonry:"
+msgstr "砌体："
+
+#: ../admin/views/BWGViewBWGShortcode.php:257
+#: ../admin/views/BWGViewBWGShortcode. php:273
+#: ../admin/views/BWGViewBWGShortcode.php:372 ..
+#: /admin/views/BWGViewBWGShortcode.php:461
+msgid "Image thumbnail width:"
+msgstr "图片缩略图宽度："
+
+#: ../admin/views/BWGViewBWGShortcode.php:260
+#: ../admin/views/BWGViewBWGShortcode. php:276
+#: ../admin/views/BWGViewBWGShortcode.php:375 ..
+#: /admin/views/BWGViewBWGShortcode.php:520
+#: ../admin/views/BWGViewOptions_bwg.php:1301
+#: ../admin/views/BWGViewOptions_bwg.php:1311
+msgid "Vertical"
+msgstr "纵"
+
+#: ../admin/views/BWGViewBWGShortcode.php:261
+#: ../admin/views/BWGViewBWGShortcode. php:277
+#: ../admin/views/BWGViewBWGShortcode.php:376
+msgid "Max. number of image columns: "
+msgstr "最大。图像列数："
+
+#: ../admin/views/BWGViewBWGShortcode.php:265
+#: ../admin/views/BWGViewBWGShortcode. php:281
+#: ../admin/views/BWGViewBWGShortcode.php:380 ..
+#: /admin/views/BWGViewBWGShortcode.php:525
+#: ../admin/views/BWGViewOptions_bwg.php:1302
+#: ../admin/views/BWGViewOptions_bwg.php:1312
+msgid "Horizontal"
+msgstr "卧式"
+
+#: ../admin/views/BWGViewBWGShortcode.php:270
+#: ../admin/views/BWGViewBWGShortcode. php:369
+#: ../admin/views/BWGViewBWGShortcode.php:514 ..
+#: /admin/views/BWGViewOptions_bwg.php:1308
+msgid "Mosaic:"
+msgstr "马赛克："
+
+#: ../admin/views/BWGViewBWGShortcode.php:287
+#: ../admin/views/BWGViewBWGShortcode. php:386
+#: ../admin/views/BWGViewBWGShortcode.php:531
+msgid ""
+"Mosaic thumbnails do not have fixed size, but are proportional to the width "
+"of the parent container. This option keeps thumbs to look nice when viewed "
+"with very large or very small screen. Prevents zooming of thumbs."
+msgstr ""
+"镶嵌缩略图没有固定的大小，但是成正比的父容器的宽度。此选项使拇指好看非常大或"
+"非常小的屏幕上观看时。防止变焦大拇指。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:287
+#: ../admin/views/BWGViewBWGShortcode. php:386
+msgid "Resizable mosaic"
+msgstr "可调整大小的马赛克"
+
+#: ../admin/views/BWGViewBWGShortcode.php:295
+#: ../admin/views/BWGViewBWGShortcode. php:394
+#: ../admin/views/BWGViewBWGShortcode.php:540
+msgid "Percentage of container's width"
+msgstr "容器的宽度的百分比"
+
+#: ../admin/views/BWGViewBWGShortcode.php:295
+#: ../admin/views/BWGViewBWGShortcode. php:540
+#: ../admin/views/BWGViewOptions_bwg.php:1328
+msgid "Total width of mosaic:"
+msgstr "总宽镶嵌："
+
+#: ../admin/views/BWGViewBWGShortcode.php:300
+#: ../admin/views/BWGViewBWGShortcode. php:398
+#: ../admin/views/BWGViewBWGShortcode.php:452 ..
+#: /admin/views/BWGViewBWGShortcode.php:521 php:544
+#: ../admin/views/BWGViewBWGShortcode.php:2323
+msgid "Max. number of image columns:"
+msgstr "最大。图像列数："
+
+#: ../admin/views/BWGViewBWGShortcode.php:304
+#: ../admin/views/BWGViewBWGShortcode. php:402
+#: ../admin/views/BWGViewBWGShortcode.php:456 ..
+#: /admin/views/BWGViewBWGShortcode.php:548 php:621
+msgid ""
+"If you want to display all images you should leave it blank or insert 0."
+msgstr "如果你想显示所有图像，你应该保留为空或插入0。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:304
+#: ../admin/views/BWGViewBWGShortcode. php:402
+#: ../admin/views/BWGViewBWGShortcode.php:456 ..
+#: /admin/views/BWGViewBWGShortcode.php:548 php:621
+#: ../admin/views/BWGViewOptions_bwg.php:1346
+msgid "Images per page:"
+msgstr "每页图片："
+
+#: ../admin/views/BWGViewBWGShortcode.php:308
+#: ../admin/views/BWGViewBWGShortcode. php:406
+#: ../admin/views/BWGViewBWGShortcode.php:552
+msgid "Image title:"
+msgstr "图片标题："
+
+#: ../admin/views/BWGViewBWGShortcode.php:310
+#: ../admin/views/BWGViewBWGShortcode. php:348
+#: ../admin/views/BWGViewBWGShortcode.php:408 ..
+#: /admin/views/BWGViewBWGShortcode.php:554
+#: ../admin/views/BWGViewOptions_bwg.php:1025
+#: ../admin/views/BWGViewOptions_bwg.php:1378
+msgid "Show on hover"
+msgstr "展会上悬停"
+
+#: ../admin/views/BWGViewBWGShortcode.php:311
+#: ../admin/views/BWGViewBWGShortcode. php:349
+#: ../admin/views/BWGViewBWGShortcode.php:409 ..
+#: /admin/views/BWGViewBWGShortcode.php:555
+#: ../admin/views/BWGViewOptions_bwg.php:1026
+#: ../admin/views/BWGViewOptions_bwg.php:1379
+msgid "Always show"
+msgstr "始终显示"
+
+#: ../admin/views/BWGViewBWGShortcode.php:312
+#: ../admin/views/BWGViewBWGShortcode. php:350
+#: ../admin/views/BWGViewBWGShortcode.php:410 ..
+#: /admin/views/BWGViewBWGShortcode.php:556
+#: ../admin/views/BWGViewOptions_bwg.php:1027
+#: ../admin/views/BWGViewOptions_bwg.php:1380
+msgid "Don't show"
+msgstr "不显示"
+
+#: ../admin/views/BWGViewBWGShortcode.php:316
+#: ../admin/views/BWGViewBWGShortcode. php:421
+#: ../admin/views/BWGViewBWGShortcode.php:465 ..
+#: /admin/views/BWGViewBWGShortcode.php:567 php:625
+#: ../admin/views/BWGViewOptions_bwg.php:1001
+msgid "Enable pagination:"
+msgstr "启用分页："
+
+#: ../admin/views/BWGViewBWGShortcode.php:320
+#: ../admin/views/BWGViewBWGShortcode. php:425
+#: ../admin/views/BWGViewBWGShortcode.php:469 ..
+#: /admin/views/BWGViewBWGShortcode.php:571
+msgid "Load More"
+msgstr "装载更多"
+
+#: ../admin/views/BWGViewBWGShortcode.php:321
+#: ../admin/views/BWGViewBWGShortcode. php:426
+#: ../admin/views/BWGViewBWGShortcode.php:470 ..
+#: /admin/views/BWGViewBWGShortcode.php:572 php:630
+msgid "Scroll Load"
+msgstr "滚动负载"
+
+#: ../admin/views/BWGViewBWGShortcode.php:325
+#: ../admin/views/BWGViewBWGShortcode. php:434
+#: ../admin/views/BWGViewBWGShortcode.php:478 ..
+#: /admin/views/BWGViewBWGShortcode.php:580 php:634
+msgid "Images per load:"
+msgstr "每个加载图片："
+
+#: ../admin/views/BWGViewBWGShortcode.php:329
+msgid "Maximum values for thumbnail dimension."
+msgstr "最大值为缩略图尺寸。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:329
+#: ../admin/views/BWGViewBWGShortcode. php:560
+msgid "Image Thumbnail dimensions:"
+msgstr "图片缩略图尺寸："
+
+#: ../admin/views/BWGViewBWGShortcode.php:338
+#: ../admin/views/BWGViewBWGShortcode. php:440
+msgid "Max. number of album columns:"
+msgstr "最大。专辑列数："
+
+#: ../admin/views/BWGViewBWGShortcode.php:342
+#: ../admin/views/BWGViewBWGShortcode. php:430
+#: ../admin/views/BWGViewBWGShortcode.php:444 ..
+#: /admin/views/BWGViewBWGShortcode.php:474 php:484
+#: ../admin/views/BWGViewBWGShortcode.php:576
+msgid ""
+"If you want to display all albums you should leave it blank or insert 0."
+msgstr "如果你想显示所有专辑，你应该保留为空或插入0。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:342
+#: ../admin/views/BWGViewBWGShortcode. php:444
+#: ../admin/views/BWGViewBWGShortcode.php:484 ..
+#: /admin/views/BWGViewOptions_bwg.php:992
+msgid "Albums per page:"
+msgstr "每页专辑："
+
+#: ../admin/views/BWGViewBWGShortcode.php:346
+msgid "Album title:"
+msgstr "专辑名称："
+
+#: ../admin/views/BWGViewBWGShortcode.php:354
+#: ../admin/views/BWGViewBWGShortcode. php:499
+msgid "Maximum values for album thumb width and height."
+msgstr "最大值专辑拇指的宽度和高度。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:354
+msgid "Album Thumbnail dimensions:"
+msgstr "相册缩略图尺寸："
+
+#: ../admin/views/BWGViewBWGShortcode.php:361
+#: ../admin/views/BWGViewBWGShortcode. php:506
+msgid "The gallery images view type in the album."
+msgstr "画廊的图像在相册上看到的类型。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:361
+#: ../admin/views/BWGViewBWGShortcode. php:506
+#: ../admin/views/BWGViewOptions_bwg.php:1011
+msgid "Album view type:"
+msgstr "专辑视图类型："
+
+#: ../admin/views/BWGViewBWGShortcode.php:395
+#: ../admin/views/BWGViewBWGShortcode. php:541
+msgid "percent"
+msgstr "百分"
+
+#: ../admin/views/BWGViewBWGShortcode.php:414
+#: ../admin/views/BWGViewBWGShortcode. php:560
+msgid "Maximum values for thumbnail width and height."
+msgstr "最大值缩略图宽度和高度。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:414
+#: ../admin/views/BWGViewBWGShortcode. php:2321
+msgid "Image thumbnail dimensions:"
+msgstr "图片缩略图尺寸："
+
+#: ../admin/views/BWGViewBWGShortcode.php:430
+#: ../admin/views/BWGViewBWGShortcode. php:474
+#: ../admin/views/BWGViewBWGShortcode.php:576
+msgid "Albums per load:"
+msgstr "每个加载专辑："
+
+#: ../admin/views/BWGViewBWGShortcode.php:448
+msgid "Maximum value for album thumbnail width."
+msgstr "专辑缩略图宽度最大值。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:448
+msgid "Album Thumbnail width:"
+msgstr "相册缩略图宽度："
+
+#: ../admin/views/BWGViewBWGShortcode.php:461
+msgid "Maximum value for thumbnail width."
+msgstr "为缩略图宽度最大值。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:488
+msgid "Album row height:"
+msgstr "相册行高："
+
+#: ../admin/views/BWGViewBWGShortcode.php:492
+msgid ""
+"If you disable description only the title of the album will be displayed."
+msgstr "如果禁用描述仅这张专辑的标题会显示出来。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:492
+msgid "Enable album description:"
+msgstr "启用专辑介绍："
+
+#: ../admin/views/BWGViewBWGShortcode.php:499
+#: ../admin/views/BWGViewOptions_bwg. php:1053
+msgid "Album thumbnail dimensions:"
+msgstr "相册缩略图尺寸："
+
+#: ../admin/views/BWGViewBWGShortcode.php:517
+#: ../admin/views/BWGViewBWGShortcode. php:2322
+msgid "Image thumbnail width: "
+msgstr "图片缩略图宽度："
+
+#: ../admin/views/BWGViewBWGShortcode.php:531
+#: ../admin/views/BWGViewOptions_bwg. php:1318
+msgid "Resizable mosaic:"
+msgstr "可调整大小的马赛克："
+
+#: ../admin/views/BWGViewBWGShortcode.php:586
+#: ../admin/views/BWGViewBWGShortcode. php:608
+msgid "Maximum value for image width."
+msgstr "图像宽度的最大值。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:586
+#: ../admin/views/BWGViewBWGShortcode. php:608
+msgid "Image width:"
+msgstr "图片宽度："
+
+#: ../admin/views/BWGViewBWGShortcode.php:592
+#: ../admin/views/BWGViewBWGShortcode. php:614
+#: ../admin/views/BWGViewOptions_bwg.php:1179 ..
+#: /admin/views/BWGViewOptions_bwg.php:1646
+msgid "Enable image title:"
+msgstr "启用图片标题："
+
+#: ../admin/views/BWGViewBWGShortcode.php:599
+#: ../admin/views/BWGViewOptions_bwg. php:1222
+msgid "Enable image description:"
+msgstr "启用图片说明："
+
+#: ../admin/views/BWGViewBWGShortcode.php:629
+msgid "Load more"
+msgstr "装载更多"
+
+#: ../admin/views/BWGViewBWGShortcode.php:640
+msgid "Slideshow Effect:"
+msgstr "幻灯片效果："
+
+#: ../admin/views/BWGViewBWGShortcode.php:654
+#: ../admin/views/BWGViewBWGShortcode. php:814
+#: ../admin/views/BWGViewBWGShortcode.php:911
+msgid "Interval between two images."
+msgstr "两幅图像之间的时间间隔。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:654
+#: ../admin/views/BWGViewBWGShortcode. php:814
+#: ../admin/views/BWGViewBWGShortcode.php:911 ..
+#: /admin/views/BWGViewOptions_bwg.php:677
+#: ../admin/views/BWGViewOptions_bwg.php:1100
+#: ../admin/views/BWGViewOptions_bwg.php:1596
+#: /admin/views/BWGViewWidgetSlideshow.php:141
+msgid "Time interval:"
+msgstr "时间间隔："
+
+#: ../admin/views/BWGViewBWGShortcode.php:658
+msgid "Maximum values for slideshow width and height."
+msgstr "最大值幻灯片宽度和高度。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:658
+msgid "Slideshow dimensions: "
+msgstr "幻灯片尺寸："
+
+#: ../admin/views/BWGViewBWGShortcode.php:665
+#: ../admin/views/BWGViewBWGShortcode. php:807
+msgid "Enable Autoplay:"
+msgstr "启用自动播放："
+
+#: ../admin/views/BWGViewBWGShortcode.php:672
+msgid "Enable Shuffle:"
+msgstr "启用随机播放："
+
+#: ../admin/views/BWGViewBWGShortcode.php:679
+#: ../admin/views/BWGViewBWGShortcode. php:933
+#: ../admin/views/BWGViewOptions_bwg.php:725 ..
+#: /admin/views/BWGViewOptions_bwg.php:1149
+msgid "Enable control buttons:"
+msgstr "启用控制按钮："
+
+#: ../admin/views/BWGViewBWGShortcode.php:686
+msgid "Enable slideshow filmstrip view"
+msgstr "启用幻灯片幻灯片视图"
+
+#: ../admin/views/BWGViewBWGShortcode.php:686
+#: ../admin/views/BWGViewOptions_bwg. php:1158
+msgid "Enable slideshow filmstrip:"
+msgstr "启用幻灯片幻灯片："
+
+#: ../admin/views/BWGViewBWGShortcode.php:693
+msgid "Slideshow Filmstrip size:"
+msgstr "幻灯片播放幻灯片大小："
+
+#: ../admin/views/BWGViewBWGShortcode.php:698
+msgid "Max. number of carousel images:"
+msgstr "最大。旋转木马图片的数量："
+
+#: ../admin/views/BWGViewBWGShortcode.php:709
+#: ../admin/views/BWGViewBWGShortcode. php:818
+msgid "Enable Image Title:"
+msgstr "启用图片标题："
+
+#: ../admin/views/BWGViewBWGShortcode.php:716
+#: ../admin/views/BWGViewOptions_bwg. php:1208
+msgid "Image title position on slideshow"
+msgstr "在幻灯片图像标题位置"
+
+#: ../admin/views/BWGViewBWGShortcode.php:716
+msgid "Title Position:"
+msgstr "标题位置："
+
+#: ../admin/views/BWGViewBWGShortcode.php:740
+#: ../admin/views/BWGViewOptions_bwg. php:1218
+msgid "Display image title based on the slideshow dimensions."
+msgstr "根据幻灯片尺寸显示图片标题。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:741
+#: ../admin/views/BWGViewOptions_bwg. php:1213
+msgid "Full width title:"
+msgstr "全宽标题："
+
+#: ../admin/views/BWGViewBWGShortcode.php:749
+msgid "Enable Image Description:"
+msgstr "启用图片说明："
+
+#: ../admin/views/BWGViewBWGShortcode.php:756
+#: ../admin/views/BWGViewOptions_bwg. php:1251
+msgid "Image description position on slideshow"
+msgstr "在幻灯片图片说明位置"
+
+#: ../admin/views/BWGViewBWGShortcode.php:756
+msgid "Description Position:"
+msgstr "说明现在的位置："
+
+#: ../admin/views/BWGViewBWGShortcode.php:780
+msgid "Enable Slideshow Music:"
+msgstr "启用幻灯片音乐："
+
+#: ../admin/views/BWGViewBWGShortcode.php:787
+msgid "Enter absolute audio file url or add file from Options page."
+msgstr "进入绝对音频文件的URL，或从选项页面中添加文件。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:788
+#: ../admin/views/BWGViewOptions_bwg. php:1266
+msgid "Music url:"
+msgstr "音乐网址："
+
+#: ../admin/views/BWGViewBWGShortcode.php:796
+#: ../admin/views/BWGViewBWGShortcode. php:825
+msgid "Maximum values for carousel width and height."
+msgstr "最大值传送带宽度和高度。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:796
+msgid "Carousel dimensions:"
+msgstr "转盘尺寸："
+
+#: ../admin/views/BWGViewBWGShortcode.php:803
+#: ../admin/views/BWGViewOptions_bwg. php:1614
+msgid "Carousel image ratio:"
+msgstr "旋转木马图像比例："
+
+#: ../admin/views/BWGViewBWGShortcode.php:825
+#: ../admin/views/BWGViewOptions_bwg. php:1633
+msgid "Fixed width:"
+msgstr "固定宽度："
+
+#: ../admin/views/BWGViewBWGShortcode.php:832
+#: ../admin/views/BWGViewOptions_bwg. php:1665
+msgid "Container fit:"
+msgstr "集装箱配合："
+
+#: ../admin/views/BWGViewBWGShortcode.php:839
+#: ../admin/views/BWGViewOptions_bwg. php:1675
+msgid "Next/Previous buttons:"
+msgstr "下一个/上一个按钮："
+
+#: ../admin/views/BWGViewBWGShortcode.php:846
+#: ../admin/views/BWGViewOptions_bwg. php:1685
+msgid "Play/Pause button:"
+msgstr "播放/暂停按钮："
+
+#: ../admin/views/BWGViewBWGShortcode.php:855
+msgid "Thumb click action:"
+msgstr "拇指点击动作："
+
+#: ../admin/views/BWGViewBWGShortcode.php:857
+#: ../admin/views/BWGViewOptions_bwg. php:1413
+msgid "Open lightbox"
+msgstr "打开收藏夹"
+
+#: ../admin/views/BWGViewBWGShortcode.php:858
+#: ../admin/views/BWGViewOptions_bwg. php:1414
+msgid "Redirect to url"
+msgstr "重定向到URL"
+
+#: ../admin/views/BWGViewBWGShortcode.php:859
+#: ../admin/views/BWGViewOptions_bwg. php:1415
+msgid "Do Nothing"
+msgstr "没做什么"
+
+#: ../admin/views/BWGViewBWGShortcode.php:863
+msgid "Open new window when redirecting."
+msgstr "重定向时打开新的窗口。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:863
+msgid "Open in new window:"
+msgstr "在新窗口打开："
+
+#: ../admin/views/BWGViewBWGShortcode.php:872
+#: ../admin/views/BWGViewOptions_bwg. php:635
+msgid "Enable full width feature for the lightbox."
+msgstr "启用的收藏夹全宽的特征。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:873
+#: ../admin/views/BWGViewOptions_bwg. php:630
+msgid "Full width lightbox:"
+msgstr "全宽收藏夹："
+
+#: ../admin/views/BWGViewBWGShortcode.php:881
+msgid "Maximum values for lightbox width and height."
+msgstr "最大值夹宽度和高度。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:881
+#: ../admin/views/BWGViewOptions_bwg. php:640
+msgid "Lightbox dimensions:"
+msgstr "灯箱尺寸："
+
+#: ../admin/views/BWGViewBWGShortcode.php:888
+msgid "Lightbox slideshow effect."
+msgstr "灯箱幻灯片效果。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:888
+#: ../admin/views/BWGViewOptions_bwg. php:650
+msgid "Lightbox effect:"
+msgstr "灯箱效果："
+
+#: ../admin/views/BWGViewBWGShortcode.php:903
+#: ../admin/views/BWGViewOptions_bwg. php:667
+msgid "Lightbox autoplay:"
+msgstr "灯箱自动播放："
+
+#: ../admin/views/BWGViewBWGShortcode.php:915
+msgid "Enable filmstrip view for images"
+msgstr "启用图像幻灯片视图"
+
+#: ../admin/views/BWGViewBWGShortcode.php:915
+msgid "Enable filmstrip in lightbox:"
+msgstr "启用幻灯片的收藏夹："
+
+#: ../admin/views/BWGViewBWGShortcode.php:922
+#: ../admin/views/BWGViewOptions_bwg. php:696
+msgid "Filmstrip size:"
+msgstr "幻灯片大小："
+
+#: ../admin/views/BWGViewBWGShortcode.php:926
+#: ../admin/views/BWGViewOptions_bwg. php:705
+msgid "Display hit counter:"
+msgstr "显示击计数器："
+
+#: ../admin/views/BWGViewBWGShortcode.php:933
+msgid "Enable control buttons in lightbox"
+msgstr "启用收藏夹控制按钮"
+
+#: ../admin/views/BWGViewBWGShortcode.php:942
+msgid "Enable fullscreen view for images"
+msgstr "启用图像全屏视图"
+
+#: ../admin/views/BWGViewBWGShortcode.php:942
+#: ../admin/views/BWGViewOptions_bwg. php:761
+msgid "Enable fullscreen:"
+msgstr "启用全屏："
+
+#: ../admin/views/BWGViewBWGShortcode.php:949
+msgid "Enable title, description for images"
+msgstr "启用标题，描述图片"
+
+#: ../admin/views/BWGViewBWGShortcode.php:949
+#: ../admin/views/BWGViewOptions_bwg. php:771
+msgid "Enable info:"
+msgstr "启动信息："
+
+#: ../admin/views/BWGViewBWGShortcode.php:956
+#: ../admin/views/BWGViewOptions_bwg. php:781
+msgid "Display info by default:"
+msgstr "默认显示的信息："
+
+#: ../admin/views/BWGViewBWGShortcode.php:963
+#: ../admin/views/BWGViewOptions_bwg. php:796
+msgid "Display image information based on the lightbox dimensions."
+msgstr "基于该收藏尺寸显示图象信息。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:963
+#: ../admin/views/BWGViewOptions_bwg. php:791
+msgid "Full width info:"
+msgstr "全宽信息："
+
+#: ../admin/views/BWGViewBWGShortcode.php:970
+msgid "Enable rating for images"
+msgstr "启用评级图像"
+
+#: ../admin/views/BWGViewBWGShortcode.php:970
+#: ../admin/views/BWGViewOptions_bwg. php:807
+msgid "Enable rating:"
+msgstr "启用的评价："
+
+#: ../admin/views/BWGViewBWGShortcode.php:977
+msgid "Enable comments for images"
+msgstr "启用图片评论"
+
+#: ../admin/views/BWGViewBWGShortcode.php:977
+#: ../admin/views/BWGViewOptions_bwg. php:817
+msgid "Enable comments:"
+msgstr "启用评论："
+
+#: ../admin/views/BWGViewBWGShortcode.php:984
+msgid "Enable Facebook share button for images"
+msgstr "启用图像Facebook分享按钮"
+
+#: ../admin/views/BWGViewBWGShortcode.php:984
+#: ../admin/views/BWGViewOptions_bwg. php:881
+msgid "Enable Facebook button:"
+msgstr "启用Facebook的按钮："
+
+#: ../admin/views/BWGViewBWGShortcode.php:991
+msgid "Enable Twitter share button for images"
+msgstr "启用图像微博分享按钮"
+
+#: ../admin/views/BWGViewBWGShortcode.php:991
+#: ../admin/views/BWGViewOptions_bwg. php:891
+msgid "Enable Twitter button:"
+msgstr "启用Twitter的按钮："
+
+#: ../admin/views/BWGViewBWGShortcode.php:998
+msgid "Enable Google+ share button for images"
+msgstr "启用图像Google+分享按钮"
+
+#: ../admin/views/BWGViewBWGShortcode.php:998
+#: ../admin/views/BWGViewOptions_bwg. php:901
+msgid "Enable Google+ button:"
+msgstr "启用Google+的按钮："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1005
+msgid "Enable Pinterest share button for images"
+msgstr "启用图像Pinterest的分享按钮"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1005
+#: ../admin/views/BWGViewOptions_bwg. php:911
+msgid "Enable Pinterest button:"
+msgstr "启用Pinterest的按钮："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1012
+msgid "Enable Tumblr share button for images"
+msgstr "启用图像的tumblr分享按钮"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1012
+#: ../admin/views/BWGViewOptions_bwg. php:921
+msgid "Enable Tumblr button:"
+msgstr "启用的tumblr按钮："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1025
+msgid "Advertisement Type:"
+msgstr "广告类型："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1028
+#: ../admin/views/BWGViewOptions_bwg. php:330
+#: ../admin/views/BWGViewOptions_bwg.php:483 ..
+#: /admin/views/BWGViewThemes_bwg.php:3708
+#: ../admin/views/BWGViewWidgetTags.php:118
+msgid "Text"
+msgstr "正文"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1029
+#: ../admin/views/BWGViewComments_bwg. php:62
+#: ../admin/views/BWGViewComments_bwg.php:83 ..
+#: /admin/views/BWGViewOptions_bwg.php:332
+#: ../admin/views/BWGViewOptions_bwg.php:485
+#: ../admin/views/BWGViewRates_bwg.php:59 ../admin/views/BWGViewRates_bwg.php:
+#: 80 ../admin/views/BWGViewWidgetTags.php:119
+msgid "Image"
+msgstr "像"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1033
+msgid "Enter absolute url"
+msgstr "输入绝对URL"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1034
+#: ../admin/views/BWGViewOptions_bwg. php:522
+msgid "Advertisement link:"
+msgstr "广告链接："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1041
+msgid "Enter absolute image file url or add file from Options page."
+msgstr "进入绝对的图像文件的URL，或从选项页面中添加文件。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1042
+#: ../admin/views/BWGViewOptions_bwg. php:491
+msgid "Advertisement url:"
+msgstr "广告网址："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1049
+#: ../admin/views/BWGViewOptions_bwg. php:536
+msgid "Maximum values for watermark image width and height."
+msgstr "最大值水印图像的宽度和高度。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1049
+#: ../admin/views/BWGViewOptions_bwg. php:531
+msgid "Advertisement dimensions:"
+msgstr "广告尺寸："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1056
+#: ../admin/views/BWGViewOptions_bwg. php:513
+msgid "Advertisement text:"
+msgstr "广告文字："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1062
+#: ../admin/views/BWGViewOptions_bwg. php:541
+msgid "Advertisement font size:"
+msgstr "广告字体大小："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1068
+msgid "Advertisement font style:"
+msgstr "广告字体样式："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1082
+#: ../admin/views/BWGViewOptions_bwg. php:567
+msgid "Advertisement color:"
+msgstr "广告色："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1088
+#: ../admin/views/BWGViewOptions_bwg. php:580
+#: ../admin/views/BWGViewThemes_bwg.php:363 ..
+#: /admin/views/BWGViewThemes_bwg.php:376
+#: ../admin/views/BWGViewThemes_bwg.php:520
+#: ../admin/views/BWGViewThemes_bwg.php:533 ../admin/views/BWGViewThemes_bwg.
+#: php:670 ../admin/views/BWGViewThemes_bwg.php:683
+#: /admin/views/BWGViewThemes_bwg.php:826 981
+#: ../admin/views/BWGViewThemes_bwg.php:1067 php:1120
+#: ../admin/views/BWGViewThemes_bwg.php:1189
+#: /admin/views/BWGViewThemes_bwg.php:1302 1520
+#: ../admin/views/BWGViewThemes_bwg.php:1533
+#: /admin/views/BWGViewThemes_bwg.php:1754 1794
+#: ../admin/views/BWGViewThemes_bwg.php:1873
+#: /admin/views/BWGViewThemes_bwg.php:2260 2396
+#: ../admin/views/BWGViewThemes_bwg.php:2567
+#: /admin/views/BWGViewThemes_bwg.php:2603 2656
+#: ../admin/views/BWGViewThemes_bwg.php:2683
+#: /admin/views/BWGViewThemes_bwg.php:2968 3090
+#: ../admin/views/BWGViewThemes_bwg.php:3220
+#: /admin/views/BWGViewThemes_bwg.php:3647 3733
+#: ../admin/views/BWGViewThemes_bwg.php:3758
+#: /admin/views/BWGViewThemes_bwg.php:3890
+msgid "Value must be between 0 to 100."
+msgstr "值必须在0到100之间。"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1088
+msgid "Advertisement opacity: "
+msgstr "广告不透明度："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1094
+msgid "Advertisement Position: "
+msgstr "广告位置："
+
+#: ../admin/views/BWGViewBWGShortcode.php:1147
+msgid "Generate"
+msgstr "生成"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1148
+msgid "Import"
+msgstr "输入"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1151
+msgid "Shortcode"
+msgstr "简"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1155
+msgid "PHP function"
+msgstr "PHP函数"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1200
+msgid "There is no shortcode with such ID!"
+msgstr "有这样的ID号简！"
+
+#: ../admin/views/BWGViewBWGShortcode.php:2324
+msgid "Image thumbnail height:"
+msgstr "图片缩略图高度："
+
+#: ../admin/views/BWGViewBWGShortcode.php:2325
+msgid "Number of image rows:"
+msgstr "图像的行数："
+
+#: ../admin/views/BWGViewComments_bwg.php:41
+msgid "This section allows you to manage the image comments."
+msgstr "本节，您可以管理图像的意见。"
+
+#: ../admin/views/BWGViewComments_bwg.php:61
+#: ../admin/views/BWGViewRates_bwg.php:58 ../admin/views/BWGViewWidget.php:119
+msgid "Gallery"
+msgstr "图库"
+
+#: ../admin/views/BWGViewComments_bwg.php:99
+#: ../frontend/views/BWGViewGalleryBox. php:1260
+#: ../frontend/views/BWGViewGalleryBox.php:1275 ..
+#: /frontend/views/BWGViewGalleryBox.php:1282
+msgid "Comment"
+msgstr "注解"
+
+#: ../admin/views/BWGViewComments_bwg.php:110
+#: ../frontend/views/BWGViewGalleryBox. php:1253
+#: ../frontend/views/BWGViewGalleryBox.php:1275 ..
+#: /frontend/views/BWGViewGalleryBox.php:1282
+msgid "Email"
+msgstr "电子邮件"
+
+#: ../admin/views/BWGViewEditThumb.php:183
+msgid "You can't crop this type of image."
+msgstr "你不能裁剪这种类型的图像。"
+
+#: ../admin/views/BWGViewEditThumb.php:252
+msgid "The thumbnail successfully croped."
+msgstr "缩略图成功croped。"
+
+#: ../admin/views/BWGViewEditThumb.php:255
+msgid "Select the area for the thumbnail."
+msgstr "选择的缩略图对应的区域。"
+
+#: ../admin/views/BWGViewEditThumb.php:268
+msgid "Keep aspect ratio"
+msgstr "保持宽高比"
+
+#: ../admin/views/BWGViewEditThumb.php:741
+msgid "Grayscale"
+msgstr "灰阶"
+
+#: ../admin/views/BWGViewEditThumb.php:745
+msgid "Negative"
+msgstr "负"
+
+#: ../admin/views/BWGViewEditThumb.php:749
+msgid "Removal"
+msgstr "去除"
+
+#: ../admin/views/BWGViewEditThumb.php:753
+msgid "Sepia"
+msgstr "怀旧"
+
+#: ../admin/views/BWGViewEditThumb.php:757
+msgid "Slate"
+msgstr "板岩"
+
+#: ../admin/views/BWGViewEditThumb.php:761
+msgid "Saturate"
+msgstr "饱和"
+
+#: ../admin/views/BWGViewEditThumb.php:765
+msgid "Do you want to reset the image?"
+msgstr "你想重置的形象呢？"
+
+#: ../admin/views/BWGViewEditThumb.php:765
+msgid "Reset image"
+msgstr "复位图像"
+
+#: ../admin/views/BWGViewEditThumb.php:791
+msgid "Brightness"
+msgstr "明亮"
+
+#: ../admin/views/BWGViewEditThumb.php:793
+#: ../admin/views/BWGViewEditThumb.php:818
+msgid "Press for result"
+msgstr "按住结果"
+
+#: ../admin/views/BWGViewEditThumb.php:816
+msgid "Contrast"
+msgstr "对照"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:39
+msgid "This section allows you to create, edit and delete galleries."
+msgstr "本部分允许您创建，编辑和删除的画廊。"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:46
+msgid "Galleries"
+msgstr "画廊"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:109
+msgid "Images count"
+msgstr "图片数"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:205
+msgid "Edit gallery"
+msgstr "编辑图库"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:205
+msgid "Create new gallery"
+msgstr "创建新图库"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:218
+msgid "This section allows you to add/edit gallery."
+msgstr "这部分允许你添加/编辑画廊。"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:355 ..
+#: /admin/views/BWGViewGalleries_bwg.php:1005
+msgid "Crop"
+msgstr "收成"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:372 ..
+#: /admin/views/BWGViewGalleries_bwg.php:782
+#: ../admin/views/BWGViewGalleries_bwg. php:1019
+#: ../admin/views/BWGViewThemes_bwg.php:231 ../framework/WDWLibrary.php:189
+#: ../framework/WDWLibrary.php:363 ../framework/WDWLibrary.php:722
+#: /framework/WDWLibrary.php:784
+msgid "Reset"
+msgstr "重置"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:554
+msgid "Gallery content type:"
+msgstr "图库内容类型："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:557
+msgid "Mixed"
+msgstr "杂"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:558
+msgid "Instagram only"
+msgstr "只有Instagram的"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:560
+msgid "Facebook"
+msgstr "Facebook的"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:570
+msgid "Instagram username:"
+msgstr "Instagram的用户名："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:575 ..
+#: /admin/views/BWGViewGalleries_bwg.php:852
+msgid "Number of Instagram recent posts to add to gallery:"
+msgstr "要添加到库的Instagram的最新文章编号："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:579
+msgid "Instagram embed type: "
+msgstr "Instagram的嵌入类型："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:582 ..
+#: /admin/views/BWGViewGalleries_bwg.php:859
+msgid "Content"
+msgstr "内容"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:584 ..
+#: /admin/views/BWGViewGalleries_bwg.php:861
+msgid "Whole post"
+msgstr "整个后"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:588
+msgid "Gallery autoupdate option:"
+msgstr "库自动更新选项："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:591
+msgid "No update"
+msgstr "没有更新"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:593
+msgid "Add new media, keep old ones published."
+msgstr "添加新媒体，让旧的出版。"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:595
+msgid "Add new media, unpublish old ones."
+msgstr "添加新媒体，取消发布旧的。"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:609
+msgid "Facebook album url: "
+msgstr "Facebook相册网址："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:613
+msgid "Images limit: "
+msgstr "图片限制："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:626
+msgid "Gallery autoupdate option: "
+msgstr "库自动更新选项："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:644
+msgid "Description: "
+msgstr "说明："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:667
+msgid "Published: "
+msgstr "发布时间："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:757
+msgid "Add Images"
+msgstr "添加图片"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:766
+msgid "Embed Media"
+msgstr "嵌入媒体"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:767
+msgid "Bulk Embed"
+msgstr "散装嵌入"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:777
+msgid "Set Watermark"
+msgstr "设置水印"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:778
+msgid "Resize"
+msgstr "调整"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:779
+msgid "Recreate Thumbnail"
+msgstr "重新创建缩略图"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:787 ..
+#: /admin/views/BWGViewGalleries_bwg.php:1046
+msgid "Add tag"
+msgstr "添加标签"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:806
+msgid "Add to gallery"
+msgstr "添加到图库"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:809
+msgid ""
+"Enter YouTube, Vimeo, Instagram, Facebook, Flickr or Dailymotion URL here."
+msgstr ""
+"输入YouTube，Vimeo的，Instagram的，脸谱，Flickr或位DailyMotion网址在这里。"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:809
+msgid "Help"
+msgstr "帮帮我"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:812
+msgid "Close"
+msgstr "亲密"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:813 ..
+#: /admin/views/BWGViewGalleries_bwg.php:814
+#: ../admin/views/BWGViewGalleries_bwg. php:815
+#: ../admin/views/BWGViewGalleries_bwg.php:824
+msgid "example:"
+msgstr "例如："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:815
+msgid "Add"
+msgstr "加"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:815
+msgid "post"
+msgstr "职位"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:815
+msgid ""
+"to the end of URL if you want to embed the whole Instagram post, not only "
+"its content."
+msgstr "到URL的末尾，如果要嵌入整个Instagram的帖子，不仅是它的内容。"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:817
+msgid "Photo URL example:"
+msgstr "照片的URL例如："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:818
+msgid "Video URL example:"
+msgstr "视频网址例如："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:822
+msgid "Note that media must have public privacy."
+msgstr "需要注意的是媒体必须有公众的隐私。"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:825
+msgid "URL example:"
+msgstr "URL例如："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:836
+msgid "Bulk embed from:"
+msgstr "从散装嵌入："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:848
+msgid "username:"
+msgstr "用户名："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:856
+msgid "embed type:"
+msgstr "嵌入类型："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:869
+msgid "album url:"
+msgstr "专辑网址："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:873
+msgid "Images limit:"
+msgstr "图片限制："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:892
+msgid "Resize images to: "
+msgstr "调整图像："
+
+#: ../admin/views/BWGViewGalleries_bwg.php:900
+msgid "The maximum size of resized image."
+msgstr "调整后的图像的最大尺寸。"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:928
+msgid "Alt/Title"
+msgstr "ALT /标题"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:928
+msgid "Redirect"
+msgstr "重定向"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:936
+msgid "Description"
+msgstr "描写"
+
+#: ../admin/views/BWGViewOptions_bwg.php:30
+msgid ""
+"This section allows you to change settings for different views and general "
+"options."
+msgstr "本部分允许您更改设置为不同的看法和常规选项。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:96
+msgid "Edit options"
+msgstr "编辑选项"
+
+#: ../admin/views/BWGViewOptions_bwg.php:104
+msgid "Reset all options"
+msgstr "使所有选项"
+
+#: ../admin/views/BWGViewOptions_bwg.php:109
+msgid "Global options"
+msgstr "全局选项"
+
+#: ../admin/views/BWGViewOptions_bwg.php:110
+msgid "Watermark"
+msgstr "水印"
+
+#: ../admin/views/BWGViewOptions_bwg.php:111
+msgid "Advertisement"
+msgstr "广告"
+
+#: ../admin/views/BWGViewOptions_bwg.php:112
+#: ../admin/views/BWGViewThemes_bwg.php:243
+msgid "Lightbox"
+msgstr "灯盒"
+
+#: ../admin/views/BWGViewOptions_bwg.php:113
+msgid "Album options"
+msgstr "相册选项"
+
+#: ../admin/views/BWGViewOptions_bwg.php:115
+msgid "Thumbnail options"
+msgstr "缩略图选项"
+
+#: ../admin/views/BWGViewOptions_bwg.php:116
+msgid "Image options"
+msgstr "图像选项"
+
+#: ../admin/views/BWGViewOptions_bwg.php:117
+msgid "Social options"
+msgstr "社会的选择"
+
+#: ../admin/views/BWGViewOptions_bwg.php:128
+msgid "Images directory:"
+msgstr "图片目录："
+
+#: ../admin/views/BWGViewOptions_bwg.php:133
+msgid ""
+"Input an existing directory inside the Wordpress directory to store uploaded "
+"images.<br />Old directory content will be moved to the new one."
+msgstr ""
+"输入WordPress的目录中已有的目录存储上传的图片。<br />旧目录中的内容将被移动到"
+"新的。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:138 ../admin/views/BWGViewOptions_bwg.
+#: php:1623
+msgid "Image dimensions:"
+msgstr "图片尺寸："
+
+#: ../admin/views/BWGViewOptions_bwg.php:143
+msgid "The maximum size of the uploaded image (0 for original size)."
+msgstr "上载的图像的最大尺寸（0为原来的大小）。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:148
+msgid "Right click protection:"
+msgstr "右键单击保护："
+
+#: ../admin/views/BWGViewOptions_bwg.php:153
+msgid "Disable image right click possibility."
+msgstr "禁用图像右击可能性。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:197
+msgid "Preload images:"
+msgstr "预先载入图像："
+
+#: ../admin/views/BWGViewOptions_bwg.php:207
+msgid "Count of images:"
+msgstr "计数的图像："
+
+#: ../admin/views/BWGViewOptions_bwg.php:211
+msgid "Count of images to preload (0 for all)."
+msgstr "伯爵图像预加载（0所有）。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:216
+msgid "Import from Media Library:"
+msgstr "从媒体库中导入："
+
+#: ../admin/views/BWGViewOptions_bwg.php:221
+msgid "Enable import from Media Library in file manager."
+msgstr "在文件管理器允许进口的媒体库。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:226
+msgid "Enable href attribute:"
+msgstr "启用href属性："
+
+#: ../admin/views/BWGViewOptions_bwg.php:231
+msgid "Disable this option only if it conflicts with your theme."
+msgstr "禁用此选项只有当它与主题相冲突。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:236
+msgid "Meta auto-fill:"
+msgstr "元自动填充："
+
+#: ../admin/views/BWGViewOptions_bwg.php:241
+msgid ""
+"Enabling this option the meta description of the image will be automatically "
+"filled in image description field."
+msgstr "启用该选项的图像meta描述将自动填写形象描述字段。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:246
+msgid "Roles:"
+msgstr "角色："
+
+#: ../admin/views/BWGViewOptions_bwg.php:258
+msgid "Choose a user type who can add/edit galleries, images, albums and tags."
+msgstr "选择谁可以添加/编辑画廊，图片，相册和标签用户类型。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:263
+msgid "Gallery role:"
+msgstr "画廊的作用："
+
+#: ../admin/views/BWGViewOptions_bwg.php:268
+msgid "Only author can change a gallery."
+msgstr "只有作者可以改变一个画廊。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:273
+msgid "Album role:"
+msgstr "专辑的作用："
+
+#: ../admin/views/BWGViewOptions_bwg.php:278
+msgid "Only author can change an album."
+msgstr "只有作者可以改变专辑。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:283
+msgid "Image role:"
+msgstr "图片的作用："
+
+#: ../admin/views/BWGViewOptions_bwg.php:288
+msgid "Only author can change an image."
+msgstr "只有作者可以改变图像。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:293
+msgid "Show/hide custom post types:"
+msgstr "显示/隐藏自定义文章类型："
+
+#: ../admin/views/BWGViewOptions_bwg.php:303
+msgid "Show/hide comments for custom post types:"
+msgstr "自定义文章类型显示/隐藏评论："
+
+#: ../admin/views/BWGViewOptions_bwg.php:324
+msgid "Watermark type: "
+msgstr "水印类型："
+
+#: ../admin/views/BWGViewOptions_bwg.php:338
+msgid "Watermark url: "
+msgstr "水印网址："
+
+#: ../admin/views/BWGViewOptions_bwg.php:351 ../admin/views/BWGViewOptions_bwg.
+#: php:506
+msgid "Add Image"
+msgstr "添加图像"
+
+#: ../admin/views/BWGViewOptions_bwg.php:353
+msgid "Only .png format is supported."
+msgstr "仅支持。PNG格式。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:358
+msgid "Watermark text: "
+msgstr "水印文字："
+
+#: ../admin/views/BWGViewOptions_bwg.php:367
+msgid "Watermark size: "
+msgstr "水印尺寸："
+
+#: ../admin/views/BWGViewOptions_bwg.php:371
+msgid "Enter size of watermark in percents according to image."
+msgstr "根据图像中的百分比输入水印的大小。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:376
+msgid "Watermark font size:"
+msgstr "水印字体大小："
+
+#: ../admin/views/BWGViewOptions_bwg.php:385
+msgid "Watermark font style: "
+msgstr "水印字体样式："
+
+#: ../admin/views/BWGViewOptions_bwg.php:414
+msgid "Watermark color:"
+msgstr "水印颜色："
+
+#: ../admin/views/BWGViewOptions_bwg.php:423
+msgid "Watermark opacity:"
+msgstr "水印不透明度："
+
+#: ../admin/views/BWGViewOptions_bwg.php:427
+msgid "Opacity value must be in the range of 0 to 100."
+msgstr "不透明度值必须是在0到100的范围内。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:432
+msgid "Watermark position:"
+msgstr "水印的位置："
+
+#: ../admin/views/BWGViewOptions_bwg.php:477
+msgid "Advertisement type:"
+msgstr "广告类型："
+
+#: ../admin/views/BWGViewOptions_bwg.php:508
+msgid ""
+"Enter absolute image file url or add file from Options page. (.jpg,.jpeg,."
+"png,.gif formats are supported)"
+msgstr ""
+"进入绝对的图像文件的URL，或从选项页面中添加文件。 （.JPG，将.jpeg，.png，.gif"
+"注意格式的支持）"
+
+#: ../admin/views/BWGViewOptions_bwg.php:526
+msgid "Enter a URL to open when the advertisement banner is clicked."
+msgstr "输入一个网址，打开广告横幅被点击时。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:550
+msgid "dvertisement font style:"
+msgstr "dvertisement字体样式："
+
+#: ../admin/views/BWGViewOptions_bwg.php:576
+msgid "Advertisement opacity:"
+msgstr "广告不透明度："
+
+#: ../admin/views/BWGViewOptions_bwg.php:585
+msgid "Advertisement position:"
+msgstr "广告位置："
+
+#: ../admin/views/BWGViewOptions_bwg.php:686
+msgid "Enable filmstrip:"
+msgstr "启用幻灯片："
+
+#: ../admin/views/BWGViewOptions_bwg.php:715 ../admin/views/BWGViewOptions_bwg.
+#: php:1139
+msgid "Show Next / Previous buttons:"
+msgstr "显示下一个/上一个按钮："
+
+#: ../admin/views/BWGViewOptions_bwg.php:718 ../admin/views/BWGViewOptions_bwg.
+#: php:1142
+msgid "On hover"
+msgstr "悬停"
+
+#: ../admin/views/BWGViewOptions_bwg.php:719 ../admin/views/BWGViewOptions_bwg.
+#: php:1143
+msgid "Always"
+msgstr "永远"
+
+#: ../admin/views/BWGViewOptions_bwg.php:831
+msgid "Enable comments moderation:"
+msgstr "启用评论审核："
+
+#: ../admin/views/BWGViewOptions_bwg.php:841
+msgid "Enable Email for comments:"
+msgstr "启用电子邮件征求意见："
+
+#: ../admin/views/BWGViewOptions_bwg.php:851
+msgid "Enable Captcha for comments:"
+msgstr "启用验证码征求意见："
+
+#: ../admin/views/BWGViewOptions_bwg.php:861
+msgid "Enable original image display button:"
+msgstr "启用原始图像显示按钮："
+
+#: ../admin/views/BWGViewOptions_bwg.php:871
+msgid "Enable download button:"
+msgstr "启用下载按钮："
+
+#: ../admin/views/BWGViewOptions_bwg.php:931
+msgid "Show images count:"
+msgstr "查看照片数："
+
+#: ../admin/views/BWGViewOptions_bwg.php:941
+msgid "Enable loop:"
+msgstr "启用循环："
+
+#: ../admin/views/BWGViewOptions_bwg.php:951
+msgid "Enable AddThis:"
+msgstr "启用2007-06-18："
+
+#: ../admin/views/BWGViewOptions_bwg.php:963
+msgid "profile id:"
+msgstr "资料编号："
+
+#: ../admin/views/BWGViewOptions_bwg.php:967
+msgid "Create an account"
+msgstr "创建一个帐户"
+
+#: ../admin/views/BWGViewOptions_bwg.php:967
+msgid "here"
+msgstr "这里"
+
+#: ../admin/views/BWGViewOptions_bwg.php:983
+msgid "Number of album columns:"
+msgstr "专辑列数："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1017
+msgid "he gallery images view type in the album."
+msgstr "他的画廊图片在相册上看到的类型。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1022
+msgid "Show title:"
+msgstr "显示标题："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1033
+msgid "Show album/gallery name:"
+msgstr "显示相册/画廊的名字："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1043
+msgid "Enable extended album description:"
+msgstr "启用扩展专辑介绍："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1063
+msgid "Extended album height:"
+msgstr "扩展专辑高度："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1083 ..
+#: /admin/views/BWGViewWidgetSlideshow.php:129
+msgid "Slideshow effect:"
+msgstr "幻灯片效果："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1109
+msgid "Slideshow dimensions:"
+msgstr "幻灯片尺寸："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1119
+#: ../admin/views/BWGViewOptions_bwg. php:1655
+msgid "Enable autoplay:"
+msgstr "启用自动播放："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1129 ..
+#: /admin/views/BWGViewWidgetSlideshow.php:145
+msgid "Enable shuffle:"
+msgstr "启用洗牌："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1166
+msgid "Slideshow filmstrip size:"
+msgstr "幻灯片胶片尺寸："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1187 ../admin/views/BWGViewThemes_bwg.
+#: php:400 ../admin/views/BWGViewThemes_bwg.php:1557
+msgid "Title position:"
+msgstr "标题位置："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1230
+msgid "Description position:"
+msgstr "说明位置："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1256
+msgid "Enable slideshow Music:"
+msgstr "启用幻灯片音乐："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1280
+msgid "Add Music"
+msgstr "添加音乐"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1332
+msgid "Width of mosaic as a percentage of container's width."
+msgstr "宽度镶嵌作为容器的宽度的百分比。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1337
+msgid "Number of image columns:"
+msgstr "图像列数："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1355
+msgid "Generated thumbnail dimensions:"
+msgstr "生成缩略图尺寸："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1360
+msgid ""
+"The maximum size of the generated thumbnail. Its dimensions should be larger "
+"than the ones of the frontend thumbnail."
+msgstr "产生的缩略图的最大尺寸。其尺寸应当比前端缩略图的那些更大。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1365
+msgid "Frontend thumbnail dimensions:"
+msgstr "前端缩略图尺寸："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1370
+msgid ""
+"The default size of the thumbnail which will be displayed in the website."
+msgstr "这将显示在网站上的缩略图的默认大小。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1375
+msgid "Show image title:"
+msgstr "显示图片标题："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1385
+msgid "Show gallery name:"
+msgstr "显示图库名称："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1394
+msgid "Show description in Vertical Masonry view:"
+msgstr "显示在垂直砌体视图的描述："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1403
+msgid "Enable image pagination:"
+msgstr "启用图像分页："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1411
+msgid "Thumbnail click action:"
+msgstr "缩略图点击动作："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1420
+msgid "pen in a new window:"
+msgstr "笔在新窗口："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1428
+msgid "Play icon over the video thumbnail:"
+msgstr "播放图标在视频缩略图："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1445
+msgid "Enable image title for Image Browser view:"
+msgstr "启用图像标题图片浏览器视图："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1455
+msgid "Enable image description for Image Browser view:"
+msgstr "启用图像描述的图像浏览器视图："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1465
+msgid "Image width for Image Browser view:"
+msgstr "图像宽度的图像浏览器视图："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1474
+msgid "Enable image title for Blog Style view:"
+msgstr "启用图像标题的博客风格的看法："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1484
+msgid "Image width for Blog Style view:"
+msgstr "图像宽度的博客风格的看法："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1493
+msgid "Images per page in Blog Style view:"
+msgstr "在博客风格来看每页图片："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1502
+msgid "Enable pagination for Blog Style view:"
+msgstr "启用分页的博客风格的看法："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1521
+msgid "Gallery autoupdate interval:"
+msgstr "库自动更新间隔："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1525
+msgid "hour"
+msgstr "小时"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1527
+msgid "min"
+msgstr "分"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1528
+msgid "Minimum 1 min."
+msgstr "至少1分钟。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1543
+msgid "Enable creating Instagram galleries."
+msgstr "启用创建Instagram的画廊。"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1557
+msgid "app Id"
+msgstr "应用程序ID"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1566
+msgid "app Secret:"
+msgstr "应用程序揭秘："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1575
+msgid "login / logout:"
+msgstr "登录/退出："
+
+#: ../admin/views/BWGViewOptions_bwg.php:1605
+msgid "Max. number of images:"
+msgstr "最大。图片数量："
+
+#: ../admin/views/BWGViewRates_bwg.php:40
+msgid "This section allows you to manage the image ratings."
+msgstr "本节，您可以管理图像评级。"
+
+#: ../admin/views/BWGViewRates_bwg.php:88
+msgid "Rating"
+msgstr "评级"
+
+#: ../admin/views/BWGViewRates_bwg.php:96
+msgid "IP"
+msgstr "IP"
+
+#: ../admin/views/BWGViewTags_bwg.php:42
+msgid "This section allows you to create, edit and delete tags."
+msgstr "本部分允许您创建，编辑和删除标签。"
+
+#: ../admin/views/BWGViewTags_bwg.php:45
+msgid "Item Succesfully Saved."
+msgstr "项目成功与保存的。"
+
+#: ../admin/views/BWGViewTags_bwg.php:100
+msgid "Count"
+msgstr "统计"
+
+#: ../admin/views/BWGViewTags_bwg.php:119
+msgid "Add Tag "
+msgstr "添加标签"
+
+#: ../admin/views/BWGViewThemes_bwg.php:38
+msgid "This section allows you to create, edit and delete themes."
+msgstr "本部分允许您创建，编辑和删除的主题。"
+
+#: ../admin/views/BWGViewThemes_bwg.php:84 ../framework/WDWLibrary.php:848
+msgid "Default"
+msgstr "默认"
+
+#: ../admin/views/BWGViewThemes_bwg.php:216
+msgid "This section allows you to add/edit theme."
+msgstr "这部分允许你添加/编辑主题。"
+
+#: ../admin/views/BWGViewThemes_bwg.php:227
+msgid "Do you want to reset to default?"
+msgstr "你想重置为默认？"
+
+#: ../admin/views/BWGViewThemes_bwg.php:244
+msgid "Page Navigation"
+msgstr "页面导航"
+
+#: ../admin/views/BWGViewThemes_bwg.php:249
+msgid "Parameters"
+msgstr "参数"
+
+#: ../admin/views/BWGViewThemes_bwg.php:264
+#: ../admin/views/BWGViewThemes_bwg.php:1246
+#: ../admin/views/BWGViewThemes_bwg.php:1428 ..
+#: /admin/views/BWGViewThemes_bwg.php:1851 2414
+#: ../admin/views/BWGViewThemes_bwg.php:3624
+msgid "Margin:"
+msgstr "保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:270
+#: ../admin/views/BWGViewThemes_bwg.php:472
+#: ../admin/views/BWGViewThemes_bwg.php:622 ../admin/views/BWGViewThemes_bwg.
+#: php:1253 ../admin/views/BWGViewThemes_bwg.php:1421 ..
+#: /admin/views/BWGViewThemes_bwg.php:1858 2421
+#: ../admin/views/BWGViewThemes_bwg.php:3631
+msgid "Padding:"
+msgstr "填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:276
+#: ../admin/views/BWGViewThemes_bwg.php:478
+#: ../admin/views/BWGViewThemes_bwg.php:628 ../admin/views/BWGViewThemes_bwg.
+#: php:1260 ../admin/views/BWGViewThemes_bwg.php:1435 ..
+#: /admin/views/BWGViewThemes_bwg.php:2182 2467
+#: ../admin/views/BWGViewThemes_bwg.php:3585
+msgid "Border width:"
+msgstr "边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:282
+#: ../admin/views/BWGViewThemes_bwg.php:484
+#: ../admin/views/BWGViewThemes_bwg.php:634 ../admin/views/BWGViewThemes_bwg.
+#: php:1266 ../admin/views/BWGViewThemes_bwg.php:1441 ..
+#: /admin/views/BWGViewThemes_bwg.php:2188 2473
+#: ../admin/views/BWGViewThemes_bwg.php:3591
+msgid "Border style:"
+msgstr "边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:296
+#: ../admin/views/BWGViewThemes_bwg.php:498
+#: ../admin/views/BWGViewThemes_bwg.php:648 ../admin/views/BWGViewThemes_bwg.
+#: php:1280 ../admin/views/BWGViewThemes_bwg.php:1455 ..
+#: /admin/views/BWGViewThemes_bwg.php:2202 2487
+#: ../admin/views/BWGViewThemes_bwg.php:3605
+msgid "Border color:"
+msgstr "边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:302
+#: ../admin/views/BWGViewThemes_bwg.php:504
+#: ../admin/views/BWGViewThemes_bwg.php:654 ../admin/views/BWGViewThemes_bwg.
+#: php:1286 ../admin/views/BWGViewThemes_bwg.php:1461 ..
+#: /admin/views/BWGViewThemes_bwg.php:1877 2208
+#: ../admin/views/BWGViewThemes_bwg.php:2493
+#: /admin/views/BWGViewThemes_bwg.php:3611
+msgid "Border radius:"
+msgstr "边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:305
+#: ../admin/views/BWGViewThemes_bwg.php:312
+#: ../admin/views/BWGViewThemes_bwg.php:452 ../admin/views/BWGViewThemes_bwg.
+#: php:459 ../admin/views/BWGViewThemes_bwg.php:507 ..
+#: /admin/views/BWGViewThemes_bwg.php:657 780
+#: ../admin/views/BWGViewThemes_bwg.php:787 php:883
+#: ../admin/views/BWGViewThemes_bwg.php:904
+#: /admin/views/BWGViewThemes_bwg.php:928 962
+#: ../admin/views/BWGViewThemes_bwg.php:1018 php:1074
+#: ../admin/views/BWGViewThemes_bwg.php:1081
+#: /admin/views/BWGViewThemes_bwg.php:1127 1134
+#: ../admin/views/BWGViewThemes_bwg.php:1176
+#: /admin/views/BWGViewThemes_bwg.php:1196 1249
+#: ../admin/views/BWGViewThemes_bwg.php:1256
+#: /admin/views/BWGViewThemes_bwg.php:1289 1309
+#: ../admin/views/BWGViewThemes_bwg.php:1362
+#: /admin/views/BWGViewThemes_bwg.php:1369 1402
+#: ../admin/views/BWGViewThemes_bwg.php:1424
+#: /admin/views/BWGViewThemes_bwg.php:1431 1464
+#: ../admin/views/BWGViewThemes_bwg.php:1471
+#: /admin/views/BWGViewThemes_bwg.php:1609 1616
+#: ../admin/views/BWGViewThemes_bwg.php:1663
+#: /admin/views/BWGViewThemes_bwg.php:1717 1724
+#: ../admin/views/BWGViewThemes_bwg.php:1807
+#: /admin/views/BWGViewThemes_bwg.php:1847 1854
+#: ../admin/views/BWGViewThemes_bwg.php:1880
+#: /admin/views/BWGViewThemes_bwg.php:1913 1966
+#: ../admin/views/BWGViewThemes_bwg.php:1999
+#: /admin/views/BWGViewThemes_bwg.php:2018 2091
+#: ../admin/views/BWGViewThemes_bwg.php:2211
+#: /admin/views/BWGViewThemes_bwg.php:2327 2374
+#: ../admin/views/BWGViewThemes_bwg.php:2417
+#: /admin/views/BWGViewThemes_bwg.php:2424 2431
+#: ../admin/views/BWGViewThemes_bwg.php:2496
+#: /admin/views/BWGViewThemes_bwg.php:2509 2554
+#: ../admin/views/BWGViewThemes_bwg.php:2649
+#: /admin/views/BWGViewThemes_bwg.php:2703 2736
+#: ../admin/views/BWGViewThemes_bwg.php:2835
+#: /admin/views/BWGViewThemes_bwg.php:2872 2916
+#: ../admin/views/BWGViewThemes_bwg.php:2949
+#: /admin/views/BWGViewThemes_bwg.php:3054 3123
+#: ../admin/views/BWGViewThemes_bwg.php:3130
+#: /admin/views/BWGViewThemes_bwg.php:3137 3253
+#: ../admin/views/BWGViewThemes_bwg.php:3260
+#: /admin/views/BWGViewThemes_bwg.php:3267 3454
+#: ../admin/views/BWGViewThemes_bwg.php:3473
+#: /admin/views/BWGViewThemes_bwg.php:3506 3614
+#: ../admin/views/BWGViewThemes_bwg.php:3627
+#: /admin/views/BWGViewThemes_bwg.php:3634 3663
+#: ../admin/views/BWGViewThemes_bwg.php:3815
+#: /admin/views/BWGViewThemes_bwg.php:3897
+msgid "Use CSS type values."
+msgstr "使用CSS类型的值。"
+
+#: ../admin/views/BWGViewThemes_bwg.php:309
+#: ../admin/views/BWGViewThemes_bwg.php:1468
+msgid "Shadow:"
+msgstr "阴影："
+
+#: ../admin/views/BWGViewThemes_bwg.php:316
+#: ../admin/views/BWGViewThemes_bwg.php:557
+#: ../admin/views/BWGViewThemes_bwg.php:707 ../admin/views/BWGViewThemes_bwg.
+#: php:1475 ../admin/views/BWGViewThemes_bwg.php:2215
+msgid "Hover effect:"
+msgstr "悬停效果："
+
+#: ../admin/views/BWGViewThemes_bwg.php:330
+#: ../admin/views/BWGViewThemes_bwg.php:571
+#: ../admin/views/BWGViewThemes_bwg.php:721 ../admin/views/BWGViewThemes_bwg.
+#: php:1489 ../admin/views/BWGViewThemes_bwg.php:1772 ..
+#: /admin/views/BWGViewThemes_bwg.php:2229
+msgid "Hover effect value:"
+msgstr "悬停效果值："
+
+#: ../admin/views/BWGViewThemes_bwg.php:333
+#: ../admin/views/BWGViewThemes_bwg.php:574
+#: ../admin/views/BWGViewThemes_bwg.php:724 ../admin/views/BWGViewThemes_bwg.
+#: php:1492 ../admin/views/BWGViewThemes_bwg.php:1775 ..
+#: /admin/views/BWGViewThemes_bwg.php:2232
+msgid "E.g. Rotate: 10deg, Scale: 1.5, Skew: 10deg."
+msgstr "例如旋转：10度，规模：1.5，斜度：10度。"
+
+#: ../admin/views/BWGViewThemes_bwg.php:337
+#: ../admin/views/BWGViewThemes_bwg.php:578
+#: ../admin/views/BWGViewThemes_bwg.php:728
+msgid "Transition:"
+msgstr "过渡："
+
+#: ../admin/views/BWGViewThemes_bwg.php:353
+#: ../admin/views/BWGViewThemes_bwg.php:1511
+#: ../admin/views/BWGViewThemes_bwg.php:1779
+msgid "Thumbnail background color:"
+msgstr "缩略图背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:360
+#: ../admin/views/BWGViewThemes_bwg.php:1517
+#: ../admin/views/BWGViewThemes_bwg.php:1751
+msgid "Thumbnail transparency:"
+msgstr "缩略图透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:367
+#: ../admin/views/BWGViewThemes_bwg.php:1180
+#: ../admin/views/BWGViewThemes_bwg.php:1524 ..
+#: /admin/views/BWGViewThemes_bwg.php:2251
+msgid "Full background color:"
+msgstr "全背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:373
+#: ../admin/views/BWGViewThemes_bwg.php:1186
+#: ../admin/views/BWGViewThemes_bwg.php:1530 ..
+#: /admin/views/BWGViewThemes_bwg.php:2257
+msgid "Full background transparency:"
+msgstr "完整背景透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:380
+#: ../admin/views/BWGViewThemes_bwg.php:537
+#: ../admin/views/BWGViewThemes_bwg.php:687 ../admin/views/BWGViewThemes_bwg.
+#: php:1232 ../admin/views/BWGViewThemes_bwg.php:1537 ..
+#: /admin/views/BWGViewThemes_bwg.php:2264 2400
+#: ../admin/views/BWGViewThemes_bwg.php:3682
+msgid "Alignment:"
+msgstr "对齐方式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:403
+#: ../admin/views/BWGViewThemes_bwg.php:1560
+#: ../admin/views/BWGViewThemes_bwg.php:2634 ..
+#: /admin/views/BWGViewThemes_bwg.php:2905 2993
+#: ../admin/views/BWGViewThemes_bwg.php:3061
+#: /admin/views/BWGViewThemes_bwg.php:3191 3676
+msgid "Top"
+msgstr "最佳"
+
+#: ../admin/views/BWGViewThemes_bwg.php:405
+#: ../admin/views/BWGViewThemes_bwg.php:1562
+#: ../admin/views/BWGViewThemes_bwg.php:2636 ..
+#: /admin/views/BWGViewThemes_bwg.php:2907 2995
+#: ../admin/views/BWGViewThemes_bwg.php:3063
+#: /admin/views/BWGViewThemes_bwg.php:3193 3678
+msgid "Bottom"
+msgstr "底部"
+
+#: ../admin/views/BWGViewThemes_bwg.php:409
+#: ../admin/views/BWGViewThemes_bwg.php:737
+#: ../admin/views/BWGViewThemes_bwg.php:1566 ../admin/views/BWGViewThemes_bwg.
+#: php:2048 ../admin/views/BWGViewThemes_bwg.php:2284 ..
+#: /admin/views/BWGViewThemes_bwg.php:3305 3928
+msgid "Title font size:"
+msgstr "标题字体大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:415
+#: ../admin/views/BWGViewThemes_bwg.php:743
+#: ../admin/views/BWGViewThemes_bwg.php:1572 ../admin/views/BWGViewThemes_bwg.
+#: php:2054 ../admin/views/BWGViewThemes_bwg.php:2290 ..
+#: /admin/views/BWGViewThemes_bwg.php:3271
+msgid "Title font color:"
+msgstr "标题字体颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:421
+#: ../admin/views/BWGViewThemes_bwg.php:749
+#: ../admin/views/BWGViewThemes_bwg.php:1097 ../admin/views/BWGViewThemes_bwg.
+#: php:1578 ../admin/views/BWGViewThemes_bwg.php:2060 ..
+#: /admin/views/BWGViewThemes_bwg.php:2296 3277
+msgid "Title font family:"
+msgstr "标题字体系列："
+
+#: ../admin/views/BWGViewThemes_bwg.php:435
+#: ../admin/views/BWGViewThemes_bwg.php:763
+#: ../admin/views/BWGViewThemes_bwg.php:1592 ../admin/views/BWGViewThemes_bwg.
+#: php:2074 ../admin/views/BWGViewThemes_bwg.php:2310 ..
+#: /admin/views/BWGViewThemes_bwg.php:3291 3941
+msgid "Title font weight:"
+msgstr "标题字体粗细："
+
+#: ../admin/views/BWGViewThemes_bwg.php:449
+#: ../admin/views/BWGViewThemes_bwg.php:777
+#: ../admin/views/BWGViewThemes_bwg.php:1606 ../admin/views/BWGViewThemes_bwg.
+#: php:2324
+msgid "Title box shadow:"
+msgstr "标题框的阴影："
+
+#: ../admin/views/BWGViewThemes_bwg.php:456
+#: ../admin/views/BWGViewThemes_bwg.php:784
+#: ../admin/views/BWGViewThemes_bwg.php:1613 ../admin/views/BWGViewThemes_bwg.
+#: php:2009 ../admin/views/BWGViewThemes_bwg.php:3902
+msgid "Title margin:"
+msgstr "标题保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:517
+msgid "Transparency:"
+msgstr "透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:524
+#: ../admin/views/BWGViewThemes_bwg.php:674
+#: ../admin/views/BWGViewThemes_bwg.php:799 ../admin/views/BWGViewThemes_bwg.
+#: php:1293 ../admin/views/BWGViewThemes_bwg.php:1864 ..
+#: /admin/views/BWGViewThemes_bwg.php:2387 3724
+msgid "Background color:"
+msgstr "背景颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:530
+#: ../admin/views/BWGViewThemes_bwg.php:1299
+#: ../admin/views/BWGViewThemes_bwg.php:1870 ..
+#: /admin/views/BWGViewThemes_bwg.php:2393
+msgid "Background transparency:"
+msgstr "背景透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:587
+#: ../admin/views/BWGViewThemes_bwg.php:1138
+#: ../admin/views/BWGViewThemes_bwg.php:2121 ..
+#: /admin/views/BWGViewThemes_bwg.php:3346
+msgid "Description font size:"
+msgstr "说明字体大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:593
+#: ../admin/views/BWGViewThemes_bwg.php:2127
+#: ../admin/views/BWGViewThemes_bwg.php:3312
+msgid "Description font color:"
+msgstr "说明字体颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:599
+#: ../admin/views/BWGViewThemes_bwg.php:1150
+#: ../admin/views/BWGViewThemes_bwg.php:2133 ..
+#: /admin/views/BWGViewThemes_bwg.php:3318
+msgid "Description font family:"
+msgstr "说明字体系列："
+
+#: ../admin/views/BWGViewThemes_bwg.php:667
+msgid "Opacity:"
+msgstr "不透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:680
+msgid "Background opacity:"
+msgstr "背景不透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:805
+#: ../admin/views/BWGViewThemes_bwg.php:2851
+#: ../admin/views/BWGViewThemes_bwg.php:3737
+msgid "Right, left buttons size:"
+msgstr "左，右按键尺寸："
+
+#: ../admin/views/BWGViewThemes_bwg.php:811
+#: ../admin/views/BWGViewThemes_bwg.php:3743
+msgid "Play, pause buttons size:"
+msgstr "播放，暂停按键尺寸："
+
+#: ../admin/views/BWGViewThemes_bwg.php:817
+#: ../admin/views/BWGViewThemes_bwg.php:2519
+#: ../admin/views/BWGViewThemes_bwg.php:3749
+msgid "Buttons color:"
+msgstr "按钮颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:823
+#: ../admin/views/BWGViewThemes_bwg.php:3755
+msgid "Buttons transparency:"
+msgstr "按钮透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:830
+#: ../admin/views/BWGViewThemes_bwg.php:3762
+msgid "Buttons hover color:"
+msgstr "按钮悬停颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:836
+#: ../admin/views/BWGViewThemes_bwg.php:2845
+#: ../admin/views/BWGViewThemes_bwg.php:3768
+msgid "Right, left buttons width:"
+msgstr "左，右按键宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:842
+#: ../admin/views/BWGViewThemes_bwg.php:2839
+#: ../admin/views/BWGViewThemes_bwg.php:3774
+msgid "Right, left buttons height:"
+msgstr "左，右按键高度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:848
+#: ../admin/views/BWGViewThemes_bwg.php:2820
+#: ../admin/views/BWGViewThemes_bwg.php:3780
+msgid "Right, left buttons background color:"
+msgstr "右，左按钮背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:854
+#: ../admin/views/BWGViewThemes_bwg.php:2876
+#: ../admin/views/BWGViewThemes_bwg.php:3786
+msgid "Right, left buttons border width:"
+msgstr "左，右按键边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:860
+#: ../admin/views/BWGViewThemes_bwg.php:2882
+#: ../admin/views/BWGViewThemes_bwg.php:3792
+msgid "Right, left buttons border style:"
+msgstr "左，右按键边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:874
+#: ../admin/views/BWGViewThemes_bwg.php:2896
+#: ../admin/views/BWGViewThemes_bwg.php:3806
+msgid "Right, left buttons border color:"
+msgstr "左，右按键边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:880
+#: ../admin/views/BWGViewThemes_bwg.php:2869
+#: ../admin/views/BWGViewThemes_bwg.php:3812
+msgid "Right, left buttons border radius:"
+msgstr "左，右按键边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:887
+#: ../admin/views/BWGViewThemes_bwg.php:2806
+#: ../admin/views/BWGViewThemes_bwg.php:3819
+msgid "Right, left buttons style:"
+msgstr "左，右按键风格："
+
+#: ../admin/views/BWGViewThemes_bwg.php:901
+#: ../admin/views/BWGViewThemes_bwg.php:2832
+msgid "Right, left buttons box shadow:"
+msgstr "右，左按钮盒的影子："
+
+#: ../admin/views/BWGViewThemes_bwg.php:914
+msgid "Filmstrip/Slider bullet position:"
+msgstr "幻灯/滑块子弹的位置："
+
+#: ../admin/views/BWGViewThemes_bwg.php:925
+msgid "Filmstrip margin:"
+msgstr "幻灯片保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:932
+msgid "Filmstrip border width:"
+msgstr "幻灯片边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:938
+msgid "Filmstrip border style:"
+msgstr "幻灯片边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:953
+msgid "Filmstrip border color:"
+msgstr "幻灯片边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:959
+msgid "Filmstrip border radius:"
+msgstr "幻灯片边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:966
+msgid "Filmstrip active border width:"
+msgstr "幻灯活动边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:972
+msgid "Filmstrip active border color:"
+msgstr "幻灯活动边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:978
+msgid "Filmstrip deactive transparency: "
+msgstr "幻灯片未激活状态的透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:985
+msgid "Filmstrip right, left buttons background color: "
+msgstr "幻灯右侧，左侧的按钮背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:991
+#: ../admin/views/BWGViewThemes_bwg.php:2978
+msgid "Filmstrip right, left buttons color:"
+msgstr "幻灯右侧，左侧的按钮颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:997
+#: ../admin/views/BWGViewThemes_bwg.php:2972
+msgid "Filmstrip right, left buttons size:"
+msgstr "幻灯右侧，左侧按键尺寸："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1003
+msgid "Slider bullet width: "
+msgstr "滑块子弹宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1009
+msgid "Slider bullet height:"
+msgstr "滑块子弹高度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1015
+msgid "Slider bullet border radius: "
+msgstr "滑块子弹边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1022
+msgid "Slider bullet background color:"
+msgstr "滑块子弹背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1028
+msgid "Slider bullet margin:"
+msgstr "滑块子弹保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1034
+msgid "Slider bullet active background color: "
+msgstr "滑块子弹活跃的背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1040
+msgid "Slider bullet active border width:"
+msgstr "滑块子弹活动边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1046
+msgid "Slider bullet active border color: "
+msgstr "滑块子弹活动边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1058
+msgid "Title background color: "
+msgstr "标题背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1064
+msgid "Title transparency: "
+msgstr "标题透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1071
+#: ../admin/views/BWGViewThemes_bwg.php:3894
+msgid "Title border radius:"
+msgstr "标题边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1078
+msgid "Title padding: "
+msgstr "标题填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1085
+msgid "Title font size: "
+msgstr "标题字体大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1091
+msgid "Title color: "
+msgstr "标题颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1111
+#: ../admin/views/BWGViewThemes_bwg.php:1406
+msgid "Description background color:"
+msgstr "说明背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1117
+msgid "Description transparency:"
+msgstr "描述透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1124
+#: ../admin/views/BWGViewThemes_bwg.php:1399
+msgid "Description border radius:"
+msgstr "说明边界半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1131
+#: ../admin/views/BWGViewThemes_bwg.php:1366
+#: ../admin/views/BWGViewThemes_bwg.php:2088
+msgid "Description padding:"
+msgstr "说明填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1144
+msgid "Description color:"
+msgstr "说明颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1173
+msgid "Full padding:"
+msgstr "完全填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1193
+msgid "Full border radius:"
+msgstr "完整的边界半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1200
+msgid "Full border width:"
+msgstr "全部边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1206
+msgid "Full border style:"
+msgstr "完整的边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1220
+msgid "Full border color:"
+msgstr "全边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1306
+#: ../admin/views/BWGViewThemes_bwg.php:2428
+#: ../admin/views/BWGViewThemes_bwg.php:3660
+msgid "Box shadow:"
+msgstr "箱阴影："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1319
+msgid "Title alignment:"
+msgstr "标题对齐方式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1333
+#: ../admin/views/BWGViewThemes_bwg.php:1620
+#: ../admin/views/BWGViewThemes_bwg.php:2331 ..
+#: /admin/views/BWGViewThemes_bwg.php:2455 3545
+msgid "Font size:"
+msgstr "字体大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1339
+#: ../admin/views/BWGViewThemes_bwg.php:1626
+#: ../admin/views/BWGViewThemes_bwg.php:2337 ..
+#: /admin/views/BWGViewThemes_bwg.php:2461 3551
+msgid "Font color:"
+msgstr "字体颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1345
+#: ../admin/views/BWGViewThemes_bwg.php:1632
+#: ../admin/views/BWGViewThemes_bwg.php:2343 ..
+#: /admin/views/BWGViewThemes_bwg.php:2441 3557
+msgid "Font family:"
+msgstr "字体家庭："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1359
+msgid "Description margin:"
+msgstr "说明保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1373
+#: ../admin/views/BWGViewThemes_bwg.php:2095
+msgid "Description border width:"
+msgstr "说明边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1379
+#: ../admin/views/BWGViewThemes_bwg.php:2101
+msgid "Description border style:"
+msgstr "说明边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1393
+#: ../admin/views/BWGViewThemes_bwg.php:2115
+msgid "Description border color:"
+msgstr "说明边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1496
+#: ../admin/views/BWGViewThemes_bwg.php:1728
+#: ../admin/views/BWGViewThemes_bwg.php:2236
+msgid "Thumbnail transition:"
+msgstr "缩略图转换："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1646
+#: ../admin/views/BWGViewThemes_bwg.php:2357
+#: ../admin/views/BWGViewThemes_bwg.php:3571
+msgid "Font weight:"
+msgstr "字体重量："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1660
+#: ../admin/views/BWGViewThemes_bwg.php:1910
+#: ../admin/views/BWGViewThemes_bwg.php:2371
+msgid "Back padding:"
+msgstr "背垫："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1676
+msgid "Thumbnail margin:"
+msgstr "缩略图保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1682
+msgid "Thumbnail padding:"
+msgstr "缩略图填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1688
+msgid "Thumbnail border width:"
+msgstr "缩略图边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1694
+msgid "Thumbnail border style:"
+msgstr "缩略图边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1708
+msgid "Thumbnail border color:"
+msgstr "缩略图边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1714
+msgid "Thumbnail border radius:"
+msgstr "缩略图边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1721
+msgid "Thumbnail box shadow:"
+msgstr "缩略图箱阴影："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1737
+msgid "Thumbnail alignment:"
+msgstr "缩略图排列："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1758
+msgid "Thumbnail hover effect:"
+msgstr "缩略图悬停效果："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1785
+msgid "Thumbnails background color:"
+msgstr "缩略图背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1791
+msgid "Thumbnail background transparency:"
+msgstr "缩略图背景透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1804
+msgid "Thumbnail div padding:"
+msgstr "缩略图格边距："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1811
+msgid "Thumbnail div background color:"
+msgstr "缩略图格背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1817
+msgid "Thumbnail div border width:"
+msgstr "缩略图格边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1824
+msgid "humbnail div border style:"
+msgstr "humbnail格边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1838
+msgid "Thumbnail div border color:"
+msgstr "缩略图格边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1844
+msgid "Thumbnail div border radius:"
+msgstr "缩略图格边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1884
+msgid "Separator width:"
+msgstr "分离器宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1890
+msgid "Separator style:"
+msgstr "分隔符样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1904
+msgid "Separator color:"
+msgstr "符颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1917
+msgid "Back font size:"
+msgstr "返回字体大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1923
+msgid "Back font color:"
+msgstr "返回字体颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1929
+msgid "Back font family:"
+msgstr "返回字体系列："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1943
+msgid "Back font weight:"
+msgstr "返回字体粗细："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1963
+msgid "Text div padding:"
+msgstr "文字格边距："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1970
+msgid "Text div border width:"
+msgstr "文字格边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1976
+msgid "Text border style:"
+msgstr "文字边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1990
+msgid "Text border color:"
+msgstr "文字边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:1996
+msgid "Text div border radius:"
+msgstr "文字格边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2003
+msgid "Text background color:"
+msgstr "文字背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2015
+#: ../admin/views/BWGViewThemes_bwg.php:3908
+msgid "Title padding:"
+msgstr "标题填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2022
+msgid "Title border width:"
+msgstr "标题边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2028
+msgid "Title border style:"
+msgstr "标题边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2042
+msgid "Title border color:"
+msgstr "标题边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2147
+#: ../admin/views/BWGViewThemes_bwg.php:3332
+msgid "Description font weight:"
+msgstr "说明字体粗细："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2161
+msgid "Description more size:"
+msgstr "描述更多尺寸："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2167
+msgid "Description more color:"
+msgstr "说明更多的颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2506
+msgid "Buttons and title margin:"
+msgstr "按钮和标题保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2513
+msgid "Buttons size:"
+msgstr "按钮的大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2525
+msgid "Buttons and title border width:"
+msgstr "按钮和标题边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2531
+msgid "Buttons and title border style:"
+msgstr "按钮和标题边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2545
+msgid "Buttons and title border color:"
+msgstr "按钮和标题边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2551
+msgid "Buttons and title border radius:"
+msgstr "按钮和标题边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2558
+msgid "Buttons and title background color:"
+msgstr "按钮和标题背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2564
+msgid "Buttons and title background transparency:"
+msgstr "按钮和标题背景透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2571
+msgid "Buttons or title alignment:"
+msgstr "按钮或标题对齐方式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2594
+msgid "Overlay background color:"
+msgstr "叠加背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2600
+msgid "Overlay background transparency:"
+msgstr "叠加背景透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2607
+msgid "Lightbox background color:"
+msgstr "灯箱背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2613
+msgid "Control buttons height:"
+msgstr "控制按钮的高度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2619
+msgid "Control buttons margin (top):"
+msgstr "控制按钮保证金（上）："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2625
+msgid "Control buttons margin (left):"
+msgstr "控制按钮保证金（左）："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2631
+msgid "Control buttons position:"
+msgstr "控制按钮的位置："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2640
+msgid "Control buttons background color:"
+msgstr "控制按钮的背景颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2646
+msgid "Control buttons container border radius:"
+msgstr "控制按钮容器边界半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2653
+msgid "Control buttons container background transparency:"
+msgstr "控制按钮容器背景透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2660
+msgid "Control buttons alignment:"
+msgstr "控制按键排列："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2674
+msgid "Control buttons color:"
+msgstr "控制按钮的颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2680
+msgid "Control buttons transparency:"
+msgstr "控制按钮的透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2687
+msgid "Toggle button height:"
+msgstr "切换按钮的高度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2693
+msgid "Toggle button width:"
+msgstr "切换按键宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2699
+msgid "Close button border radius:"
+msgstr "关闭按钮边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2707
+msgid "Close button border width:"
+msgstr "关闭按钮边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2713
+msgid "Close button border style:"
+msgstr "关闭按钮的边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2727
+msgid "Close button border color:"
+msgstr "关闭按钮边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2733
+msgid "Close button box shadow:"
+msgstr "关闭按钮盒的影子："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2740
+msgid "Close button background color:"
+msgstr "关闭按钮的背景颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2746
+msgid "Close button transparency:"
+msgstr "关闭按钮透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2752
+msgid "Close button width:"
+msgstr "关闭按钮的宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2758
+msgid "Close button height:"
+msgstr "关闭按钮的高度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2764
+msgid "Close button top:"
+msgstr "关闭按钮顶部："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2770
+msgid "Close button right:"
+msgstr "关闭按钮右："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2776
+msgid "Close button size:"
+msgstr "关闭按钮尺寸："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2782
+msgid "Close button color:"
+msgstr "关闭按钮的颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2788
+msgid "Fullscreen close button color:"
+msgstr "全屏关闭按钮颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2794
+msgid "Share buttons color:"
+msgstr "分享按钮颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2826
+msgid "Right, left buttons transparency:"
+msgstr "右，左按钮透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2857
+msgid "Right, left, close buttons hover color:"
+msgstr "右，左，关闭按钮悬停颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2863
+msgid "Right, left buttons color:"
+msgstr "右，左按钮颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2902
+msgid "Filmstrip position:"
+msgstr "幻灯片的位置："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2906
+#: ../admin/views/BWGViewThemes_bwg.php:3364
+msgid "Right"
+msgstr "对"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2908
+#: ../admin/views/BWGViewThemes_bwg.php:3362
+msgid "Left"
+msgstr "剩下"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2913
+msgid "Filmstrip thumbnail margin:"
+msgstr "幻灯片缩略图保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2920
+msgid "Filmstrip thumbnail border width:"
+msgstr "幻灯片缩略图边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2926
+msgid "Filmstrip thumbnail border style:"
+msgstr "幻灯片缩略图边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2940
+msgid "Filmstrip thumbnail border color:"
+msgstr "幻灯片缩略图边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2946
+msgid "Filmstrip thumbnail border radius:"
+msgstr "幻灯片缩略图边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2953
+msgid "Filmstrip thumbnail active border width:"
+msgstr "幻灯片缩略图活动边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2959
+msgid "Filmstrip thumbnail active border color:"
+msgstr "幻灯片缩略图活动边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2965
+msgid "Filmstrip thumbnail deactive transparency:"
+msgstr "幻灯片缩略图去激活透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2984
+msgid "Filmstrip right, left button background color:"
+msgstr "幻灯右，左按钮的背景颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2990
+msgid "Rating position:"
+msgstr "排名的位置："
+
+#: ../admin/views/BWGViewThemes_bwg.php:2999
+msgid "Rating alignment:"
+msgstr "评级调整："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3013
+msgid "Rating icon:"
+msgstr "等级图标："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3027
+msgid "Rating color:"
+msgstr "评级颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3033
+msgid "Rating hover color:"
+msgstr "评级悬停颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3039
+msgid "Rating size:"
+msgstr "评分尺寸："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3045
+msgid "Rating icon count:"
+msgstr "等级图标数："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3051
+msgid "Rating padding:"
+msgstr "评级填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3058
+msgid "Hit counter position:"
+msgstr "点击柜台的位置："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3067
+msgid "Hit counter alignment:"
+msgstr "点击计数器对齐方式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3081
+msgid "Hit counter background color:"
+msgstr "点击计数器背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3087
+msgid "Hit counter background transparency:"
+msgstr "点击计数器背景透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3094
+msgid "Hit counter border width:"
+msgstr "点击计数器边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3100
+msgid "Hit counter border style:"
+msgstr "点击计数器边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3114
+msgid "Hit counter border color:"
+msgstr "点击计数器边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3120
+msgid "Hit counter border radius:"
+msgstr "打柜台边半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3127
+msgid "Hit counter padding:"
+msgstr "点击计数器填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3134
+msgid "Hit counter margin:"
+msgstr "点击计数器保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3141
+msgid "Hit counter font color:"
+msgstr "点击计数器字体颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3147
+msgid "Hit counter font family:"
+msgstr "点击计数器字体系列："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3161
+msgid "Hit counter font weight:"
+msgstr "点击计数器字体粗细："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3175
+msgid "Hit counter font size:"
+msgstr "点击计数器字体大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3188
+msgid "Info position:"
+msgstr "信息位置："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3197
+msgid "Info alignment:"
+msgstr "信息比对："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3211
+msgid "Info background color:"
+msgstr "信息背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3217
+msgid "Info background transparency:"
+msgstr "信息背景透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3224
+msgid "Info border width:"
+msgstr "信息边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3230
+msgid "Info border style:"
+msgstr "信息边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3244
+msgid "Info border color:"
+msgstr "信息边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3250
+msgid "Info border radius:"
+msgstr "信息边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3257
+msgid "Info padding:"
+msgstr "信息填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3264
+msgid "Info margin:"
+msgstr "信息保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3353
+msgid "Comments Width:"
+msgstr "评论宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3359
+msgid "Comments position:"
+msgstr "评论位置："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3368
+msgid "Comments background color:"
+msgstr "评论背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3374
+msgid "Comments font size:"
+msgstr "评论字体大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3380
+msgid "Comments font color:"
+msgstr "评论字体颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3386
+msgid "Comments font family:"
+msgstr "评论字体系列："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3400
+msgid "Comments author font size:"
+msgstr "评论作者字体大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3407
+msgid "Comments date font size:"
+msgstr "评论日期字体大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3413
+msgid "Comments body font size:"
+msgstr "评论正文字体大小："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3419
+msgid "Comment input border width:"
+msgstr "注释输入边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3425
+msgid "omment input border style:"
+msgstr "omment输入边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3439
+msgid "Comment input border color:"
+msgstr "注释输入边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3445
+msgid "Comment input border radius:"
+msgstr "注释输入边界半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3451
+msgid "Comment input padding:"
+msgstr "注释输入填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3458
+msgid "Comment input background color:"
+msgstr "注释输入背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3464
+msgid "Comment button background color:"
+msgstr "评论按钮的背景颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3470
+msgid "Comment button padding:"
+msgstr "评论按钮填充："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3477
+msgid "Comment button border width:"
+msgstr "评论按钮边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3483
+msgid "Comment button border style:"
+msgstr "注释按钮的边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3497
+msgid "Comment button border color:"
+msgstr "评论按钮边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3503
+msgid "omment button border radius:"
+msgstr "omment按钮边框半径："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3510
+msgid "Comment separator width:"
+msgstr "注释分隔宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3516
+msgid "Comment separator style:"
+msgstr "注释分隔符样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3530
+msgid "Comment separator color:"
+msgstr "注释分隔符颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3638
+msgid "Button background color:"
+msgstr "按钮背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3644
+msgid "Button background transparency:"
+msgstr "按钮背景透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3651
+msgid "Button transition:"
+msgstr "按钮过渡："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3673
+msgid "Position:"
+msgstr "您的位置："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3696
+msgid "Numbering:"
+msgstr "编号："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3705
+msgid "Button text:"
+msgstr "按钮文字："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3710
+msgid "Arrow"
+msgstr "箭头"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3711
+msgid "Next, previous buttons values."
+msgstr "其次，以前的按钮值。"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3730
+msgid "Container opacity:"
+msgstr "容器不透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3840
+msgid "Carousel margin:"
+msgstr "旋转木马保证金："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3846
+msgid "Image border width:"
+msgstr "图片边框宽度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3853
+msgid "Image border style:"
+msgstr "图片边框样式："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3868
+msgid "Image border color:"
+msgstr "图片边框颜色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3880
+msgid "Title background color:"
+msgstr "标题背景色："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3887
+msgid "Title opacity:"
+msgstr "标题不透明度："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3915
+msgid "Title Font family:"
+msgstr "标题字体家庭："
+
+#: ../admin/views/BWGViewThemes_bwg.php:3934
+msgid "Title color:"
+msgstr "标题颜色："
+
+#: ../admin/views/BWGViewUninstall_bwg.php:33
+#: ../admin/views/BWGViewUninstall_bwg. php:155
+msgid "Uninstall Photo Gallery"
+msgstr "卸载照片库"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:35
+msgid ""
+"Deactivating Photo Gallery plugin does not remove any data that may have "
+"been created. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+"停用相册插件不删除可能已创建的任何数据。要完全删除这个插件，您可以在这里将其"
+"卸载。"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:38
+msgid "WARNING:"
+msgstr "警告："
+
+#: ../admin/views/BWGViewUninstall_bwg.php:39
+msgid ""
+"Once uninstalled, this can't be undone. You should use a Database Backup "
+"plugin of WordPress to back up all the data first."
+msgstr ""
+"一旦卸载，这不能撤消。你应该使用WordPress的数据库备份插件备份所有的数据第一"
+"次。"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:42
+msgid "The following Database Tables will be deleted:"
+msgstr "下面的数据库表将被删除："
+
+#: ../admin/views/BWGViewUninstall_bwg.php:47
+msgid "Database Tables"
+msgstr "数据库表"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:70
+msgid "Delete the folder containing uploaded images."
+msgstr "删除包含上传的图片的文件夹。"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:76
+msgid "Do you really want to uninstall Photo Gallery?"
+msgstr "你真的要卸载相册？"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:83
+msgid ""
+"You are About to Uninstall Photo Gallery from WordPress.\\nThis Action Is "
+"Not Reversible."
+msgstr ""
+"你即将从WordPress的卸载照片库。\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+"\\\\\\\\\\\\\\\\\\ n该操作是不可逆的。"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:133
+msgid "The following Database Tables successfully deleted:"
+msgstr "下面的数据库表删除成功："
+
+#: ../admin/views/BWGViewUninstall_bwg.php:156
+msgid "Click Here"
+msgstr "点击这里"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:156
+msgid ""
+"To Finish the Uninstallation and Photo Gallery will be Deactivated "
+"Automatically."
+msgstr "结束卸载和照片库将被自动取消。"
+
+#: ../admin/views/BWGViewWidget.php:115
+#: ../admin/views/BWGViewWidgetSlideshow.php:104
+#: ../admin/views/BWGViewWidgetTags.php:114
+msgid "Title:"
+msgstr "题目："
+
+#: ../admin/views/BWGViewWidget.php:120
+msgid "Album"
+msgstr "专辑"
+
+#: ../admin/views/BWGViewWidget.php:152 ../framework/WDWLibrary.php:521
+msgid "First"
+msgstr "首先"
+
+#: ../admin/views/BWGViewWidget.php:153 ../framework/WDWLibrary.php:524
+msgid "Last"
+msgstr "最后"
+
+#: ../admin/views/BWGViewWidget.php:157
+msgid "Count:"
+msgstr "次数："
+
+#: ../admin/views/BWGViewWidget.php:161
+#: ../admin/views/BWGViewWidgetSlideshow.php:120
+#: ../admin/views/BWGViewWidgetTags.php:139
+msgid "Dimensions:"
+msgstr "尺寸："
+
+#: ../admin/views/BWGViewWidgetSlideshow.php:125
+msgid "Filmstrip height:"
+msgstr "幻灯片高度："
+
+#: ../admin/views/BWGViewWidgetTags.php:123
+msgid "Show Tag Names:"
+msgstr "显示标记名称："
+
+#: ../admin/views/BWGViewWidgetTags.php:129
+msgid "Open in: "
+msgstr "打开："
+
+#: ../admin/views/BWGViewWidgetTags.php:130
+msgid "page"
+msgstr "页面"
+
+#: ../admin/views/BWGViewWidgetTags.php:131
+msgid "lightbox"
+msgstr "灯盒"
+
+#: ../admin/views/BWGViewWidgetTags.php:135
+msgid "Number (0 for all):"
+msgstr "数（0所有）："
+
+#: ../admin/views/BWGViewWidgetTags.php:144
+msgid "Transparent Background:"
+msgstr "透明背景："
+
+#: ../admin/views/BWGViewWidgetTags.php:150
+msgid "Background Color:"
+msgstr "背景颜色："
+
+#: ../admin/views/BWGViewWidgetTags.php:154
+msgid "Text Color:"
+msgstr "文字颜色："
+
+#. Author of the plugin
+msgid "Rob"
+msgstr "抢劫"
+
+#: ../framework/WDWLibrary.php:188 ../framework/WDWLibrary.php:362 ..
+#: /framework/WDWLibrary.php:725 ../framework/WDWLibrary.php:781
+msgid "Search"
+msgstr "搜"
+
+#: ../framework/WDWLibrary.php:315 ../framework/WDWLibrary.php:465 ..
+#: /framework/WDWLibrary.php:545
+msgid "of"
+msgstr "的"
+
+#: ../framework/WDWLibrary.php:436
+msgid "item"
+msgstr "项目"
+
+#: ../framework/WDWLibrary.php:516
+msgid " item(s)"
+msgstr "项目（S）"
+
+#: ../framework/WDWLibrary.php:522
+msgid "Previous"
+msgstr "上一页"
+
+#: ../framework/WDWLibrary.php:523
+msgid "Next"
+msgstr "下一个"
+
+#: ../framework/WDWLibrary.php:542
+msgid "Go to the first page"
+msgstr "转到第页"
+
+#: ../framework/WDWLibrary.php:543
+msgid "Go to the previous page"
+msgstr "转到前一页"
+
+#: ../framework/WDWLibrary.php:549
+msgid "Go to the next page"
+msgstr "进入下一页"
+
+#: ../framework/WDWLibrary.php:550
+msgid "Go to the last page"
+msgstr "转到最后一页"
+
+#: ../framework/WDWLibrary.php:562
+msgid "Load More..."
+msgstr "装载更多..."
+
+#: ../framework/WDWLibrary.php:846
+msgid "Order by: "
+msgstr "排序："
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:160 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:105
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:137
+#: /frontend/views/BWGViewBlog_style.php:33
+#: ../frontend/views/BWGViewCarousel.php:47
+#: ../frontend/views/BWGViewImage_browser.php:72
+#: /frontend/views/BWGViewSlideshow.php:47
+#: ../frontend/views/BWGViewSlideshow.php:106
+#: ../frontend/views/BWGViewThumbnails.php:153
+#: /frontend/views/BWGViewThumbnails_masonry.php:156
+#: /frontend/views/BWGViewThumbnails_mosaic.php:161
+msgid "There is no theme selected or the theme was deleted."
+msgstr "没有选择的主题或主题已被删除。"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:167 ..
+#: /frontend/views/BWGViewAlbum_compact_preview.php:201
+#: /frontend/views/BWGViewAlbum_extended_preview.php:112
+#: /frontend/views/BWGViewAlbum_extended_preview.php:146
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:142
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:176
+msgid "There is no album selected or the album was deleted."
+msgstr "没有选择的专辑或专辑已被删除。"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:189 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:134
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:164
+#: /frontend/views/BWGViewBlog_style.php:106 ../frontend/views/BWGViewCarousel.
+#: php:79 ../frontend/views/BWGViewImage_browser.php:83
+#: /frontend/views/BWGViewSlideshow.php:168
+#: ../frontend/views/BWGViewThumbnails. php:172
+#: ../frontend/views/BWGViewThumbnails_masonry.php:169
+#: /frontend/views/BWGViewThumbnails_mosaic.php:174
+msgid "There are no images in this gallery."
+msgstr "还有在这个画廊没有图像。"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:896 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:883
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:454
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:495
+msgid "Back"
+msgstr "背部"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:919 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:894
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:511
+msgid "Album is empty."
+msgstr "相册是空的。"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:1042 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:1030
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:589
+msgid "Gallery is empty."
+msgstr "画廊是空的。"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:1098 ..
+#: /frontend/views/BWGViewAlbum_compact_preview.php:1148
+#: /frontend/views/BWGViewAlbum_extended_preview.php:1078
+#: /frontend/views/BWGViewAlbum_extended_preview.php:1127
+#: /frontend/views/BWGViewCarousel.php:543 ../frontend/views/BWGViewGalleryBox.
+#: php:888 ../frontend/views/BWGViewGalleryBox.php:2769
+#: /frontend/views/BWGViewSlideshow.php:1654
+#: ../frontend/views/BWGViewThumbnails. php:455
+#: ../frontend/views/BWGViewThumbnails_mosaic.php:398
+msgid "Play"
+msgstr "游玩"
+
+#: ../frontend/views/BWGViewAlbum_extended_preview.php:995 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:1159
+msgid "More"
+msgstr "更多"
+
+#: ../frontend/views/BWGViewAlbum_extended_preview.php:1154
+msgid "Hide"
+msgstr "藏"
+
+#: ../frontend/views/BWGViewBlog_style.php:98
+#: ../frontend/views/BWGViewCarousel. php:74
+#: ../frontend/views/BWGViewImage_browser.php:77 ..
+#: /frontend/views/BWGViewSlideshow.php:163
+#: ../frontend/views/BWGViewThumbnails. php:164
+#: ../frontend/views/BWGViewThumbnails_masonry.php:161
+#: /frontend/views/BWGViewThumbnails_mosaic.php:166
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "没有选择的画廊或美术馆已被删除。"
+
+#: ../frontend/views/BWGViewBlog_style.php:548 ..
+#: /frontend/views/BWGViewGalleryBox.php:900
+msgid "Show comments"
+msgstr "查看评论"
+
+#: ../frontend/views/BWGViewBlog_style.php:554 ..
+#: /frontend/views/BWGViewBlog_style.php:555
+#: ../frontend/views/BWGViewGalleryBox. php:908
+#: ../frontend/views/BWGViewGalleryBox.php:909
+msgid "Share on Facebook"
+msgstr "在脸书上分享"
+
+#: ../frontend/views/BWGViewBlog_style.php:561 ..
+#: /frontend/views/BWGViewBlog_style.php:562
+#: ../frontend/views/BWGViewGalleryBox. php:915
+#: ../frontend/views/BWGViewGalleryBox.php:916
+msgid "Share on Twitter"
+msgstr "分享到微博"
+
+#: ../frontend/views/BWGViewBlog_style.php:568 ..
+#: /frontend/views/BWGViewBlog_style.php:569
+#: ../frontend/views/BWGViewGalleryBox. php:922
+#: ../frontend/views/BWGViewGalleryBox.php:923
+msgid "Share on Google+"
+msgstr "在Google+上分享"
+
+#: ../frontend/views/BWGViewBlog_style.php:575 ..
+#: /frontend/views/BWGViewBlog_style.php:576
+#: ../frontend/views/BWGViewGalleryBox. php:929
+#: ../frontend/views/BWGViewGalleryBox.php:930
+msgid "Share on Pinterest"
+msgstr "分享到Pinterest的"
+
+#: ../frontend/views/BWGViewBlog_style.php:582 ..
+#: /frontend/views/BWGViewBlog_style.php:583
+#: ../frontend/views/BWGViewGalleryBox. php:936
+#: ../frontend/views/BWGViewGalleryBox.php:937
+msgid "Share on Tumblr"
+msgstr "分享到的tumblr"
+
+#: ../frontend/views/BWGViewCarousel.php:531 ../frontend/views/BWGViewCarousel.
+#: php:537 ../frontend/views/BWGViewGalleryBox.php:2763 ..
+#: /frontend/views/BWGViewGalleryBox.php:2778
+#: ../frontend/views/BWGViewSlideshow. php:1645
+#: ../frontend/views/BWGViewSlideshow.php:1663
+msgid "Pause"
+msgstr "休止符"
+
+#: ../frontend/views/BWGViewGalleryBox.php:867
+msgid "The image has been deleted."
+msgstr "图像已被删除。"
+
+#: ../frontend/views/BWGViewGalleryBox.php:892 ..
+#: /frontend/views/BWGViewGalleryBox.php:2052
+#: ../frontend/views/BWGViewGalleryBox. php:2598
+#: ../frontend/views/BWGViewGalleryBox.php:2694
+msgid "Maximize"
+msgstr "最大化"
+
+#: ../frontend/views/BWGViewGalleryBox.php:896 ..
+#: /frontend/views/BWGViewGalleryBox.php:2054
+#: ../frontend/views/BWGViewGalleryBox. php:2696
+msgid "Fullscreen"
+msgstr "全屏"
+
+#: ../frontend/views/BWGViewGalleryBox.php:898 ..
+#: /frontend/views/BWGViewGalleryBox.php:2433
+msgid "Show info"
+msgstr "显示信息"
+
+#: ../frontend/views/BWGViewGalleryBox.php:902 ..
+#: /frontend/views/BWGViewGalleryBox.php:2444
+msgid "Show rating"
+msgstr "展会的评价"
+
+#: ../frontend/views/BWGViewGalleryBox.php:944
+msgid "Open image in original size."
+msgstr "在原始尺寸打开图像。"
+
+#: ../frontend/views/BWGViewGalleryBox.php:965
+msgid "Download original image"
+msgstr "下载原始图像"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1075
+msgid "Hits: "
+msgstr "浏览次数："
+
+#: ../frontend/views/BWGViewGalleryBox.php:1086
+msgid "Rated."
+msgstr "额定。"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1090 ..
+#: /frontend/views/BWGViewGalleryBox.php:1107
+msgid "Not rated yet."
+msgstr "尚未审查。"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1093 ..
+#: /frontend/views/BWGViewGalleryBox.php:1129
+msgid "Votes: "
+msgstr "投票："
+
+#: ../frontend/views/BWGViewGalleryBox.php:1127
+msgid "Cancel your rating."
+msgstr "取消你的等级。"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1129
+msgid "You have already rated."
+msgstr "您已经评价。"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1228
+msgid "Error. Incorrect Verification Code."
+msgstr "错误。验证码不正确。"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1243 ..
+#: /frontend/views/BWGViewGalleryBox.php:2261
+msgid "Hide Comments"
+msgstr "隐藏评论"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1265
+msgid "Verification Code"
+msgstr "验证码"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1288
+msgid "Submit"
+msgstr "服从"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1289
+msgid "Your comment is awaiting moderation"
+msgstr "您的评论正在等待审核"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1318
+msgid "Delete Comment"
+msgstr "删除评论"
+
+#: ../frontend/views/BWGViewGalleryBox.php:2216
+msgid "Show Comments"
+msgstr "查看评论"
+
+#: ../frontend/views/BWGViewGalleryBox.php:2429
+msgid "Hide info"
+msgstr "隐藏信息"
+
+#: ../frontend/views/BWGViewGalleryBox.php:2440
+msgid "Hide rating"
+msgstr "隐藏评级"
+
+#: ../frontend/views/BWGViewGalleryBox.php:2635 ..
+#: /frontend/views/BWGViewGalleryBox.php:2844
+msgid "Restore"
+msgstr "修复"
+
+#: ../frontend/views/BWGViewGalleryBox.php:2749
+msgid "Exit Fullscreen"
+msgstr "退出全屏"
+
+#: ../update/update.php:21
+msgid ""
+"Advanced  plugin to create unlimited galleries and albums with all modern "
+"gallery view options."
+msgstr "高级插件来创造无限的画廊和专辑所有现代画廊视图选项。"
+
+#: ../update/update.php:80
+msgid "Updates"
+msgstr "更新"
+
+#: ../update/update.php:162 ../update/update.php:214
+msgid "What's new:"
+msgstr "什么是新的："
+
+#: ../update/update.php:179 ../update/update.php:255
+msgid "More updates"
+msgstr "更多更新"
+
+#: ../update/update.php:184 ../update/update.php:219
+#, php-format
+msgid "%s is up to date."
+msgstr "%s 是最新的。"
+
+#: ../update/update.php:252
+msgid "Show less"
+msgstr "显示较少"

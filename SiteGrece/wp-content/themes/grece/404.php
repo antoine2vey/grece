@@ -6,7 +6,7 @@
 
 			<section class="error-404 not-found">
 					<div class="page-header col s12">
-						<h1 class="page-title">Il semblerait que vous êtes perdu</h1>
+						<h1 class="page-title">Il semblerait que vous soyez perdu</h1>
 					</div>
 					<div class="error-img"><img src="<?php echo get_template_directory_uri();?>/img/404.svg" alt=""></div>
 					<div class="page-content col s12" style="text-align:center">

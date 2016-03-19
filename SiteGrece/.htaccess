@@ -1,3 +1,8 @@
+<files wp-config.php>
+order allow,deny
+deny from all
+</files>
+
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
@@ -8,4 +13,8 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 </IfModule>
 
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
 # END WordPress

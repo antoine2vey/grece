@@ -348,7 +348,8 @@ h4 {
 	padding: 10px;
 	color: #ffffff;
 	font: 700 20px Roboto;
-	transition: .2s ease
+	transition: .
+    2s ease
 }
 
 #button:hover {

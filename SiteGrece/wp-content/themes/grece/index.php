@@ -10,7 +10,7 @@
 			<div class="col-md-3 col-sm-2 col-xs-1">
 				<img src="<?php echo get_template_directory_uri();?>/img/decor_asso.png" class="img-responsive hidden-sm hidden-xs" id="decor" />
 			</div>
-			<div class="col-md-7 col-sm-8 col-xs-10">
+            <div class="col-md-7 col-sm-8 col-xs-10">
 				<h1>L'association</h1>
 				<div class="underline"></div>
 				<div class="texte">

@@ -1,0 +1,4068 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: photo-gallery\n"
+"POT-Creation-Date: 15-10-27 08:02+000\n"
+"PO-Revision-Date: 2015-12-11 11:37+0400\n"
+"Last-Translator: admin < asd@mail.ru >\n"
+"Language-Team: \n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#: ../photo-gallery-notices.php:188
+msgid "Leave A Review?"
+msgstr "समीक्षा लिखें?"
+
+#: ../photo-gallery-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a review on "
+"WordPress.org?"
+msgstr ""
+"हम आपको वर्डप्रेस %s! का उपयोग करके आनंद लिया है, उम्मीद है! आप हमें WordPress.org पर एक समीक्षा छोड़ने पर "
+"विचार करेंगे?"
+
+#: ../photo-gallery-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "ज़रूर! मुझे खुशी होगी!"
+
+#: ../photo-gallery-notices.php:191
+msgid "I've already left a review"
+msgstr "मैं पहले से ही एक समीक्षा छोड़ दिया है"
+
+#: ../photo-gallery-notices.php:192
+msgid "Maybe Later"
+msgstr "शायद बाद में"
+
+#: ../photo-gallery-notices.php:193 ../photo-gallery-notices.php:203
+msgid "Never show again"
+msgstr "फिर कभी दिखाई मत देना"
+
+#: ../photo-gallery-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "अरे! ये कैसा चल रहा है?"
+
+#: ../photo-gallery-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you need, but if you "
+"have any questions:"
+msgstr ""
+"वर्डप्रेस %s! को प्रयोग करने के लिए धन्यवाद! आप किसी भी प्रश्न हैं, तो हम आप की जरूरत है सब कुछ मिल गया है "
+"कि उम्मीद है, लेकिन:"
+
+#: ../photo-gallery-notices.php:201
+msgid "Check out User Guide"
+msgstr "उपयोगकर्ता गाइड बाहर की जाँच करें"
+
+#: ../photo-gallery-notices.php:202
+msgid "Get Some Help"
+msgstr "कुछ सहायता मिली"
+
+#. Name of the plugin
+msgid "Photo Gallery"
+msgstr "फोटो गैलरी"
+
+#. URI of the plugin
+msgid "https://web-dorado.com/products/wordpress-photo-gallery-plugin.html"
+msgstr "https://web-dorado.com/products/wordpress-photo-gallery-plugin.html"
+
+#. Description of the plugin
+msgid ""
+"This plugin is a fully responsive gallery plugin with advanced functionality.  It allows "
+"having different image galleries for your posts and pages. You can create unlimited number of "
+"galleries, combine them into albums, and provide descriptions and tags."
+msgstr ""
+"इस प्लगइन उन्नत कार्यक्षमता के साथ एक पूरी तरह से संवेदनशील गैलरी प्लगइन है। यह अपने पदों और पृष्ठों के लिए अलग "
+"छवि दीर्घाओं होने की अनुमति देता है। तुम्हें पता है, दीर्घाओं के असीमित संख्या में बना एलबम में उनके गठबंधन, और "
+"विवरण और टैग प्रदान कर सकते हैं।"
+
+#. Author of the plugin
+msgid "WebDorado"
+msgstr "WebDorado"
+
+#. Author URI of the plugin
+msgid "https://web-dorado.com"
+msgstr "https://web-dorado.com"
+
+#: ../photo-gallery.php:82
+msgid "Add Galleries/Images"
+msgstr "दीर्घाओं / छवियाँ जोड़ें"
+
+#: ../photo-gallery.php:87 .. /admin/views/BWGViewAlbums_bwg.php:47
+msgid "Albums"
+msgstr "एल्बम"
+
+#: ../photo-gallery.php:92 ../admin/views/BWGViewAddTags. php:45
+#: ../admin/views/BWGViewGalleries_bwg.php:939 .. /admin/views/BWGViewTags_bwg.php:49
+msgid "Tags"
+msgstr "टैग"
+
+#: ../photo-gallery.php:97
+msgid "Options"
+msgstr "विकल्प"
+
+#: ../photo-gallery.php:101 .. /admin/views/BWGViewThemes_bwg.php:45
+msgid "Themes"
+msgstr "विषय"
+
+#: ../photo-gallery.php:106 .. /admin/views/BWGViewComments_bwg.php:48
+msgid "Comments"
+msgstr "टिप्पणियां"
+
+#: ../photo-gallery.php:111 .. /admin/views/BWGViewRates_bwg.php:47
+msgid "Ratings"
+msgstr "रेटिंग"
+
+#: ../photo-gallery.php:116
+msgid "Generate Shortcode"
+msgstr "शोर्ट उत्पन्न"
+
+#: ../photo-gallery.php:118
+msgid "Featured Plugins"
+msgstr "विशेष रुप से प्लगइन्स"
+
+#: ../photo-gallery.php:119
+msgid "Featured Themes"
+msgstr "विशेष रुप से प्रदर्शित विषय"
+
+#: ../photo-gallery.php:121
+msgid "Uninstall"
+msgstr "स्थापना रद्द करें"
+
+#: ../photo-gallery.php:125 ../addons/addons.php:30
+msgid "Photo Gallery Add-ons"
+msgstr "फोटो गैलरी Add-ons"
+
+#: ../photo-gallery.php:2655 ../photo-gallery.php:2823
+msgid "field is required."
+msgstr "क्षेत्र की आवश्यकता है।"
+
+#: ../photo-gallery.php:2656
+msgid "You must select an image file."
+msgstr "आप एक छवि फ़ाइल का चयन करना होगा।"
+
+#: ../photo-gallery.php:2657
+msgid "You must select an audio file."
+msgstr "आप एक ऑडियो फ़ाइल का चयन करना होगा।"
+
+#: ../photo-gallery.php:2658
+msgid "You do not have Instagram CLIENT_ID. Input its value in Options->Embed options. "
+msgstr "आप Instagram client_id जरूरत नहीं है। विकल्प> ट्वीट विकल्पों में इनपुट अपने मूल्य।"
+
+#: ../photo-gallery.php:2659
+msgid "Instagram recent post number must be between 1 and 33."
+msgstr "इंस्टाग्राम हाल ही में पोस्ट नंबर 1 और 33 के बीच होना चाहिए।"
+
+#: ../photo-gallery.php:2660
+msgid "The gallery is not empty. Please delete all the images first."
+msgstr "गैलरी खाली नहीं है। पहले सभी छवियों को हटा दें।"
+
+#: ../photo-gallery.php:2661
+msgid "Please enter url to embed."
+msgstr "एम्बेड करने के लिए यूआरएल दर्ज करें।"
+
+#: ../photo-gallery.php:2662
+msgid "Error: cannot get response from the server."
+msgstr "त्रुटि: सर्वर से प्रतिक्रिया नहीं मिल सकता है।"
+
+#: ../photo-gallery.php:2663
+msgid "Error: something wrong happened at the server."
+msgstr "त्रुटि: कुछ गलत सर्वर में हुआ।"
+
+#: ../photo-gallery.php:2664
+msgid "Error"
+msgstr "एरर"
+
+#: ../photo-gallery.php:2665
+msgid "Show order column"
+msgstr "शो आदेश स्तंभ"
+
+#: ../photo-gallery.php:2666 ../admin/views/BWGViewAlbums_bwg.php:57 ..
+#: /admin/views/BWGViewGalleries_bwg.php:56 ../admin/views/BWGViewGalleries_bwg. php:774
+msgid "Hide order column"
+msgstr "पसंदीदा में आदेश स्तंभ"
+
+#: ../photo-gallery.php:2667
+msgid "Selected"
+msgstr "चुना गया"
+
+#: ../photo-gallery.php:2668 ../framework/WDWLibrary.php:436
+msgid "item"
+msgstr "मद"
+
+#: ../photo-gallery.php:2669
+msgid "Items Succesfully Saved."
+msgstr "आइटम सफलतापूर्वक बचा लिया।"
+
+#: ../photo-gallery.php:2670
+msgid "Item Succesfully Recovered."
+msgstr "आइटम सफलतापूर्वक बरामद किए।"
+
+#: ../photo-gallery.php:2671 ../admin/controllers/BWGControllerGalleries_bwg.php:953
+#: ../framework/WDWLibrary.php:94
+msgid "Item Succesfully Published."
+msgstr "आइटम सफलतापूर्वक प्रकाशित।"
+
+#: ../photo-gallery.php:2672 ../admin/controllers/BWGControllerGalleries_bwg.php:990
+#: ../framework/WDWLibrary.php:106
+msgid "Item Succesfully Unpublished."
+msgstr "आइटम सफलतापूर्वक अप्रकाशित।"
+
+#: ../photo-gallery.php:2673 ../admin/controllers/BWGControllerGalleries_bwg.php:908
+#: ../framework/WDWLibrary.php:58
+msgid "Item Succesfully Deleted."
+msgstr "आइटम सफलतापूर्वक नष्ट कर दिया।"
+
+#: ../photo-gallery.php:2674 ../admin/controllers/BWGControllerComments_bwg.php:108
+#: ../admin/controllers/BWGControllerComments_bwg.php:139 ..
+#: /admin/controllers/BWGControllerGalleries_bwg.php:944
+#: /admin/controllers/BWGControllerGalleries_bwg.php:981
+#: /admin/controllers/BWGControllerGalleries_bwg.php:1018
+#: /admin/controllers/BWGControllerGalleries_bwg.php:1097 ../framework/WDWLibrary. php:76
+msgid "You must select at least one item."
+msgstr "आपको कम से कम एक आइटम का चयन करना होगा।"
+
+#: ../photo-gallery.php:2675
+msgid "Items Succesfully resized."
+msgstr "आइटम सफलतापूर्वक आकार बदला।"
+
+#: ../photo-gallery.php:2676
+msgid "Watermarks Succesfully Set."
+msgstr "वाटरमार्क सफलतापूर्वक सेट।"
+
+#: ../photo-gallery.php:2677
+msgid "Items Succesfully Reset."
+msgstr "आइटम सफलतापूर्वक रीसेट।"
+
+#: ../photo-gallery.php:2824 ../frontend/views/BWGViewGalleryBox.php:1235
+msgid "This is not a valid email address."
+msgstr "यह एक मान्य ईमेल पता नहीं है।"
+
+#: ../photo-gallery.php:2825 ../frontend/views/BWGViewAlbum_compact_preview.php:1037
+#: ../frontend/views/BWGViewAlbum_extended_preview.php:1025 ..
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:584
+msgid "There are no images matching your search."
+msgstr "अपनी खोज से मेल खाते कोई चित्र नहीं है।"
+
+#: ../photo-gallery.php:2828
+msgid "Select Tag."
+msgstr "चुनें और टैग।"
+
+#: ../photo-gallery.php:2848
+msgid "Photo gallery plugin autoupdate interval."
+msgstr "स्वतः अद्यतन अंतराल प्लगइन फोटो गैलरी।"
+
+#: ../addons/addons.php:5
+msgid "Photo Gallery Facebook"
+msgstr "फोटो गैलरी फेसबुक"
+
+#: ../addons/addons.php:7 ../update/update.php:36
+msgid ""
+"Photo Gallery Facebook is an add-on, which helps to display Facebook photos and videos within "
+"Photo Gallery plugin. You can create Facebook-only galleries, embed individual images and "
+"videos or include Facebook albums within mixed type albums."
+msgstr ""
+"फोटो गैलरी फेसबुक एक ऐड-ऑन, फोटो गैलरी प्लगइन के भीतर फेसबुक तस्वीरें और वीडियो प्रदर्शित करने के लिए मदद "
+"करता है जो है। आप फेसबुक-केवल दीर्घाओं, एम्बेड व्यक्ति चित्र और वीडियो बनाने या मिश्रित प्रकार एलबम के भीतर "
+"फेसबुक एलबम शामिल कर सकते हैं।"
+
+#: ../addons/addons.php:12
+msgid "NextGen Gallery Import to Photo Gallery"
+msgstr "फोटो गैलरी नेक्स्टजेन गैलरी आयात"
+
+#: ../addons/addons.php:14
+msgid ""
+"This addon integrates NextGen with Photo Gallery allowing to import images and related data "
+"from NextGen to use with Photo Gallery"
+msgstr ""
+"यह addon फोटो गैलरी फोटो गैलरी के साथ उपयोग करने के NextGen से छवियों और संबंधित डेटा आयात करने की अनुमति "
+"के साथ NextGen को एकीकृत"
+
+#: ../addons/addons.php:19
+msgid "Photo Gallery Export / Import"
+msgstr "फोटो गैलरी निर्यात / आयात"
+
+#: ../addons/addons.php:21
+msgid ""
+"Photo Gallery Export/Import helps to move created galleries and albums from one site to "
+"another. This way you can save the gallery/album options and manual modifications."
+msgstr ""
+"फोटो गैलरी निर्यात / आयात दूसरे के लिए एक साइट से बनाया दीर्घाओं और एलबम को स्थानांतरित करने में मदद करता "
+"है। इस तरह से आप गैलरी / एल्बम विकल्प और मैनुअल संशोधनों को बचा सकता है।"
+
+#: ../addons/addons.php:63
+msgid "GET THIS ADD ON"
+msgstr "इस पर जोड़ें जाओ"
+
+#: ../admin/controllers/BWGControllerComments_bwg.php:105 ..
+#: /admin/controllers/BWGControllerGalleries_bwg.php:978 ../framework/WDWLibrary. php:100
+msgid "Items Succesfully Published."
+msgstr "आइटम सफलतापूर्वक प्रकाशित।"
+
+#: ../admin/controllers/BWGControllerComments_bwg.php:136 ..
+#: /admin/controllers/BWGControllerGalleries_bwg.php:1015 ../framework/WDWLibrary. php:112
+msgid "Items Succesfully Unpublished."
+msgstr "आइटम सफलतापूर्वक अप्रकाशित।"
+
+#: ../admin/controllers/BWGControllerGalleries_bwg.php:727 ..
+#: /admin/controllers/BWGControllerGalleries_bwg.php:868
+#: /admin/controllers/BWGControllerOptions_bwg.php:384 /admin/views/BWGViewTags_bwg.php:45
+#: ../framework/WDWLibrary.php:46
+msgid "Item Succesfully Saved."
+msgstr "आइटम सफलतापूर्वक बचाया।"
+
+#: ../admin/controllers/BWGControllerGalleries_bwg.php:871 ..
+#: /admin/controllers/BWGControllerGalleries_bwg.php:911
+#: /admin/controllers/BWGControllerGalleries_bwg.php:956
+#: /admin/controllers/BWGControllerGalleries_bwg.php:993 ../framework/WDWLibrary. php:52
+msgid "Error. Please install plugin again."
+msgstr "त्रुटि। फिर प्लगइन स्थापित करें।"
+
+#: ../admin/controllers/BWGControllerGalleries_bwg.php:894 .. /framework/WDWLibrary.php:118
+msgid "Ordering Succesfully Saved."
+msgstr "सफलतापूर्वक गयी आदेश दे।"
+
+#: ../admin/controllers/BWGControllerGalleries_bwg.php:941 .. /framework/WDWLibrary.php:70
+msgid "Items Succesfully Deleted."
+msgstr "आइटम सफलतापूर्वक नष्ट कर दिया।"
+
+#: ../admin/controllers/BWGControllerGalleries_bwg.php:1100
+msgid "Thumb Succesfully Resized"
+msgstr "अँगूठा सफलतापूर्वक पुनः आकार"
+
+#: ../admin/models/BWGModelOptions_bwg.php:78
+msgid "Logout of your app"
+msgstr "अपने अनुप्रयोग के लॉगआउट"
+
+#: ../admin/models/BWGModelOptions_bwg.php:81
+msgid "Log into Facebook with your app"
+msgstr "अपने अनुप्रयोग के साथ फेसबुक में प्रवेश करें"
+
+#: ../admin/models/BWGModelOptions_bwg.php:89
+msgid "View your application's settings."
+msgstr "आपके आवेदन की सेटिंग देखें।"
+
+#: ../admin/views/BWGViewAddAlbumsGalleries.php:45
+msgid "Albums/Galleries"
+msgstr "एल्बम / गैलरी"
+
+#: ../admin/views/BWGViewAddAlbumsGalleries.php:51 ..
+#: /admin/views/BWGViewAddAlbumsGalleries.php:77 ../admin/views/BWGViewAddTags. php:51
+#: ../admin/views/BWGViewAddTags.php:68 ../admin/views/BWGViewAlbums_bwg. php:69
+#: ../admin/views/BWGViewAlbums_bwg.php:90 /admin/views/BWGViewComments_bwg.php:63
+#: ../admin/views/BWGViewComments_bwg.php:91 ../admin/views/BWGViewGalleries_bwg.php:68
+#: /admin/views/BWGViewGalleries_bwg.php:90 ../admin/views/BWGViewTags_bwg.php:64
+#: ../admin/views/BWGViewTags_bwg.php:84 ../admin/views/BWGViewThemes_bwg.php:77 .
+#: frontend/views/BWGViewGalleryBox.php:1247 /frontend/views/BWGViewGalleryBox.php:1275
+#: ../frontend/views/BWGViewGalleryBox. php:1282
+msgid "Name"
+msgstr "नाम"
+
+#: ../admin/views/BWGViewAddAlbumsGalleries.php:70 .. /admin/views/BWGViewBWGShortcode.php:214
+msgid "Type"
+msgstr "टाइप"
+
+#: ../admin/views/BWGViewAddTags.php:75 ../admin/views/BWGViewAlbums_bwg.php:98 ..
+#: /admin/views/BWGViewGalleries_bwg.php:98 ../admin/views/BWGViewTags_bwg.php:92
+msgid "Slug"
+msgstr "काउंटर"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:40
+msgid "This section allows you to create, edit and delete albums."
+msgstr "इस अनुभाग में आप बनाते हैं, एलबम को संपादित करने और नष्ट करने के लिए अनुमति देता है।"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:41 ../admin/views/BWGViewComments_bwg.php:42
+#: ../admin/views/BWGViewGalleries_bwg.php:40 .. /admin/views/BWGViewGalleries_bwg.php:219
+#: ../admin/views/BWGViewOptions_bwg. php:31 ../admin/views/BWGViewRates_bwg.php:41
+#: ../admin/views/BWGViewTags_bwg. php:43 ../admin/views/BWGViewThemes_bwg.php:39
+#: /admin/views/BWGViewThemes_bwg.php:217
+msgid "Read More in User Manual"
+msgstr "उपयोगकर्ता के लिए मैनुअल में और अधिक पढ़ें"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:49 ../admin/views/BWGViewGalleries_bwg. php:48
+#: ../admin/views/BWGViewThemes_bwg.php:47
+msgid "Add new"
+msgstr "नया जोड़ो"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:51 ../admin/views/BWGViewGalleries_bwg. php:50
+msgid "Changes made in this table should be saved."
+msgstr "इस तालिका में किए गए परिवर्तन बचाया जाना चाहिए।"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:55 ../admin/views/BWGViewGalleries_bwg. php:54
+#: ../admin/views/BWGViewGalleries_bwg.php:772 ../filemanager/view.php:268
+#: ../filemanager/view.php:353
+msgid "Select All"
+msgstr "सबका चयन करें"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:58 ../admin/views/BWGViewGalleries_bwg. php:57
+msgid "Save Order"
+msgstr "सहेजें आदेश"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:59 ../admin/views/BWGViewComments_bwg.php:51
+#: ../admin/views/BWGViewGalleries_bwg.php:58 .. /admin/views/BWGViewGalleries_bwg.php:790
+msgid "Publish"
+msgstr "प्रकाशित करना"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:60 ../admin/views/BWGViewComments_bwg.php:52
+#: ../admin/views/BWGViewGalleries_bwg.php:59 .. /admin/views/BWGViewGalleries_bwg.php:793
+msgid "Unpublish"
+msgstr "अप्रकाशित"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:61 ../admin/views/BWGViewComments_bwg.php:53
+#: ../admin/views/BWGViewGalleries_bwg.php:60 .. /admin/views/BWGViewGalleries_bwg.php:794
+#: ../admin/views/BWGViewRates_bwg.php:50 ../admin/views/BWGViewTags_bwg.php:56
+#: ../admin/views/BWGViewThemes_bwg.php:50
+msgid "Do you want to delete selected items?"
+msgstr "आप चयनित आइटम को मिटाना चाहते हैं?"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:65 ../admin/views/BWGViewAlbums_bwg.php:127
+#: ../admin/views/BWGViewAlbums_bwg.php:162 .. /admin/views/BWGViewComments_bwg.php:57
+#: ../admin/views/BWGViewComments_bwg.php:124 ../admin/views/BWGViewComments_bwg.php:160
+#: /admin/views/BWGViewGalleries_bwg.php:64 ../admin/views/BWGViewGalleries_bwg. php:127
+#: ../admin/views/BWGViewGalleries_bwg.php:174 /admin/views/BWGViewGalleries_bwg.php:800 php:956
+#: ../admin/views/BWGViewGalleries_bwg.php:1071 /admin/views/BWGViewRates_bwg.php:54
+#: ../admin/views/BWGViewRates_bwg.php:107 /admin/views/BWGViewRates_bwg.php:137
+#: ../admin/views/BWGViewTags_bwg.php:56 /admin/views/BWGViewTags_bwg.php:104
+#: ../admin/views/BWGViewTags_bwg.php:156 /admin/views/BWGViewThemes_bwg.php:54
+#: ../admin/views/BWGViewThemes_bwg.php:87 . admin/views/BWGViewThemes_bwg.php:134
+msgid "Delete"
+msgstr "हटाना"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:101 ../admin/views/BWGViewBWGShortcode. php:363
+#: ../admin/views/BWGViewBWGShortcode.php:508 .. /admin/views/BWGViewGalleries_bwg.php:84
+#: ../admin/views/BWGViewGalleries_bwg. php:914 ../admin/views/BWGViewOptions_bwg.php:1014
+#: /admin/views/BWGViewWidget.php:123
+msgid "Thumbnail"
+msgstr "थंबनेल"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:107 ../admin/views/BWGViewBWGShortcode. php:209
+#: ../admin/views/BWGViewGalleries_bwg.php:115 .. /admin/views/BWGViewGalleries_bwg.php:945
+msgid "Order"
+msgstr "व्यवस्था"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:115 ../admin/views/BWGViewGalleries_bwg. php:106
+msgid "Author"
+msgstr "लेखक"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:123 ../admin/views/BWGViewComments_bwg. php:121
+#: ../admin/views/BWGViewGalleries_bwg.php:123 .. /admin/views/BWGViewGalleries_bwg.php:953
+msgid "Published"
+msgstr "प्रकाशित"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:126 ../admin/views/BWGViewAlbums_bwg.php:149
+#: ../admin/views/BWGViewAlbums_bwg.php:159 .. /admin/views/BWGViewGalleries_bwg.php:126
+#: ../admin/views/BWGViewGalleries_bwg. php:171 ../admin/views/BWGViewGalleries_bwg.php:364
+#: /admin/views/BWGViewGalleries_bwg.php:1013 ../admin/views/BWGViewTags_bwg.php:103
+#: ../admin/views/BWGViewTags_bwg.php:136 142 ../admin/views/BWGViewTags_bwg.php:148 151
+#: ../admin/views/BWGViewThemes_bwg.php:86 ../admin/views/BWGViewThemes_bwg. php:129
+msgid "Edit"
+msgstr "संपादित"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:195
+msgid "This section allows you to add/edit album."
+msgstr "इस अनुभाग में आप / संपादन एल्बम को जोड़ने के लिए अनुमति देता है।"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:196
+msgid "Manual"
+msgstr "मैनुअल"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:258 ../admin/views/BWGViewGalleries_bwg. php:536
+#: ../admin/views/BWGViewOptions_bwg.php:99 .. /admin/views/BWGViewTags_bwg.php:51
+#: ../admin/views/BWGViewThemes_bwg.php:224
+msgid "Save"
+msgstr "सहेजें"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:259 ../admin/views/BWGViewGalleries_bwg. php:539
+#: ../admin/views/BWGViewThemes_bwg.php:225
+msgid "Apply"
+msgstr "लागू करें"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:260 ../admin/views/BWGViewGalleries_bwg. php:541
+#: ../admin/views/BWGViewGalleries_bwg.php:807 .. /admin/views/BWGViewThemes_bwg.php:226
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:265 ../admin/views/BWGViewGalleries_bwg. php:546
+#: ../admin/views/BWGViewThemes_bwg.php:253
+msgid "Name:"
+msgstr "नाम:"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:269 ../admin/views/BWGViewGalleries_bwg. php:550
+msgid "Slug:"
+msgstr "स्लग:"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:273
+msgid "Description:"
+msgstr "विवरण:"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:292 ../admin/views/BWGViewGalleries_bwg. php:663
+msgid "Author:"
+msgstr "लेखक:"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:296
+msgid "Published:"
+msgstr "प्रकाशित:"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:299 ../admin/views/BWGViewBWGShortcode. php:231
+#: ../admin/views/BWGViewBWGShortcode.php:242 .. /admin/views/BWGViewBWGShortcode.php:249
+#: php:290 ../admin/views/BWGViewBWGShortcode.php:319 /admin/views/BWGViewBWGShortcode.php:389
+#: php:424 ../admin/views/BWGViewBWGShortcode.php:468 /admin/views/BWGViewBWGShortcode.php:495
+#: php:534 ../admin/views/BWGViewBWGShortcode.php:570 /admin/views/BWGViewBWGShortcode.php:595
+#: php:602 ../admin/views/BWGViewBWGShortcode.php:617 /admin/views/BWGViewBWGShortcode.php:628
+#: php:668 ../admin/views/BWGViewBWGShortcode.php:675 /admin/views/BWGViewBWGShortcode.php:682
+#: php:689 ../admin/views/BWGViewBWGShortcode.php:712 /admin/views/BWGViewBWGShortcode.php:745
+#: php:752 ../admin/views/BWGViewBWGShortcode.php:783 /admin/views/BWGViewBWGShortcode.php:810
+#: php:821 ../admin/views/BWGViewBWGShortcode.php:835 /admin/views/BWGViewBWGShortcode.php:842
+#: php:849 ../admin/views/BWGViewBWGShortcode.php:866 /admin/views/BWGViewBWGShortcode.php:877
+#: php:907 ../admin/views/BWGViewBWGShortcode.php:918 /admin/views/BWGViewBWGShortcode.php:929
+#: php:936 ../admin/views/BWGViewBWGShortcode.php:945 /admin/views/BWGViewBWGShortcode.php:952
+#: php:959 ../admin/views/BWGViewBWGShortcode.php:966 /admin/views/BWGViewBWGShortcode.php:973
+#: php:980 ../admin/views/BWGViewBWGShortcode.php:987 /admin/views/BWGViewBWGShortcode.php:994
+#: php:1001 ../admin/views/BWGViewBWGShortcode.php:1008
+#: /admin/views/BWGViewBWGShortcode.php:1015 ../admin/views/BWGViewGalleries_bwg. php:629
+#: ../admin/views/BWGViewGalleries_bwg.php:670 /admin/views/BWGViewOptions_bwg.php:152
+#: ../admin/views/BWGViewOptions_bwg.php:162 ../admin/views/BWGViewOptions_bwg.php:181
+#: /admin/views/BWGViewOptions_bwg.php:191 201 ../admin/views/BWGViewOptions_bwg.php:220
+#: /admin/views/BWGViewOptions_bwg.php:230 240 ../admin/views/BWGViewOptions_bwg.php:267
+#: /admin/views/BWGViewOptions_bwg.php:277 287 ../admin/views/BWGViewOptions_bwg.php:297
+#: /admin/views/BWGViewOptions_bwg.php:307 634 ../admin/views/BWGViewOptions_bwg.php:671
+#: /admin/views/BWGViewOptions_bwg.php:690 709 ../admin/views/BWGViewOptions_bwg.php:755
+#: /admin/views/BWGViewOptions_bwg.php:765 775 ../admin/views/BWGViewOptions_bwg.php:785
+#: /admin/views/BWGViewOptions_bwg.php:795 811 ../admin/views/BWGViewOptions_bwg.php:825
+#: /admin/views/BWGViewOptions_bwg.php:835 845 ../admin/views/BWGViewOptions_bwg.php:855
+#: /admin/views/BWGViewOptions_bwg.php:865 875 ../admin/views/BWGViewOptions_bwg.php:885
+#: /admin/views/BWGViewOptions_bwg.php:895 905 ../admin/views/BWGViewOptions_bwg.php:915
+#: /admin/views/BWGViewOptions_bwg.php:925 935 ../admin/views/BWGViewOptions_bwg.php:945
+#: /admin/views/BWGViewOptions_bwg.php:957 1005 ../admin/views/BWGViewOptions_bwg.php:1037
+#: /admin/views/BWGViewOptions_bwg.php:1047 1123 ../admin/views/BWGViewOptions_bwg.php:1133
+#: /admin/views/BWGViewOptions_bwg.php:1153 1161 ../admin/views/BWGViewOptions_bwg.php:1182
+#: /admin/views/BWGViewOptions_bwg.php:1217 1225 ../admin/views/BWGViewOptions_bwg.php:1260
+#: /admin/views/BWGViewOptions_bwg.php:1321 1388 ../admin/views/BWGViewOptions_bwg.php:1398
+#: /admin/views/BWGViewOptions_bwg.php:1406 1423 ../admin/views/BWGViewOptions_bwg.php:1431
+#: /admin/views/BWGViewOptions_bwg.php:1449 1459 ../admin/views/BWGViewOptions_bwg.php:1478
+#: /admin/views/BWGViewOptions_bwg.php:1506 1649 ../admin/views/BWGViewOptions_bwg.php:1659
+#: /admin/views/BWGViewOptions_bwg.php:1669 1679 ../admin/views/BWGViewOptions_bwg.php:1689
+#: /admin/views/BWGViewThemes_bwg.php:342 ../admin/views/BWGViewThemes_bwg.php:583
+#: ../admin/views/BWGViewThemes_bwg.php:733 ../admin/views/BWGViewThemes_bwg. php:1501
+#: ../admin/views/BWGViewThemes_bwg.php:1733 /admin/views/BWGViewThemes_bwg.php:2241 3656
+#: ../admin/views/BWGViewThemes_bwg.php:3701 /admin/views/BWGViewWidgetSlideshow.php:147
+#: ../admin/views/BWGViewWidgetTags. php:125 ../admin/views/BWGViewWidgetTags.php:146
+msgid "No"
+msgstr "नहीं"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:301 ../admin/views/BWGViewBWGShortcode. php:230
+#: ../admin/views/BWGViewBWGShortcode.php:241 .. /admin/views/BWGViewBWGShortcode.php:248
+#: php:289 ../admin/views/BWGViewBWGShortcode.php:318 /admin/views/BWGViewBWGShortcode.php:388
+#: php:423 ../admin/views/BWGViewBWGShortcode.php:467 /admin/views/BWGViewBWGShortcode.php:494
+#: php:533 ../admin/views/BWGViewBWGShortcode.php:569 /admin/views/BWGViewBWGShortcode.php:594
+#: php:601 ../admin/views/BWGViewBWGShortcode.php:616 /admin/views/BWGViewBWGShortcode.php:627
+#: php:667 ../admin/views/BWGViewBWGShortcode.php:674 /admin/views/BWGViewBWGShortcode.php:681
+#: php:688 ../admin/views/BWGViewBWGShortcode.php:711 /admin/views/BWGViewBWGShortcode.php:744
+#: php:751 ../admin/views/BWGViewBWGShortcode.php:782 /admin/views/BWGViewBWGShortcode.php:809
+#: php:820 ../admin/views/BWGViewBWGShortcode.php:834 /admin/views/BWGViewBWGShortcode.php:841
+#: php:848 ../admin/views/BWGViewBWGShortcode.php:865 /admin/views/BWGViewBWGShortcode.php:876
+#: php:906 ../admin/views/BWGViewBWGShortcode.php:917 /admin/views/BWGViewBWGShortcode.php:928
+#: php:935 ../admin/views/BWGViewBWGShortcode.php:944 /admin/views/BWGViewBWGShortcode.php:951
+#: php:958 ../admin/views/BWGViewBWGShortcode.php:965 /admin/views/BWGViewBWGShortcode.php:972
+#: php:979 ../admin/views/BWGViewBWGShortcode.php:986 /admin/views/BWGViewBWGShortcode.php:993
+#: php:1000 ../admin/views/BWGViewBWGShortcode.php:1007
+#: /admin/views/BWGViewBWGShortcode.php:1014 ../admin/views/BWGViewGalleries_bwg. php:631
+#: ../admin/views/BWGViewGalleries_bwg.php:672 /admin/views/BWGViewOptions_bwg.php:151
+#: ../admin/views/BWGViewOptions_bwg.php:161 ../admin/views/BWGViewOptions_bwg.php:180
+#: /admin/views/BWGViewOptions_bwg.php:190 200 ../admin/views/BWGViewOptions_bwg.php:219
+#: /admin/views/BWGViewOptions_bwg.php:229 239 ../admin/views/BWGViewOptions_bwg.php:266
+#: /admin/views/BWGViewOptions_bwg.php:276 286 ../admin/views/BWGViewOptions_bwg.php:296
+#: /admin/views/BWGViewOptions_bwg.php:306 633 ../admin/views/BWGViewOptions_bwg.php:670
+#: /admin/views/BWGViewOptions_bwg.php:689 708 ../admin/views/BWGViewOptions_bwg.php:741
+#: /admin/views/BWGViewOptions_bwg.php:764 774 ../admin/views/BWGViewOptions_bwg.php:784
+#: /admin/views/BWGViewOptions_bwg.php:794 810 ../admin/views/BWGViewOptions_bwg.php:822
+#: /admin/views/BWGViewOptions_bwg.php:834 844 ../admin/views/BWGViewOptions_bwg.php:854
+#: /admin/views/BWGViewOptions_bwg.php:864 874 ../admin/views/BWGViewOptions_bwg.php:884
+#: /admin/views/BWGViewOptions_bwg.php:894 904 ../admin/views/BWGViewOptions_bwg.php:914
+#: /admin/views/BWGViewOptions_bwg.php:924 934 ../admin/views/BWGViewOptions_bwg.php:944
+#: /admin/views/BWGViewOptions_bwg.php:955 1004 ../admin/views/BWGViewOptions_bwg.php:1036
+#: /admin/views/BWGViewOptions_bwg.php:1046 1122 ../admin/views/BWGViewOptions_bwg.php:1132
+#: /admin/views/BWGViewOptions_bwg.php:1152 1160 ../admin/views/BWGViewOptions_bwg.php:1181
+#: /admin/views/BWGViewOptions_bwg.php:1216 1224 ../admin/views/BWGViewOptions_bwg.php:1259
+#: /admin/views/BWGViewOptions_bwg.php:1322 1387 ../admin/views/BWGViewOptions_bwg.php:1397
+#: /admin/views/BWGViewOptions_bwg.php:1405 1422 ../admin/views/BWGViewOptions_bwg.php:1430
+#: /admin/views/BWGViewOptions_bwg.php:1448 1458 ../admin/views/BWGViewOptions_bwg.php:1477
+#: /admin/views/BWGViewOptions_bwg.php:1505 1648 ../admin/views/BWGViewOptions_bwg.php:1658
+#: /admin/views/BWGViewOptions_bwg.php:1668 1678 ../admin/views/BWGViewOptions_bwg.php:1688
+#: /admin/views/BWGViewThemes_bwg.php:340 ../admin/views/BWGViewThemes_bwg.php:581
+#: ../admin/views/BWGViewThemes_bwg.php:731 ../admin/views/BWGViewThemes_bwg. php:1499
+#: ../admin/views/BWGViewThemes_bwg.php:1731 /admin/views/BWGViewThemes_bwg.php:2239 3654
+#: ../admin/views/BWGViewThemes_bwg.php:3699 /admin/views/BWGViewUninstall_bwg.php:79
+#: ../admin/views/BWGViewWidgetSlideshow. php:146 ../admin/views/BWGViewWidgetTags.php:124
+#: /admin/views/BWGViewWidgetTags.php:145
+msgid "Yes"
+msgstr "हाँ"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:305 ../admin/views/BWGViewGalleries_bwg. php:676
+msgid "Preview image:"
+msgstr "पूर्वावलोकन छवि:"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:320 ../admin/views/BWGViewGalleries_bwg. php:690
+msgid "Add Preview Image"
+msgstr "पूर्वावलोकन छवि जोड़ें"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:331
+msgid "Albums And Galleries:"
+msgstr "एलबम और दीर्घाओं:"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:340 ../admin/views/BWGViewGalleries_bwg. php:756
+#: ../admin/views/BWGViewGalleries_bwg.php:757
+msgid "Add Images"
+msgstr "छवियां जोड़ें"
+
+#: ../admin/views/BWGViewAlbums_bwg.php:341
+msgid "Add Albums/Galleries"
+msgstr "एल्बम / गैलरी जोड़ें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:34 ../admin/views/BWGViewBWGShortcode. php:1027
+#: ../admin/views/BWGViewOptions_bwg.php:328 .. /admin/views/BWGViewOptions_bwg.php:481
+#: ../admin/views/BWGViewThemes_bwg.php:163 ../admin/views/BWGViewThemes_bwg.php:196
+msgid "None"
+msgstr "कोई नहीं"
+
+#: ../admin/views/BWGViewBWGShortcode.php:35
+msgid "Cube Horizontal"
+msgstr "घन क्षैतिज"
+
+#: ../admin/views/BWGViewBWGShortcode.php:36
+msgid "Cube Vertical"
+msgstr "घन कार्यक्षेत्र"
+
+#: ../admin/views/BWGViewBWGShortcode.php:37
+msgid "Fade"
+msgstr "मुरझाना"
+
+#: ../admin/views/BWGViewBWGShortcode.php:38
+msgid "Slice Horizontal"
+msgstr "स्लाइस क्षैतिज"
+
+#: ../admin/views/BWGViewBWGShortcode.php:39
+msgid "Slice Vertical"
+msgstr "स्लाइस कार्यक्षेत्र"
+
+#: ../admin/views/BWGViewBWGShortcode.php:40
+msgid "Slide Horizontal"
+msgstr "क्षैतिज स्लाइड"
+
+#: ../admin/views/BWGViewBWGShortcode.php:41
+msgid "Slide Vertical"
+msgstr "खड़ी स्लाइड"
+
+#: ../admin/views/BWGViewBWGShortcode.php:42
+msgid "Scale Out"
+msgstr "नापें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:43
+msgid "Scale In"
+msgstr "में स्केल"
+
+#: ../admin/views/BWGViewBWGShortcode.php:44
+msgid "Block Scale"
+msgstr "ब्लॉक स्केल"
+
+#: ../admin/views/BWGViewBWGShortcode.php:45
+msgid "Kaleidoscope"
+msgstr "बहुरूपदर्शक"
+
+#: ../admin/views/BWGViewBWGShortcode.php:46
+msgid "Fan"
+msgstr "प्रशंसक"
+
+#: ../admin/views/BWGViewBWGShortcode.php:47
+msgid "Blind Horizontal"
+msgstr "ब्लाइंड क्षैतिज"
+
+#: ../admin/views/BWGViewBWGShortcode.php:48
+msgid "Blind Vertical"
+msgstr "ब्लाइंड कार्यक्षेत्र"
+
+#: ../admin/views/BWGViewBWGShortcode.php:49 ../admin/views/BWGViewBWGShortcode. php:216
+#: ../admin/views/BWGViewWidget.php:151 ../framework/WDWLibrary.php:851
+msgid "Random"
+msgstr "बिना सोचे समझे"
+
+#: ../admin/views/BWGViewBWGShortcode.php:97
+msgid "Display"
+msgstr "प्रदर्शन"
+
+#: ../admin/views/BWGViewBWGShortcode.php:116 ../admin/views/BWGViewThemes_bwg. php:234
+msgid "Thumbnails"
+msgstr "थम्बनेल"
+
+#: ../admin/views/BWGViewBWGShortcode.php:120 ../admin/views/BWGViewBWGShortcode. php:364
+#: ../admin/views/BWGViewBWGShortcode.php:509 .. /admin/views/BWGViewOptions_bwg.php:1015
+#: ../admin/views/BWGViewThemes_bwg.php:235 ../admin/views/BWGViewWidget.php:124
+msgid "Masonry"
+msgstr "चिनाई"
+
+#: ../admin/views/BWGViewBWGShortcode.php:124 ../admin/views/BWGViewBWGShortcode. php:365
+#: ../admin/views/BWGViewBWGShortcode.php:510 .. /admin/views/BWGViewOptions_bwg.php:1016
+#: ../admin/views/BWGViewThemes_bwg.php:236
+msgid "Mosaic"
+msgstr "मौज़ेक"
+
+#: ../admin/views/BWGViewBWGShortcode.php:128 ../admin/views/BWGViewOptions_bwg. php:114
+#: ../admin/views/BWGViewThemes_bwg.php:237
+msgid "Slideshow"
+msgstr "स्लाइड शो"
+
+#: ../admin/views/BWGViewBWGShortcode.php:132 ../admin/views/BWGViewThemes_bwg. php:238
+msgid "Image Browser"
+msgstr "छवि ब्राउज़र"
+
+#: ../admin/views/BWGViewBWGShortcode.php:136 ../admin/views/BWGViewThemes_bwg. php:239
+msgid "Compact Album"
+msgstr "कॉम्पैक्ट एल्बम"
+
+#: ../admin/views/BWGViewBWGShortcode.php:140 ../admin/views/BWGViewThemes_bwg. php:240
+msgid "Masonry Album"
+msgstr "चिनाई एल्बम"
+
+#: ../admin/views/BWGViewBWGShortcode.php:144 ../admin/views/BWGViewThemes_bwg. php:241
+msgid "Extended Album"
+msgstr "विस्तारित एल्बम"
+
+#: ../admin/views/BWGViewBWGShortcode.php:148 ../admin/views/BWGViewThemes_bwg. php:242
+msgid "Blog Style"
+msgstr "ब्लॉग शैली"
+
+#: ../admin/views/BWGViewBWGShortcode.php:152 ../admin/views/BWGViewOptions_bwg. php:118
+#: ../admin/views/BWGViewThemes_bwg.php:245
+msgid "Carousel"
+msgstr "हिंडोला"
+
+#: ../admin/views/BWGViewBWGShortcode.php:161
+msgid "Theme:"
+msgstr "थीम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:164
+msgid "Select Theme"
+msgstr "चुनें थीम"
+
+#: ../admin/views/BWGViewBWGShortcode.php:176
+msgid "Gallery:"
+msgstr "गेलरी:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:179 ../admin/views/BWGViewWidget.php:128
+#: ../admin/views/BWGViewWidgetSlideshow.php:109
+msgid "Select Gallery"
+msgstr "चुनें गैलरी"
+
+#: ../admin/views/BWGViewBWGShortcode.php:191
+msgid "The selected album expanded content will be displayed."
+msgstr "चयनित एल्बम विस्तृत सामग्री प्रदर्शित किया जाएगा।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:191
+msgid "Album:"
+msgstr "एल्बम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:194 ../admin/views/BWGViewWidget.php:140
+msgid "Select Album"
+msgstr "एल्बम का चयन करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:206
+msgid "Sort images by:"
+msgstr "छवियों द्वारा क्रमबद्ध करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:210 ../admin/views/BWGViewThemes_bwg. php:58
+msgid "Title"
+msgstr "शीर्षक"
+
+#: ../admin/views/BWGViewBWGShortcode.php:211 ../admin/views/BWGViewRates_bwg.php:104
+msgid "Date"
+msgstr "तारीख"
+
+#: ../admin/views/BWGViewBWGShortcode.php:212 ../admin/views/BWGViewGalleries_bwg. php:904
+#: ../admin/views/BWGViewGalleries_bwg.php:920 ../framework/WDWLibrary. php:849
+msgid "Filename"
+msgstr "फ़ाइल का नाम"
+
+#: ../admin/views/BWGViewBWGShortcode.php:213 ../framework/WDWLibrary.php:850
+msgid "Size"
+msgstr "आकार"
+
+#: ../admin/views/BWGViewBWGShortcode.php:215
+msgid "Resolution"
+msgstr "संकल्प"
+
+#: ../admin/views/BWGViewBWGShortcode.php:221
+msgid "Order images:"
+msgstr "छवियों आदेश:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:223
+msgid "Ascending"
+msgstr "आरोही"
+
+#: ../admin/views/BWGViewBWGShortcode.php:224
+msgid "Descending"
+msgstr "अवरोही"
+
+#: ../admin/views/BWGViewBWGShortcode.php:228 ../admin/views/BWGViewOptions_bwg. php:158
+msgid "Show search box:"
+msgstr "खोज बॉक्स दिखाएं:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:235 ../admin/views/BWGViewOptions_bwg. php:168
+msgid "Search box width:"
+msgstr "खोज बॉक्स चौड़ाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:239 ../admin/views/BWGViewOptions_bwg. php:187
+msgid "Show tag box:"
+msgstr "टैग बॉक्स दिखाएं:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:246 ../admin/views/BWGViewOptions_bwg. php:177
+msgid "Show \"Order by\" dropdown list:"
+msgstr "शो लटकती सूची  द्वारा आदेश:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:254 ../admin/views/BWGViewOptions_bwg. php:1298
+msgid "Masonry:"
+msgstr "चिनाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:257 ../admin/views/BWGViewBWGShortcode. php:273
+#: ../admin/views/BWGViewBWGShortcode.php:372 .. /admin/views/BWGViewBWGShortcode.php:461
+msgid "Image thumbnail width:"
+msgstr "छवि थंबनेल चौड़ाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:260 ../admin/views/BWGViewBWGShortcode. php:276
+#: ../admin/views/BWGViewBWGShortcode.php:375 .. /admin/views/BWGViewBWGShortcode.php:520
+#: ../admin/views/BWGViewOptions_bwg.php:1301 ../admin/views/BWGViewOptions_bwg.php:1311
+msgid "Vertical"
+msgstr "खड़ा"
+
+#: ../admin/views/BWGViewBWGShortcode.php:261 ../admin/views/BWGViewBWGShortcode. php:277
+#: ../admin/views/BWGViewBWGShortcode.php:376
+msgid "Max. number of image columns: "
+msgstr "मैक्स। छवि के स्तंभों की संख्या:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:265 ../admin/views/BWGViewBWGShortcode. php:281
+#: ../admin/views/BWGViewBWGShortcode.php:380 .. /admin/views/BWGViewBWGShortcode.php:525
+#: ../admin/views/BWGViewOptions_bwg.php:1302 ../admin/views/BWGViewOptions_bwg.php:1312
+msgid "Horizontal"
+msgstr "क्षैतिज"
+
+#: ../admin/views/BWGViewBWGShortcode.php:270 ../admin/views/BWGViewBWGShortcode. php:369
+#: ../admin/views/BWGViewBWGShortcode.php:514 .. /admin/views/BWGViewOptions_bwg.php:1308
+msgid "Mosaic:"
+msgstr "मोज़ेक:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:287 ../admin/views/BWGViewBWGShortcode. php:386
+#: ../admin/views/BWGViewBWGShortcode.php:531
+msgid ""
+"Mosaic thumbnails do not have fixed size, but are proportional to the width of the parent "
+"container. This option keeps thumbs to look nice when viewed with very large or very small "
+"screen. Prevents zooming of thumbs."
+msgstr ""
+"मूसा की थंबनेल निश्चित आकार है, लेकिन माता-पिता कंटेनर की चौड़ाई के लिए आनुपातिक नहीं कर रहे हैं। यह विकल्प "
+"बहुत बड़ी या बहुत छोटे परदे के साथ देखे जाने पर अच्छी लग रही करने के लिए आगे बढ़ने की अनुमति रहती है। अंगूठे की "
+"जूमिंग रोकता है।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:287 ../admin/views/BWGViewBWGShortcode. php:386
+msgid "Resizable mosaic"
+msgstr "आकार बदलने योग्य पच्चीकारी"
+
+#: ../admin/views/BWGViewBWGShortcode.php:295 ../admin/views/BWGViewBWGShortcode. php:394
+#: ../admin/views/BWGViewBWGShortcode.php:540
+msgid "Percentage of container's width"
+msgstr "कंटेनर की चौड़ाई का प्रतिशत"
+
+#: ../admin/views/BWGViewBWGShortcode.php:295 ../admin/views/BWGViewBWGShortcode. php:540
+#: ../admin/views/BWGViewOptions_bwg.php:1328
+msgid "Total width of mosaic:"
+msgstr "पच्चीकारी की कुल चौड़ाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:300 ../admin/views/BWGViewBWGShortcode. php:398
+#: ../admin/views/BWGViewBWGShortcode.php:452 .. /admin/views/BWGViewBWGShortcode.php:521
+#: php:544 ../admin/views/BWGViewBWGShortcode.php:2323
+msgid "Max. number of image columns:"
+msgstr "मैक्स। छवि के स्तंभों की संख्या:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:304 ../admin/views/BWGViewBWGShortcode. php:402
+#: ../admin/views/BWGViewBWGShortcode.php:456 .. /admin/views/BWGViewBWGShortcode.php:548
+#: php:621
+msgid "If you want to display all images you should leave it blank or insert 0."
+msgstr "आप सभी छवियों को प्रदर्शित करना चाहते हैं, तो आप इसे खाली छोड़ या 0 डालने चाहिए।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:304 ../admin/views/BWGViewBWGShortcode. php:402
+#: ../admin/views/BWGViewBWGShortcode.php:456 .. /admin/views/BWGViewBWGShortcode.php:548
+#: php:621 ../admin/views/BWGViewOptions_bwg.php:1346
+msgid "Images per page:"
+msgstr "प्रति पृष्ठ चित्र:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:308 ../admin/views/BWGViewBWGShortcode. php:406
+#: ../admin/views/BWGViewBWGShortcode.php:552
+msgid "Image title:"
+msgstr "छवि शीर्षक:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:310 ../admin/views/BWGViewBWGShortcode. php:348
+#: ../admin/views/BWGViewBWGShortcode.php:408 .. /admin/views/BWGViewBWGShortcode.php:554
+#: ../admin/views/BWGViewOptions_bwg.php:1025 ../admin/views/BWGViewOptions_bwg.php:1378
+msgid "Show on hover"
+msgstr "मंडराना पर दिखाएँ"
+
+#: ../admin/views/BWGViewBWGShortcode.php:311 ../admin/views/BWGViewBWGShortcode. php:349
+#: ../admin/views/BWGViewBWGShortcode.php:409 .. /admin/views/BWGViewBWGShortcode.php:555
+#: ../admin/views/BWGViewOptions_bwg.php:1026 ../admin/views/BWGViewOptions_bwg.php:1379
+msgid "Always show"
+msgstr "हमेशा दिखाएं"
+
+#: ../admin/views/BWGViewBWGShortcode.php:312 ../admin/views/BWGViewBWGShortcode. php:350
+#: ../admin/views/BWGViewBWGShortcode.php:410 .. /admin/views/BWGViewBWGShortcode.php:556
+#: ../admin/views/BWGViewOptions_bwg.php:1027 ../admin/views/BWGViewOptions_bwg.php:1380
+msgid "Don't show"
+msgstr "दिखाने के लिए नहीं"
+
+#: ../admin/views/BWGViewBWGShortcode.php:316 ../admin/views/BWGViewBWGShortcode. php:421
+#: ../admin/views/BWGViewBWGShortcode.php:465 .. /admin/views/BWGViewBWGShortcode.php:567
+#: php:625 ../admin/views/BWGViewOptions_bwg.php:1001
+msgid "Enable pagination:"
+msgstr "पृष्ठ पर अंक लगाना सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:320 ../admin/views/BWGViewBWGShortcode. php:425
+#: ../admin/views/BWGViewBWGShortcode.php:469 .. /admin/views/BWGViewBWGShortcode.php:571
+msgid "Load More"
+msgstr "और लोड करो"
+
+#: ../admin/views/BWGViewBWGShortcode.php:321 ../admin/views/BWGViewBWGShortcode. php:426
+#: ../admin/views/BWGViewBWGShortcode.php:470 .. /admin/views/BWGViewBWGShortcode.php:572
+#: php:630
+msgid "Scroll Load"
+msgstr "स्क्रॉल लोड"
+
+#: ../admin/views/BWGViewBWGShortcode.php:325 ../admin/views/BWGViewBWGShortcode. php:434
+#: ../admin/views/BWGViewBWGShortcode.php:478 .. /admin/views/BWGViewBWGShortcode.php:580
+#: php:634
+msgid "Images per load:"
+msgstr "लोड प्रति छवियाँ:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:329
+msgid "Maximum values for thumbnail dimension."
+msgstr "थम्बनेल आयाम के लिए अधिकतम मूल्य हैं।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:329 ../admin/views/BWGViewBWGShortcode. php:560
+msgid "Image Thumbnail dimensions:"
+msgstr "छवि थंबनेल आयाम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:338 ../admin/views/BWGViewBWGShortcode. php:440
+msgid "Max. number of album columns:"
+msgstr "मैक्स। एल्बम स्तंभों की संख्या:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:342 ../admin/views/BWGViewBWGShortcode. php:430
+#: ../admin/views/BWGViewBWGShortcode.php:444 .. /admin/views/BWGViewBWGShortcode.php:474
+#: php:484 ../admin/views/BWGViewBWGShortcode.php:576
+msgid "If you want to display all albums you should leave it blank or insert 0."
+msgstr "आप सभी एलबम को प्रदर्शित करना चाहते हैं, तो आप इसे खाली छोड़ या 0 डालने चाहिए।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:342 ../admin/views/BWGViewBWGShortcode. php:444
+#: ../admin/views/BWGViewBWGShortcode.php:484 .. /admin/views/BWGViewOptions_bwg.php:992
+msgid "Albums per page:"
+msgstr "प्रति पृष्ठ एल्बम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:346
+msgid "Album title:"
+msgstr "एल्बम का शीर्षक:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:354 ../admin/views/BWGViewBWGShortcode. php:499
+msgid "Maximum values for album thumb width and height."
+msgstr "एल्बम अंगूठे चौड़ाई और ऊंचाई के लिए अधिकतम मूल्य हैं।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:354
+msgid "Album Thumbnail dimensions:"
+msgstr "एल्बम थंबनेल आयाम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:361 ../admin/views/BWGViewBWGShortcode. php:506
+msgid "The gallery images view type in the album."
+msgstr "गैलरी छवियों एल्बम में टाइप देखें।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:361 ../admin/views/BWGViewBWGShortcode. php:506
+#: ../admin/views/BWGViewOptions_bwg.php:1011
+msgid "Album view type:"
+msgstr "एल्बम को देखने के प्रकार:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:395 ../admin/views/BWGViewBWGShortcode. php:541
+msgid "percent"
+msgstr "प्रतिशत"
+
+#: ../admin/views/BWGViewBWGShortcode.php:414 ../admin/views/BWGViewBWGShortcode. php:560
+msgid "Maximum values for thumbnail width and height."
+msgstr "थंबनेल चौड़ाई और ऊंचाई के लिए अधिकतम मूल्य हैं।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:414 ../admin/views/BWGViewBWGShortcode. php:2321
+msgid "Image thumbnail dimensions:"
+msgstr "छवि थंबनेल आयाम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:430 ../admin/views/BWGViewBWGShortcode. php:474
+#: ../admin/views/BWGViewBWGShortcode.php:576
+msgid "Albums per load:"
+msgstr "लोड प्रति एल्बम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:448
+msgid "Maximum value for album thumbnail width."
+msgstr "एल्बम थंबनेल चौड़ाई के लिए अधिकतम मूल्य।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:448
+msgid "Album Thumbnail width:"
+msgstr "एल्बम थंबनेल चौड़ाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:461
+msgid "Maximum value for thumbnail width."
+msgstr "थंबनेल चौड़ाई के लिए अधिकतम मूल्य।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:488
+msgid "Album row height:"
+msgstr "एल्बम पंक्ति ऊँचाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:492
+msgid "If you disable description only the title of the album will be displayed."
+msgstr "आप वर्णन अक्षम करते ही एलबम के शीर्षक प्रदर्शित किया जाएगा।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:492
+msgid "Enable album description:"
+msgstr "एल्बम विवरण सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:499 ../admin/views/BWGViewOptions_bwg. php:1053
+msgid "Album thumbnail dimensions:"
+msgstr "एल्बम थम्बनेल आयाम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:517 ../admin/views/BWGViewBWGShortcode. php:2322
+msgid "Image thumbnail width: "
+msgstr "छवि थंबनेल चौड़ाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:531 ../admin/views/BWGViewOptions_bwg. php:1318
+msgid "Resizable mosaic:"
+msgstr "आकार बदलने योग्य पच्चीकारी:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:586 ../admin/views/BWGViewBWGShortcode. php:608
+msgid "Maximum value for image width."
+msgstr "छवि चौड़ाई के लिए अधिकतम मूल्य।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:586 ../admin/views/BWGViewBWGShortcode. php:608
+msgid "Image width:"
+msgstr "इमेज की चौड़ाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:592 ../admin/views/BWGViewBWGShortcode. php:614
+#: ../admin/views/BWGViewOptions_bwg.php:1179 .. /admin/views/BWGViewOptions_bwg.php:1646
+msgid "Enable image title:"
+msgstr "छवि शीर्षक सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:599 ../admin/views/BWGViewOptions_bwg. php:1222
+msgid "Enable image description:"
+msgstr "छवि विवरण सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:629
+msgid "Load more"
+msgstr "और लोड करो"
+
+#: ../admin/views/BWGViewBWGShortcode.php:640
+msgid "Slideshow Effect:"
+msgstr "स्लाइड शो प्रभाव:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:654 ../admin/views/BWGViewBWGShortcode. php:814
+#: ../admin/views/BWGViewBWGShortcode.php:911
+msgid "Interval between two images."
+msgstr "दो छवियों के बीच अंतराल।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:654 ../admin/views/BWGViewBWGShortcode. php:814
+#: ../admin/views/BWGViewBWGShortcode.php:911 .. /admin/views/BWGViewOptions_bwg.php:677
+#: ../admin/views/BWGViewOptions_bwg.php:1100 ../admin/views/BWGViewOptions_bwg.php:1596
+#: /admin/views/BWGViewWidgetSlideshow.php:141
+msgid "Time interval:"
+msgstr "समय अंतराल:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:658
+msgid "Maximum values for slideshow width and height."
+msgstr "स्लाइड शो चौड़ाई और ऊंचाई के लिए अधिकतम मूल्य हैं।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:658
+msgid "Slideshow dimensions: "
+msgstr "स्लाइड शो आयाम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:665 ../admin/views/BWGViewBWGShortcode. php:807
+msgid "Enable Autoplay:"
+msgstr "ऑटोप्ले सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:672
+msgid "Enable Shuffle:"
+msgstr "साधा सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:679 ../admin/views/BWGViewBWGShortcode. php:933
+#: ../admin/views/BWGViewOptions_bwg.php:725 .. /admin/views/BWGViewOptions_bwg.php:1149
+msgid "Enable control buttons:"
+msgstr "नियंत्रण बटन सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:686
+msgid "Enable slideshow filmstrip view"
+msgstr "स्लाइड शो फिल्मस्ट्रिप दृश्य सक्षम करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:686 ../admin/views/BWGViewOptions_bwg. php:1158
+msgid "Enable slideshow filmstrip:"
+msgstr "स्लाइड शो फ़िल्मस्ट्रिप सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:693
+msgid "Slideshow Filmstrip size:"
+msgstr "स्लाइड शो फिल्मस्ट्रिप का आकार:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:698
+msgid "Max. number of carousel images:"
+msgstr "मैक्स। हिंडोला छवियों की संख्या:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:709 ../admin/views/BWGViewBWGShortcode. php:818
+msgid "Enable Image Title:"
+msgstr "छवि शीर्षक सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:716 ../admin/views/BWGViewOptions_bwg. php:1208
+msgid "Image title position on slideshow"
+msgstr "स्लाइड शो पर छवि शीर्षक स्थिति"
+
+#: ../admin/views/BWGViewBWGShortcode.php:716
+msgid "Title Position:"
+msgstr "शीर्षक की स्थिति:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:740 ../admin/views/BWGViewOptions_bwg. php:1218
+msgid "Display image title based on the slideshow dimensions."
+msgstr "स्लाइड शो के आयामों पर आधारित प्रदर्शन छवि शीर्षक।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:741 ../admin/views/BWGViewOptions_bwg. php:1213
+msgid "Full width title:"
+msgstr "पूर्ण चौड़ाई शीर्षक:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:749
+msgid "Enable Image Description:"
+msgstr "छवि विवरण सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:756 ../admin/views/BWGViewOptions_bwg. php:1251
+msgid "Image description position on slideshow"
+msgstr "स्लाइड शो पर छवि विवरण स्थिति"
+
+#: ../admin/views/BWGViewBWGShortcode.php:756
+msgid "Description Position:"
+msgstr "विवरण की स्थिति:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:780
+msgid "Enable Slideshow Music:"
+msgstr "स्लाइड शो संगीत सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:787
+msgid "Enter absolute audio file url or add file from Options page."
+msgstr "पूर्ण ऑडियो फ़ाइल यूआरएल दर्ज करें या विकल्प पृष्ठ से फ़ाइल जोड़ें।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:788 ../admin/views/BWGViewOptions_bwg. php:1266
+msgid "Music url:"
+msgstr "संगीत यूआरएल:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:796 ../admin/views/BWGViewBWGShortcode. php:825
+msgid "Maximum values for carousel width and height."
+msgstr "हिंडोला चौड़ाई और ऊंचाई के लिए अधिकतम मूल्य हैं।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:796
+msgid "Carousel dimensions:"
+msgstr "हिंडोला आयाम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:803 ../admin/views/BWGViewOptions_bwg. php:1614
+msgid "Carousel image ratio:"
+msgstr "हिंडोला छवि अनुपात:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:825 ../admin/views/BWGViewOptions_bwg. php:1633
+msgid "Fixed width:"
+msgstr "निश्चित चौड़ाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:832 ../admin/views/BWGViewOptions_bwg. php:1665
+msgid "Container fit:"
+msgstr "कंटेनर फिट:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:839 ../admin/views/BWGViewOptions_bwg. php:1675
+msgid "Next/Previous buttons:"
+msgstr "अगले / पिछले बटन:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:846 ../admin/views/BWGViewOptions_bwg. php:1685
+msgid "Play/Pause button:"
+msgstr "/ रोकें बटन खेलने के लिए:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:855
+msgid "Thumb click action:"
+msgstr "अँगूठा क्लिक कार्रवाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:857 ../admin/views/BWGViewOptions_bwg. php:1413
+msgid "Open lightbox"
+msgstr "ओपन Lightbox"
+
+#: ../admin/views/BWGViewBWGShortcode.php:858 ../admin/views/BWGViewOptions_bwg. php:1414
+msgid "Redirect to url"
+msgstr "यूआरएल को अनुप्रेषित"
+
+#: ../admin/views/BWGViewBWGShortcode.php:859 ../admin/views/BWGViewOptions_bwg. php:1415
+msgid "Do Nothing"
+msgstr "कुछ न करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:863
+msgid "Open new window when redirecting."
+msgstr "पुनः निर्देशित जब नया विंडो खोलें।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:863
+msgid "Open in new window:"
+msgstr "नई विंडो में खोलें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:872 ../admin/views/BWGViewOptions_bwg. php:635
+msgid "Enable full width feature for the lightbox."
+msgstr "Lightbox के लिए पूरी चौड़ाई सुविधा सक्षम करें।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:873 ../admin/views/BWGViewOptions_bwg. php:630
+msgid "Full width lightbox:"
+msgstr "पूर्ण चौड़ाई Lightbox:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:881
+msgid "Maximum values for lightbox width and height."
+msgstr "Lightbox चौड़ाई और ऊंचाई के लिए अधिकतम मूल्य हैं।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:881 ../admin/views/BWGViewOptions_bwg. php:640
+msgid "Lightbox dimensions:"
+msgstr "Lightbox के आयाम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:888
+msgid "Lightbox slideshow effect."
+msgstr "Lightbox स्लाइड शो प्रभाव।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:888 ../admin/views/BWGViewOptions_bwg. php:650
+msgid "Lightbox effect:"
+msgstr "Lightbox प्रभाव:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:903 ../admin/views/BWGViewOptions_bwg. php:667
+msgid "Lightbox autoplay:"
+msgstr "लाइटबॉक्स ऑटोप्ले:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:915
+msgid "Enable filmstrip view for images"
+msgstr "छवियों के लिए फिल्मस्ट्रिप दृश्य सक्षम करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:915
+msgid "Enable filmstrip in lightbox:"
+msgstr "Lightbox में फ़िल्मस्ट्रिप सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:922 ../admin/views/BWGViewOptions_bwg. php:696
+msgid "Filmstrip size:"
+msgstr "फिल्मस्ट्रिप का आकार:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:926 ../admin/views/BWGViewOptions_bwg. php:705
+msgid "Display hit counter:"
+msgstr "हिट काउंटर प्रदर्शन:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:933
+msgid "Enable control buttons in lightbox"
+msgstr "Lightbox में नियंत्रण बटन सक्षम करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:942
+msgid "Enable fullscreen view for images"
+msgstr "छवियों के लिए फुलस्क्रीन दृश्य सक्षम"
+
+#: ../admin/views/BWGViewBWGShortcode.php:942 ../admin/views/BWGViewOptions_bwg. php:761
+msgid "Enable fullscreen:"
+msgstr "फुलस्क्रीन सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:949
+msgid "Enable title, description for images"
+msgstr "छवियों के लिए शीर्षक, वर्णन सक्षम करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:949 ../admin/views/BWGViewOptions_bwg. php:771
+msgid "Enable info:"
+msgstr "जानकारी सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:956 ../admin/views/BWGViewOptions_bwg. php:781
+msgid "Display info by default:"
+msgstr "डिफ़ॉल्ट रूप से जानकारी प्रदर्शित करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:963 ../admin/views/BWGViewOptions_bwg. php:796
+msgid "Display image information based on the lightbox dimensions."
+msgstr "Lightbox के आयामों के आधार पर प्रदर्शन छवि जानकारी।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:963 ../admin/views/BWGViewOptions_bwg. php:791
+msgid "Full width info:"
+msgstr "पूर्ण चौड़ाई की जानकारी:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:970
+msgid "Enable rating for images"
+msgstr "छवियों के लिए रेटिंग सक्षम करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:970 ../admin/views/BWGViewOptions_bwg. php:807
+msgid "Enable rating:"
+msgstr "रेटिंग सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:977
+msgid "Enable comments for images"
+msgstr "छवियों के लिए टिप्पणियां सक्षम"
+
+#: ../admin/views/BWGViewBWGShortcode.php:977 ../admin/views/BWGViewOptions_bwg. php:817
+msgid "Enable comments:"
+msgstr "टिप्पणियां सक्षम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:984
+msgid "Enable Facebook share button for images"
+msgstr "छवियों के लिए फेसबुक शेयर बटन सक्षम करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:984 ../admin/views/BWGViewOptions_bwg. php:881
+msgid "Enable Facebook button:"
+msgstr "फेसबुक बटन सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:991
+msgid "Enable Twitter share button for images"
+msgstr "छवियों के लिए ट्विटर पर साझा करें बटन सक्षम करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:991 ../admin/views/BWGViewOptions_bwg. php:891
+msgid "Enable Twitter button:"
+msgstr "ट्विटर बटन सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:998
+msgid "Enable Google+ share button for images"
+msgstr "छवियों के लिए गूगल + शेयर बटन सक्षम करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:998 ../admin/views/BWGViewOptions_bwg. php:901
+msgid "Enable Google+ button:"
+msgstr "गूगल + बटन सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1005
+msgid "Enable Pinterest share button for images"
+msgstr "छवियों के लिए Pinterest शेयर बटन सक्षम करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1005 ../admin/views/BWGViewOptions_bwg. php:911
+msgid "Enable Pinterest button:"
+msgstr "Pinterest बटन सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1012
+msgid "Enable Tumblr share button for images"
+msgstr "छवियों के लिए पी शेयर बटन सक्षम करें"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1012 ../admin/views/BWGViewOptions_bwg. php:921
+msgid "Enable Tumblr button:"
+msgstr "पी बटन सक्षम करें:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1025
+msgid "Advertisement Type:"
+msgstr "विज्ञापन के प्रकार:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1028 ../admin/views/BWGViewOptions_bwg. php:330
+#: ../admin/views/BWGViewOptions_bwg.php:483 .. /admin/views/BWGViewThemes_bwg.php:3708
+#: ../admin/views/BWGViewWidgetTags.php:118
+msgid "Text"
+msgstr "टेक्स्ट"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1029 ../admin/views/BWGViewComments_bwg. php:62
+#: ../admin/views/BWGViewComments_bwg.php:83 .. /admin/views/BWGViewOptions_bwg.php:332
+#: ../admin/views/BWGViewOptions_bwg.php:485 ../admin/views/BWGViewRates_bwg.php:59
+#: ../admin/views/BWGViewRates_bwg.php: 80 ../admin/views/BWGViewWidgetTags.php:119
+msgid "Image"
+msgstr "छवि"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1033
+msgid "Enter absolute url"
+msgstr "पूर्ण यूआरएल दर्ज"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1034 ../admin/views/BWGViewOptions_bwg. php:522
+msgid "Advertisement link:"
+msgstr "विज्ञापन लिंक:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1041
+msgid "Enter absolute image file url or add file from Options page."
+msgstr "निरपेक्ष छवि फ़ाइल यूआरएल दर्ज करें या विकल्प पृष्ठ से फ़ाइल जोड़ें।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1042 ../admin/views/BWGViewOptions_bwg. php:491
+msgid "Advertisement url:"
+msgstr "विज्ञापन यूआरएल:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1049 ../admin/views/BWGViewOptions_bwg. php:536
+msgid "Maximum values for watermark image width and height."
+msgstr "वॉटरमार्क छवि चौड़ाई और ऊंचाई के लिए अधिकतम मूल्य हैं।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1049 ../admin/views/BWGViewOptions_bwg. php:531
+msgid "Advertisement dimensions:"
+msgstr "विज्ञापन आयाम:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1056 ../admin/views/BWGViewOptions_bwg. php:513
+msgid "Advertisement text:"
+msgstr "विज्ञापन पाठ:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1062 ../admin/views/BWGViewOptions_bwg. php:541
+msgid "Advertisement font size:"
+msgstr "विज्ञापन फ़ॉन्ट आकार:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1068
+msgid "Advertisement font style:"
+msgstr "विज्ञापन फ़ॉन्ट शैली:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1082 ../admin/views/BWGViewOptions_bwg. php:567
+msgid "Advertisement color:"
+msgstr "विज्ञापन का रंग:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1088 ../admin/views/BWGViewOptions_bwg. php:580
+#: ../admin/views/BWGViewThemes_bwg.php:363 .. /admin/views/BWGViewThemes_bwg.php:376
+#: ../admin/views/BWGViewThemes_bwg.php:520 ../admin/views/BWGViewThemes_bwg.php:533
+#: ../admin/views/BWGViewThemes_bwg. php:670 ../admin/views/BWGViewThemes_bwg.php:683
+#: /admin/views/BWGViewThemes_bwg.php:826 981 ../admin/views/BWGViewThemes_bwg.php:1067 php:1120
+#: ../admin/views/BWGViewThemes_bwg.php:1189 /admin/views/BWGViewThemes_bwg.php:1302 1520
+#: ../admin/views/BWGViewThemes_bwg.php:1533 /admin/views/BWGViewThemes_bwg.php:1754 1794
+#: ../admin/views/BWGViewThemes_bwg.php:1873 /admin/views/BWGViewThemes_bwg.php:2260 2396
+#: ../admin/views/BWGViewThemes_bwg.php:2567 /admin/views/BWGViewThemes_bwg.php:2603 2656
+#: ../admin/views/BWGViewThemes_bwg.php:2683 /admin/views/BWGViewThemes_bwg.php:2968 3090
+#: ../admin/views/BWGViewThemes_bwg.php:3220 /admin/views/BWGViewThemes_bwg.php:3647 3733
+#: ../admin/views/BWGViewThemes_bwg.php:3758 /admin/views/BWGViewThemes_bwg.php:3890
+msgid "Value must be between 0 to 100."
+msgstr "मूल्य 0 के बीच 100 के लिए होना चाहिए।"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1088
+msgid "Advertisement opacity: "
+msgstr "विज्ञापन अस्पष्टता:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1094
+msgid "Advertisement Position: "
+msgstr "विज्ञापन की स्थिति:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1147
+msgid "Generate"
+msgstr "उत्पन्न"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1148
+msgid "Import"
+msgstr "आयात"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1151
+msgid "Shortcode"
+msgstr "छोटे संकेत"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1155
+msgid "PHP function"
+msgstr "PHP समारोह"
+
+#: ../admin/views/BWGViewBWGShortcode.php:1200
+msgid "There is no shortcode with such ID!"
+msgstr "ऐसे आईडी के साथ कोई शोर्ट नहीं है!"
+
+#: ../admin/views/BWGViewBWGShortcode.php:2324
+msgid "Image thumbnail height:"
+msgstr "छवि थंबनेल ऊंचाई:"
+
+#: ../admin/views/BWGViewBWGShortcode.php:2325
+msgid "Number of image rows:"
+msgstr "छवि की पंक्तियों की संख्या:"
+
+#: ../admin/views/BWGViewComments_bwg.php:41
+msgid "This section allows you to manage the image comments."
+msgstr "इस अनुभाग में आप छवि टिप्पणियों का प्रबंधन करने की अनुमति देता है।"
+
+#: ../admin/views/BWGViewComments_bwg.php:61 ../admin/views/BWGViewRates_bwg.php:58
+#: ../admin/views/BWGViewWidget.php:119
+msgid "Gallery"
+msgstr "गेलरी"
+
+#: ../admin/views/BWGViewComments_bwg.php:99 ../frontend/views/BWGViewGalleryBox. php:1260
+#: ../frontend/views/BWGViewGalleryBox.php:1275 .. /frontend/views/BWGViewGalleryBox.php:1282
+msgid "Comment"
+msgstr "टिप्पणी"
+
+#: ../admin/views/BWGViewComments_bwg.php:110 ../frontend/views/BWGViewGalleryBox. php:1253
+#: ../frontend/views/BWGViewGalleryBox.php:1275 .. /frontend/views/BWGViewGalleryBox.php:1282
+msgid "Email"
+msgstr "ईमेल"
+
+#: ../admin/views/BWGViewEditThumb.php:183
+msgid "You can't crop this type of image."
+msgstr "आप छवि के इस प्रकार फसल नहीं कर सकते हैं।"
+
+#: ../admin/views/BWGViewEditThumb.php:252
+msgid "The thumbnail successfully croped."
+msgstr "झलक सफलतापूर्वक croped।"
+
+#: ../admin/views/BWGViewEditThumb.php:255
+msgid "Select the area for the thumbnail."
+msgstr "थंबनेल के लिए क्षेत्र का चयन करें।"
+
+#: ../admin/views/BWGViewEditThumb.php:268
+msgid "Keep aspect ratio"
+msgstr "अनुपात बनाये रखें"
+
+#: ../admin/views/BWGViewEditThumb.php:741
+msgid "Grayscale"
+msgstr "स्केल"
+
+#: ../admin/views/BWGViewEditThumb.php:745
+msgid "Negative"
+msgstr "नकारात्मक"
+
+#: ../admin/views/BWGViewEditThumb.php:749
+msgid "Removal"
+msgstr "निष्कासन"
+
+#: ../admin/views/BWGViewEditThumb.php:753
+msgid "Sepia"
+msgstr "एक प्रकार की मछली"
+
+#: ../admin/views/BWGViewEditThumb.php:757
+msgid "Slate"
+msgstr "स्लेट"
+
+#: ../admin/views/BWGViewEditThumb.php:761
+msgid "Saturate"
+msgstr "तर"
+
+#: ../admin/views/BWGViewEditThumb.php:765
+msgid "Do you want to reset the image?"
+msgstr "यदि आप इस चित्र को रीसेट करना चाहते हैं?"
+
+#: ../admin/views/BWGViewEditThumb.php:765
+msgid "Reset image"
+msgstr "रीसेट की छवि"
+
+#: ../admin/views/BWGViewEditThumb.php:791
+msgid "Brightness"
+msgstr "चमक"
+
+#: ../admin/views/BWGViewEditThumb.php:793 ../admin/views/BWGViewEditThumb.php:818
+msgid "Press for result"
+msgstr "परिणाम के लिए प्रेस"
+
+#: ../admin/views/BWGViewEditThumb.php:816
+msgid "Contrast"
+msgstr "विषमता"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:39
+msgid "This section allows you to create, edit and delete galleries."
+msgstr "यह खंड तुम बनाने दीर्घाओं को संपादित करने और नष्ट करने के लिए अनुमति देता है।"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:46
+msgid "Galleries"
+msgstr "गैलरी"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:109
+msgid "Images count"
+msgstr "छवियाँ गिनती"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:205
+msgid "Edit gallery"
+msgstr "संपादित गैलरी"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:205
+msgid "Create new gallery"
+msgstr "नई गैलरी बनाएं"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:218
+msgid "This section allows you to add/edit gallery."
+msgstr "इस अनुभाग में आप / संपादन गैलरी जोड़ने के लिए अनुमति देता है।"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:355 .. /admin/views/BWGViewGalleries_bwg.php:1005
+msgid "Crop"
+msgstr "फ़सल"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:372 .. /admin/views/BWGViewGalleries_bwg.php:782
+#: ../admin/views/BWGViewGalleries_bwg. php:1019 ../admin/views/BWGViewThemes_bwg.php:231
+#: ../framework/WDWLibrary.php:189 ../framework/WDWLibrary.php:363
+#: ../framework/WDWLibrary.php:722 /framework/WDWLibrary.php:784
+msgid "Reset"
+msgstr "रीसेट"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:554
+msgid "Gallery content type:"
+msgstr "गैलरी सामग्री प्रकार:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:557
+msgid "Mixed"
+msgstr "मिश्रित"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:558
+msgid "Instagram only"
+msgstr "इंस्टाग्राम केवल"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:560
+msgid "Facebook"
+msgstr "फेसबुक"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:570
+msgid "Instagram username:"
+msgstr "इंस्टाग्राम उपयोगकर्ता नाम:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:575 .. /admin/views/BWGViewGalleries_bwg.php:852
+msgid "Number of Instagram recent posts to add to gallery:"
+msgstr "इंस्टाग्राम हाल के पदों की संख्या गैलरी में जोड़ने के लिए:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:579
+msgid "Instagram embed type: "
+msgstr "इंस्टाग्राम ट्वीट के प्रकार:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:582 .. /admin/views/BWGViewGalleries_bwg.php:859
+msgid "Content"
+msgstr "सामग्री"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:584 .. /admin/views/BWGViewGalleries_bwg.php:861
+msgid "Whole post"
+msgstr "पूरी पोस्ट"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:588
+msgid "Gallery autoupdate option:"
+msgstr "गैलरी स्वतः अद्यतन विकल्प:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:591
+msgid "No update"
+msgstr "कोई अपग्रेड नहीं"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:593
+msgid "Add new media, keep old ones published."
+msgstr "नए मीडिया जोड़ें प्रकाशित पुराने लोगों को रखने के लिए।"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:595
+msgid "Add new media, unpublish old ones."
+msgstr "नए मीडिया, अप्रकाशित पुराने लोगों को जोड़ें।"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:609
+msgid "Facebook album url: "
+msgstr "फेसबुक एल्बम यूआरएल:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:613
+msgid "Images limit: "
+msgstr "छवियाँ सीमा:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:626
+msgid "Gallery autoupdate option: "
+msgstr "गैलरी स्वतः अद्यतन विकल्प:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:644
+msgid "Description: "
+msgstr "विवरण:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:667
+msgid "Published: "
+msgstr "प्रकाशित:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:766
+msgid "Embed Media"
+msgstr "ट्वीट मीडिया"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:767
+msgid "Bulk Embed"
+msgstr "थोक ट्वीट"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:777
+msgid "Set Watermark"
+msgstr "वॉटरमार्क सेट"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:778
+msgid "Resize"
+msgstr "आकार बदलें"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:779
+msgid "Recreate Thumbnail"
+msgstr "थंबनेल बहलाना"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:787 .. /admin/views/BWGViewGalleries_bwg.php:1046
+msgid "Add tag"
+msgstr "टैग जोड़ें"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:806
+msgid "Add to gallery"
+msgstr "गैलरी में जोड़ें"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:809
+msgid "Enter YouTube, Vimeo, Instagram, Facebook, Flickr or Dailymotion URL here."
+msgstr "यहाँ यूट्यूब, Vimeo, Instagram, फेसबुक, फ्लिकर या Dailymotion URL दर्ज करें।"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:809
+msgid "Help"
+msgstr "मदद"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:812
+msgid "Close"
+msgstr "बंद करे"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:813 .. /admin/views/BWGViewGalleries_bwg.php:814
+#: ../admin/views/BWGViewGalleries_bwg. php:815 ../admin/views/BWGViewGalleries_bwg.php:824
+msgid "example:"
+msgstr "उदाहरण:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:815 ../filemanager/view.php:275
+msgid "Add"
+msgstr "जोड़ना"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:815
+msgid "post"
+msgstr "पद"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:815
+msgid "to the end of URL if you want to embed the whole Instagram post, not only its content."
+msgstr "URL के अंत में आप पूरे इंस्टाग्राम पद, न केवल अपनी सामग्री एम्बेड करना चाहते हैं।"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:817
+msgid "Photo URL example:"
+msgstr "फोटो यूआरएल उदाहरण:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:818
+msgid "Video URL example:"
+msgstr "वीडियो URL उदाहरण:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:822
+msgid "Note that media must have public privacy."
+msgstr "मीडिया जनता गोपनीयता होनी चाहिए कि ध्यान दें।"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:825
+msgid "URL example:"
+msgstr "यूआरएल उदाहरण:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:836
+msgid "Bulk embed from:"
+msgstr "थोक ट्वीट से:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:848
+msgid "username:"
+msgstr "उपयोगकर्ता नाम:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:856
+msgid "embed type:"
+msgstr "ट्वीट के प्रकार:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:869
+msgid "album url:"
+msgstr "एल्बम यूआरएल:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:873
+msgid "Images limit:"
+msgstr "छवियाँ सीमा:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:892
+msgid "Resize images to: "
+msgstr "छवियों का आकार बदलें:"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:900
+msgid "The maximum size of resized image."
+msgstr "resized छवि का अधिकतम आकार।"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:928
+msgid "Alt/Title"
+msgstr "ऑल्ट / शीर्षक"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:928
+msgid "Redirect"
+msgstr "पुनर्निर्देशन"
+
+#: ../admin/views/BWGViewGalleries_bwg.php:936
+msgid "Description"
+msgstr "विवरण"
+
+#: ../admin/views/BWGViewOptions_bwg.php:30
+msgid "This section allows you to change settings for different views and general options."
+msgstr "इस अनुभाग में आप अलग अलग विचार और सामान्य विकल्प के लिए सेटिंग्स को बदलने की अनुमति देता है।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:96
+msgid "Edit options"
+msgstr "संपादित करें विकल्प"
+
+#: ../admin/views/BWGViewOptions_bwg.php:104
+msgid "Reset all options"
+msgstr "सभी विकल्पों को रीसेट"
+
+#: ../admin/views/BWGViewOptions_bwg.php:109
+msgid "Global options"
+msgstr "ग्लोबल विकल्प"
+
+#: ../admin/views/BWGViewOptions_bwg.php:110
+msgid "Watermark"
+msgstr "वाटर-मार्क"
+
+#: ../admin/views/BWGViewOptions_bwg.php:111
+msgid "Advertisement"
+msgstr "विज्ञापन"
+
+#: ../admin/views/BWGViewOptions_bwg.php:112 ../admin/views/BWGViewThemes_bwg.php:243
+msgid "Lightbox"
+msgstr "प्रकाश बॉक्स"
+
+#: ../admin/views/BWGViewOptions_bwg.php:113
+msgid "Album options"
+msgstr "एल्बम के विकल्प"
+
+#: ../admin/views/BWGViewOptions_bwg.php:115
+msgid "Thumbnail options"
+msgstr "थंबनेल विकल्प"
+
+#: ../admin/views/BWGViewOptions_bwg.php:116
+msgid "Image options"
+msgstr "छवि विकल्प"
+
+#: ../admin/views/BWGViewOptions_bwg.php:117
+msgid "Social options"
+msgstr "सामाजिक विकल्प"
+
+#: ../admin/views/BWGViewOptions_bwg.php:128
+msgid "Images directory:"
+msgstr "छवियाँ निर्देशिका:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:133
+msgid ""
+"Input an existing directory inside the Wordpress directory to store uploaded images.<br />Old "
+"directory content will be moved to the new one."
+msgstr ""
+"इनपुट Wordpress निर्देशिका के अंदर एक मौजूदा निर्देशिका। अपलोड की छवियों को स्टोर /> पुरानी निर्देशिका "
+"सामग्री को नया करने के लिए ले जाया जाएगा <br करने के लिए।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:138 ../admin/views/BWGViewOptions_bwg. php:1623
+msgid "Image dimensions:"
+msgstr "छवि आयाम:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:143
+msgid "The maximum size of the uploaded image (0 for original size)."
+msgstr "अपलोड की गई छवि का अधिकतम आकार (मूल आकार के लिए 0)।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:148
+msgid "Right click protection:"
+msgstr "राइट क्लिक करें संरक्षण:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:153
+msgid "Disable image right click possibility."
+msgstr "अक्षम छवि सही संभावना क्लिक करें।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:197
+msgid "Preload images:"
+msgstr "प्रीलोड छवियों:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:207
+msgid "Count of images:"
+msgstr "छवियों की गणना:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:211
+msgid "Count of images to preload (0 for all)."
+msgstr "छवियों की गणना (सभी के लिए 0) प्रीलोड।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:216
+msgid "Import from Media Library:"
+msgstr "मीडिया लाइब्रेरी से आयात करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:221
+msgid "Enable import from Media Library in file manager."
+msgstr "फ़ाइल प्रबंधक में मीडिया लाइब्रेरी से आयात सक्षम करें।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:226
+msgid "Enable href attribute:"
+msgstr "Href गुण सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:231
+msgid "Disable this option only if it conflicts with your theme."
+msgstr "यह अपने विषय के साथ संघर्ष केवल यदि इस विकल्प को अक्षम करें।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:236
+msgid "Meta auto-fill:"
+msgstr "मेटा ऑटो भरें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:241
+msgid ""
+"Enabling this option the meta description of the image will be automatically filled in image "
+"description field."
+msgstr "छवि के मेटा वर्णन स्वतः छवि विवरण क्षेत्र में भरा जाएगा इस विकल्प को सक्षम।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:246
+msgid "Roles:"
+msgstr "भूमिका:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:258
+msgid "Choose a user type who can add/edit galleries, images, albums and tags."
+msgstr "/ संपादन दीर्घाओं, छवियों, एल्बम और टैग जोड़ सकते हैं, जो एक उपयोगकर्ता प्रकार चुनें।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:263
+msgid "Gallery role:"
+msgstr "गैलरी भूमिका:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:268
+msgid "Only author can change a gallery."
+msgstr "केवल लेखक एक गैलरी बदल सकते हैं।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:273
+msgid "Album role:"
+msgstr "एल्बम भूमिका:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:278
+msgid "Only author can change an album."
+msgstr "केवल लेखक एक एलबम बदल सकते हैं।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:283
+msgid "Image role:"
+msgstr "छवि भूमिका:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:288
+msgid "Only author can change an image."
+msgstr "केवल लेखक एक छवि बदल सकते हैं।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:293
+msgid "Show/hide custom post types:"
+msgstr "दिखाने / छिपाने कस्टम पोस्ट प्रकार:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:303
+msgid "Show/hide comments for custom post types:"
+msgstr "कस्टम पोस्ट प्रकार के लिए दिखाने / छिपाने टिप्पणी नहीं:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:324
+msgid "Watermark type: "
+msgstr "वॉटरमार्क के प्रकार:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:338
+msgid "Watermark url: "
+msgstr "वॉटरमार्क यूआरएल:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:351 ../admin/views/BWGViewOptions_bwg. php:506
+msgid "Add Image"
+msgstr "छवि जोड़ें"
+
+#: ../admin/views/BWGViewOptions_bwg.php:353
+msgid "Only .png format is supported."
+msgstr "केवल .png प्रारूप का समर्थन किया है।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:358
+msgid "Watermark text: "
+msgstr "वॉटरमार्क पाठ:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:367
+msgid "Watermark size: "
+msgstr "वॉटरमार्क का आकार:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:371
+msgid "Enter size of watermark in percents according to image."
+msgstr "छवि के अनुसार प्रतिशत में वॉटरमार्क के आकार दर्ज करें।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:376
+msgid "Watermark font size:"
+msgstr "वॉटरमार्क फ़ॉन्ट आकार:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:385
+msgid "Watermark font style: "
+msgstr "वॉटरमार्क फ़ॉन्ट शैली:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:414
+msgid "Watermark color:"
+msgstr "वॉटरमार्क रंग:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:423
+msgid "Watermark opacity:"
+msgstr "वॉटरमार्क अस्पष्टता:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:427
+msgid "Opacity value must be in the range of 0 to 100."
+msgstr "अस्पष्टता मूल्य 0 से 100 की रेंज में होना चाहिए।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:432
+msgid "Watermark position:"
+msgstr "वॉटरमार्क स्थिति:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:477
+msgid "Advertisement type:"
+msgstr "विज्ञापन के प्रकार:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:508
+msgid ""
+"Enter absolute image file url or add file from Options page. (.jpg,.jpeg,.png,.gif formats "
+"are supported)"
+msgstr ""
+"निरपेक्ष छवि फ़ाइल यूआरएल दर्ज करें या विकल्प पृष्ठ से फ़ाइल जोड़ें। (.jpg, .jpeg, .png, स्वरूपों का समर्थन कर "
+"रहे हैं .gif)"
+
+#: ../admin/views/BWGViewOptions_bwg.php:526
+msgid "Enter a URL to open when the advertisement banner is clicked."
+msgstr "विज्ञापन बैनर क्लिक किया जाता है जब खोलने के लिए एक URL दर्ज करें।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:550
+msgid "dvertisement font style:"
+msgstr "फ़ॉन्ट शैली dvertisement:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:576
+msgid "Advertisement opacity:"
+msgstr "विज्ञापन अस्पष्टता:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:585
+msgid "Advertisement position:"
+msgstr "विज्ञापन स्थिति:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:686
+msgid "Enable filmstrip:"
+msgstr "फ़िल्मस्ट्रिप सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:715 ../admin/views/BWGViewOptions_bwg. php:1139
+msgid "Show Next / Previous buttons:"
+msgstr "अगले / पिछले बटन दिखाएँ:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:718 ../admin/views/BWGViewOptions_bwg. php:1142
+msgid "On hover"
+msgstr "हॉवर पर"
+
+#: ../admin/views/BWGViewOptions_bwg.php:719 ../admin/views/BWGViewOptions_bwg. php:1143
+msgid "Always"
+msgstr "सदैव"
+
+#: ../admin/views/BWGViewOptions_bwg.php:831
+msgid "Enable comments moderation:"
+msgstr "टिप्पणी मॉडरेशन सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:841
+msgid "Enable Email for comments:"
+msgstr "टिप्पणी के लिए ईमेल सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:851
+msgid "Enable Captcha for comments:"
+msgstr "कैप्चा टिप्पणी के लिए सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:861
+msgid "Enable original image display button:"
+msgstr "मूल छवि प्रदर्शन बटन सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:871
+msgid "Enable download button:"
+msgstr "डाउनलोड बटन सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:931
+msgid "Show images count:"
+msgstr "शो छवियों गिनती:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:941
+msgid "Enable loop:"
+msgstr "पाश सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:951
+msgid "Enable AddThis:"
+msgstr "साझा सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:963
+msgid "profile id:"
+msgstr "प्रोफ़ाइल आईडी:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:967
+msgid "Create an account"
+msgstr "खाता बनाएं"
+
+#: ../admin/views/BWGViewOptions_bwg.php:967
+msgid "here"
+msgstr "यहां"
+
+#: ../admin/views/BWGViewOptions_bwg.php:983
+msgid "Number of album columns:"
+msgstr "एल्बम स्तंभों की संख्या:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1017
+msgid "he gallery images view type in the album."
+msgstr "वह गैलरी छवियों एल्बम में टाइप देखें।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1022
+msgid "Show title:"
+msgstr "शीर्षक दिखाओ:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1033
+msgid "Show album/gallery name:"
+msgstr "एल्बम / गैलरी नाम दिखायें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1043
+msgid "Enable extended album description:"
+msgstr "विस्तारित एल्बम विवरण सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1063
+msgid "Extended album height:"
+msgstr "विस्तारित एल्बम ऊंचाई:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1083 .. /admin/views/BWGViewWidgetSlideshow.php:129
+msgid "Slideshow effect:"
+msgstr "स्लाइड शो प्रभाव:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1109
+msgid "Slideshow dimensions:"
+msgstr "स्लाइड शो आयाम:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1119 ../admin/views/BWGViewOptions_bwg. php:1655
+msgid "Enable autoplay:"
+msgstr "ऑटोप्ले सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1129 .. /admin/views/BWGViewWidgetSlideshow.php:145
+msgid "Enable shuffle:"
+msgstr "फेरबदल सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1166
+msgid "Slideshow filmstrip size:"
+msgstr "स्लाइड शो फ़िल्मस्ट्रिप का आकार:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1187 ../admin/views/BWGViewThemes_bwg. php:400
+#: ../admin/views/BWGViewThemes_bwg.php:1557
+msgid "Title position:"
+msgstr "शीर्षक स्थिति:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1230
+msgid "Description position:"
+msgstr "विवरण स्थिति:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1256
+msgid "Enable slideshow Music:"
+msgstr "स्लाइड शो संगीत सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1280
+msgid "Add Music"
+msgstr "संगीत जोड़ें"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1282
+msgid "Only"
+msgstr "केवल"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1282
+msgid "formats are supported."
+msgstr "स्वरूपों का समर्थन कर रहे हैं।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1332
+msgid "Width of mosaic as a percentage of container's width."
+msgstr "कंटेनर की चौड़ाई के प्रतिशत के रूप पच्चीकारी की चौड़ाई।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1337
+msgid "Number of image columns:"
+msgstr "छवि स्तंभ की संख्या:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1355
+msgid "Generated thumbnail dimensions:"
+msgstr "सृजित थम्बनेल आयाम:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1360
+msgid ""
+"The maximum size of the generated thumbnail. Its dimensions should be larger than the ones of "
+"the frontend thumbnail."
+msgstr "उत्पन्न लघुचित्र का अधिकतम आकार। इसका आयाम दृश्यपटल थंबनेल के लोगों की तुलना में बड़ा होना चाहिए।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1365
+msgid "Frontend thumbnail dimensions:"
+msgstr "दृश्यपटल थम्बनेल आयाम:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1370
+msgid "The default size of the thumbnail which will be displayed in the website."
+msgstr "वेबसाइट में प्रदर्शित किया जाएगा जो थंबनेल डिफ़ॉल्ट आकार।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1375
+msgid "Show image title:"
+msgstr "छवि के शीर्षक दिखाएं:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1385
+msgid "Show gallery name:"
+msgstr "गैलरी नाम दिखायें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1394
+msgid "Show description in Vertical Masonry view:"
+msgstr "कार्यक्षेत्र चिनाई दृश्य में विवरण दिखाएँ:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1403
+msgid "Enable image pagination:"
+msgstr "छवि के पृष्ठ पर अंक लगाना सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1411
+msgid "Thumbnail click action:"
+msgstr "थंबनेल क्लिक करें कार्रवाई:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1420
+msgid "pen in a new window:"
+msgstr "एक नई विंडो में कलम:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1428
+msgid "Play icon over the video thumbnail:"
+msgstr "वीडियो थंबनेल पर आइकन खेलने के लिए:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1445
+msgid "Enable image title for Image Browser view:"
+msgstr "छवि ब्राउज़र देखने के लिए छवि शीर्षक सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1455
+msgid "Enable image description for Image Browser view:"
+msgstr "छवि ब्राउज़र देखने के लिए छवि विवरण सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1465
+msgid "Image width for Image Browser view:"
+msgstr "छवि ब्राउज़र देखने के लिए छवि चौड़ाई:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1474
+msgid "Enable image title for Blog Style view:"
+msgstr "ब्लॉग शैली देखने के लिए छवि शीर्षक सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1484
+msgid "Image width for Blog Style view:"
+msgstr "ब्लॉग शैली देखने के लिए छवि चौड़ाई:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1493
+msgid "Images per page in Blog Style view:"
+msgstr "ब्लॉग शैली को ध्यान में रखते प्रति पृष्ठ चित्र:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1502
+msgid "Enable pagination for Blog Style view:"
+msgstr "ब्लॉग शैली को देखने के लिए पृष्ठ पर अंक लगाना सक्षम करें:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1521
+msgid "Gallery autoupdate interval:"
+msgstr "गैलरी स्वतः अद्यतन अंतराल:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1525
+msgid "hour"
+msgstr "समय"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1527
+msgid "min"
+msgstr "मिनट"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1528
+msgid "Minimum 1 min."
+msgstr "कम से कम 1 मिनट।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1543
+msgid "Enable creating Instagram galleries."
+msgstr "इंस्टाग्राम दीर्घाओं बनाने सक्षम करें।"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1557
+msgid "app Id"
+msgstr "अनुप्रयोग आईडी"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1566
+msgid "app Secret:"
+msgstr "एप्लिकेशन को गुप्त:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1575
+msgid "login / logout:"
+msgstr "लॉगिन लॉगआउट:"
+
+#: ../admin/views/BWGViewOptions_bwg.php:1605
+msgid "Max. number of images:"
+msgstr "मैक्स। छवियों की संख्या:"
+
+#: ../admin/views/BWGViewRates_bwg.php:40
+msgid "This section allows you to manage the image ratings."
+msgstr "इस अनुभाग में आप छवि रेटिंग्स का प्रबंधन करने की अनुमति देता है।"
+
+#: ../admin/views/BWGViewRates_bwg.php:88
+msgid "Rating"
+msgstr "रेटिंग"
+
+#: ../admin/views/BWGViewRates_bwg.php:96
+msgid "IP"
+msgstr "आईपी"
+
+#: ../admin/views/BWGViewTags_bwg.php:42
+msgid "This section allows you to create, edit and delete tags."
+msgstr "यह खंड तुम बनाने के टैग को संपादित करने और नष्ट करने के लिए अनुमति देता है।"
+
+#: ../admin/views/BWGViewTags_bwg.php:100
+msgid "Count"
+msgstr "गिनती"
+
+#: ../admin/views/BWGViewTags_bwg.php:119
+msgid "Add Tag "
+msgstr "टैग जोड़ें"
+
+#: ../admin/views/BWGViewThemes_bwg.php:38
+msgid "This section allows you to create, edit and delete themes."
+msgstr "यह खंड तुम बनाने के विषयों को संपादित करने और नष्ट करने के लिए अनुमति देता है।"
+
+#: ../admin/views/BWGViewThemes_bwg.php:84 ../framework/WDWLibrary.php:848
+msgid "Default"
+msgstr "चूक"
+
+#: ../admin/views/BWGViewThemes_bwg.php:160
+msgid "Edit theme "
+msgstr "संपादित विषय"
+
+#: ../admin/views/BWGViewThemes_bwg.php:160
+msgid "Create new theme"
+msgstr "नया विषय बनाएं"
+
+#: ../admin/views/BWGViewThemes_bwg.php:164
+msgid "Solid"
+msgstr "ठोस"
+
+#: ../admin/views/BWGViewThemes_bwg.php:165
+msgid "Dotted"
+msgstr "छितराया हुआ"
+
+#: ../admin/views/BWGViewThemes_bwg.php:166
+msgid "Dashed"
+msgstr "धराशायी"
+
+#: ../admin/views/BWGViewThemes_bwg.php:167 ../admin/views/BWGViewThemes_bwg.php:204
+msgid "Double"
+msgstr "दोगुना"
+
+#: ../admin/views/BWGViewThemes_bwg.php:168
+msgid "Groove"
+msgstr "नाली"
+
+#: ../admin/views/BWGViewThemes_bwg.php:169
+msgid "Ridge"
+msgstr "टीला"
+
+#: ../admin/views/BWGViewThemes_bwg.php:170
+msgid "Inset"
+msgstr "इनसेट"
+
+#: ../admin/views/BWGViewThemes_bwg.php:171
+msgid "Outset"
+msgstr "शुरू"
+
+#: ../admin/views/BWGViewThemes_bwg.php:186 ../admin/views/BWGViewThemes_bwg.php:920
+#: ../admin/views/BWGViewThemes_bwg.php:2908 ../admin/views/BWGViewThemes_bwg. php:3362
+msgid "Left"
+msgstr "बाएं"
+
+#: ../admin/views/BWGViewThemes_bwg.php:187
+msgid "Center"
+msgstr "केंद्र"
+
+#: ../admin/views/BWGViewThemes_bwg.php:188 ../admin/views/BWGViewThemes_bwg.php:918
+#: ../admin/views/BWGViewThemes_bwg.php:2906 ../admin/views/BWGViewThemes_bwg. php:3364
+msgid "Right"
+msgstr "सही"
+
+#: ../admin/views/BWGViewThemes_bwg.php:191
+msgid "Lighter"
+msgstr "लाइटर"
+
+#: ../admin/views/BWGViewThemes_bwg.php:192
+msgid "Normal"
+msgstr "साधारण"
+
+#: ../admin/views/BWGViewThemes_bwg.php:193
+msgid "Bold"
+msgstr "बोल्ड"
+
+#: ../admin/views/BWGViewThemes_bwg.php:197
+msgid "Rotate"
+msgstr "घुमाएँ"
+
+#: ../admin/views/BWGViewThemes_bwg.php:198
+msgid "Scale"
+msgstr "स्केल"
+
+#: ../admin/views/BWGViewThemes_bwg.php:199
+msgid "Skew"
+msgstr "तिरछा"
+
+#: ../admin/views/BWGViewThemes_bwg.php:202
+msgid "Chevron"
+msgstr "शहतीर"
+
+#: ../admin/views/BWGViewThemes_bwg.php:203
+msgid "Angle"
+msgstr "कोण"
+
+#: ../admin/views/BWGViewThemes_bwg.php:207
+msgid "Star"
+msgstr "तारा"
+
+#: ../admin/views/BWGViewThemes_bwg.php:208
+msgid "Bell"
+msgstr "घंटी"
+
+#: ../admin/views/BWGViewThemes_bwg.php:209
+msgid "Circle"
+msgstr "वृत्त"
+
+#: ../admin/views/BWGViewThemes_bwg.php:210
+msgid "Flag"
+msgstr "झंडा"
+
+#: ../admin/views/BWGViewThemes_bwg.php:211
+msgid "Heart"
+msgstr "दिल"
+
+#: ../admin/views/BWGViewThemes_bwg.php:212
+msgid "Square"
+msgstr "वर्ग"
+
+#: ../admin/views/BWGViewThemes_bwg.php:216
+msgid "This section allows you to add/edit theme."
+msgstr "इस अनुभाग में आप / संपादन विषय को जोड़ने के लिए अनुमति देता है।"
+
+#: ../admin/views/BWGViewThemes_bwg.php:227
+msgid "Do you want to reset to default?"
+msgstr "आप डिफ़ॉल्ट पर रीसेट करना चाहते हैं?"
+
+#: ../admin/views/BWGViewThemes_bwg.php:244
+msgid "Page Navigation"
+msgstr "पृष्ठ नेविगेशन"
+
+#: ../admin/views/BWGViewThemes_bwg.php:249
+msgid "Parameters"
+msgstr "पैरामीटर्स"
+
+#: ../admin/views/BWGViewThemes_bwg.php:264 ../admin/views/BWGViewThemes_bwg.php:1246
+#: ../admin/views/BWGViewThemes_bwg.php:1428 .. /admin/views/BWGViewThemes_bwg.php:1851 2414
+#: ../admin/views/BWGViewThemes_bwg.php:3624
+msgid "Margin:"
+msgstr "मार्जिन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:270 ../admin/views/BWGViewThemes_bwg.php:472
+#: ../admin/views/BWGViewThemes_bwg.php:622 ../admin/views/BWGViewThemes_bwg. php:1253
+#: ../admin/views/BWGViewThemes_bwg.php:1421 .. /admin/views/BWGViewThemes_bwg.php:1858 2421
+#: ../admin/views/BWGViewThemes_bwg.php:3631
+msgid "Padding:"
+msgstr "गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:276 ../admin/views/BWGViewThemes_bwg.php:478
+#: ../admin/views/BWGViewThemes_bwg.php:628 ../admin/views/BWGViewThemes_bwg. php:1260
+#: ../admin/views/BWGViewThemes_bwg.php:1435 .. /admin/views/BWGViewThemes_bwg.php:2182 2467
+#: ../admin/views/BWGViewThemes_bwg.php:3585
+msgid "Border width:"
+msgstr "सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:282 ../admin/views/BWGViewThemes_bwg.php:484
+#: ../admin/views/BWGViewThemes_bwg.php:634 ../admin/views/BWGViewThemes_bwg. php:1266
+#: ../admin/views/BWGViewThemes_bwg.php:1441 .. /admin/views/BWGViewThemes_bwg.php:2188 2473
+#: ../admin/views/BWGViewThemes_bwg.php:3591
+msgid "Border style:"
+msgstr "झालर की शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:296 ../admin/views/BWGViewThemes_bwg.php:498
+#: ../admin/views/BWGViewThemes_bwg.php:648 ../admin/views/BWGViewThemes_bwg. php:1280
+#: ../admin/views/BWGViewThemes_bwg.php:1455 .. /admin/views/BWGViewThemes_bwg.php:2202 2487
+#: ../admin/views/BWGViewThemes_bwg.php:3605
+msgid "Border color:"
+msgstr "सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:302 ../admin/views/BWGViewThemes_bwg.php:504
+#: ../admin/views/BWGViewThemes_bwg.php:654 ../admin/views/BWGViewThemes_bwg. php:1286
+#: ../admin/views/BWGViewThemes_bwg.php:1461 .. /admin/views/BWGViewThemes_bwg.php:1877 2208
+#: ../admin/views/BWGViewThemes_bwg.php:2493 /admin/views/BWGViewThemes_bwg.php:3611
+msgid "Border radius:"
+msgstr "सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:305 ../admin/views/BWGViewThemes_bwg.php:312
+#: ../admin/views/BWGViewThemes_bwg.php:452 ../admin/views/BWGViewThemes_bwg. php:459
+#: ../admin/views/BWGViewThemes_bwg.php:507 .. /admin/views/BWGViewThemes_bwg.php:657 780
+#: ../admin/views/BWGViewThemes_bwg.php:787 php:883 ../admin/views/BWGViewThemes_bwg.php:904
+#: /admin/views/BWGViewThemes_bwg.php:928 962 ../admin/views/BWGViewThemes_bwg.php:1018 php:1074
+#: ../admin/views/BWGViewThemes_bwg.php:1081 /admin/views/BWGViewThemes_bwg.php:1127 1134
+#: ../admin/views/BWGViewThemes_bwg.php:1176 /admin/views/BWGViewThemes_bwg.php:1196 1249
+#: ../admin/views/BWGViewThemes_bwg.php:1256 /admin/views/BWGViewThemes_bwg.php:1289 1309
+#: ../admin/views/BWGViewThemes_bwg.php:1362 /admin/views/BWGViewThemes_bwg.php:1369 1402
+#: ../admin/views/BWGViewThemes_bwg.php:1424 /admin/views/BWGViewThemes_bwg.php:1431 1464
+#: ../admin/views/BWGViewThemes_bwg.php:1471 /admin/views/BWGViewThemes_bwg.php:1609 1616
+#: ../admin/views/BWGViewThemes_bwg.php:1663 /admin/views/BWGViewThemes_bwg.php:1717 1724
+#: ../admin/views/BWGViewThemes_bwg.php:1807 /admin/views/BWGViewThemes_bwg.php:1847 1854
+#: ../admin/views/BWGViewThemes_bwg.php:1880 /admin/views/BWGViewThemes_bwg.php:1913 1966
+#: ../admin/views/BWGViewThemes_bwg.php:1999 /admin/views/BWGViewThemes_bwg.php:2018 2091
+#: ../admin/views/BWGViewThemes_bwg.php:2211 /admin/views/BWGViewThemes_bwg.php:2327 2374
+#: ../admin/views/BWGViewThemes_bwg.php:2417 /admin/views/BWGViewThemes_bwg.php:2424 2431
+#: ../admin/views/BWGViewThemes_bwg.php:2496 /admin/views/BWGViewThemes_bwg.php:2509 2554
+#: ../admin/views/BWGViewThemes_bwg.php:2649 /admin/views/BWGViewThemes_bwg.php:2703 2736
+#: ../admin/views/BWGViewThemes_bwg.php:2835 /admin/views/BWGViewThemes_bwg.php:2872 2916
+#: ../admin/views/BWGViewThemes_bwg.php:2949 /admin/views/BWGViewThemes_bwg.php:3054 3123
+#: ../admin/views/BWGViewThemes_bwg.php:3130 /admin/views/BWGViewThemes_bwg.php:3137 3253
+#: ../admin/views/BWGViewThemes_bwg.php:3260 /admin/views/BWGViewThemes_bwg.php:3267 3454
+#: ../admin/views/BWGViewThemes_bwg.php:3473 /admin/views/BWGViewThemes_bwg.php:3506 3614
+#: ../admin/views/BWGViewThemes_bwg.php:3627 /admin/views/BWGViewThemes_bwg.php:3634 3663
+#: ../admin/views/BWGViewThemes_bwg.php:3815 /admin/views/BWGViewThemes_bwg.php:3897
+msgid "Use CSS type values."
+msgstr "सीएसएस प्रकार मूल्यों का प्रयोग करें।"
+
+#: ../admin/views/BWGViewThemes_bwg.php:309 ../admin/views/BWGViewThemes_bwg.php:1468
+msgid "Shadow:"
+msgstr "छाया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:316 ../admin/views/BWGViewThemes_bwg.php:557
+#: ../admin/views/BWGViewThemes_bwg.php:707 ../admin/views/BWGViewThemes_bwg. php:1475
+#: ../admin/views/BWGViewThemes_bwg.php:2215
+msgid "Hover effect:"
+msgstr "प्रभाव घुमाएं:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:330 ../admin/views/BWGViewThemes_bwg.php:571
+#: ../admin/views/BWGViewThemes_bwg.php:721 ../admin/views/BWGViewThemes_bwg. php:1489
+#: ../admin/views/BWGViewThemes_bwg.php:1772 .. /admin/views/BWGViewThemes_bwg.php:2229
+msgid "Hover effect value:"
+msgstr "प्रभाव मूल्य घुमाएं:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:333 ../admin/views/BWGViewThemes_bwg.php:574
+#: ../admin/views/BWGViewThemes_bwg.php:724 ../admin/views/BWGViewThemes_bwg. php:1492
+#: ../admin/views/BWGViewThemes_bwg.php:1775 .. /admin/views/BWGViewThemes_bwg.php:2232
+msgid "E.g. Rotate: 10deg, Scale: 1.5, Skew: 10deg."
+msgstr "जैसे, घुमाएँ: 10deg, स्केल: 1.5, तिरछा: 10deg।"
+
+#: ../admin/views/BWGViewThemes_bwg.php:337 ../admin/views/BWGViewThemes_bwg.php:578
+#: ../admin/views/BWGViewThemes_bwg.php:728
+msgid "Transition:"
+msgstr "संक्रमण:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:353 ../admin/views/BWGViewThemes_bwg.php:1511
+#: ../admin/views/BWGViewThemes_bwg.php:1779
+msgid "Thumbnail background color:"
+msgstr "थंबनेल पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:360 ../admin/views/BWGViewThemes_bwg.php:1517
+#: ../admin/views/BWGViewThemes_bwg.php:1751
+msgid "Thumbnail transparency:"
+msgstr "थंबनेल पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:367 ../admin/views/BWGViewThemes_bwg.php:1180
+#: ../admin/views/BWGViewThemes_bwg.php:1524 .. /admin/views/BWGViewThemes_bwg.php:2251
+msgid "Full background color:"
+msgstr "पूरी पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:373 ../admin/views/BWGViewThemes_bwg.php:1186
+#: ../admin/views/BWGViewThemes_bwg.php:1530 .. /admin/views/BWGViewThemes_bwg.php:2257
+msgid "Full background transparency:"
+msgstr "पूरी पृष्ठभूमि पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:380 ../admin/views/BWGViewThemes_bwg.php:537
+#: ../admin/views/BWGViewThemes_bwg.php:687 ../admin/views/BWGViewThemes_bwg. php:1232
+#: ../admin/views/BWGViewThemes_bwg.php:1537 .. /admin/views/BWGViewThemes_bwg.php:2264 2400
+#: ../admin/views/BWGViewThemes_bwg.php:3682
+msgid "Alignment:"
+msgstr "संरेखण:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:403 ../admin/views/BWGViewThemes_bwg.php:917
+#: ../admin/views/BWGViewThemes_bwg.php:1560 ../admin/views/BWGViewThemes_bwg. php:2634
+#: ../admin/views/BWGViewThemes_bwg.php:2905 .. /admin/views/BWGViewThemes_bwg.php:2993 3061
+#: ../admin/views/BWGViewThemes_bwg.php:3191 /admin/views/BWGViewThemes_bwg.php:3676
+msgid "Top"
+msgstr "चोटी"
+
+#: ../admin/views/BWGViewThemes_bwg.php:405 ../admin/views/BWGViewThemes_bwg.php:919
+#: ../admin/views/BWGViewThemes_bwg.php:1562 ../admin/views/BWGViewThemes_bwg. php:2636
+#: ../admin/views/BWGViewThemes_bwg.php:2907 .. /admin/views/BWGViewThemes_bwg.php:2995 3063
+#: ../admin/views/BWGViewThemes_bwg.php:3193 /admin/views/BWGViewThemes_bwg.php:3678
+msgid "Bottom"
+msgstr "तल"
+
+#: ../admin/views/BWGViewThemes_bwg.php:409 ../admin/views/BWGViewThemes_bwg.php:737
+#: ../admin/views/BWGViewThemes_bwg.php:1566 ../admin/views/BWGViewThemes_bwg. php:2048
+#: ../admin/views/BWGViewThemes_bwg.php:2284 .. /admin/views/BWGViewThemes_bwg.php:3305 3928
+msgid "Title font size:"
+msgstr "शीर्षक फ़ॉन्ट का आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:415 ../admin/views/BWGViewThemes_bwg.php:743
+#: ../admin/views/BWGViewThemes_bwg.php:1572 ../admin/views/BWGViewThemes_bwg. php:2054
+#: ../admin/views/BWGViewThemes_bwg.php:2290 .. /admin/views/BWGViewThemes_bwg.php:3271
+msgid "Title font color:"
+msgstr "शीर्षक फ़ॉन्ट रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:421 ../admin/views/BWGViewThemes_bwg.php:749
+#: ../admin/views/BWGViewThemes_bwg.php:1097 ../admin/views/BWGViewThemes_bwg. php:1578
+#: ../admin/views/BWGViewThemes_bwg.php:2060 .. /admin/views/BWGViewThemes_bwg.php:2296 3277
+msgid "Title font family:"
+msgstr "शीर्षक फ़ॉन्ट परिवार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:435 ../admin/views/BWGViewThemes_bwg.php:763
+#: ../admin/views/BWGViewThemes_bwg.php:1592 ../admin/views/BWGViewThemes_bwg. php:2074
+#: ../admin/views/BWGViewThemes_bwg.php:2310 .. /admin/views/BWGViewThemes_bwg.php:3291 3941
+msgid "Title font weight:"
+msgstr "शीर्षक फ़ॉन्ट वजन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:449 ../admin/views/BWGViewThemes_bwg.php:777
+#: ../admin/views/BWGViewThemes_bwg.php:1606 ../admin/views/BWGViewThemes_bwg. php:2324
+msgid "Title box shadow:"
+msgstr "शीर्षक बॉक्स छाया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:456 ../admin/views/BWGViewThemes_bwg.php:784
+#: ../admin/views/BWGViewThemes_bwg.php:1613 ../admin/views/BWGViewThemes_bwg. php:2009
+#: ../admin/views/BWGViewThemes_bwg.php:3902
+msgid "Title margin:"
+msgstr "शीर्षक मार्जिन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:517
+msgid "Transparency:"
+msgstr "पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:524 ../admin/views/BWGViewThemes_bwg.php:674
+#: ../admin/views/BWGViewThemes_bwg.php:799 ../admin/views/BWGViewThemes_bwg. php:1293
+#: ../admin/views/BWGViewThemes_bwg.php:1864 .. /admin/views/BWGViewThemes_bwg.php:2387 3724
+msgid "Background color:"
+msgstr "पीछे का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:530 ../admin/views/BWGViewThemes_bwg.php:1299
+#: ../admin/views/BWGViewThemes_bwg.php:1870 .. /admin/views/BWGViewThemes_bwg.php:2393
+msgid "Background transparency:"
+msgstr "पृष्ठभूमि पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:587 ../admin/views/BWGViewThemes_bwg.php:1138
+#: ../admin/views/BWGViewThemes_bwg.php:2121 .. /admin/views/BWGViewThemes_bwg.php:3346
+msgid "Description font size:"
+msgstr "विवरण फ़ॉन्ट आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:593 ../admin/views/BWGViewThemes_bwg.php:2127
+#: ../admin/views/BWGViewThemes_bwg.php:3312
+msgid "Description font color:"
+msgstr "विवरण फ़ॉन्ट रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:599 ../admin/views/BWGViewThemes_bwg.php:1150
+#: ../admin/views/BWGViewThemes_bwg.php:2133 .. /admin/views/BWGViewThemes_bwg.php:3318
+msgid "Description font family:"
+msgstr "विवरण फ़ॉन्ट परिवार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:667
+msgid "Opacity:"
+msgstr "अस्पष्टता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:680
+msgid "Background opacity:"
+msgstr "पृष्ठभूमि अस्पष्टता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:805 ../admin/views/BWGViewThemes_bwg.php:2851
+#: ../admin/views/BWGViewThemes_bwg.php:3737
+msgid "Right, left buttons size:"
+msgstr "दाएं, बाएं बटन का आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:811 ../admin/views/BWGViewThemes_bwg.php:3743
+msgid "Play, pause buttons size:"
+msgstr "बटन के आकार को थामने के लिए, खेलने के लिए:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:817 ../admin/views/BWGViewThemes_bwg.php:2519
+#: ../admin/views/BWGViewThemes_bwg.php:3749
+msgid "Buttons color:"
+msgstr "बटन का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:823 ../admin/views/BWGViewThemes_bwg.php:3755
+msgid "Buttons transparency:"
+msgstr "बटन पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:830 ../admin/views/BWGViewThemes_bwg.php:3762
+msgid "Buttons hover color:"
+msgstr "बटन रंग मंडराना:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:836 ../admin/views/BWGViewThemes_bwg.php:2845
+#: ../admin/views/BWGViewThemes_bwg.php:3768
+msgid "Right, left buttons width:"
+msgstr "दाएं, बाएं बटन चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:842 ../admin/views/BWGViewThemes_bwg.php:2839
+#: ../admin/views/BWGViewThemes_bwg.php:3774
+msgid "Right, left buttons height:"
+msgstr "ठीक है, बटन ऊंचाई छोड़ दिया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:848 ../admin/views/BWGViewThemes_bwg.php:2820
+#: ../admin/views/BWGViewThemes_bwg.php:3780
+msgid "Right, left buttons background color:"
+msgstr "ठीक है, बटन पृष्ठभूमि रंग छोड़ दिया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:854 ../admin/views/BWGViewThemes_bwg.php:2876
+#: ../admin/views/BWGViewThemes_bwg.php:3786
+msgid "Right, left buttons border width:"
+msgstr "ठीक है, बटन सीमा चौड़ाई छोड़ दिया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:860 ../admin/views/BWGViewThemes_bwg.php:2882
+#: ../admin/views/BWGViewThemes_bwg.php:3792
+msgid "Right, left buttons border style:"
+msgstr "ठीक है, बटन सीमा शैली छोड़ दिया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:874 ../admin/views/BWGViewThemes_bwg.php:2896
+#: ../admin/views/BWGViewThemes_bwg.php:3806
+msgid "Right, left buttons border color:"
+msgstr "ठीक है, बटन सीमा रंग छोड़ दिया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:880 ../admin/views/BWGViewThemes_bwg.php:2869
+#: ../admin/views/BWGViewThemes_bwg.php:3812
+msgid "Right, left buttons border radius:"
+msgstr "ठीक है, बटन सीमा त्रिज्या छोड़ दिया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:887 ../admin/views/BWGViewThemes_bwg.php:2806
+#: ../admin/views/BWGViewThemes_bwg.php:3819
+msgid "Right, left buttons style:"
+msgstr "ठीक है, बटन शैली छोड़ दिया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:901 ../admin/views/BWGViewThemes_bwg.php:2832
+msgid "Right, left buttons box shadow:"
+msgstr "दाएं, बाएं बटन छाया बॉक्स:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:914
+msgid "Filmstrip/Slider bullet position:"
+msgstr "फिल्मस्ट्रिप / स्लाइडर गोली स्थिति:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:925
+msgid "Filmstrip margin:"
+msgstr "फिल्मस्ट्रिप मार्जिन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:932
+msgid "Filmstrip border width:"
+msgstr "फिल्मस्ट्रिप सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:938
+msgid "Filmstrip border style:"
+msgstr "फिल्मस्ट्रिप सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:953
+msgid "Filmstrip border color:"
+msgstr "फिल्मस्ट्रिप सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:959
+msgid "Filmstrip border radius:"
+msgstr "फिल्मस्ट्रिप सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:966
+msgid "Filmstrip active border width:"
+msgstr "फिल्मस्ट्रिप सक्रिय सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:972
+msgid "Filmstrip active border color:"
+msgstr "फिल्मस्ट्रिप सक्रिय सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:978
+msgid "Filmstrip deactive transparency: "
+msgstr "फिल्मस्ट्रिप अक्रिय पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:985
+msgid "Filmstrip right, left buttons background color: "
+msgstr "फिल्मस्ट्रिप दाएं, बाएं बटन पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:991 ../admin/views/BWGViewThemes_bwg.php:2978
+msgid "Filmstrip right, left buttons color:"
+msgstr "फिल्मस्ट्रिप दाएं, बाएं बटन का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:997 ../admin/views/BWGViewThemes_bwg.php:2972
+msgid "Filmstrip right, left buttons size:"
+msgstr "फिल्मस्ट्रिप दाएं, बाएं बटन का आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1003
+msgid "Slider bullet width: "
+msgstr "स्लाइडर गोली चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1009
+msgid "Slider bullet height:"
+msgstr "स्लाइडर गोली ऊंचाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1015
+msgid "Slider bullet border radius: "
+msgstr "स्लाइडर गोली सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1022
+msgid "Slider bullet background color:"
+msgstr "स्लाइडर गोली पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1028
+msgid "Slider bullet margin:"
+msgstr "स्लाइडर गोली मार्जिन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1034
+msgid "Slider bullet active background color: "
+msgstr "स्लाइडर गोली सक्रिय पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1040
+msgid "Slider bullet active border width:"
+msgstr "स्लाइडर गोली सक्रिय सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1046
+msgid "Slider bullet active border color: "
+msgstr "स्लाइडर गोली सक्रिय सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1058
+msgid "Title background color: "
+msgstr "शीर्षक पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1064
+msgid "Title transparency: "
+msgstr "शीर्षक पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1071 ../admin/views/BWGViewThemes_bwg.php:3894
+msgid "Title border radius:"
+msgstr "शीर्षक सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1078
+msgid "Title padding: "
+msgstr "शीर्षक गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1085
+msgid "Title font size: "
+msgstr "शीर्षक फ़ॉन्ट का आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1091
+msgid "Title color: "
+msgstr "शीर्षक रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1111 ../admin/views/BWGViewThemes_bwg.php:1406
+msgid "Description background color:"
+msgstr "विवरण पृष्ठभूमि रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1117
+msgid "Description transparency:"
+msgstr "विवरण पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1124 ../admin/views/BWGViewThemes_bwg.php:1399
+msgid "Description border radius:"
+msgstr "विवरण सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1131 ../admin/views/BWGViewThemes_bwg.php:1366
+#: ../admin/views/BWGViewThemes_bwg.php:2088
+msgid "Description padding:"
+msgstr "विवरण गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1144
+msgid "Description color:"
+msgstr "विवरण का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1173
+msgid "Full padding:"
+msgstr "पूर्ण गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1193
+msgid "Full border radius:"
+msgstr "पूर्ण सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1200
+msgid "Full border width:"
+msgstr "पूर्ण सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1206
+msgid "Full border style:"
+msgstr "पूर्ण सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1220
+msgid "Full border color:"
+msgstr "पूर्ण सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1306 ../admin/views/BWGViewThemes_bwg.php:2428
+#: ../admin/views/BWGViewThemes_bwg.php:3660
+msgid "Box shadow:"
+msgstr "डब्बे की छाया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1319
+msgid "Title alignment:"
+msgstr "शीर्षक संरेखण:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1333 ../admin/views/BWGViewThemes_bwg.php:1620
+#: ../admin/views/BWGViewThemes_bwg.php:2331 .. /admin/views/BWGViewThemes_bwg.php:2455 3545
+msgid "Font size:"
+msgstr "फ़ॉन्ट आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1339 ../admin/views/BWGViewThemes_bwg.php:1626
+#: ../admin/views/BWGViewThemes_bwg.php:2337 .. /admin/views/BWGViewThemes_bwg.php:2461 3551
+msgid "Font color:"
+msgstr "फ़ॉन्ट के रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1345 ../admin/views/BWGViewThemes_bwg.php:1632
+#: ../admin/views/BWGViewThemes_bwg.php:2343 .. /admin/views/BWGViewThemes_bwg.php:2441 3557
+msgid "Font family:"
+msgstr "फ़ॉन्ट परिवार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1359
+msgid "Description margin:"
+msgstr "विवरण मार्जिन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1373 ../admin/views/BWGViewThemes_bwg.php:2095
+msgid "Description border width:"
+msgstr "विवरण सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1379 ../admin/views/BWGViewThemes_bwg.php:2101
+msgid "Description border style:"
+msgstr "विवरण सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1393 ../admin/views/BWGViewThemes_bwg.php:2115
+msgid "Description border color:"
+msgstr "विवरण सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1496 ../admin/views/BWGViewThemes_bwg.php:1728
+#: ../admin/views/BWGViewThemes_bwg.php:2236
+msgid "Thumbnail transition:"
+msgstr "थंबनेल संक्रमण:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1646 ../admin/views/BWGViewThemes_bwg.php:2357
+#: ../admin/views/BWGViewThemes_bwg.php:3571
+msgid "Font weight:"
+msgstr "फ़ॉन्ट वजन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1660 ../admin/views/BWGViewThemes_bwg.php:1910
+#: ../admin/views/BWGViewThemes_bwg.php:2371
+msgid "Back padding:"
+msgstr "वापस गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1676
+msgid "Thumbnail margin:"
+msgstr "थंबनेल मार्जिन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1682
+msgid "Thumbnail padding:"
+msgstr "थंबनेल गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1688
+msgid "Thumbnail border width:"
+msgstr "थंबनेल सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1694
+msgid "Thumbnail border style:"
+msgstr "थंबनेल सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1708
+msgid "Thumbnail border color:"
+msgstr "थंबनेल सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1714
+msgid "Thumbnail border radius:"
+msgstr "थंबनेल सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1721
+msgid "Thumbnail box shadow:"
+msgstr "थंबनेल बॉक्स छाया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1737
+msgid "Thumbnail alignment:"
+msgstr "थंबनेल संरेखण:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1758
+msgid "Thumbnail hover effect:"
+msgstr "थंबनेल मंडराना प्रभाव:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1785
+msgid "Thumbnails background color:"
+msgstr "थम्बनेल भी पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1791
+msgid "Thumbnail background transparency:"
+msgstr "थंबनेल पृष्ठभूमि पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1804
+msgid "Thumbnail div padding:"
+msgstr "थंबनेल div गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1811
+msgid "Thumbnail div background color:"
+msgstr "थंबनेल div पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1817
+msgid "Thumbnail div border width:"
+msgstr "थंबनेल div सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1824
+msgid "humbnail div border style:"
+msgstr "div सीमा शैली humbnail:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1838
+msgid "Thumbnail div border color:"
+msgstr "थंबनेल div सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1844
+msgid "Thumbnail div border radius:"
+msgstr "थंबनेल div सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1884
+msgid "Separator width:"
+msgstr "सेपरेटर चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1890
+msgid "Separator style:"
+msgstr "सेपरेटर शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1904
+msgid "Separator color:"
+msgstr "सेपरेटर का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1917
+msgid "Back font size:"
+msgstr "वापस फ़ॉन्ट आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1923
+msgid "Back font color:"
+msgstr "वापस फ़ॉन्ट रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1929
+msgid "Back font family:"
+msgstr "वापस फ़ॉन्ट परिवार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1943
+msgid "Back font weight:"
+msgstr "वापस फ़ॉन्ट वजन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1963
+msgid "Text div padding:"
+msgstr "पाठ div गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1970
+msgid "Text div border width:"
+msgstr "पाठ div सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1976
+msgid "Text border style:"
+msgstr "पाठ सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1990
+msgid "Text border color:"
+msgstr "पाठ सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:1996
+msgid "Text div border radius:"
+msgstr "पाठ div सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2003
+msgid "Text background color:"
+msgstr "पाठ पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2015 ../admin/views/BWGViewThemes_bwg.php:3908
+msgid "Title padding:"
+msgstr "शीर्षक गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2022
+msgid "Title border width:"
+msgstr "शीर्षक सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2028
+msgid "Title border style:"
+msgstr "शीर्षक सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2042
+msgid "Title border color:"
+msgstr "शीर्षक सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2147 ../admin/views/BWGViewThemes_bwg.php:3332
+msgid "Description font weight:"
+msgstr "विवरण फ़ॉन्ट वजन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2161
+msgid "Description more size:"
+msgstr "विवरण अधिक का आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2167
+msgid "Description more color:"
+msgstr "विवरण अधिक का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2506
+msgid "Buttons and title margin:"
+msgstr "बटन और शीर्षक मार्जिन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2513
+msgid "Buttons size:"
+msgstr "बटन का आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2525
+msgid "Buttons and title border width:"
+msgstr "बटन और शीर्षक सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2531
+msgid "Buttons and title border style:"
+msgstr "बटन और शीर्षक सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2545
+msgid "Buttons and title border color:"
+msgstr "बटन और शीर्षक सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2551
+msgid "Buttons and title border radius:"
+msgstr "बटन और शीर्षक सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2558
+msgid "Buttons and title background color:"
+msgstr "बटन और शीर्षक पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2564
+msgid "Buttons and title background transparency:"
+msgstr "बटन और शीर्षक पृष्ठभूमि पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2571
+msgid "Buttons or title alignment:"
+msgstr "बटन या शीर्षक संरेखण:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2594
+msgid "Overlay background color:"
+msgstr "ओवरले पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2600
+msgid "Overlay background transparency:"
+msgstr "ओवरले पृष्ठभूमि पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2607
+msgid "Lightbox background color:"
+msgstr "लाइटबॉक्स पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2613
+msgid "Control buttons height:"
+msgstr "नियंत्रण बटन ऊंचाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2619
+msgid "Control buttons margin (top):"
+msgstr "नियंत्रण बटन मार्जिन (ऊपर):"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2625
+msgid "Control buttons margin (left):"
+msgstr "नियंत्रण बटन मार्जिन (बाएं):"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2631
+msgid "Control buttons position:"
+msgstr "नियंत्रण बटन स्थिति:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2640
+msgid "Control buttons background color:"
+msgstr "नियंत्रण बटन पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2646
+msgid "Control buttons container border radius:"
+msgstr "नियंत्रण बटन कंटेनर सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2653
+msgid "Control buttons container background transparency:"
+msgstr "नियंत्रण बटन कंटेनर पृष्ठभूमि पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2660
+msgid "Control buttons alignment:"
+msgstr "नियंत्रण बटन संरेखण:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2674
+msgid "Control buttons color:"
+msgstr "नियंत्रण बटन का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2680
+msgid "Control buttons transparency:"
+msgstr "नियंत्रण बटन पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2687
+msgid "Toggle button height:"
+msgstr "टॉगल बटन ऊंचाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2693
+msgid "Toggle button width:"
+msgstr "टॉगल बटन चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2699
+msgid "Close button border radius:"
+msgstr "बंद बटन सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2707
+msgid "Close button border width:"
+msgstr "बंद बटन सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2713
+msgid "Close button border style:"
+msgstr "बंद बटन सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2727
+msgid "Close button border color:"
+msgstr "बंद बटन सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2733
+msgid "Close button box shadow:"
+msgstr "बंद बटन बॉक्स छाया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2740
+msgid "Close button background color:"
+msgstr "बंद बटन पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2746
+msgid "Close button transparency:"
+msgstr "बंद बटन पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2752
+msgid "Close button width:"
+msgstr "बंद बटन चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2758
+msgid "Close button height:"
+msgstr "बंद बटन ऊंचाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2764
+msgid "Close button top:"
+msgstr "बंद बटन शीर्ष:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2770
+msgid "Close button right:"
+msgstr "बंद बटन सही:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2776
+msgid "Close button size:"
+msgstr "बंद बटन का आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2782
+msgid "Close button color:"
+msgstr "बंद बटन का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2788
+msgid "Fullscreen close button color:"
+msgstr "पूर्णस्क्रीन करीब बटन का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2794
+msgid "Share buttons color:"
+msgstr "शेयर बटन का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2826
+msgid "Right, left buttons transparency:"
+msgstr "ठीक है, बटन पारदर्शिता छोड़ दिया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2857
+msgid "Right, left, close buttons hover color:"
+msgstr "दाएं, बाएं, बटन बंद रंग मंडराना:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2863
+msgid "Right, left buttons color:"
+msgstr "ठीक है, बटन रंग छोड़ दिया:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2902
+msgid "Filmstrip position:"
+msgstr "फिल्मस्ट्रिप स्थिति:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2913
+msgid "Filmstrip thumbnail margin:"
+msgstr "फिल्मस्ट्रिप थम्बनेल मार्जिन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2920
+msgid "Filmstrip thumbnail border width:"
+msgstr "फिल्मस्ट्रिप थम्बनेल सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2926
+msgid "Filmstrip thumbnail border style:"
+msgstr "फिल्मस्ट्रिप थम्बनेल सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2940
+msgid "Filmstrip thumbnail border color:"
+msgstr "फिल्मस्ट्रिप थम्बनेल सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2946
+msgid "Filmstrip thumbnail border radius:"
+msgstr "फिल्मस्ट्रिप थम्बनेल सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2953
+msgid "Filmstrip thumbnail active border width:"
+msgstr "फिल्मस्ट्रिप थम्बनेल सक्रिय सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2959
+msgid "Filmstrip thumbnail active border color:"
+msgstr "फिल्मस्ट्रिप थम्बनेल सक्रिय सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2965
+msgid "Filmstrip thumbnail deactive transparency:"
+msgstr "फिल्मस्ट्रिप थम्बनेल अक्रिय पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2984
+msgid "Filmstrip right, left button background color:"
+msgstr "फिल्मस्ट्रिप दाएं, बाएं बटन पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2990
+msgid "Rating position:"
+msgstr "रेटिंग स्थिति:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:2999
+msgid "Rating alignment:"
+msgstr "रेटिंग संरेखण:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3013
+msgid "Rating icon:"
+msgstr "रेटिंग आइकन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3027
+msgid "Rating color:"
+msgstr "रेटिंग का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3033
+msgid "Rating hover color:"
+msgstr "रेटिंग मंडराना का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3039
+msgid "Rating size:"
+msgstr "रेटिंग का आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3045
+msgid "Rating icon count:"
+msgstr "रेटिंग आइकन गिनती:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3051
+msgid "Rating padding:"
+msgstr "रेटिंग गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3058
+msgid "Hit counter position:"
+msgstr "काउंटर स्थिति मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3067
+msgid "Hit counter alignment:"
+msgstr "काउंटर संरेखण मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3081
+msgid "Hit counter background color:"
+msgstr "काउंटर पृष्ठभूमि रंग मारा:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3087
+msgid "Hit counter background transparency:"
+msgstr "काउंटर पृष्ठभूमि पारदर्शिता मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3094
+msgid "Hit counter border width:"
+msgstr "काउंटर सीमा चौड़ाई मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3100
+msgid "Hit counter border style:"
+msgstr "काउंटर सीमा शैली मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3114
+msgid "Hit counter border color:"
+msgstr "काउंटर सीमा रंग मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3120
+msgid "Hit counter border radius:"
+msgstr "काउंटर सीमा त्रिज्या मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3127
+msgid "Hit counter padding:"
+msgstr "काउंटर गद्दी मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3134
+msgid "Hit counter margin:"
+msgstr "काउंटर मार्जिन मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3141
+msgid "Hit counter font color:"
+msgstr "काउंटर फ़ॉन्ट रंग मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3147
+msgid "Hit counter font family:"
+msgstr "काउंटर फ़ॉन्ट परिवार मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3161
+msgid "Hit counter font weight:"
+msgstr "काउंटर फ़ॉन्ट वजन मारो:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3175
+msgid "Hit counter font size:"
+msgstr "हिट काउंटर फ़ॉन्ट आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3188
+msgid "Info position:"
+msgstr "जानकारी स्थिति:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3197
+msgid "Info alignment:"
+msgstr "जानकारी संरेखण:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3211
+msgid "Info background color:"
+msgstr "जानकारी पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3217
+msgid "Info background transparency:"
+msgstr "जानकारी पृष्ठभूमि पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3224
+msgid "Info border width:"
+msgstr "जानकारी सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3230
+msgid "Info border style:"
+msgstr "जानकारी सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3244
+msgid "Info border color:"
+msgstr "जानकारी सीमा रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3250
+msgid "Info border radius:"
+msgstr "जानकारी सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3257
+msgid "Info padding:"
+msgstr "जानकारी गद्दी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3264
+msgid "Info margin:"
+msgstr "जानकारी मार्जिन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3353
+msgid "Comments Width:"
+msgstr "टिप्पणियां चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3359
+msgid "Comments position:"
+msgstr "टिप्पणियां स्थिति:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3368
+msgid "Comments background color:"
+msgstr "टिप्पणियां पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3374
+msgid "Comments font size:"
+msgstr "टिप्पणियां फ़ॉन्ट आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3380
+msgid "Comments font color:"
+msgstr "टिप्पणियां फ़ॉन्ट रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3386
+msgid "Comments font family:"
+msgstr "टिप्पणियां फ़ॉन्ट परिवार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3400
+msgid "Comments author font size:"
+msgstr "टिप्पणियां लेखक फ़ॉन्ट आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3407
+msgid "Comments date font size:"
+msgstr "टिप्पणियां तारीख फ़ॉन्ट आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3413
+msgid "Comments body font size:"
+msgstr "टिप्पणियां शरीर फ़ॉन्ट का आकार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3419
+msgid "Comment input border width:"
+msgstr "इनपुट सीमा चौड़ाई टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3425
+msgid "omment input border style:"
+msgstr "omment इनपुट सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3439
+msgid "Comment input border color:"
+msgstr "इनपुट सीमा रंग टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3445
+msgid "Comment input border radius:"
+msgstr "इनपुट सीमा त्रिज्या टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3451
+msgid "Comment input padding:"
+msgstr "इनपुट गद्दी टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3458
+msgid "Comment input background color:"
+msgstr "इनपुट पृष्ठभूमि रंग टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3464
+msgid "Comment button background color:"
+msgstr "बटन पृष्ठभूमि रंग टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3470
+msgid "Comment button padding:"
+msgstr "बटन गद्दी टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3477
+msgid "Comment button border width:"
+msgstr "बटन सीमा चौड़ाई टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3483
+msgid "Comment button border style:"
+msgstr "बटन सीमा शैली टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3497
+msgid "Comment button border color:"
+msgstr "बटन सीमा रंग टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3503
+msgid "omment button border radius:"
+msgstr "omment बटन सीमा त्रिज्या:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3510
+msgid "Comment separator width:"
+msgstr "विभाजक चौड़ाई टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3516
+msgid "Comment separator style:"
+msgstr "विभाजक शैली टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3530
+msgid "Comment separator color:"
+msgstr "विभाजक रंग टिप्पणी:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3638
+msgid "Button background color:"
+msgstr "बटन पृष्ठभूमि रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3644
+msgid "Button background transparency:"
+msgstr "बटन पृष्ठभूमि पारदर्शिता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3651
+msgid "Button transition:"
+msgstr "बटन संक्रमण:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3673
+msgid "Position:"
+msgstr "स्थान:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3696
+msgid "Numbering:"
+msgstr "नंबरिंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3705
+msgid "Button text:"
+msgstr "टेक्स्ट बटन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3710
+msgid "Arrow"
+msgstr "तीर"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3711
+msgid "Next, previous buttons values."
+msgstr "इसके बाद, पिछले बटन मूल्यों।"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3730
+msgid "Container opacity:"
+msgstr "कंटेनर अस्पष्टता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3840
+msgid "Carousel margin:"
+msgstr "हिंडोला मार्जिन:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3846
+msgid "Image border width:"
+msgstr "छवि सीमा चौड़ाई:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3853
+msgid "Image border style:"
+msgstr "छवि सीमा शैली:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3868
+msgid "Image border color:"
+msgstr "छवि सीमा का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3880
+msgid "Title background color:"
+msgstr "शीर्षक पृष्ठभूमि का रंग:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3887
+msgid "Title opacity:"
+msgstr "शीर्षक अस्पष्टता:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3915
+msgid "Title Font family:"
+msgstr "शीर्षक फ़ॉन्ट परिवार:"
+
+#: ../admin/views/BWGViewThemes_bwg.php:3934
+msgid "Title color:"
+msgstr "शीर्षक रंग:"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:33 ../admin/views/BWGViewUninstall_bwg. php:155
+msgid "Uninstall Photo Gallery"
+msgstr "स्थापना रद्द फोटो गैलरी"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:35
+msgid ""
+"Deactivating Photo Gallery plugin does not remove any data that may have been created. To "
+"completely remove this plugin, you can uninstall it here."
+msgstr ""
+"फोटो गैलरी प्लगइन निष्क्रिय बना दिया गया हो सकता है कि किसी भी डेटा को दूर नहीं करता। पूरी तरह से इस "
+"प्लगइन को दूर करने के लिए, आप इसे यहाँ की स्थापना रद्द कर सकते हैं।"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:38
+msgid "WARNING:"
+msgstr "चेतावनी:"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:39
+msgid ""
+"Once uninstalled, this can't be undone. You should use a Database Backup plugin of WordPress "
+"to back up all the data first."
+msgstr ""
+"की स्थापना रद्द करने के बाद, यह पूर्ववत नहीं किया जा सकता है। आप पहली बार सभी डेटा को वापस करने के लिए "
+"वर्डप्रेस का एक डेटाबेस बैकअप प्लगइन का उपयोग करना चाहिए।"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:42
+msgid "The following Database Tables will be deleted:"
+msgstr "निम्नलिखित डेटाबेस तालिकाओं को हटा दिया जाएगा:"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:47
+msgid "Database Tables"
+msgstr "डेटाबेस तालिकाओं"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:70
+msgid "Delete the folder containing uploaded images."
+msgstr "अपलोड किए गए चित्रों से युक्त फ़ोल्डर हटाएँ।"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:76
+msgid "Do you really want to uninstall Photo Gallery?"
+msgstr "क्या तुम सच में फोटो गैलरी की स्थापना रद्द करना चाहते हैं?"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:83
+msgid ""
+"You are About to Uninstall Photo Gallery from WordPress.\\nThis Action Is Not Reversible."
+msgstr ""
+"आप वर्डप्रेस से फोटो गैलरी की स्थापना रद्द करने के बारे में हैं। \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"
+"\\\\\\\\\\\\\\\\\\\\\\\\\\ N यह कार्रवाई उलटने योग्य नहीं है।"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:133
+msgid "The following Database Tables successfully deleted:"
+msgstr "निम्नलिखित डेटाबेस तालिकाओं सफलतापूर्वक नष्ट कर दिया:"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:156
+msgid "Click Here"
+msgstr "यहां क्लिक करें"
+
+#: ../admin/views/BWGViewUninstall_bwg.php:156
+msgid "To Finish the Uninstallation and Photo Gallery will be Deactivated Automatically."
+msgstr "विस्थापना समाप्त करने के लिए और फोटो गैलरी स्वचालित रूप से निष्क्रिय हो जाएगा।"
+
+#: ../admin/views/BWGViewWidget.php:115 ../admin/views/BWGViewWidgetSlideshow.php:104
+#: ../admin/views/BWGViewWidgetTags.php:114
+msgid "Title:"
+msgstr "शीर्षक:"
+
+#: ../admin/views/BWGViewWidget.php:120
+msgid "Album"
+msgstr "एल्बम"
+
+#: ../admin/views/BWGViewWidget.php:152 ../framework/WDWLibrary.php:521
+msgid "First"
+msgstr "पहले"
+
+#: ../admin/views/BWGViewWidget.php:153 ../framework/WDWLibrary.php:524
+msgid "Last"
+msgstr "गत"
+
+#: ../admin/views/BWGViewWidget.php:157
+msgid "Count:"
+msgstr "गणना:"
+
+#: ../admin/views/BWGViewWidget.php:161 ../admin/views/BWGViewWidgetSlideshow.php:120
+#: ../admin/views/BWGViewWidgetTags.php:139
+msgid "Dimensions:"
+msgstr "आयाम:"
+
+#: ../admin/views/BWGViewWidgetSlideshow.php:125
+msgid "Filmstrip height:"
+msgstr "फिल्मस्ट्रिप ऊंचाई:"
+
+#: ../admin/views/BWGViewWidgetTags.php:123
+msgid "Show Tag Names:"
+msgstr "टैग नाम दिखाएँ:"
+
+#: ../admin/views/BWGViewWidgetTags.php:129
+msgid "Open in: "
+msgstr "में खुलेगा:"
+
+#: ../admin/views/BWGViewWidgetTags.php:130
+msgid "page"
+msgstr "पृष्ठ"
+
+#: ../admin/views/BWGViewWidgetTags.php:131
+msgid "lightbox"
+msgstr "प्रकाश बॉक्स"
+
+#: ../admin/views/BWGViewWidgetTags.php:135
+msgid "Number (0 for all):"
+msgstr "नंबर (सभी के लिए 0):"
+
+#: ../admin/views/BWGViewWidgetTags.php:144
+msgid "Transparent Background:"
+msgstr "पारदर्शी पृष्ठभूमि:"
+
+#: ../admin/views/BWGViewWidgetTags.php:150
+msgid "Background Color:"
+msgstr "पीछे का रंग:"
+
+#: ../admin/views/BWGViewWidgetTags.php:154
+msgid "Text Color:"
+msgstr "पाठ का रंग:"
+
+#. Author of the plugin
+msgid "Rob"
+msgstr "लूटना"
+
+#: ../filemanager/view.php:63
+msgid "File loading failed"
+msgstr "फ़ाइल लोड करने में विफल रहा है"
+
+#: ../filemanager/view.php:65
+msgid "Are you sure you want to permanently remove selected items?"
+msgstr "आप स्थायी रूप से चयनित आइटम निकालना चाहते हैं, आप सुनिश्चित हैं?"
+
+#: ../filemanager/view.php:66
+msgid "This will cancel uploads. Continue?"
+msgstr "यह अपलोड रद्द हो जाएगा। जारी रखें?"
+
+#: ../filemanager/view.php:68
+msgid "Enter directory name"
+msgstr "निर्देशिका का नाम दर्ज"
+
+#: ../filemanager/view.php:69
+msgid "Enter new name"
+msgstr "नया नाम दर्ज करें"
+
+#: ../filemanager/view.php:70
+msgid "Processing uploaded files..."
+msgstr "प्रसंस्करण अपलोड की गई फ़ाइलों ..."
+
+#: ../filemanager/view.php:118
+msgid "Up"
+msgstr "ऊपर"
+
+#: ../filemanager/view.php:119
+msgid "Make a directory"
+msgstr "एक निर्देशिका बनाने"
+
+#: ../filemanager/view.php:120
+msgid "Rename item"
+msgstr "आइटम का नाम बदलें"
+
+#: ../filemanager/view.php:122
+msgid "Copy"
+msgstr "प्रतिलिपि"
+
+#: ../filemanager/view.php:123
+msgid "Cut"
+msgstr "कमी"
+
+#: ../filemanager/view.php:124
+msgid "Paste"
+msgstr "चिपकाएं"
+
+#: ../filemanager/view.php:125
+msgid "Remove items"
+msgstr "आइटम हटाएँ"
+
+#: ../filemanager/view.php:128
+msgid "Upload files"
+msgstr "फाइल अपलोड करो"
+
+#: ../filemanager/view.php:133
+msgid "Media library"
+msgstr "मीडिया लाइब्रेरी"
+
+#: ../filemanager/view.php:142
+msgid "View thumbs"
+msgstr "देखें अंगूठे"
+
+#: ../filemanager/view.php:143
+msgid "View list"
+msgstr "सूची देखें"
+
+#: ../filemanager/view.php:150
+msgid "To change upload directory go to Options page."
+msgstr "अपलोड निर्देशिका विकल्प पृष्ठ पर जाने को बदलने के लिए।"
+
+#: ../filemanager/view.php:275
+msgid "Add selected images to gallery"
+msgstr "गैलरी के लिए चयनित छवियों जोड़ें"
+
+#: ../filemanager/view.php:285 ../filemanager/view.php:368
+msgid "Thumbnail Maximum Dimensions:"
+msgstr "थंबनेल अधिकतम आयाम:"
+
+#: ../filemanager/view.php:290 ../filemanager/view.php:373 ..
+#: /frontend/views/BWGViewAlbum_compact_preview.php:896
+#: /frontend/views/BWGViewAlbum_extended_preview.php:883
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:454
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:495
+msgid "Back"
+msgstr "वापस"
+
+#: ../filemanager/view.php:293 ../filemanager/view.php:376
+msgid "Image Maximum Dimensions:"
+msgstr "छवि अधिकतम आयाम:"
+
+#: ../filemanager/view.php:360
+msgid "Import selected images"
+msgstr "आयात चयनित छवियों"
+
+#: ../filemanager/view.php:384
+msgid "Drag files here or click the button below"
+msgstr "यहां फ़ाइलों को खींचें या नीचे दिए गए बटन को क्लिक करें"
+
+#: ../filemanager/view.php:384
+msgid "to upload files"
+msgstr "फाइल अपलोड करने के लिए"
+
+#: ../filemanager/view.php:456
+msgid "No files to upload"
+msgstr "कोई फाइल अपलोड करने के लिए"
+
+#: ../framework/WDWLibrary.php:64
+msgid "You can't delete default theme"
+msgstr "आप डिफ़ॉल्ट विषय को नष्ट नहीं कर सकते"
+
+#: ../framework/WDWLibrary.php:82
+msgid "The item is successfully set as default."
+msgstr "आइटम सफलतापूर्वक डिफ़ॉल्ट के रूप में सेट किया गया है।"
+
+#: ../framework/WDWLibrary.php:88
+msgid "Options Succesfully Saved."
+msgstr "विकल्प सफलतापूर्वक बचाया।"
+
+#: ../framework/WDWLibrary.php:124
+msgid "A term with the name provided already exists."
+msgstr "पहले से ही प्रदान नाम के साथ एक शब्द मौजूद है।"
+
+#: ../framework/WDWLibrary.php:130
+msgid "Name field is required."
+msgstr "नाम फ़ील्ड आवश्यक है।"
+
+#: ../framework/WDWLibrary.php:136
+msgid "The slug must be unique."
+msgstr "काउंटर अद्वितीय होना चाहिए।"
+
+#: ../framework/WDWLibrary.php:142
+msgid "Changes must be saved."
+msgstr "परिवर्तन बचाया जाना चाहिए।"
+
+#: ../framework/WDWLibrary.php:188 ../framework/WDWLibrary.php:362 ..
+#: /framework/WDWLibrary.php:725 ../framework/WDWLibrary.php:781
+msgid "Search"
+msgstr "खोज"
+
+#: ../framework/WDWLibrary.php:315 ../framework/WDWLibrary.php:465 ..
+#: /framework/WDWLibrary.php:545
+msgid "of"
+msgstr "का"
+
+#: ../framework/WDWLibrary.php:516
+msgid " item(s)"
+msgstr "मद (s)"
+
+#: ../framework/WDWLibrary.php:522
+msgid "Previous"
+msgstr "पूर्व"
+
+#: ../framework/WDWLibrary.php:523
+msgid "Next"
+msgstr "अगला"
+
+#: ../framework/WDWLibrary.php:542
+msgid "Go to the first page"
+msgstr "पहले पेज पर जाएं"
+
+#: ../framework/WDWLibrary.php:543
+msgid "Go to the previous page"
+msgstr "पिछले पृष्ठ पर जाएं"
+
+#: ../framework/WDWLibrary.php:549
+msgid "Go to the next page"
+msgstr "अगले पृष्ठ पर जाएं"
+
+#: ../framework/WDWLibrary.php:550
+msgid "Go to the last page"
+msgstr "पिछले पृष्ठ पर जाएं"
+
+#: ../framework/WDWLibrary.php:562
+msgid "Load More..."
+msgstr "और लोड करो..."
+
+#: ../framework/WDWLibrary.php:846
+msgid "Order by: "
+msgstr "द्वारा आदेश:"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:160 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:105
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:137 /frontend/views/BWGViewBlog_style.php:33
+#: ../frontend/views/BWGViewCarousel.php:47 ../frontend/views/BWGViewImage_browser.php:72
+#: /frontend/views/BWGViewSlideshow.php:47 ../frontend/views/BWGViewSlideshow.php:106
+#: ../frontend/views/BWGViewThumbnails.php:153 /frontend/views/BWGViewThumbnails_masonry.php:156
+#: /frontend/views/BWGViewThumbnails_mosaic.php:161
+msgid "There is no theme selected or the theme was deleted."
+msgstr "वहाँ चयनित कोई विषय है या विषय को नष्ट कर दिया गया था।"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:167 ..
+#: /frontend/views/BWGViewAlbum_compact_preview.php:201
+#: /frontend/views/BWGViewAlbum_extended_preview.php:112
+#: /frontend/views/BWGViewAlbum_extended_preview.php:146
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:142
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:176
+msgid "There is no album selected or the album was deleted."
+msgstr "वहाँ चयनित कोई एल्बम नहीं है या एल्बम को नष्ट कर दिया गया था।"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:189 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:134
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:164
+#: /frontend/views/BWGViewBlog_style.php:106 ../frontend/views/BWGViewCarousel. php:79
+#: ../frontend/views/BWGViewImage_browser.php:83 /frontend/views/BWGViewSlideshow.php:168
+#: ../frontend/views/BWGViewThumbnails. php:172
+#: ../frontend/views/BWGViewThumbnails_masonry.php:169
+#: /frontend/views/BWGViewThumbnails_mosaic.php:174
+msgid "There are no images in this gallery."
+msgstr "इस गैलरी में कोई चित्र नहीं है।"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:919 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:894
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:511
+msgid "Album is empty."
+msgstr "एल्बम खाली है।"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:1042 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:1030
+#: /frontend/views/BWGViewAlbum_masonry_preview.php:589
+msgid "Gallery is empty."
+msgstr "गैलरी खाली है।"
+
+#: ../frontend/views/BWGViewAlbum_compact_preview.php:1098 ..
+#: /frontend/views/BWGViewAlbum_compact_preview.php:1148
+#: /frontend/views/BWGViewAlbum_extended_preview.php:1078
+#: /frontend/views/BWGViewAlbum_extended_preview.php:1127
+#: /frontend/views/BWGViewCarousel.php:543 ../frontend/views/BWGViewGalleryBox. php:888
+#: ../frontend/views/BWGViewGalleryBox.php:2769 /frontend/views/BWGViewSlideshow.php:1654
+#: ../frontend/views/BWGViewThumbnails. php:455
+#: ../frontend/views/BWGViewThumbnails_mosaic.php:398
+msgid "Play"
+msgstr "प्ले"
+
+#: ../frontend/views/BWGViewAlbum_extended_preview.php:995 ..
+#: /frontend/views/BWGViewAlbum_extended_preview.php:1159
+msgid "More"
+msgstr "अधिक"
+
+#: ../frontend/views/BWGViewAlbum_extended_preview.php:1154
+msgid "Hide"
+msgstr "छिपाना"
+
+#: ../frontend/views/BWGViewBlog_style.php:98 ../frontend/views/BWGViewCarousel. php:74
+#: ../frontend/views/BWGViewImage_browser.php:77 .. /frontend/views/BWGViewSlideshow.php:163
+#: ../frontend/views/BWGViewThumbnails. php:164
+#: ../frontend/views/BWGViewThumbnails_masonry.php:161
+#: /frontend/views/BWGViewThumbnails_mosaic.php:166
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "वहाँ चयनित कोई गैलरी है या गैलरी से नष्ट कर दिया गया था।"
+
+#: ../frontend/views/BWGViewBlog_style.php:548 .. /frontend/views/BWGViewGalleryBox.php:900
+msgid "Show comments"
+msgstr "दिखाएँ टिप्पणियां"
+
+#: ../frontend/views/BWGViewBlog_style.php:554 .. /frontend/views/BWGViewBlog_style.php:555
+#: ../frontend/views/BWGViewGalleryBox. php:908 ../frontend/views/BWGViewGalleryBox.php:909
+msgid "Share on Facebook"
+msgstr "फेसबुक पर सांझा करें"
+
+#: ../frontend/views/BWGViewBlog_style.php:561 .. /frontend/views/BWGViewBlog_style.php:562
+#: ../frontend/views/BWGViewGalleryBox. php:915 ../frontend/views/BWGViewGalleryBox.php:916
+msgid "Share on Twitter"
+msgstr "ट्विटर पर साझा करें"
+
+#: ../frontend/views/BWGViewBlog_style.php:568 .. /frontend/views/BWGViewBlog_style.php:569
+#: ../frontend/views/BWGViewGalleryBox. php:922 ../frontend/views/BWGViewGalleryBox.php:923
+msgid "Share on Google+"
+msgstr "गूगल पर साझा करें"
+
+#: ../frontend/views/BWGViewBlog_style.php:575 .. /frontend/views/BWGViewBlog_style.php:576
+#: ../frontend/views/BWGViewGalleryBox. php:929 ../frontend/views/BWGViewGalleryBox.php:930
+msgid "Share on Pinterest"
+msgstr "Pinterest पर साझा करें"
+
+#: ../frontend/views/BWGViewBlog_style.php:582 .. /frontend/views/BWGViewBlog_style.php:583
+#: ../frontend/views/BWGViewGalleryBox. php:936 ../frontend/views/BWGViewGalleryBox.php:937
+msgid "Share on Tumblr"
+msgstr "Tumblr पर साझा करें"
+
+#: ../frontend/views/BWGViewCarousel.php:531 ../frontend/views/BWGViewCarousel. php:537
+#: ../frontend/views/BWGViewGalleryBox.php:2763 .. /frontend/views/BWGViewGalleryBox.php:2778
+#: ../frontend/views/BWGViewSlideshow. php:1645 ../frontend/views/BWGViewSlideshow.php:1663
+msgid "Pause"
+msgstr "ठहराव"
+
+#: ../frontend/views/BWGViewGalleryBox.php:867
+msgid "The image has been deleted."
+msgstr "छवि को हटा दिया गया है।"
+
+#: ../frontend/views/BWGViewGalleryBox.php:892 .. /frontend/views/BWGViewGalleryBox.php:2052
+#: ../frontend/views/BWGViewGalleryBox. php:2598 ../frontend/views/BWGViewGalleryBox.php:2694
+msgid "Maximize"
+msgstr "अधिकतम करें"
+
+#: ../frontend/views/BWGViewGalleryBox.php:896 .. /frontend/views/BWGViewGalleryBox.php:2054
+#: ../frontend/views/BWGViewGalleryBox. php:2696
+msgid "Fullscreen"
+msgstr "पूर्ण स्क्रीन"
+
+#: ../frontend/views/BWGViewGalleryBox.php:898 .. /frontend/views/BWGViewGalleryBox.php:2433
+msgid "Show info"
+msgstr "जानकारी दिखाएँ"
+
+#: ../frontend/views/BWGViewGalleryBox.php:902 .. /frontend/views/BWGViewGalleryBox.php:2444
+msgid "Show rating"
+msgstr "दिखाएँ रेटिंग"
+
+#: ../frontend/views/BWGViewGalleryBox.php:944
+msgid "Open image in original size."
+msgstr "मूल आकार में ओपन छवि।"
+
+#: ../frontend/views/BWGViewGalleryBox.php:965
+msgid "Download original image"
+msgstr "मूल छवि डाउनलोड"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1075
+msgid "Hits: "
+msgstr "हिट:"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1086
+msgid "Rated."
+msgstr "मूल्यांकन किया गया।"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1090 .. /frontend/views/BWGViewGalleryBox.php:1107
+msgid "Not rated yet."
+msgstr "अभी तक मूल्यांकन नहीं किया गया।"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1093 .. /frontend/views/BWGViewGalleryBox.php:1129
+msgid "Votes: "
+msgstr "वोट:"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1127
+msgid "Cancel your rating."
+msgstr "अपनी रेटिंग रद्द।"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1129
+msgid "You have already rated."
+msgstr "आप पहले से ही मूल्यांकन किया गया है।"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1228
+msgid "Error. Incorrect Verification Code."
+msgstr "त्रुटि। गलत सत्यापन कोड।"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1243 .. /frontend/views/BWGViewGalleryBox.php:2261
+msgid "Hide Comments"
+msgstr "टिप्पणियां छुपाएं"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1265
+msgid "Verification Code"
+msgstr "सत्यापन कोड"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1288
+msgid "Submit"
+msgstr "प्रस्तुत करना"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1289
+msgid "Your comment is awaiting moderation"
+msgstr "आपकी टिप्पणी संतुलित किए जाने की प्रतीक्षा कर रही है"
+
+#: ../frontend/views/BWGViewGalleryBox.php:1318
+msgid "Delete Comment"
+msgstr "टिप्पणी मिटायें"
+
+#: ../frontend/views/BWGViewGalleryBox.php:2216
+msgid "Show Comments"
+msgstr "दिखाएँ टिप्पणियां"
+
+#: ../frontend/views/BWGViewGalleryBox.php:2429
+msgid "Hide info"
+msgstr "जानकारी छिपाने"
+
+#: ../frontend/views/BWGViewGalleryBox.php:2440
+msgid "Hide rating"
+msgstr "छुपाएं रेटिंग"
+
+#: ../frontend/views/BWGViewGalleryBox.php:2635 .. /frontend/views/BWGViewGalleryBox.php:2844
+msgid "Restore"
+msgstr "पुनर्स्थापित"
+
+#: ../frontend/views/BWGViewGalleryBox.php:2749
+msgid "Exit Fullscreen"
+msgstr "पूर्ण स्क्रीन से बाहर निकलें"
+
+#: ../update/update.php:22
+msgid ""
+"Advanced  plugin to create unlimited galleries and albums with all modern gallery view "
+"options."
+msgstr "उन्नत प्लगइन सभी आधुनिक गैलरी देखने के विकल्प के साथ असीमित दीर्घाओं और एलबम बनाने के लिए।"
+
+#: ../update/update.php:81
+msgid "Updates"
+msgstr "अपडेट"
+
+#: ../update/update.php:119
+#, php-format
+msgid ""
+"You can download the latest version of your plugins from your %s account.\n"
+"            After deactivate and delete the current version.\n"
+"            Install the downloaded latest version of the plugin."
+msgstr ""
+"\\n निष्क्रिय करने के बाद। आपके %s खाते से अपने plugins के नवीनतम संस्करण को डाउनलोड करने और वर्तमान संस्करण "
+"को हटा दें।  \\n प्लगइन का भी डाउनलोड नवीनतम संस्करण स्थापित कर सकते हैं।"
+
+#: ../update/update.php:155
+#, php-format
+msgid "Current version %s"
+msgstr "वर्तमान संस्करण %s"
+
+#: ../update/update.php:161 ../update/update.php:233
+#, php-format
+msgid "There is a new %s version"
+msgstr "एक नए %s संस्करण है"
+
+#: ../update/update.php:163 ../update/update.php:215
+msgid "What's new:"
+msgstr "नया क्या है:"
+
+#: ../update/update.php:180 ../update/update.php:256
+msgid "More updates"
+msgstr "और अधिक अद्यतन"
+
+#: ../update/update.php:185 ../update/update.php:220
+#, php-format
+msgid "%s is up to date."
+msgstr "%s को अप टू डेट है।"
+
+#: ../update/update.php:253
+msgid "Show less"
+msgstr "कम दिखाएं"

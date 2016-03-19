@@ -30,7 +30,7 @@
 						<ul class="nav navbar-nav navbar-left">
 							<li><a href="<?php echo home_url();?>/#asso">L'association</a></li>
 							<li><a href="<?php echo home_url(); ?>/projet">Le projet</a></li>
-							<li><a href="<?php echo home_url()?>/#galerie">Galerie</a></li>
+							<li><a href="<?php echo home_url()?>/#galerie">Nos articles</a></li>
 							<li><a href="#">Faire un don</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right hidden-xs hidden-sm">
@@ -41,7 +41,8 @@
 							</li>
 							<li><a href="<?php echo home_url();?>/wp-login.php">S'identifier</a></li>
 							<li>
-								<input type="button" value="S'inscrire" />
+
+                                <a href="<?php echo home_url();?>/wp-login.php"><button class="btn btn-danger">S'inscrire</button></a>
 							</li>
 						</ul>
 					</div>

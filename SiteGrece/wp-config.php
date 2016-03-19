@@ -87,3 +87,6 @@ if ( !defined('ABSPATH') )
 
 /** Réglage des variables de WordPress et de ses fichiers inclus. */
 require_once(ABSPATH . 'wp-settings.php');
+
+/** empeche la modif des fichiers depuis l'admin panel */
+define('DISALLOW_FILE_EDIT', true);

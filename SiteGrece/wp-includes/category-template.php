@@ -197,22 +197,22 @@ function get_the_category_list( $separator = '', $parents='', $post_id = false )
 	if ( '' == $separator ) {
 		$thelist .= '<span class="post-categories">';
 		foreach ( $categories as $category ) {
-			$thelist .= "\n\t";
+			$thelist .= "\n\t<span>";
 			switch ( strtolower( $parents ) ) {
 				case 'multiple':
 					if ( $category->parent )
 						$thelist .= get_category_parents( $category->parent, true, $separator );
-					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '" ' . $rel . '>' . $category->name.'</a>';
+					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '" ' . $rel . '>' . $category->name.'</a></span>';
 					break;
 				case 'single':
 					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '"  ' . $rel . '>';
 					if ( $category->parent )
 						$thelist .= get_category_parents( $category->parent, false, $separator );
-					$thelist .= $category->name.'</a>';
+					$thelist .= $category->name.'</a></span>';
 					break;
 				case '':
 				default:
-					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '" ' . $rel . '>' . $category->name.'</a>';
+					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '" ' . $rel . '>' . $category->name.'</a></span>';
 			}
 		}
 		$thelist .= '</span>';
