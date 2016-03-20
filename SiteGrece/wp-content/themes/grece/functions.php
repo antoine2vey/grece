@@ -9,7 +9,7 @@ function string_limit_words($string, $word_limit)
 
 function scripts_js()
 {
-    wp_register_script('script_js', get_template_directory_uri() . '/js/bootstrap.js', array('jquery', 'jquery-ui-core'), false, true);
+    wp_register_script('script_js', get_template_directory_uri() . '/js/bootstrap.min.js', array('jquery', 'jquery-ui-core'), false, true);
     wp_register_script('hyphenate', get_template_directory_uri() . '/js/hyphenate.js', array('jquery', 'jquery-ui-core'), false, true);
     wp_register_script('wow', get_template_directory_uri() . '/js/wow.min.js', array('jquery', 'jquery-ui-core'), false, true);
     wp_register_script('vanillaJS', get_template_directory_uri() . '/js/script.js', array('jquery', 'jquery-ui-core'), false, true);
