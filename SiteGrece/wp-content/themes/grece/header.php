@@ -30,8 +30,8 @@
 						<ul class="nav navbar-nav navbar-left">
 							<li><a href="<?php echo home_url();?>/#asso">L'association</a></li>
 							<li><a href="<?php echo home_url(); ?>/projet">Le projet</a></li>
-							<li><a href="<?php echo home_url()?>/#galerie">Nos articles</a></li>
-							<li><a href="#">Faire un don</a></li>
+							<li><a href="<?php echo home_url();?>/#galerie">Nos articles</a></li>
+							<li><a href="<?php echo home_url();?>/don">Faire un don</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right hidden-xs hidden-sm">
 							<li>

@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-	<div class="main page">
+	<div class="main page singlepage">
 		<?php if (have_posts()) : ?>
 			<?php while (have_posts()) : the_post(); ?>
 				<div class="post container">

@@ -1,3 +1,10 @@
+<?php
+
+global $query_string;
+query_posts( $query_string . '&order=DESC' );
+
+?>
+
 
 <div class="row article-index">
 <div class="col-md-2"></div>
@@ -14,7 +21,7 @@ if ( has_post_thumbnail() ) {
     echo "<img src='".get_the_post_thumbnail_url()."'/>";
 }
 else {
-   echo '<img src="' . get_template_directory_uri() . '/img/joris.jpg"/>';
+   echo '<img src="' . get_template_directory_uri() . '/img/greece_default.jpg"/>';
 }
 ?>               
                 </div>

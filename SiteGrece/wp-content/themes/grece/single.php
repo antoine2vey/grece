@@ -12,7 +12,7 @@
                         <h1 class="post-title"><?php the_title(); ?></h1>
                         <div class="underline"></div>
                         <p class="infos post-info">
-                            <i class="fa fa-clock-o"></i> <?php echo the_time('G:i'); ?> / <i class="fa fa-user"></i> <?php the_author(); ?> / <i class="fa fa-folder-open"></i> <?php the_category(', '); ?> / <span id="comments"><i class="fa fa-comment-o"></i> <?php comments_number('Pas de commentaire', '%' );?></span>
+                            <i class="fa fa-clock-o"></i> <?php echo the_time('G:i'); ?> / <i class="fa fa-user"></i> <?php the_author(); ?> / <i class="fa fa-folder-open"></i> <?php the_category(', '); ?> / <span id="comments"><i class="fa fa-comment-o"></i> <?php comments_number('Pas de commentaire', '1 commentaire', '% commentaires' );?></span>
                         </p>
                         <div class="underline"></div>
 
@@ -31,9 +31,9 @@
                 <?php endwhile; ?>
                 <?php endif; ?>
 
-                <div class="col-md-4">
+                <nav class="col-md-4">
                     <?php get_sidebar(); ?>
-                </div>
+                </nav>
 
 
             </div>

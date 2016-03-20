@@ -27,23 +27,22 @@
 		<div class="row character">
 			<div class="col-md-2 col-sm-4 col-xs-12 col-md-offset-3">
 				<div class="photo_acteur">
-					<img src="<?php echo get_template_directory_uri();?>/img/joris.jpg" />
+					<img src="<?php echo get_template_directory_uri();?>/img/photo_1.png" />
 				</div>
 				<h2>Clément <span class="bold">Viseur</span></h2>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-12">
 				<div class="photo_acteur">
-					<img src="<?php echo get_template_directory_uri();?>/img/joris.jpg" />
+					<img src="<?php echo get_template_directory_uri();?>/img/photo_2.png" />
 				</div>
 				<h2>Rodolphe <span class="bold">Herbaut</span></h2>
 			</div>
 			<div class="col-md-2 col-sm-4 col-xs-12">
 				<div class="photo_acteur">
-					<img src="<?php echo get_template_directory_uri();?>/img/joris.jpg" />
+					<img src="<?php echo get_template_directory_uri();?>/img/photo_3.png" />
 				</div>
-				<h2>Qui <span class="bold">suis-je</span></h2>
+				<h2>Eugénie <span class="bold">Travers</span></h2>
 			</div>
-			<div class="col-md-3 col-sm-2 col-xs-1"></div>
 		</div>
 	</section>
 
@@ -106,29 +105,8 @@
 		<div class="row">
 
 			<div class="col-md-8">
-				<h1>Galerie</h1>
+				<h1>Nos articles</h1>
 				<div class="underline"></div>
-			</div>
-			<div class="col-md-2 col-sm-2 col-xs-1"></div>
-		</div>
-		<div class="row" id="options">
-			<div class="col-md-2 col-sm-2 col-xs-1"></div>
-			<div class="col-md-4 col-sm-4 col-xs-5">
-				<div class="left">
-					<div class="btn-group">
-						<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							Récents <span class="caret"></span>
-						</button>
-						<ul class="dropdown-menu">
-							<li><a href="#">Populaires</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4 col-sm-4 col-xs-5">
-				<div class="right">
-					<button type="button" class="btn btn-default">Tout afficher</button>
-				</div>
 			</div>
 			<div class="col-md-2 col-sm-2 col-xs-1"></div>
 		</div>
