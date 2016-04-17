@@ -40,12 +40,13 @@
         <div class="col-md-4 col-sm-12 col-xs-12" id="box">
             <div id="in-box">
                 <div class="row">
-                    <span id="montant-recolte">520 €</span>
-                    <span id="montant-total">collectés sur 25 000 €</span></div>
+                    <span id="montant-recolte"><?php get_amount()?></span>
+                    <span id="montant-total">collectés sur 25 000 €</span>
+                </div>
                 <br/>
 
                 <div class="row">
-                    <span id="percent">2%</span>
+                    <span id="percent">0%</span>
 
                     <div id="bar">
                         <div id="progress-bar"></div>
@@ -54,19 +55,25 @@
                 <div class="row">
                     <div class="left">
                         <i class="fa fa-clock-o fa-2x"></i>
-                        <h4 id="jours-restants">230</h4>
+                        <h4 id="jours-restants"><?php date_left() ?></h4>
                         <h5>Jours restants</h5>
                     </div>
                     <div class="right">
                         <i class="fa fa-user fa-2x"></i>
-                        <h4 id="nb-participants">21</h4>
+                        <h4 id="nb-participants"><?php echo get_participants() ?></h4>
                         <h5>participants</h5>
                     </div>
                 </div>
                 <div class="row">
-                    <a href="#">
+                    <a href="javascript:void(0)">
                         <div class="clearfix" id="button">Je participe</div>
                     </a>
+
+                    <form action="#" class="amount" method="post">
+                        <h5>Montant de votre don</h5><br/>
+                        <input type="number" name="amount" placeholder="10" class="form-control amountNb" min="1"/><br/>
+                        <input type="submit" class="form-control"/>
+                    </form>
                 </div>
             </div>
         </div>

@@ -88,7 +88,41 @@ function remove_version()
 {
     return '';
 }
+
 add_filter('the_generator', 'remove_version');
 add_filter('login_errors', create_function('$a', "return null;"));
+
+//retourne le nombre de jour avant le 1er Septembre 2016
+function date_left()
+{
+    $datestr = "2016-09-1 16:00:00";
+    $date = strtotime($datestr);
+    $diff = $date - time();
+    $days = floor($diff / (60 * 60 * 24));
+
+    echo $days;
+}
+
+//retourne le nombre de participants
+function get_participants()
+{
+    global $wpdb; //définie la variable global de connexion
+    $user_count = $wpdb->get_var('SELECT COUNT(`nbParticipants`) FROM `wor2501_don`');
+    echo $user_count;
+}
+
+//retourne l'amount total
+
+function get_amount()
+{
+    global $wpdb;
+    if (isset($_POST['amount']) && is_user_logged_in()) {
+        $wpdb->get_var('INSERT INTO `wor2501_don`(`totalAmount`) VALUES (' . $_POST['amount'] . ')');
+        $test = $wpdb->get_var('SELECT SUM(`totalAmount`) FROM `wor2501_don` WHERE 1'). "€";
+        echo $test;
+    } else {
+        echo $amount = $wpdb->get_var('SELECT COALESCE(SUM(`totalAmount`), 0) FROM `wor2501_don` WHERE 1'). "€";
+    }
+}
 
 ?>
